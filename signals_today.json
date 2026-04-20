@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T15:26:59.079191+05:30",
+  "generated_at": "2026-04-20T15:31:46.297189+05:30",
   "signals": [
     {
       "symbol": "ZFCVINDIA",
@@ -1152,6 +1152,58 @@
       "tier_star": false,
       "rs": "LOW",
       "rs_score": 10.12,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "AXISCADES",
+      "date": "2026-04-20",
+      "time": "15:31",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 37.28,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "PGIL",
+      "date": "2026-04-20",
+      "time": "15:31",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 8.02,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "JINDALSTEL",
+      "date": "2026-04-20",
+      "time": "15:31",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 14.95,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "VISHNU",
+      "date": "2026-04-20",
+      "time": "15:31",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 7.86,
       "cap": "default",
       "scanners": [
         "Mark"
