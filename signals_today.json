@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T13:49:08.886217+05:30",
+  "generated_at": "2026-04-20T14:26:57.029793+05:30",
   "signals": [
     {
       "symbol": "ZFCVINDIA",
@@ -908,6 +908,58 @@
       "cap": "default",
       "scanners": [
         "Jadhav"
+      ]
+    },
+    {
+      "symbol": "CENTUM",
+      "date": "2026-04-20",
+      "time": "14:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 21.46,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "ENGINERSIN",
+      "date": "2026-04-20",
+      "time": "14:26",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 25.57,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SOUTHBANK",
+      "date": "2026-04-20",
+      "time": "14:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -7.54,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SUMEETINDS",
+      "date": "2026-04-20",
+      "time": "14:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 0.87,
+      "cap": "default",
+      "scanners": [
+        "Mark"
       ]
     }
   ]
