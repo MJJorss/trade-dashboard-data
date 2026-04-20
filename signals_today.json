@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T14:26:57.029793+05:30",
+  "generated_at": "2026-04-20T15:26:59.079191+05:30",
   "signals": [
     {
       "symbol": "ZFCVINDIA",
@@ -957,6 +957,201 @@
       "tier_star": false,
       "rs": "MID",
       "rs_score": 0.87,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "POWERINDIA",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 54.58,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "ABB",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 30.18,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.0,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SMLMAH",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -0.66,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "GRWRHITECH",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 21.5,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "MFSL",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -0.95,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "AVANTIFEED",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 56.32,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "INDIANB",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 4.83,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "PARAS",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 15.68,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "GMDCLTD",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 21.3,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "TMB",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 10.84,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "BLACKBUCK",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -1.34,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "APEX",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 53.8,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "NMDC",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 6.03,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SBC",
+      "date": "2026-04-20",
+      "time": "15:26",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 10.12,
       "cap": "default",
       "scanners": [
         "Mark"
