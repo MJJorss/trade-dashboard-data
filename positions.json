@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 438.9,
-      "unrealised_pct": -4.11
+      "current_price": 438.75,
+      "unrealised_pct": -4.14
     },
     {
       "symbol": "CUPID",
@@ -31,8 +31,8 @@
       "rs_composite": 19.85,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 103.26,
-      "unrealised_pct": 18.39
+      "current_price": 103.16,
+      "unrealised_pct": 18.28
     },
     {
       "symbol": "CUPID",
@@ -48,8 +48,8 @@
       "rs_composite": 24.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 103.26,
-      "unrealised_pct": 17.37
+      "current_price": 103.16,
+      "unrealised_pct": 17.25
     },
     {
       "symbol": "PFOCUS",
@@ -65,8 +65,8 @@
       "rs_composite": 39.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 346.65,
-      "unrealised_pct": -1.13
+      "current_price": 345.05,
+      "unrealised_pct": -1.58
     },
     {
       "symbol": "SYRMA",
@@ -82,8 +82,8 @@
       "rs_composite": 24.45,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 977.4,
-      "unrealised_pct": 11.06
+      "current_price": 978.1,
+      "unrealised_pct": 11.14
     },
     {
       "symbol": "DATAPATTNS",
@@ -99,8 +99,8 @@
       "rs_composite": 25.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 3486.9,
-      "unrealised_pct": 0.28
+      "current_price": 3494.2,
+      "unrealised_pct": 0.49
     },
     {
       "symbol": "AEROFLEX",
@@ -116,9 +116,9 @@
       "rs_composite": 59.31,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 312.05,
-      "unrealised_pct": -0.56
+      "current_price": 311.23,
+      "unrealised_pct": -0.83
     }
   ],
-  "last_updated": "2026-04-17 15:25 IST"
+  "last_updated": "2026-04-17 22:42 IST"
 }
