@@ -1,0 +1,914 @@
+{
+  "generated_at": "2026-04-20T13:49:08.886217+05:30",
+  "signals": [
+    {
+      "symbol": "ZFCVINDIA",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 2.97,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 0.55,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "CRAFTSMAN",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 1.36,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "NAVINFLUOR",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -1.19,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "KEI",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 8.14,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "MCX",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 9.2,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "ACUTAAS",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 20.87,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "SBILIFE",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -5.97,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "LUMAXTECH",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 10.9,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "JSWSTEEL",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 2.01,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Mark",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "AETHER",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 16.64,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "STAR",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 9.94,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "AUBANK",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -0.31,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "GRANULES",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 12.83,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "RBLBANK",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -3.28,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "CEIGALL",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 7.5,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "FEDERALBNK",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 6.24,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "UNIONBANK",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 2.8,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "J&KBANK",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 18.08,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "APARINDS",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 39.51,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "VOLTAMP",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 33.06,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "TIMKEN",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 6.86,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "DATAPATTNS",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 23.57,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "NGLFINE",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 28.58,
+      "cap": "default",
+      "scanners": [
+        "Mark",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "APLAPOLLO",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 4.28,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "AZAD",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 22.04,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "KIRLOSENG",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 27.43,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "TORNTPOWER",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 12.88,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "HAPPYFORGE",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 13.89,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "QPOWER",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 70.51,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SBIN",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 1.35,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SCHNEIDER",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 46.42,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "TDPOWERSYS",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 39.36,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "DREDGECORP",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -2.69,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "KSB",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 26.95,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SENORES",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 17.28,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "ROSSTECH",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 51.85,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "CGPOWER",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 23.18,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "GRAPHITE",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 4.75,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "HEG",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 13.17,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "VTL",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 15.11,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "WAAREEINDO",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 30.79,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SANGAMIND",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 3.24,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "MMFL",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.83,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "RPTECH",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 29.23,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "TI",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 7.31,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "BAJAJCON",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 52.83,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "GNA",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 16.93,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "BHEL",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 21.95,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "INDOTHAI",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 16.02,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "NLCINDIA",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 16.84,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SCI",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 35.87,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "CUB",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -1.2,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "KTKBANK",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 16.98,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SIGMAADV",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 9.29,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "ADANIPOWER",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 34.39,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "DCBBANK",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 2.68,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "UEL",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 27.29,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "GRMOVER",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -6.21,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SPORTKING",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 52.34,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "INDSWFTLAB",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 7.37,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "CUPID",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 20.27,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "MAHABANK",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 9.1,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "IFCI",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 3.16,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "HARDWYN",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 37.23,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "VOLTAS",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -0.98,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "NESTLEIND",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -2.65,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "MUFIN",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 1.19,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "ASIANTILES",
+      "date": "2026-04-20",
+      "time": "13:49",
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 6.87,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ]
+    }
+  ]
+}
