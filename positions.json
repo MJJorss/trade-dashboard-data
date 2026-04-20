@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 435.85,
-      "unrealised_pct": -4.77
+      "current_price": 435.05,
+      "unrealised_pct": -4.95
     },
     {
       "symbol": "CUPID",
@@ -31,8 +31,8 @@
       "rs_composite": 19.85,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 107.2,
-      "unrealised_pct": 22.91
+      "current_price": 107.1,
+      "unrealised_pct": 22.79
     },
     {
       "symbol": "CUPID",
@@ -48,8 +48,8 @@
       "rs_composite": 24.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 107.2,
-      "unrealised_pct": 21.85
+      "current_price": 107.1,
+      "unrealised_pct": 21.73
     },
     {
       "symbol": "PFOCUS",
@@ -65,8 +65,8 @@
       "rs_composite": 39.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 350.9,
-      "unrealised_pct": 0.09
+      "current_price": 345.0,
+      "unrealised_pct": -1.6
     },
     {
       "symbol": "SYRMA",
@@ -82,8 +82,8 @@
       "rs_composite": 24.45,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 985.0,
-      "unrealised_pct": 11.92
+      "current_price": 977.9,
+      "unrealised_pct": 11.11
     },
     {
       "symbol": "DATAPATTNS",
@@ -93,14 +93,14 @@
       "entry_date": "2026-04-16",
       "stop_price": 3233.89,
       "stop_unlocked": false,
-      "high_since_entry": 3589.0,
+      "high_since_entry": 3607.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 25.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 3543.4,
-      "unrealised_pct": 1.9
+      "current_price": 3571.0,
+      "unrealised_pct": 2.69
     },
     {
       "symbol": "AEROFLEX",
@@ -116,9 +116,9 @@
       "rs_composite": 59.31,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 310.06,
-      "unrealised_pct": -1.2
+      "current_price": 308.99,
+      "unrealised_pct": -1.54
     }
   ],
-  "last_updated": "2026-04-20 09:25 IST"
+  "last_updated": "2026-04-20 11:25 IST"
 }
