@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 444.05,
-      "unrealised_pct": -2.98
+      "current_price": 445.5,
+      "unrealised_pct": -2.67
     },
     {
       "symbol": "CUPID",
@@ -31,8 +31,8 @@
       "rs_composite": 19.85,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 110.8,
-      "unrealised_pct": 27.04
+      "current_price": 111.35,
+      "unrealised_pct": 27.67
     },
     {
       "symbol": "CUPID",
@@ -48,8 +48,8 @@
       "rs_composite": 24.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 110.8,
-      "unrealised_pct": 25.94
+      "current_price": 111.35,
+      "unrealised_pct": 26.56
     },
     {
       "symbol": "DATAPATTNS",
@@ -65,8 +65,8 @@
       "rs_composite": 25.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 3568.1,
-      "unrealised_pct": 2.61
+      "current_price": 3668.0,
+      "unrealised_pct": 5.48
     },
     {
       "symbol": "MTARTECH",
@@ -76,14 +76,14 @@
       "entry_date": "2026-04-21",
       "stop_price": 4735.93,
       "stop_unlocked": false,
-      "high_since_entry": 5192.0,
+      "high_since_entry": 5196.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 73.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5191.9,
-      "unrealised_pct": 1.95
+      "current_price": 5184.4,
+      "unrealised_pct": 1.81
     },
     {
       "symbol": "J&KBANK",
@@ -99,8 +99,8 @@
       "rs_composite": 22.58,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 133.77,
-      "unrealised_pct": -0.28
+      "current_price": 134.48,
+      "unrealised_pct": 0.25
     },
     {
       "symbol": "AVALON",
@@ -110,15 +110,15 @@
       "entry_date": "2026-04-21",
       "stop_price": 1015.05,
       "stop_unlocked": false,
-      "high_since_entry": 1108.8,
+      "high_since_entry": 1115.05,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1095.95,
-      "unrealised_pct": 0.41
+      "current_price": 1099.15,
+      "unrealised_pct": 0.71
     }
   ],
-  "last_updated": "2026-04-22 09:25 IST"
+  "last_updated": "2026-04-22 11:25 IST"
 }
