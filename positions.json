@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 442.8,
-      "unrealised_pct": -3.26
+      "current_price": 443.0,
+      "unrealised_pct": -3.21
     },
     {
       "symbol": "CUPID",
@@ -25,14 +25,14 @@
       "entry_date": "2026-04-02",
       "stop_price": 81.11,
       "stop_unlocked": true,
-      "high_since_entry": 109.95,
+      "high_since_entry": 110.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 19.85,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 109.93,
-      "unrealised_pct": 26.04
+      "current_price": 109.87,
+      "unrealised_pct": 25.97
     },
     {
       "symbol": "CUPID",
@@ -42,14 +42,14 @@
       "entry_date": "2026-04-06",
       "stop_price": 81.82,
       "stop_unlocked": true,
-      "high_since_entry": 109.95,
+      "high_since_entry": 110.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 24.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 109.93,
-      "unrealised_pct": 24.95
+      "current_price": 109.87,
+      "unrealised_pct": 24.88
     },
     {
       "symbol": "DATAPATTNS",
@@ -65,8 +65,8 @@
       "rs_composite": 25.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 3573.0,
-      "unrealised_pct": 2.75
+      "current_price": 3533.3,
+      "unrealised_pct": 1.61
     },
     {
       "symbol": "MTARTECH",
@@ -82,8 +82,8 @@
       "rs_composite": 73.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5094.9,
-      "unrealised_pct": 0.05
+      "current_price": 5073.5,
+      "unrealised_pct": -0.37
     },
     {
       "symbol": "J&KBANK",
@@ -99,8 +99,8 @@
       "rs_composite": 22.58,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 133.86,
-      "unrealised_pct": -0.22
+      "current_price": 132.26,
+      "unrealised_pct": -1.41
     },
     {
       "symbol": "AVALON",
@@ -116,9 +116,9 @@
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1091.35,
-      "unrealised_pct": -0.01
+      "current_price": 1082.0,
+      "unrealised_pct": -0.87
     }
   ],
-  "last_updated": "2026-04-21 14:22 IST"
+  "last_updated": "2026-04-21 15:25 IST"
 }
