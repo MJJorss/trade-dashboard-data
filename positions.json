@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 450.7,
-      "unrealised_pct": -1.53
+      "current_price": 450.95,
+      "unrealised_pct": -1.47
     },
     {
       "symbol": "DATAPATTNS",
@@ -25,14 +25,14 @@
       "entry_date": "2026-04-16",
       "stop_price": 3233.89,
       "stop_unlocked": true,
-      "high_since_entry": 4142.3,
+      "high_since_entry": 4189.9,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 25.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4127.1,
-      "unrealised_pct": 18.69
+      "current_price": 4168.5,
+      "unrealised_pct": 19.88
     },
     {
       "symbol": "MTARTECH",
@@ -48,8 +48,8 @@
       "rs_composite": 73.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5368.4,
-      "unrealised_pct": 5.42
+      "current_price": 5341.9,
+      "unrealised_pct": 4.9
     },
     {
       "symbol": "J&KBANK",
@@ -65,8 +65,8 @@
       "rs_composite": 22.58,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 129.07,
-      "unrealised_pct": -3.79
+      "current_price": 127.9,
+      "unrealised_pct": -4.66
     },
     {
       "symbol": "AVALON",
@@ -82,8 +82,8 @@
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1093.7,
-      "unrealised_pct": 0.21
+      "current_price": 1089.0,
+      "unrealised_pct": -0.22
     },
     {
       "symbol": "IMFA",
@@ -99,8 +99,8 @@
       "rs_composite": 34.97,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1545.5,
-      "unrealised_pct": 0.15
+      "current_price": 1552.6,
+      "unrealised_pct": 0.61
     },
     {
       "symbol": "HONASA",
@@ -116,9 +116,9 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 348.15,
-      "unrealised_pct": 0.22
+      "current_price": 346.35,
+      "unrealised_pct": -0.3
     }
   ],
-  "last_updated": "2026-04-23 13:25 IST"
+  "last_updated": "2026-04-23 15:25 IST"
 }
