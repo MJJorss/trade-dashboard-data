@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 455.95,
-      "unrealised_pct": -0.38
+      "current_price": 455.4,
+      "unrealised_pct": -0.5
     },
     {
       "symbol": "MTARTECH",
@@ -31,25 +31,8 @@
       "rs_composite": 73.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5169.3,
-      "unrealised_pct": 1.51
-    },
-    {
-      "symbol": "J&KBANK",
-      "scanner": "VCP Breakout",
-      "entry_price": 134.15,
-      "entry_time": "14:22",
-      "entry_date": "2026-04-21",
-      "stop_price": 124.76,
-      "stop_unlocked": false,
-      "high_since_entry": 134.95,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 22.58,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 125.77,
-      "unrealised_pct": -6.25
+      "current_price": 5194.9,
+      "unrealised_pct": 2.01
     },
     {
       "symbol": "AVALON",
@@ -65,8 +48,8 @@
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1064.25,
-      "unrealised_pct": -2.49
+      "current_price": 1048.45,
+      "unrealised_pct": -3.94
     },
     {
       "symbol": "IMFA",
@@ -82,8 +65,8 @@
       "rs_composite": 34.97,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1498.0,
-      "unrealised_pct": -2.93
+      "current_price": 1499.1,
+      "unrealised_pct": -2.86
     },
     {
       "symbol": "HONASA",
@@ -99,9 +82,34 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 344.7,
-      "unrealised_pct": -0.78
+      "current_price": 345.05,
+      "unrealised_pct": -0.68
+    },
+    {
+      "symbol": "J&KBANK",
+      "scanner": "VCP Breakout",
+      "entry_price": 134.15,
+      "entry_time": "14:22",
+      "entry_date": "2026-04-21",
+      "stop_price": 124.76,
+      "stop_unlocked": false,
+      "high_since_entry": 134.95,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 22.58,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 125.77,
+      "unrealised_pct": -6.25,
+      "exit_price": 124.76,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "13:25",
+      "exit_date": "2026-04-24",
+      "pnl_pct": -7.0,
+      "pnl_inr": -10000,
+      "hold_days": 3,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-04-24 11:25 IST"
+  "last_updated": "2026-04-24 13:25 IST"
 }
