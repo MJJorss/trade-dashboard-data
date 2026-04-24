@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 459.45,
-      "unrealised_pct": 0.38
+      "current_price": 455.95,
+      "unrealised_pct": -0.38
     },
     {
       "symbol": "MTARTECH",
@@ -31,8 +31,8 @@
       "rs_composite": 73.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5417.5,
-      "unrealised_pct": 6.38
+      "current_price": 5169.3,
+      "unrealised_pct": 1.51
     },
     {
       "symbol": "J&KBANK",
@@ -48,8 +48,8 @@
       "rs_composite": 22.58,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 127.71,
-      "unrealised_pct": -4.8
+      "current_price": 125.77,
+      "unrealised_pct": -6.25
     },
     {
       "symbol": "AVALON",
@@ -65,8 +65,8 @@
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1090.1,
-      "unrealised_pct": -0.12
+      "current_price": 1064.25,
+      "unrealised_pct": -2.49
     },
     {
       "symbol": "IMFA",
@@ -82,8 +82,8 @@
       "rs_composite": 34.97,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1560.9,
-      "unrealised_pct": 1.15
+      "current_price": 1498.0,
+      "unrealised_pct": -2.93
     },
     {
       "symbol": "HONASA",
@@ -99,34 +99,9 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 346.0,
-      "unrealised_pct": -0.4
-    },
-    {
-      "symbol": "DATAPATTNS",
-      "scanner": "VCP Breakout",
-      "entry_price": 3477.3,
-      "entry_time": "11:25",
-      "entry_date": "2026-04-16",
-      "stop_price": 3233.89,
-      "stop_unlocked": true,
-      "high_since_entry": 4189.9,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 25.38,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 3828.3,
-      "unrealised_pct": 10.09,
-      "exit_price": 4020.0,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "09:25",
-      "exit_date": "2026-04-24",
-      "pnl_pct": 15.61,
-      "pnl_inr": 22300,
-      "hold_days": 8,
-      "capital_per_slot": 142857
+      "current_price": 344.7,
+      "unrealised_pct": -0.78
     }
   ],
-  "last_updated": "2026-04-24 09:25 IST"
+  "last_updated": "2026-04-24 11:25 IST"
 }
