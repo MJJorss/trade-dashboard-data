@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T09:26:34.409091+05:30",
+  "generated_at": "2026-04-29T10:26:37.735255+05:30",
   "signals": [
     {
       "symbol": "NAVINFLUOR",
@@ -4245,12 +4245,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 32.51,
+      "rs_score": 32.05,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4261,12 +4261,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": -4.89,
+      "rs_score": -5.23,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4277,12 +4277,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 4.89,
+      "rs_score": 3.83,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4293,12 +4293,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 72.05,
+      "rs_score": 73.28,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4309,12 +4309,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 18.66,
+      "rs_score": 17.99,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4325,12 +4325,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 40.89,
+      "rs_score": 40.37,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4341,12 +4341,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 23.8,
+      "rs_score": 22.11,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4373,12 +4373,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 12.11,
+      "rs_score": 11.61,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4389,12 +4389,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 6.6,
+      "rs": "MID",
+      "rs_score": 4.6,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4405,12 +4405,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 12.9,
+      "rs_score": 13.77,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4421,12 +4421,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 8.79,
+      "rs_score": 8.58,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4469,12 +4469,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 17.4,
+      "rs_score": 17.56,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4485,12 +4485,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 10.9,
+      "rs_score": 11.52,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4517,12 +4517,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 13.77,
+      "rs_score": 14.1,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4533,12 +4533,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 8.62,
+      "rs_score": 7.82,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4549,12 +4549,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 19.4,
+      "rs_score": 15.36,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4565,12 +4565,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 5.62,
+      "rs_score": 5.02,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4597,12 +4597,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 33.13,
+      "rs_score": 34.18,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4629,12 +4629,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 32.1,
+      "rs_score": 31.65,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4645,12 +4645,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": -1.84,
+      "rs_score": -0.56,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4661,12 +4661,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": -4.21,
+      "rs_score": -4.56,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4677,12 +4677,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 14.87,
+      "rs_score": 14.43,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4693,12 +4693,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 5.95,
+      "rs_score": 5.89,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4709,12 +4709,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 12.48,
+      "rs_score": 14.34,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4725,12 +4725,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 33.97,
+      "rs_score": 32.83,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4741,12 +4741,12 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 11.99,
+      "rs_score": 13.3,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -4757,12 +4757,221 @@
       "date": "2026-04-29",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
+      "last_seen": "10:26",
+      "appearances": 2,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -3.18,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -2.91,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "TITAN",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 4.29,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "MCX",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 8.72,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "CHENNPETRO",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 18.39,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "AUBANK",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 3.71,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "VEDL",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
       "appearances": 1,
       "tier": 4,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": -0.86,
+      "rs_score": -0.81,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "COALINDIA",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -1.5,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ]
+    },
+    {
+      "symbol": "HONASA",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 16.55,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ]
+    },
+    {
+      "symbol": "GRSE",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 32.05,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "EMCURE",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.06,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "KRISHANA",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 20.65,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SILVERTUC",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 21.9,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ]
+    },
+    {
+      "symbol": "SPORTKING",
+      "date": "2026-04-29",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 50.33,
       "cap": "default",
       "scanners": [
         "Mark"
