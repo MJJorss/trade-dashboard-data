@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 483.4,
-      "unrealised_pct": 5.62
+      "current_price": 479.95,
+      "unrealised_pct": 4.86
     },
     {
       "symbol": "MTARTECH",
@@ -24,15 +24,15 @@
       "entry_time": "14:22",
       "entry_date": "2026-04-21",
       "stop_price": 4735.93,
-      "stop_unlocked": false,
-      "high_since_entry": 5585.0,
+      "stop_unlocked": true,
+      "high_since_entry": 5749.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 73.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5557.3,
-      "unrealised_pct": 9.13
+      "current_price": 5676.2,
+      "unrealised_pct": 11.46
     },
     {
       "symbol": "AVALON",
@@ -48,8 +48,8 @@
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1054.8,
-      "unrealised_pct": -3.36
+      "current_price": 1065.0,
+      "unrealised_pct": -2.42
     },
     {
       "symbol": "IMFA",
@@ -59,14 +59,14 @@
       "entry_date": "2026-04-23",
       "stop_price": 1435.18,
       "stop_unlocked": false,
-      "high_since_entry": 1668.0,
+      "high_since_entry": 1679.9,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 34.97,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1662.1,
-      "unrealised_pct": 7.7
+      "current_price": 1651.5,
+      "unrealised_pct": 7.02
     },
     {
       "symbol": "HONASA",
@@ -82,8 +82,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 346.5,
-      "unrealised_pct": -0.26
+      "current_price": 345.55,
+      "unrealised_pct": -0.53
     },
     {
       "symbol": "KEI",
@@ -99,8 +99,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4945.0,
-      "unrealised_pct": 0.75
+      "current_price": 4932.6,
+      "unrealised_pct": 0.5
     },
     {
       "symbol": "SYRMA",
@@ -116,9 +116,9 @@
       "rs_composite": 39.84,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 985.5,
-      "unrealised_pct": 0.43
+      "current_price": 976.6,
+      "unrealised_pct": -0.47
     }
   ],
-  "last_updated": "2026-04-29 13:25 IST"
+  "last_updated": "2026-04-29 15:25 IST"
 }
