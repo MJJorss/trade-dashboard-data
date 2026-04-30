@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 484.5,
-      "unrealised_pct": 5.86
+      "current_price": 481.6,
+      "unrealised_pct": 5.22
     },
     {
       "symbol": "MTARTECH",
@@ -25,14 +25,14 @@
       "entry_date": "2026-04-21",
       "stop_price": 4735.93,
       "stop_unlocked": true,
-      "high_since_entry": 6146.0,
+      "high_since_entry": 6340.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 73.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6039.0,
-      "unrealised_pct": 18.59
+      "current_price": 6283.7,
+      "unrealised_pct": 23.39
     },
     {
       "symbol": "AVALON",
@@ -48,8 +48,8 @@
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1032.15,
-      "unrealised_pct": -5.43
+      "current_price": 1021.35,
+      "unrealised_pct": -6.42
     },
     {
       "symbol": "IMFA",
@@ -65,8 +65,8 @@
       "rs_composite": 34.97,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1567.1,
-      "unrealised_pct": 1.55
+      "current_price": 1542.0,
+      "unrealised_pct": -0.08
     },
     {
       "symbol": "HONASA",
@@ -82,8 +82,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 343.35,
-      "unrealised_pct": -1.17
+      "current_price": 343.8,
+      "unrealised_pct": -1.04
     },
     {
       "symbol": "KEI",
@@ -99,8 +99,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4790.0,
-      "unrealised_pct": -2.41
+      "current_price": 4760.1,
+      "unrealised_pct": -3.02
     },
     {
       "symbol": "SYRMA",
@@ -116,9 +116,9 @@
       "rs_composite": 39.84,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 953.8,
-      "unrealised_pct": -2.8
+      "current_price": 952.1,
+      "unrealised_pct": -2.97
     }
   ],
-  "last_updated": "2026-04-30 11:25 IST"
+  "last_updated": "2026-04-30 13:25 IST"
 }
