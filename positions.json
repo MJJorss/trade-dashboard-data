@@ -14,25 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 481.45,
-      "unrealised_pct": 5.19
-    },
-    {
-      "symbol": "MTARTECH",
-      "scanner": "VCP Breakout",
-      "entry_price": 5092.4,
-      "entry_time": "14:22",
-      "entry_date": "2026-04-21",
-      "stop_price": 4735.93,
-      "stop_unlocked": true,
-      "high_since_entry": 6750.0,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 73.47,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 6457.1,
-      "unrealised_pct": 26.8
+      "current_price": 484.3,
+      "unrealised_pct": 5.81
     },
     {
       "symbol": "AVALON",
@@ -48,25 +31,8 @@
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1057.25,
-      "unrealised_pct": -3.13
-    },
-    {
-      "symbol": "IMFA",
-      "scanner": "VCP Breakout",
-      "entry_price": 1543.2,
-      "entry_time": "13:25",
-      "entry_date": "2026-04-23",
-      "stop_price": 1435.18,
-      "stop_unlocked": false,
-      "high_since_entry": 1679.9,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 34.97,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 1502.6,
-      "unrealised_pct": -2.63
+      "current_price": 1056.0,
+      "unrealised_pct": -3.25
     },
     {
       "symbol": "HONASA",
@@ -82,8 +48,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 340.6,
-      "unrealised_pct": -1.96
+      "current_price": 343.25,
+      "unrealised_pct": -1.19
     },
     {
       "symbol": "KEI",
@@ -99,8 +65,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4857.5,
-      "unrealised_pct": -1.03
+      "current_price": 4818.8,
+      "unrealised_pct": -1.82
     },
     {
       "symbol": "SYRMA",
@@ -116,9 +82,59 @@
       "rs_composite": 39.84,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 958.95,
-      "unrealised_pct": -2.27
+      "current_price": 963.8,
+      "unrealised_pct": -1.78
+    },
+    {
+      "symbol": "MTARTECH",
+      "scanner": "VCP Breakout",
+      "entry_price": 5092.4,
+      "entry_time": "14:22",
+      "entry_date": "2026-04-21",
+      "stop_price": 4735.93,
+      "stop_unlocked": true,
+      "high_since_entry": 6787.0,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 73.47,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 6457.1,
+      "unrealised_pct": 26.8,
+      "exit_price": 6151.0,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "exit_time": "09:25",
+      "exit_date": "2026-05-04",
+      "pnl_pct": 20.79,
+      "pnl_inr": 29700,
+      "hold_days": 13,
+      "capital_per_slot": 142857
+    },
+    {
+      "symbol": "IMFA",
+      "scanner": "VCP Breakout",
+      "entry_price": 1543.2,
+      "entry_time": "13:25",
+      "entry_date": "2026-04-23",
+      "stop_price": 1435.18,
+      "stop_unlocked": false,
+      "high_since_entry": 1679.9,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 34.97,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 1502.6,
+      "unrealised_pct": -2.63,
+      "exit_price": 1435.18,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "09:25",
+      "exit_date": "2026-05-04",
+      "pnl_pct": -7.0,
+      "pnl_inr": -10000,
+      "hold_days": 11,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-05-01 15:25 IST"
+  "last_updated": "2026-05-04 09:25 IST"
 }
