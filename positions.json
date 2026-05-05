@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 478.5,
-      "unrealised_pct": 4.54
+      "current_price": 479.55,
+      "unrealised_pct": 4.77
     },
     {
       "symbol": "AVALON",
@@ -25,14 +25,14 @@
       "entry_date": "2026-04-21",
       "stop_price": 1015.05,
       "stop_unlocked": false,
-      "high_since_entry": 1117.8,
+      "high_since_entry": 1169.9,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1115.3,
-      "unrealised_pct": 2.19
+      "current_price": 1135.7,
+      "unrealised_pct": 4.05
     },
     {
       "symbol": "HONASA",
@@ -48,8 +48,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 336.6,
-      "unrealised_pct": -3.11
+      "current_price": 341.4,
+      "unrealised_pct": -1.73
     },
     {
       "symbol": "KEI",
@@ -59,14 +59,14 @@
       "entry_date": "2026-04-27",
       "stop_price": 4564.63,
       "stop_unlocked": false,
-      "high_since_entry": 5050.0,
+      "high_since_entry": 5070.1,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4981.4,
-      "unrealised_pct": 1.49
+      "current_price": 5057.2,
+      "unrealised_pct": 3.04
     },
     {
       "symbol": "SYRMA",
@@ -76,15 +76,15 @@
       "entry_date": "2026-04-27",
       "stop_price": 912.56,
       "stop_unlocked": false,
-      "high_since_entry": 997.0,
+      "high_since_entry": 1030.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 39.84,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 993.85,
-      "unrealised_pct": 1.28
+      "current_price": 1029.95,
+      "unrealised_pct": 4.96
     }
   ],
-  "last_updated": "2026-05-04 13:25 IST"
+  "last_updated": "2026-05-04 15:25 IST"
 }
