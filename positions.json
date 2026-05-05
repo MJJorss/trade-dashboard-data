@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 479.55,
-      "unrealised_pct": 4.77
+      "current_price": 476.7,
+      "unrealised_pct": 4.15
     },
     {
       "symbol": "AVALON",
@@ -24,15 +24,15 @@
       "entry_time": "14:22",
       "entry_date": "2026-04-21",
       "stop_price": 1015.05,
-      "stop_unlocked": false,
-      "high_since_entry": 1169.9,
+      "stop_unlocked": true,
+      "high_since_entry": 1213.3,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 20.64,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1135.7,
-      "unrealised_pct": 4.05
+      "current_price": 1197.6,
+      "unrealised_pct": 9.73
     },
     {
       "symbol": "HONASA",
@@ -48,8 +48,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 341.4,
-      "unrealised_pct": -1.73
+      "current_price": 340.7,
+      "unrealised_pct": -1.93
     },
     {
       "symbol": "KEI",
@@ -65,8 +65,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5057.2,
-      "unrealised_pct": 3.04
+      "current_price": 4821.5,
+      "unrealised_pct": -1.77
     },
     {
       "symbol": "SYRMA",
@@ -76,15 +76,15 @@
       "entry_date": "2026-04-27",
       "stop_price": 912.56,
       "stop_unlocked": false,
-      "high_since_entry": 1030.0,
+      "high_since_entry": 1043.65,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 39.84,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1029.95,
-      "unrealised_pct": 4.96
+      "current_price": 1032.7,
+      "unrealised_pct": 5.24
     }
   ],
-  "last_updated": "2026-05-04 15:25 IST"
+  "last_updated": "2026-05-05 09:25 IST"
 }
