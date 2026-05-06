@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 474.2,
-      "unrealised_pct": 3.6
+      "current_price": 473.75,
+      "unrealised_pct": 3.51
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 340.8,
-      "unrealised_pct": -1.9
+      "current_price": 345.1,
+      "unrealised_pct": -0.66
     },
     {
       "symbol": "KEI",
@@ -42,14 +42,14 @@
       "entry_date": "2026-04-27",
       "stop_price": 4564.63,
       "stop_unlocked": false,
-      "high_since_entry": 5204.9,
+      "high_since_entry": 5225.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5196.1,
-      "unrealised_pct": 5.87
+      "current_price": 5185.3,
+      "unrealised_pct": 5.65
     },
     {
       "symbol": "SYRMA",
@@ -65,34 +65,60 @@
       "rs_composite": 39.84,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1042.0,
-      "unrealised_pct": 6.19
+      "current_price": 1043.1,
+      "unrealised_pct": 6.3
     },
     {
-      "symbol": "AVALON",
+      "symbol": "CUPID",
+      "scanner": "Mark Screener",
+      "entry_price": 126.25,
+      "entry_time": "13:25",
+      "entry_date": "2026-05-06",
+      "stop_price": 117.41,
+      "stop_unlocked": false,
+      "high_since_entry": 132.49,
+      "conviction": "\ud83d\ude80 STRONG",
+      "rs_tier": "HIGH",
+      "rs_composite": 49.15,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "current_price": 126.4,
+      "unrealised_pct": 0.12
+    },
+    {
+      "symbol": "SKYGOLD",
       "scanner": "VCP Breakout",
-      "entry_price": 1091.45,
-      "entry_time": "14:22",
-      "entry_date": "2026-04-21",
-      "stop_price": 1015.05,
-      "stop_unlocked": true,
-      "high_since_entry": 1222.0,
+      "entry_price": 465.5,
+      "entry_time": "13:25",
+      "entry_date": "2026-05-06",
+      "stop_price": 432.92,
+      "stop_unlocked": false,
+      "high_since_entry": 472.4,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
-      "rs_composite": 20.64,
+      "rs_composite": 39.54,
       "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 1158.9,
-      "unrealised_pct": 6.18,
-      "exit_price": 1147.0,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "11:25",
-      "exit_date": "2026-05-06",
-      "pnl_pct": 5.09,
-      "pnl_inr": 7271,
-      "hold_days": 15,
-      "capital_per_slot": 142857
+      "status": "open",
+      "current_price": 468.15,
+      "unrealised_pct": 0.57
+    },
+    {
+      "symbol": "ACUTAAS",
+      "scanner": "VCP Breakout",
+      "entry_price": 2704.4,
+      "entry_time": "13:25",
+      "entry_date": "2026-05-06",
+      "stop_price": 2515.09,
+      "stop_unlocked": false,
+      "high_since_entry": 2745.0,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 33.15,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "current_price": 2703.9,
+      "unrealised_pct": -0.02
     }
   ],
-  "last_updated": "2026-05-06 11:25 IST"
+  "last_updated": "2026-05-06 13:25 IST"
 }
