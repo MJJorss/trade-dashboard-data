@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 468.7,
-      "unrealised_pct": 2.4
+      "current_price": 471.55,
+      "unrealised_pct": 3.03
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 345.95,
-      "unrealised_pct": -0.42
+      "current_price": 344.5,
+      "unrealised_pct": -0.83
     },
     {
       "symbol": "KEI",
@@ -42,14 +42,14 @@
       "entry_date": "2026-04-27",
       "stop_price": 4564.63,
       "stop_unlocked": false,
-      "high_since_entry": 5225.0,
+      "high_since_entry": 5245.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5142.8,
-      "unrealised_pct": 4.78
+      "current_price": 5162.8,
+      "unrealised_pct": 5.19
     },
     {
       "symbol": "SYRMA",
@@ -65,8 +65,8 @@
       "rs_composite": 39.84,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1058.8,
-      "unrealised_pct": 7.9
+      "current_price": 1072.7,
+      "unrealised_pct": 9.32
     },
     {
       "symbol": "CUPID",
@@ -82,8 +82,8 @@
       "rs_composite": 49.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 126.99,
-      "unrealised_pct": 0.59
+      "current_price": 130.47,
+      "unrealised_pct": 3.34
     },
     {
       "symbol": "SKYGOLD",
@@ -93,14 +93,14 @@
       "entry_date": "2026-05-06",
       "stop_price": 432.92,
       "stop_unlocked": false,
-      "high_since_entry": 481.0,
+      "high_since_entry": 493.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 39.54,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 478.75,
-      "unrealised_pct": 2.85
+      "current_price": 491.5,
+      "unrealised_pct": 5.59
     },
     {
       "symbol": "ACUTAAS",
@@ -116,9 +116,9 @@
       "rs_composite": 33.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 2687.2,
-      "unrealised_pct": -0.64
+      "current_price": 2705.8,
+      "unrealised_pct": 0.05
     }
   ],
-  "last_updated": "2026-05-06 15:25 IST"
+  "last_updated": "2026-05-07 09:25 IST"
 }
