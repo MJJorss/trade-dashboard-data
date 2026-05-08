@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 465.8,
-      "unrealised_pct": 1.77
+      "current_price": 460.4,
+      "unrealised_pct": 0.59
     },
     {
       "symbol": "HONASA",
@@ -25,14 +25,14 @@
       "entry_date": "2026-04-23",
       "stop_price": 323.08,
       "stop_unlocked": false,
-      "high_since_entry": 359.75,
+      "high_since_entry": 360.9,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 354.8,
-      "unrealised_pct": 2.13
+      "current_price": 358.8,
+      "unrealised_pct": 3.28
     },
     {
       "symbol": "KEI",
@@ -48,8 +48,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5126.1,
-      "unrealised_pct": 4.44
+      "current_price": 5149.2,
+      "unrealised_pct": 4.91
     },
     {
       "symbol": "SYRMA",
@@ -59,14 +59,14 @@
       "entry_date": "2026-04-27",
       "stop_price": 912.56,
       "stop_unlocked": true,
-      "high_since_entry": 1104.35,
+      "high_since_entry": 1135.65,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 39.84,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1097.35,
-      "unrealised_pct": 11.83
+      "current_price": 1121.2,
+      "unrealised_pct": 14.26
     },
     {
       "symbol": "CUPID",
@@ -76,14 +76,14 @@
       "entry_date": "2026-05-06",
       "stop_price": 117.41,
       "stop_unlocked": false,
-      "high_since_entry": 132.49,
+      "high_since_entry": 132.52,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 49.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 131.17,
-      "unrealised_pct": 3.9
+      "current_price": 132.2,
+      "unrealised_pct": 4.71
     },
     {
       "symbol": "SKYGOLD",
@@ -93,14 +93,14 @@
       "entry_date": "2026-05-06",
       "stop_price": 432.92,
       "stop_unlocked": false,
-      "high_since_entry": 504.7,
+      "high_since_entry": 510.55,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 39.54,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 497.9,
-      "unrealised_pct": 6.96
+      "current_price": 508.85,
+      "unrealised_pct": 9.31
     },
     {
       "symbol": "ACUTAAS",
@@ -116,9 +116,9 @@
       "rs_composite": 33.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 2731.1,
+      "current_price": 2731.2,
       "unrealised_pct": 0.99
     }
   ],
-  "last_updated": "2026-05-07 15:25 IST"
+  "last_updated": "2026-05-08 09:25 IST"
 }
