@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T15:28:04.282791+05:30",
+  "generated_at": "2026-05-08T09:26:29.144825+05:30",
   "signals": [
     {
       "symbol": "DYNAMATECH",
@@ -8116,6 +8116,678 @@
       "vol_ratio": 0.78,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "BAJAJ-AUTO",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.41,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 30678,
+      "vol_avg_3m": 369718,
+      "vol_ratio": 0.08,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "POLYCAB",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 13.54,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 104590,
+      "vol_avg_3m": 501372,
+      "vol_ratio": 0.21,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "KEI",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 9.81,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 34727,
+      "vol_avg_3m": 458249,
+      "vol_ratio": 0.08,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "ACUTAAS",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 23.46,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 36752,
+      "vol_avg_3m": 525113,
+      "vol_ratio": 0.07,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "KMEW",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 20.03,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 7303,
+      "vol_avg_3m": 135370,
+      "vol_ratio": 0.05,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "AXISCADES",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 61.82,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 8966,
+      "vol_avg_3m": 166383,
+      "vol_ratio": 0.05,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "RRKABEL",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 29.28,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 118372,
+      "vol_avg_3m": 433058,
+      "vol_ratio": 0.27,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "LUMAXTECH",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 3.35,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 15146,
+      "vol_avg_3m": 320937,
+      "vol_ratio": 0.05,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "IPCALAB",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 4.45,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 4583,
+      "vol_avg_3m": 214678,
+      "vol_ratio": 0.02,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "NESTLEIND",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 10.39,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 109743,
+      "vol_avg_3m": 1627445,
+      "vol_ratio": 0.07,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 30.23,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 267785,
+      "vol_avg_3m": 4050719,
+      "vol_ratio": 0.07,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "LAURUSLABS",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 17.26,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 566187,
+      "vol_avg_3m": 1818859,
+      "vol_ratio": 0.31,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "AETHER",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 9.85,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 15426,
+      "vol_avg_3m": 331038,
+      "vol_ratio": 0.05,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "SYRMA",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 24.32,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 246073,
+      "vol_avg_3m": 1238899,
+      "vol_ratio": 0.2,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "CHENNPETRO",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 10.4,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 378334,
+      "vol_avg_3m": 2664821,
+      "vol_ratio": 0.14,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "SAILIFE",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 16.02,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 21140,
+      "vol_avg_3m": 616427,
+      "vol_ratio": 0.03,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "GRANULES",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 20.84,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 49386,
+      "vol_avg_3m": 1096187,
+      "vol_ratio": 0.05,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "MBAPL",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 16.51,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 34423,
+      "vol_avg_3m": 348829,
+      "vol_ratio": 0.1,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "SKYGOLD",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 42.87,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 159592,
+      "vol_avg_3m": 1179661,
+      "vol_ratio": 0.14,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "BEL",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -3.96,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 1500936,
+      "vol_avg_3m": 15733941,
+      "vol_ratio": 0.1,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "TRIVENI",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 1.24,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 56903,
+      "vol_avg_3m": 760819,
+      "vol_ratio": 0.07,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "CEIGALL",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 26.54,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 642008,
+      "vol_avg_3m": 455387,
+      "vol_ratio": 1.41,
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca"
+    },
+    {
+      "symbol": "HONASA",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 12.53,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 70878,
+      "vol_avg_3m": 1271023,
+      "vol_ratio": 0.06,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "SCI",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 38.21,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 3314183,
+      "vol_avg_3m": 10648234,
+      "vol_ratio": 0.31,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "GAEL",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 15.62,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 268537,
+      "vol_avg_3m": 892333,
+      "vol_ratio": 0.3,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "MOTHERSON",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.81,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 2989821,
+      "vol_avg_3m": 22012906,
+      "vol_ratio": 0.14,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "CUPID",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 44.9,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 1490528,
+      "vol_avg_3m": 19753142,
+      "vol_ratio": 0.08,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "JAMNAAUTO",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -0.87,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "vol_today": 872442,
+      "vol_avg_3m": 3988014,
+      "vol_ratio": 0.22,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "VIJAYA",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 21.17,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "vol_today": 342656,
+      "vol_avg_3m": 139144,
+      "vol_ratio": 2.46,
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25"
+    },
+    {
+      "symbol": "APCOTEXIND",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 37.36,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "vol_today": 618904,
+      "vol_avg_3m": 44577,
+      "vol_ratio": 13.88,
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5"
+    },
+    {
+      "symbol": "SANDUMA",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 10.33,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "vol_today": 4728031,
+      "vol_avg_3m": 1683086,
+      "vol_ratio": 2.81,
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25"
+    },
+    {
+      "symbol": "MIRCELECTR",
+      "date": "2026-05-08",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 29.32,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "vol_today": 6227508,
+      "vol_avg_3m": 1327471,
+      "vol_ratio": 4.69,
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5"
     }
   ]
 }
