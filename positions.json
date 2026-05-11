@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 455.45,
-      "unrealised_pct": -0.49
+      "current_price": 461.8,
+      "unrealised_pct": 0.9
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 357.4,
-      "unrealised_pct": 2.88
+      "current_price": 350.15,
+      "unrealised_pct": 0.79
     },
     {
       "symbol": "KEI",
@@ -48,8 +48,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5160.4,
-      "unrealised_pct": 5.14
+      "current_price": 5150.2,
+      "unrealised_pct": 4.93
     },
     {
       "symbol": "SYRMA",
@@ -65,8 +65,8 @@
       "rs_composite": 39.84,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1115.15,
-      "unrealised_pct": 13.65
+      "current_price": 1114.9,
+      "unrealised_pct": 13.62
     },
     {
       "symbol": "CUPID",
@@ -82,8 +82,8 @@
       "rs_composite": 49.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 132.85,
-      "unrealised_pct": 5.23
+      "current_price": 130.85,
+      "unrealised_pct": 3.64
     },
     {
       "symbol": "ACUTAAS",
@@ -93,40 +93,15 @@
       "entry_date": "2026-05-06",
       "stop_price": 2515.09,
       "stop_unlocked": false,
-      "high_since_entry": 2771.4,
+      "high_since_entry": 2778.7,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 33.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 2771.0,
-      "unrealised_pct": 2.46
-    },
-    {
-      "symbol": "SKYGOLD",
-      "scanner": "VCP Breakout",
-      "entry_price": 465.5,
-      "entry_time": "13:25",
-      "entry_date": "2026-05-06",
-      "stop_price": 432.92,
-      "stop_unlocked": true,
-      "high_since_entry": 549.9,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 39.54,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 540.0,
-      "unrealised_pct": 16.0,
-      "exit_price": 482.0,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "09:25",
-      "exit_date": "2026-05-11",
-      "pnl_pct": 3.54,
-      "pnl_inr": 5057,
-      "hold_days": 5,
-      "capital_per_slot": 142857
+      "current_price": 2750.2,
+      "unrealised_pct": 1.69
     }
   ],
-  "last_updated": "2026-05-11 09:25 IST"
+  "last_updated": "2026-05-11 11:25 IST"
 }
