@@ -160,6 +160,22 @@
       "capital_per_slot": 142857,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-05"
+    },
+    {
+      "symbol": "SKYGOLD",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 465.5,
+      "exit_price": 482.0,
+      "entry_date": "2026-05-06",
+      "exit_date": "2026-05-11",
+      "hold_days": 5,
+      "pnl_pct": 3.54,
+      "pnl_inr": 5057,
+      "capital_per_slot": 142857,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-05"
     }
   ]
 }
