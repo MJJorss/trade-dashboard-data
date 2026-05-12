@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T10:03:35.812544+05:30",
+  "generated_at": "2026-05-12T10:26:29.891191+05:30",
   "signals": [
     {
       "symbol": "BAJAJ-AUTO",
@@ -7028,12 +7028,12 @@
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 17.07,
+      "rs_score": 17.4,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7043,20 +7043,20 @@
       "vol_ratio": 0.09,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 9152.0,
-      "chg_pct": 8.75
+      "price": 9185.0,
+      "chg_pct": 9.14
     },
     {
       "symbol": "KEI",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 11.21,
+      "rs_score": 11.34,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7066,8 +7066,8 @@
       "vol_ratio": 0.04,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 5154.0,
-      "chg_pct": 0.1
+      "price": 5162.8,
+      "chg_pct": 0.28
     },
     {
       "symbol": "BSE",
@@ -7116,12 +7116,12 @@
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 21.91,
+      "rs_score": 22.08,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7131,8 +7131,8 @@
       "vol_ratio": 0.19,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 3207.0,
-      "chg_pct": 7.86
+      "price": 3214.9,
+      "chg_pct": 8.13
     },
     {
       "symbol": "ACUTAAS",
@@ -7160,12 +7160,12 @@
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 48.91,
+      "rs_score": 48.85,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7175,20 +7175,20 @@
       "vol_ratio": 0.06,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 2082.0,
-      "chg_pct": -3.45
+      "price": 2082.5,
+      "chg_pct": -3.42
     },
     {
       "symbol": "RRKABEL",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 2,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 34.45,
+      "rs_score": 34.02,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7198,20 +7198,20 @@
       "vol_ratio": 0.09,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 1968.2,
-      "chg_pct": 9.51
+      "price": 1963.6,
+      "chg_pct": 9.26
     },
     {
       "symbol": "IMFA",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 4,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 4.22,
+      "rs_score": 4.25,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7221,20 +7221,20 @@
       "vol_ratio": 0.08,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 1507.3,
-      "chg_pct": 4.1
+      "price": 1509.2,
+      "chg_pct": 4.23
     },
     {
       "symbol": "LAURUSLABS",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 23.41,
+      "rs_score": 23.13,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7244,20 +7244,20 @@
       "vol_ratio": 0.12,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 1272.1,
-      "chg_pct": 8.02
+      "price": 1270.3,
+      "chg_pct": 7.87
     },
     {
       "symbol": "SYRMA",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 22.6,
+      "rs_score": 20.59,
       "cap": "default",
       "scanners": [
         "VCP",
@@ -7268,20 +7268,20 @@
       "vol_ratio": 1.86,
       "vol_label": "ELEVATED \u26a1",
       "vol_emoji": "\u26a1",
-      "price": 1086.0,
-      "chg_pct": 2.52
+      "price": 1069.35,
+      "chg_pct": 0.94
     },
     {
       "symbol": "HINDZINC",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 7.17,
+      "rs_score": 6.56,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7291,20 +7291,20 @@
       "vol_ratio": 0.29,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 651.0,
-      "chg_pct": 2.58
+      "price": 647.85,
+      "chg_pct": 2.09
     },
     {
       "symbol": "VTL",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 16.71,
+      "rs_score": 17.3,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7313,19 +7313,21 @@
       "vol_avg_3m": 710611,
       "vol_ratio": 0.07,
       "vol_label": "WEAK \ud83d\udca4",
-      "vol_emoji": "\ud83d\udca4"
+      "vol_emoji": "\ud83d\udca4",
+      "price": 611.35,
+      "chg_pct": 0.24
     },
     {
       "symbol": "SONACOMS",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 6.52,
+      "rs_score": 6.56,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7335,20 +7337,20 @@
       "vol_ratio": 0.21,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 594.2,
-      "chg_pct": 1.99
+      "price": 594.95,
+      "chg_pct": 2.12
     },
     {
       "symbol": "ZYDUSWELL",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 4,
       "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 16.69,
+      "rs": "MID",
+      "rs_score": 14.2,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7358,20 +7360,20 @@
       "vol_ratio": 0.01,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 537.7,
-      "chg_pct": 5.84
+      "price": 526.4,
+      "chg_pct": 3.61
     },
     {
       "symbol": "COALINDIA",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 5.35,
+      "rs_score": 5.63,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7380,19 +7382,21 @@
       "vol_avg_3m": 12293212,
       "vol_ratio": 0.06,
       "vol_label": "WEAK \ud83d\udca4",
-      "vol_emoji": "\ud83d\udca4"
+      "vol_emoji": "\ud83d\udca4",
+      "price": 467.35,
+      "chg_pct": -0.61
     },
     {
       "symbol": "BHEL",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 41.88,
+      "rs_score": 41.62,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7402,20 +7406,20 @@
       "vol_ratio": 0.05,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 404.95,
-      "chg_pct": 4.92
+      "price": 404.35,
+      "chg_pct": 4.77
     },
     {
       "symbol": "VEDL",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 4,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": -59.58,
+      "rs_score": -59.65,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7425,8 +7429,8 @@
       "vol_ratio": 0.24,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 305.25,
-      "chg_pct": -3.52
+      "price": 305.5,
+      "chg_pct": -3.45
     },
     {
       "symbol": "FEDERALBNK",
@@ -7456,12 +7460,12 @@
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 93.72,
+      "rs_score": 94.8,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7471,8 +7475,8 @@
       "vol_ratio": 0.39,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 151.47,
-      "chg_pct": 7.08
+      "price": 152.36,
+      "chg_pct": 7.71
     },
     {
       "symbol": "MOTHERSON",
@@ -7500,12 +7504,12 @@
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 4,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 17.86,
+      "rs_score": 16.95,
       "cap": "default",
       "scanners": [
         "VCP"
@@ -7515,20 +7519,20 @@
       "vol_ratio": 0.07,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
-      "price": 82.04,
-      "chg_pct": -1.9
+      "price": 81.49,
+      "chg_pct": -2.56
     },
     {
       "symbol": "MANORAMA",
       "date": "2026-05-12",
       "time": "09:26",
       "first_seen": "09:26",
-      "last_seen": "10:03",
-      "appearances": 2,
+      "last_seen": "10:26",
+      "appearances": 3,
       "tier": 3,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 0.92,
+      "rs_score": 2.93,
       "cap": "default",
       "scanners": [
         "Mark"
@@ -7538,26 +7542,26 @@
       "vol_ratio": 2.95,
       "vol_label": "SURGE \ud83d\udd25",
       "vol_emoji": "\ud83d\udd25",
-      "price": 1437.5,
-      "chg_pct": -10.31
+      "price": 1463.6,
+      "chg_pct": -8.68
     },
     {
       "symbol": "MTARTECH",
       "date": "2026-05-12",
       "time": "10:03",
       "first_seen": "10:03",
-      "last_seen": "10:03",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 63.83,
+      "rs_score": 64.81,
       "cap": "default",
       "scanners": [
         "VCP"
       ],
-      "price": 6493.5,
-      "chg_pct": 3.29,
+      "price": 6546.0,
+      "chg_pct": 4.13,
       "vol_today": 196086,
       "vol_avg_3m": 596152,
       "vol_ratio": 0.33,
@@ -7569,18 +7573,18 @@
       "date": "2026-05-12",
       "time": "10:03",
       "first_seen": "10:03",
-      "last_seen": "10:03",
-      "appearances": 1,
-      "tier": 4,
+      "last_seen": "10:26",
+      "appearances": 2,
+      "tier": 3,
       "tier_star": false,
-      "rs": "MID",
-      "rs_score": 22.81,
+      "rs": "HIGH",
+      "rs_score": 25.17,
       "cap": "default",
       "scanners": [
         "VCP"
       ],
-      "price": 1159.5,
-      "chg_pct": 5.6,
+      "price": 1182.4,
+      "chg_pct": 7.69,
       "vol_today": 46903,
       "vol_avg_3m": 260154,
       "vol_ratio": 0.18,
@@ -7592,18 +7596,18 @@
       "date": "2026-05-12",
       "time": "10:03",
       "first_seen": "10:03",
-      "last_seen": "10:03",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "LOW",
-      "rs_score": 6.08,
+      "rs_score": 6.4,
       "cap": "default",
       "scanners": [
         "Mark"
       ],
-      "price": 896.55,
-      "chg_pct": 2.32,
+      "price": 900.0,
+      "chg_pct": 2.71,
       "vol_today": 9787,
       "vol_avg_3m": 16174,
       "vol_ratio": 0.61,
@@ -7615,18 +7619,18 @@
       "date": "2026-05-12",
       "time": "10:03",
       "first_seen": "10:03",
-      "last_seen": "10:03",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
-      "rs_score": 122.5,
+      "rs_score": 123.71,
       "cap": "default",
       "scanners": [
         "Mark"
       ],
-      "price": 412.15,
-      "chg_pct": 20.87,
+      "price": 414.4,
+      "chg_pct": 21.52,
       "vol_today": 7518796,
       "vol_avg_3m": 8605924,
       "vol_ratio": 0.87,
@@ -7638,23 +7642,161 @@
       "date": "2026-05-12",
       "time": "10:03",
       "first_seen": "10:03",
-      "last_seen": "10:03",
-      "appearances": 1,
+      "last_seen": "10:26",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "MID",
-      "rs_score": 19.98,
+      "rs_score": 21.42,
       "cap": "default",
       "scanners": [
         "Mark"
       ],
-      "price": 276.7,
-      "chg_pct": 3.27,
+      "price": 280.3,
+      "chg_pct": 4.61,
       "vol_today": 1776041,
       "vol_avg_3m": 2196730,
       "vol_ratio": 0.81,
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "NESTLEIND",
+      "date": "2026-05-12",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 13.79,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1481.9,
+      "chg_pct": -0.28,
+      "vol_today": 133236,
+      "vol_avg_3m": 1646889,
+      "vol_ratio": 0.08,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "JBCHEPHARM",
+      "date": "2026-05-12",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 8.69,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "price": 2168.7,
+      "chg_pct": 1.27,
+      "vol_today": 324743,
+      "vol_avg_3m": 350665,
+      "vol_ratio": 0.93,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4"
+    },
+    {
+      "symbol": "SHARDACROP",
+      "date": "2026-05-12",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 0.96,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "price": 1178.9,
+      "chg_pct": 5.3,
+      "vol_today": 361311,
+      "vol_avg_3m": 311541,
+      "vol_ratio": 1.16,
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca"
+    },
+    {
+      "symbol": "ROSSTECH",
+      "date": "2026-05-12",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 1.2,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "price": 841.85,
+      "chg_pct": -12.32,
+      "vol_today": 154966,
+      "vol_avg_3m": 99621,
+      "vol_ratio": 1.56,
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1"
+    },
+    {
+      "symbol": "ONGC",
+      "date": "2026-05-12",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 4.36,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "price": 297.05,
+      "chg_pct": 5.79,
+      "vol_today": 22713103,
+      "vol_avg_3m": 22098472,
+      "vol_ratio": 1.03,
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca"
+    },
+    {
+      "symbol": "FEDFINA",
+      "date": "2026-05-12",
+      "time": "10:26",
+      "first_seen": "10:26",
+      "last_seen": "10:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.68,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "price": 155.0,
+      "chg_pct": 1.51,
+      "vol_today": 1534516,
+      "vol_avg_3m": 960282,
+      "vol_ratio": 1.6,
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1"
     }
   ]
 }
