@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 467.45,
-      "unrealised_pct": 2.13
+      "current_price": 463.2,
+      "unrealised_pct": 1.2
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 351.85,
-      "unrealised_pct": 1.28
+      "current_price": 351.4,
+      "unrealised_pct": 1.15
     },
     {
       "symbol": "KEI",
@@ -48,8 +48,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5090.2,
-      "unrealised_pct": 3.71
+      "current_price": 5079.2,
+      "unrealised_pct": 3.48
     },
     {
       "symbol": "CUPID",
@@ -65,8 +65,8 @@
       "rs_composite": 49.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 123.73,
-      "unrealised_pct": -2.0
+      "current_price": 121.9,
+      "unrealised_pct": -3.45
     },
     {
       "symbol": "ACUTAAS",
@@ -82,34 +82,9 @@
       "rs_composite": 33.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 2814.4,
-      "unrealised_pct": 4.07
-    },
-    {
-      "symbol": "SYRMA",
-      "scanner": "VCP Breakout",
-      "entry_price": 981.25,
-      "entry_time": "09:25",
-      "entry_date": "2026-04-27",
-      "stop_price": 912.56,
-      "stop_unlocked": true,
-      "high_since_entry": 1188.0,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 39.84,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 1174.1,
-      "unrealised_pct": 19.65,
-      "exit_price": 1091.85,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "11:25",
-      "exit_date": "2026-05-12",
-      "pnl_pct": 11.27,
-      "pnl_inr": 16100,
-      "hold_days": 15,
-      "capital_per_slot": 142857
+      "current_price": 2809.3,
+      "unrealised_pct": 3.88
     }
   ],
-  "last_updated": "2026-05-12 11:25 IST"
+  "last_updated": "2026-05-12 13:25 IST"
 }
