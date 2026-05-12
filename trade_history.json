@@ -176,6 +176,22 @@
       "capital_per_slot": 142857,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-05"
+    },
+    {
+      "symbol": "SYRMA",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 981.25,
+      "exit_price": 1091.85,
+      "entry_date": "2026-04-27",
+      "exit_date": "2026-05-12",
+      "hold_days": 15,
+      "pnl_pct": 11.27,
+      "pnl_inr": 16100,
+      "capital_per_slot": 142857,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-05"
     }
   ]
 }
