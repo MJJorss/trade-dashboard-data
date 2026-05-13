@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 469.7,
-      "unrealised_pct": 2.62
+      "current_price": 464.85,
+      "unrealised_pct": 1.56
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 347.8,
-      "unrealised_pct": 0.12
+      "current_price": 346.6,
+      "unrealised_pct": -0.23
     },
     {
       "symbol": "KEI",
@@ -48,8 +48,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4914.0,
-      "unrealised_pct": 0.12
+      "current_price": 4943.1,
+      "unrealised_pct": 0.71
     },
     {
       "symbol": "ACUTAAS",
@@ -65,9 +65,9 @@
       "rs_composite": 33.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 2809.8,
-      "unrealised_pct": 3.9
+      "current_price": 2822.9,
+      "unrealised_pct": 4.38
     }
   ],
-  "last_updated": "2026-05-13 11:25 IST"
+  "last_updated": "2026-05-13 13:25 IST"
 }
