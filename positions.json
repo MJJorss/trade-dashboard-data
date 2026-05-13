@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 463.2,
-      "unrealised_pct": 1.2
+      "current_price": 462.0,
+      "unrealised_pct": 0.94
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 351.4,
-      "unrealised_pct": 1.15
+      "current_price": 347.75,
+      "unrealised_pct": 0.1
     },
     {
       "symbol": "KEI",
@@ -48,25 +48,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5079.2,
-      "unrealised_pct": 3.48
-    },
-    {
-      "symbol": "CUPID",
-      "scanner": "Mark Screener",
-      "entry_price": 126.25,
-      "entry_time": "13:25",
-      "entry_date": "2026-05-06",
-      "stop_price": 117.41,
-      "stop_unlocked": false,
-      "high_since_entry": 133.92,
-      "conviction": "\ud83d\ude80 STRONG",
-      "rs_tier": "HIGH",
-      "rs_composite": 49.15,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 121.9,
-      "unrealised_pct": -3.45
+      "current_price": 4988.3,
+      "unrealised_pct": 1.63
     },
     {
       "symbol": "ACUTAAS",
@@ -82,9 +65,34 @@
       "rs_composite": 33.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 2809.3,
-      "unrealised_pct": 3.88
+      "current_price": 2741.3,
+      "unrealised_pct": 1.36
+    },
+    {
+      "symbol": "CUPID",
+      "scanner": "Mark Screener",
+      "entry_price": 126.25,
+      "entry_time": "13:25",
+      "entry_date": "2026-05-06",
+      "stop_price": 117.41,
+      "stop_unlocked": false,
+      "high_since_entry": 133.92,
+      "conviction": "\ud83d\ude80 STRONG",
+      "rs_tier": "HIGH",
+      "rs_composite": 49.15,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 121.9,
+      "unrealised_pct": -3.45,
+      "exit_price": 117.41,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "15:25",
+      "exit_date": "2026-05-12",
+      "pnl_pct": -7.0,
+      "pnl_inr": -10000,
+      "hold_days": 6,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-05-12 13:25 IST"
+  "last_updated": "2026-05-12 15:25 IST"
 }
