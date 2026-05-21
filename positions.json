@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 458.85,
-      "unrealised_pct": 0.25
+      "current_price": 462.0,
+      "unrealised_pct": 0.94
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 356.95,
-      "unrealised_pct": 2.75
+      "current_price": 361.75,
+      "unrealised_pct": 4.13
     },
     {
       "symbol": "KEI",
@@ -48,8 +48,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5122.6,
-      "unrealised_pct": 4.37
+      "current_price": 5227.0,
+      "unrealised_pct": 6.5
     },
     {
       "symbol": "ACUTAAS",
@@ -59,15 +59,66 @@
       "entry_date": "2026-05-06",
       "stop_price": 2515.09,
       "stop_unlocked": false,
-      "high_since_entry": 2909.8,
+      "high_since_entry": 2924.9,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 33.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 2899.3,
-      "unrealised_pct": 7.21
+      "current_price": 2916.3,
+      "unrealised_pct": 7.84
+    },
+    {
+      "symbol": "BSE",
+      "scanner": "VCP Breakout",
+      "entry_price": 4278.8,
+      "entry_time": "09:25",
+      "entry_date": "2026-05-21",
+      "stop_price": 3979.28,
+      "stop_unlocked": false,
+      "high_since_entry": 4293.8,
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
+      "rs_tier": "HIGH",
+      "rs_composite": 48.81,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "current_price": 4278.9,
+      "unrealised_pct": 0.0
+    },
+    {
+      "symbol": "CUPID",
+      "scanner": "VCP Breakout",
+      "entry_price": 122.09,
+      "entry_time": "09:25",
+      "entry_date": "2026-05-21",
+      "stop_price": 113.54,
+      "stop_unlocked": false,
+      "high_since_entry": 122.94,
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
+      "rs_tier": "HIGH",
+      "rs_composite": 37.77,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "current_price": 122.44,
+      "unrealised_pct": 0.29
+    },
+    {
+      "symbol": "STLTECH",
+      "scanner": "VCP Breakout",
+      "entry_price": 411.0,
+      "entry_time": "09:25",
+      "entry_date": "2026-05-21",
+      "stop_price": 382.23,
+      "stop_unlocked": false,
+      "high_since_entry": 414.75,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 124.17,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "current_price": 414.75,
+      "unrealised_pct": 0.91
     }
   ],
-  "last_updated": "2026-05-20 15:25 IST"
+  "last_updated": "2026-05-21 09:25 IST"
 }
