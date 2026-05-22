@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 459.6,
-      "unrealised_pct": 0.42
+      "current_price": 457.75,
+      "unrealised_pct": 0.01
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 390.9,
-      "unrealised_pct": 12.52
+      "current_price": 382.85,
+      "unrealised_pct": 10.2
     },
     {
       "symbol": "KEI",
@@ -42,31 +42,14 @@
       "entry_date": "2026-04-27",
       "stop_price": 4564.63,
       "stop_unlocked": false,
-      "high_since_entry": 5295.0,
+      "high_since_entry": 5325.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5254.9,
-      "unrealised_pct": 7.06
-    },
-    {
-      "symbol": "ACUTAAS",
-      "scanner": "VCP Breakout",
-      "entry_price": 2704.4,
-      "entry_time": "13:25",
-      "entry_date": "2026-05-06",
-      "stop_price": 2515.09,
-      "stop_unlocked": true,
-      "high_since_entry": 3025.0,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 33.15,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 2983.3,
-      "unrealised_pct": 10.31
+      "current_price": 5284.2,
+      "unrealised_pct": 7.66
     },
     {
       "symbol": "BSE",
@@ -82,8 +65,8 @@
       "rs_composite": 48.81,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4175.0,
-      "unrealised_pct": -2.43
+      "current_price": 4213.0,
+      "unrealised_pct": -1.54
     },
     {
       "symbol": "CUPID",
@@ -99,8 +82,8 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 121.65,
-      "unrealised_pct": -0.36
+      "current_price": 121.62,
+      "unrealised_pct": -0.38
     },
     {
       "symbol": "STLTECH",
@@ -110,15 +93,40 @@
       "entry_date": "2026-05-21",
       "stop_price": 382.23,
       "stop_unlocked": false,
-      "high_since_entry": 438.75,
+      "high_since_entry": 441.15,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 124.17,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 438.3,
-      "unrealised_pct": 6.64
+      "current_price": 441.15,
+      "unrealised_pct": 7.34
+    },
+    {
+      "symbol": "ACUTAAS",
+      "scanner": "VCP Breakout",
+      "entry_price": 2704.4,
+      "entry_time": "13:25",
+      "entry_date": "2026-05-06",
+      "stop_price": 2515.09,
+      "stop_unlocked": true,
+      "high_since_entry": 3025.0,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 33.15,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 2983.3,
+      "unrealised_pct": 10.31,
+      "exit_price": 2955.7,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "exit_time": "11:25",
+      "exit_date": "2026-05-22",
+      "pnl_pct": 9.29,
+      "pnl_inr": 13271,
+      "hold_days": 16,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-05-22 09:25 IST"
+  "last_updated": "2026-05-22 11:25 IST"
 }
