@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 460.8,
-      "unrealised_pct": 0.68
+      "current_price": 460.25,
+      "unrealised_pct": 0.56
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 354.2,
-      "unrealised_pct": 1.96
+      "current_price": 361.8,
+      "unrealised_pct": 4.15
     },
     {
       "symbol": "KEI",
@@ -42,14 +42,14 @@
       "entry_date": "2026-04-27",
       "stop_price": 4564.63,
       "stop_unlocked": false,
-      "high_since_entry": 5247.8,
+      "high_since_entry": 5295.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5215.4,
-      "unrealised_pct": 6.26
+      "current_price": 5241.4,
+      "unrealised_pct": 6.79
     },
     {
       "symbol": "ACUTAAS",
@@ -59,14 +59,14 @@
       "entry_date": "2026-05-06",
       "stop_price": 2515.09,
       "stop_unlocked": true,
-      "high_since_entry": 3015.0,
+      "high_since_entry": 3025.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 33.15,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 2988.6,
-      "unrealised_pct": 10.51
+      "current_price": 2997.3,
+      "unrealised_pct": 10.83
     },
     {
       "symbol": "BSE",
@@ -82,8 +82,8 @@
       "rs_composite": 48.81,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4165.8,
-      "unrealised_pct": -2.64
+      "current_price": 4187.8,
+      "unrealised_pct": -2.13
     },
     {
       "symbol": "CUPID",
@@ -99,8 +99,8 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 120.42,
-      "unrealised_pct": -1.37
+      "current_price": 120.15,
+      "unrealised_pct": -1.59
     },
     {
       "symbol": "STLTECH",
@@ -116,9 +116,9 @@
       "rs_composite": 124.17,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 417.85,
-      "unrealised_pct": 1.67
+      "current_price": 421.0,
+      "unrealised_pct": 2.43
     }
   ],
-  "last_updated": "2026-05-21 13:25 IST"
+  "last_updated": "2026-05-21 15:25 IST"
 }
