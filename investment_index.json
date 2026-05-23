@@ -1,11 +1,11 @@
 {
-  "generated_at": "23 May 2026 07:11 PM IST",
+  "generated_at": "23 May 2026 08:25 PM IST",
   "rebalance_date": "2026-05-23",
   "total_slots": 20,
   "filled_slots": 20,
   "total_deployed": 2000000,
-  "total_pnl_inr": 8220.0,
-  "total_pnl_pct": 0.41,
+  "total_pnl_inr": -3330.0,
+  "total_pnl_pct": -0.17,
   "holdings": [
     {
       "symbol": "RAYMONDREL",
@@ -25,7 +25,7 @@
       "pct_move": -11.46,
       "dma21": 534.71,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": -11460.0
     },
@@ -47,7 +47,7 @@
       "pct_move": 0.0,
       "dma21": 166.08,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
     },
@@ -69,7 +69,7 @@
       "pct_move": 11.63,
       "dma21": 6621.43,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 11630.0
     },
@@ -91,7 +91,7 @@
       "pct_move": 5.0,
       "dma21": 132.03,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 5000.0
     },
@@ -113,7 +113,7 @@
       "pct_move": -1.78,
       "dma21": 1860.32,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": -1780.0
     },
@@ -135,7 +135,7 @@
       "pct_move": 0.0,
       "dma21": 458.3,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
     },
@@ -157,7 +157,7 @@
       "pct_move": 0.0,
       "dma21": 18.26,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
     },
@@ -179,7 +179,7 @@
       "pct_move": 0.0,
       "dma21": 1378.13,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
     },
@@ -201,7 +201,7 @@
       "pct_move": 0.0,
       "dma21": 215.36,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
     },
@@ -223,31 +223,9 @@
       "pct_move": -8.26,
       "dma21": 356.07,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": -8260.0
-    },
-    {
-      "symbol": "HESTERBIO",
-      "slot_rank": 11,
-      "composite_score": 16.2,
-      "eps_seq": 993.46,
-      "sales_seq": 22.19,
-      "mcap_cr": 1613.12,
-      "rs_composite": 18.68,
-      "rs_tier": "MID",
-      "rs_label": "🟡 MID RS",
-      "q_pending": false,
-      "cmp": 1875.2,
-      "entry_price": 1875.2,
-      "entry_date": "2026-05-22",
-      "days_held": 1,
-      "pct_move": 0.0,
-      "dma21": 1715.59,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
     },
     {
       "symbol": "LLOYDSME",
@@ -267,7 +245,7 @@
       "pct_move": 0.06,
       "dma21": 1692.69,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 60.0
     },
@@ -289,7 +267,7 @@
       "pct_move": 0.0,
       "dma21": 1630.5,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
     },
@@ -311,7 +289,7 @@
       "pct_move": 6.82,
       "dma21": 1540.4,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 6820.0
     },
@@ -333,31 +311,9 @@
       "pct_move": -5.96,
       "dma21": 203.87,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": -5960.0
-    },
-    {
-      "symbol": "NITTAGELA",
-      "slot_rank": 17,
-      "composite_score": 15.2,
-      "eps_seq": 104.57,
-      "sales_seq": 25.24,
-      "mcap_cr": 1289.37,
-      "rs_composite": 51.6,
-      "rs_tier": "HIGH",
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 1420.85,
-      "entry_price": 1273.7,
-      "entry_date": "2026-05-10",
-      "days_held": 13,
-      "pct_move": 11.55,
-      "dma21": 1175.37,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 11550.0
     },
     {
       "symbol": "BSE",
@@ -377,7 +333,7 @@
       "pct_move": 0.0,
       "dma21": 3887.24,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
     },
@@ -399,7 +355,7 @@
       "pct_move": 0.62,
       "dma21": 16184.37,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 620.0
     },
@@ -421,7 +377,7 @@
       "pct_move": 0.0,
       "dma21": 124.78,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
     },
@@ -443,7 +399,51 @@
       "pct_move": 0.0,
       "dma21": 87.24,
       "above_21dma": true,
-      "dma_label": "🟢 Above 21 DMA",
+      "dma_label": "🟢 Above 21 EMA",
+      "capital_deployed": 100000,
+      "pnl_inr": 0.0
+    },
+    {
+      "symbol": "IOLCP",
+      "slot_rank": 22,
+      "composite_score": 14.3,
+      "eps_seq": 68.18,
+      "sales_seq": 17.37,
+      "mcap_cr": 3514.69,
+      "rs_composite": 47.3,
+      "rs_tier": "HIGH",
+      "rs_label": "🟢 HIGH RS",
+      "q_pending": false,
+      "cmp": 118.73,
+      "entry_price": 118.73,
+      "entry_date": "2026-05-23",
+      "days_held": 0,
+      "pct_move": 0.0,
+      "dma21": 104.31,
+      "above_21dma": true,
+      "dma_label": "🟢 Above 21 EMA",
+      "capital_deployed": 100000,
+      "pnl_inr": 0.0
+    },
+    {
+      "symbol": "MCX",
+      "slot_rank": 23,
+      "composite_score": 14.2,
+      "eps_seq": 291.09,
+      "sales_seq": 205.13,
+      "mcap_cr": 83906.38,
+      "rs_composite": 26.11,
+      "rs_tier": "HIGH",
+      "rs_label": "🟢 HIGH RS",
+      "q_pending": false,
+      "cmp": 3269.9,
+      "entry_price": 3269.9,
+      "entry_date": "2026-05-23",
+      "days_held": 0,
+      "pct_move": 0.0,
+      "dma21": 3144.35,
+      "above_21dma": true,
+      "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
     }
@@ -583,62 +583,48 @@
   "this_rebalance": {
     "entries": [
       {
-        "symbol": "IBULLSLTD",
-        "entry_price": 19.07,
-        "rank": 7,
-        "composite": 18.82,
-        "rs_tier": "HIGH"
-      },
-      {
-        "symbol": "ADANIPOWER",
-        "entry_price": 219.32,
-        "rank": 9,
-        "composite": 17.12,
-        "rs_tier": "HIGH"
-      },
-      {
-        "symbol": "ATLANTAELE",
-        "entry_price": 1668.8,
-        "rank": 14,
-        "composite": 15.64,
-        "rs_tier": "HIGH"
-      },
-      {
         "symbol": "VIDYAWIRES",
         "entry_price": 88.79,
         "rank": 21,
         "composite": 14.39,
         "rs_tier": "HIGH"
+      },
+      {
+        "symbol": "IOLCP",
+        "entry_price": 118.73,
+        "rank": 22,
+        "composite": 14.34,
+        "rs_tier": "HIGH"
+      },
+      {
+        "symbol": "MCX",
+        "entry_price": 3269.9,
+        "rank": 23,
+        "composite": 14.24,
+        "rs_tier": "HIGH"
       }
     ],
     "exits": [
       {
-        "symbol": "IOLCP",
-        "reason": "Score eviction — fell outside top 20",
-        "days_held": 1,
-        "rank": 22,
-        "cmp": 118.73
+        "symbol": "NITTAGELA",
+        "reason": "Low liquidity — avg traded value ₹1.92 Cr",
+        "days_held": 13,
+        "rank": 17,
+        "cmp": 1420.85
       },
       {
-        "symbol": "MCX",
-        "reason": "Score eviction — fell outside top 20",
+        "symbol": "HESTERBIO",
+        "reason": "Low liquidity — avg traded value ₹3.47 Cr",
         "days_held": 1,
-        "rank": 23,
-        "cmp": 3269.9
+        "rank": 11,
+        "cmp": 1875.2
       },
       {
-        "symbol": "ADANIPORTS",
+        "symbol": "VIDYAWIRES",
         "reason": "Score eviction — fell outside top 20",
-        "days_held": 1,
-        "rank": 24,
-        "cmp": 1786.9
-      },
-      {
-        "symbol": "APOLLO",
-        "reason": "Score eviction — fell outside top 20",
-        "days_held": 1,
-        "rank": 26,
-        "cmp": 355.05
+        "days_held": 0,
+        "rank": 21,
+        "cmp": 88.79
       }
     ]
   },
