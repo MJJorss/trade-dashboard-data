@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 456.8,
-      "unrealised_pct": -0.2
+      "current_price": 456.55,
+      "unrealised_pct": -0.25
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 390.85,
-      "unrealised_pct": 12.51
+      "current_price": 382.45,
+      "unrealised_pct": 10.09
     },
     {
       "symbol": "KEI",
@@ -48,8 +48,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5277.1,
-      "unrealised_pct": 7.52
+      "current_price": 5268.9,
+      "unrealised_pct": 7.35
     },
     {
       "symbol": "BSE",
@@ -65,8 +65,8 @@
       "rs_composite": 48.81,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4207.8,
-      "unrealised_pct": -1.66
+      "current_price": 4194.7,
+      "unrealised_pct": -1.97
     },
     {
       "symbol": "CUPID",
@@ -82,8 +82,8 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 120.6,
-      "unrealised_pct": -1.22
+      "current_price": 120.49,
+      "unrealised_pct": -1.31
     },
     {
       "symbol": "STLTECH",
@@ -110,15 +110,15 @@
       "entry_date": "2026-05-22",
       "stop_price": 134.91,
       "stop_unlocked": false,
-      "high_since_entry": 147.7,
+      "high_since_entry": 148.98,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 84.66,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 145.25,
-      "unrealised_pct": 0.13
+      "current_price": 148.6,
+      "unrealised_pct": 2.44
     }
   ],
-  "last_updated": "2026-05-22 13:25 IST"
+  "last_updated": "2026-05-22 15:25 IST"
 }
