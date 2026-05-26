@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 458.0,
-      "unrealised_pct": 0.07
+      "current_price": 465.25,
+      "unrealised_pct": 1.65
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 391.6,
-      "unrealised_pct": 12.72
+      "current_price": 389.65,
+      "unrealised_pct": 12.16
     },
     {
       "symbol": "KEI",
@@ -48,8 +48,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5278.6,
-      "unrealised_pct": 7.55
+      "current_price": 5299.0,
+      "unrealised_pct": 7.96
     },
     {
       "symbol": "BSE",
@@ -59,14 +59,14 @@
       "entry_date": "2026-05-21",
       "stop_price": 3979.28,
       "stop_unlocked": false,
-      "high_since_entry": 4300.0,
+      "high_since_entry": 4328.0,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 48.81,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4298.9,
-      "unrealised_pct": 0.47
+      "current_price": 4317.6,
+      "unrealised_pct": 0.91
     },
     {
       "symbol": "CUPID",
@@ -76,14 +76,14 @@
       "entry_date": "2026-05-21",
       "stop_price": 113.54,
       "stop_unlocked": false,
-      "high_since_entry": 124.95,
+      "high_since_entry": 129.0,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 124.93,
-      "unrealised_pct": 2.33
+      "current_price": 128.27,
+      "unrealised_pct": 5.06
     },
     {
       "symbol": "STLTECH",
@@ -93,14 +93,14 @@
       "entry_date": "2026-05-21",
       "stop_price": 382.23,
       "stop_unlocked": true,
-      "high_since_entry": 463.2,
+      "high_since_entry": 486.35,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 124.17,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 463.2,
-      "unrealised_pct": 12.7
+      "current_price": 486.35,
+      "unrealised_pct": 18.33
     },
     {
       "symbol": "HFCL",
@@ -110,15 +110,15 @@
       "entry_date": "2026-05-22",
       "stop_price": 134.91,
       "stop_unlocked": true,
-      "high_since_entry": 163.03,
+      "high_since_entry": 165.25,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 84.66,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 163.03,
-      "unrealised_pct": 12.39
+      "current_price": 164.77,
+      "unrealised_pct": 13.59
     }
   ],
-  "last_updated": "2026-05-25 15:25 IST"
+  "last_updated": "2026-05-26 09:25 IST"
 }
