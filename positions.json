@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 436.55,
-      "unrealised_pct": -4.62
+      "current_price": 451.85,
+      "unrealised_pct": -1.28
     },
     {
       "symbol": "HONASA",
@@ -25,14 +25,14 @@
       "entry_date": "2026-04-23",
       "stop_price": 323.08,
       "stop_unlocked": true,
-      "high_since_entry": 402.8,
+      "high_since_entry": 410.55,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 398.2,
-      "unrealised_pct": 14.62
+      "current_price": 404.35,
+      "unrealised_pct": 16.39
     },
     {
       "symbol": "KEI",
@@ -41,15 +41,15 @@
       "entry_time": "09:25",
       "entry_date": "2026-04-27",
       "stop_price": 4564.63,
-      "stop_unlocked": false,
-      "high_since_entry": 5382.0,
+      "stop_unlocked": true,
+      "high_since_entry": 5454.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5377.0,
-      "unrealised_pct": 9.55
+      "current_price": 5444.3,
+      "unrealised_pct": 10.92
     },
     {
       "symbol": "BSE",
@@ -65,8 +65,8 @@
       "rs_composite": 48.81,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4396.5,
-      "unrealised_pct": 2.75
+      "current_price": 4360.0,
+      "unrealised_pct": 1.9
     },
     {
       "symbol": "CUPID",
@@ -82,8 +82,8 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 130.0,
-      "unrealised_pct": 6.48
+      "current_price": 128.71,
+      "unrealised_pct": 5.42
     },
     {
       "symbol": "STLTECH",
@@ -110,15 +110,15 @@
       "entry_date": "2026-05-22",
       "stop_price": 134.91,
       "stop_unlocked": true,
-      "high_since_entry": 168.24,
+      "high_since_entry": 172.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 84.66,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 165.8,
-      "unrealised_pct": 14.3
+      "current_price": 169.55,
+      "unrealised_pct": 16.88
     }
   ],
-  "last_updated": "2026-05-27 09:25 IST"
+  "last_updated": "2026-05-27 11:25 IST"
 }
