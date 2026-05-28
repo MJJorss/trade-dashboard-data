@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 464.5,
-      "unrealised_pct": 1.49
+      "current_price": 463.05,
+      "unrealised_pct": 1.17
     },
     {
       "symbol": "HONASA",
@@ -31,8 +31,8 @@
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 420.25,
-      "unrealised_pct": 20.97
+      "current_price": 419.95,
+      "unrealised_pct": 20.88
     },
     {
       "symbol": "KEI",
@@ -48,8 +48,8 @@
       "rs_composite": 25.24,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 5450.9,
-      "unrealised_pct": 11.06
+      "current_price": 5446.2,
+      "unrealised_pct": 10.96
     },
     {
       "symbol": "BSE",
@@ -65,8 +65,8 @@
       "rs_composite": 48.81,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4240.5,
-      "unrealised_pct": -0.9
+      "current_price": 4248.4,
+      "unrealised_pct": -0.71
     },
     {
       "symbol": "CUPID",
@@ -82,8 +82,8 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 128.95,
-      "unrealised_pct": 5.62
+      "current_price": 128.9,
+      "unrealised_pct": 5.58
     },
     {
       "symbol": "STLTECH",
@@ -116,9 +116,9 @@
       "rs_composite": 84.66,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 173.66,
-      "unrealised_pct": 19.72
+      "current_price": 173.92,
+      "unrealised_pct": 19.9
     }
   ],
-  "last_updated": "2026-05-27 15:25 IST"
+  "last_updated": "2026-05-28 09:25 IST"
 }
