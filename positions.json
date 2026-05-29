@@ -14,25 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 464.6,
-      "unrealised_pct": 1.51
-    },
-    {
-      "symbol": "HONASA",
-      "scanner": "VCP Breakout",
-      "entry_price": 347.4,
-      "entry_time": "13:25",
-      "entry_date": "2026-04-23",
-      "stop_price": 323.08,
-      "stop_unlocked": true,
-      "high_since_entry": 424.9,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 24.62,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 417.9,
-      "unrealised_pct": 20.29
+      "current_price": 461.95,
+      "unrealised_pct": 0.93
     },
     {
       "symbol": "BSE",
@@ -48,8 +31,8 @@
       "rs_composite": 48.81,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4201.3,
-      "unrealised_pct": -1.81
+      "current_price": 4161.9,
+      "unrealised_pct": -2.73
     },
     {
       "symbol": "CUPID",
@@ -65,8 +48,8 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 129.54,
-      "unrealised_pct": 6.1
+      "current_price": 129.5,
+      "unrealised_pct": 6.07
     },
     {
       "symbol": "STLTECH",
@@ -93,14 +76,14 @@
       "entry_date": "2026-05-22",
       "stop_price": 134.91,
       "stop_unlocked": true,
-      "high_since_entry": 181.78,
+      "high_since_entry": 189.08,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 84.66,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 181.34,
-      "unrealised_pct": 25.01
+      "current_price": 185.7,
+      "unrealised_pct": 28.02
     },
     {
       "symbol": "MTARTECH",
@@ -110,15 +93,40 @@
       "entry_date": "2026-05-29",
       "stop_price": 7404.2,
       "stop_unlocked": false,
-      "high_since_entry": 8090.0,
+      "high_since_entry": 8145.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 84.88,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 8090.0,
-      "unrealised_pct": 1.61
+      "current_price": 8059.0,
+      "unrealised_pct": 1.22
+    },
+    {
+      "symbol": "HONASA",
+      "scanner": "VCP Breakout",
+      "entry_price": 347.4,
+      "entry_time": "13:25",
+      "entry_date": "2026-04-23",
+      "stop_price": 323.08,
+      "stop_unlocked": true,
+      "high_since_entry": 424.9,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 24.62,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 417.9,
+      "unrealised_pct": 20.29,
+      "exit_price": 415.8,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "exit_time": "13:25",
+      "exit_date": "2026-05-29",
+      "pnl_pct": 19.69,
+      "pnl_inr": 28129,
+      "hold_days": 36,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-05-29 11:25 IST"
+  "last_updated": "2026-05-29 13:25 IST"
 }
