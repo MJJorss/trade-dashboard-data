@@ -224,6 +224,22 @@
       "capital_per_slot": 142857,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-05"
+    },
+    {
+      "symbol": "KEI",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\ude80 STRONG",
+      "rs_tier": "HIGH",
+      "entry_price": 4908.2,
+      "exit_price": 5390.0,
+      "entry_date": "2026-04-27",
+      "exit_date": "2026-05-29",
+      "hold_days": 32,
+      "pnl_pct": 9.82,
+      "pnl_inr": 14029,
+      "capital_per_slot": 142857,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-05"
     }
   ]
 }
