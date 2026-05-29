@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 463.05,
-      "unrealised_pct": 1.17
+      "current_price": 461.8,
+      "unrealised_pct": 0.9
     },
     {
       "symbol": "HONASA",
@@ -25,31 +25,14 @@
       "entry_date": "2026-04-23",
       "stop_price": 323.08,
       "stop_unlocked": true,
-      "high_since_entry": 422.75,
+      "high_since_entry": 422.95,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 24.62,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 419.95,
-      "unrealised_pct": 20.88
-    },
-    {
-      "symbol": "KEI",
-      "scanner": "VCP Breakout",
-      "entry_price": 4908.2,
-      "entry_time": "09:25",
-      "entry_date": "2026-04-27",
-      "stop_price": 4564.63,
-      "stop_unlocked": true,
-      "high_since_entry": 5455.0,
-      "conviction": "\ud83d\ude80 STRONG",
-      "rs_tier": "HIGH",
-      "rs_composite": 25.24,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 5446.2,
-      "unrealised_pct": 10.96
+      "current_price": 420.0,
+      "unrealised_pct": 20.9
     },
     {
       "symbol": "BSE",
@@ -65,8 +48,8 @@
       "rs_composite": 48.81,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4248.4,
-      "unrealised_pct": -0.71
+      "current_price": 4203.9,
+      "unrealised_pct": -1.75
     },
     {
       "symbol": "CUPID",
@@ -82,8 +65,8 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 128.9,
-      "unrealised_pct": 5.58
+      "current_price": 129.12,
+      "unrealised_pct": 5.76
     },
     {
       "symbol": "STLTECH",
@@ -93,14 +76,14 @@
       "entry_date": "2026-05-21",
       "stop_price": 382.23,
       "stop_unlocked": true,
-      "high_since_entry": 510.65,
+      "high_since_entry": 536.15,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 124.17,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 510.65,
-      "unrealised_pct": 24.25
+      "current_price": 536.15,
+      "unrealised_pct": 30.45
     },
     {
       "symbol": "HFCL",
@@ -116,9 +99,34 @@
       "rs_composite": 84.66,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 173.92,
-      "unrealised_pct": 19.9
+      "current_price": 171.92,
+      "unrealised_pct": 18.52
+    },
+    {
+      "symbol": "KEI",
+      "scanner": "VCP Breakout",
+      "entry_price": 4908.2,
+      "entry_time": "09:25",
+      "entry_date": "2026-04-27",
+      "stop_price": 4564.63,
+      "stop_unlocked": true,
+      "high_since_entry": 5476.3,
+      "conviction": "\ud83d\ude80 STRONG",
+      "rs_tier": "HIGH",
+      "rs_composite": 25.24,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 5446.2,
+      "unrealised_pct": 10.96,
+      "exit_price": 5390.0,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "exit_time": "09:25",
+      "exit_date": "2026-05-29",
+      "pnl_pct": 9.82,
+      "pnl_inr": 14029,
+      "hold_days": 32,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-05-28 15:25 IST"
+  "last_updated": "2026-05-29 09:25 IST"
 }
