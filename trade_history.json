@@ -240,6 +240,22 @@
       "capital_per_slot": 142857,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-05"
+    },
+    {
+      "symbol": "HONASA",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 347.4,
+      "exit_price": 415.8,
+      "entry_date": "2026-04-23",
+      "exit_date": "2026-05-29",
+      "hold_days": 36,
+      "pnl_pct": 19.69,
+      "pnl_inr": 28129,
+      "capital_per_slot": 142857,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-05"
     }
   ]
 }
