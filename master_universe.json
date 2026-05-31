@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "built_at": "31 May 2026 04:22 AM IST",
+    "built_at": "31 May 2026 02:48 PM IST",
     "threshold_cr": 2000,
-    "total_companies": 1139,
-    "hc_count": 166,
-    "sb_count": 445,
-    "standard_count": 528,
-    "rs_high_count": 128,
-    "rs_mid_count": 286,
-    "rs_low_count": 711,
-    "rs_unknown_count": 14,
+    "total_companies": 1107,
+    "hc_count": 159,
+    "sb_count": 435,
+    "standard_count": 513,
+    "rs_high_count": 121,
+    "rs_mid_count": 270,
+    "rs_low_count": 676,
+    "rs_unknown_count": 40,
     "symbols_checked": 3967,
-    "symbols_failed": 359,
-    "scrip_code_coverage": 1056
+    "symbols_failed": 455,
+    "scrip_code_coverage": 1027
   },
   "universe": {
     "RELIANCE": {
@@ -151,9 +151,9 @@
       "scrip_code": "532921",
       "market_cap_cr": 415772.44,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Logistics",
       "quality_tier": "SB",
-      "rs_tier": "LOW"
+      "rs_tier": "MID"
     },
     "MARUTI": {
       "symbol": "MARUTI",
@@ -351,7 +351,7 @@
       "scrip_code": "500188",
       "market_cap_cr": 267441.56,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -521,7 +521,7 @@
       "scrip_code": "543187",
       "market_cap_cr": 171358.45,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -531,7 +531,7 @@
       "scrip_code": "539448",
       "market_cap_cr": 170318.01,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Logistics",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -701,7 +701,7 @@
       "scrip_code": "542652",
       "market_cap_cr": 142684.25,
       "exchange": "NSE",
-      "sector": "Electronics",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -741,7 +741,7 @@
       "scrip_code": "",
       "market_cap_cr": 137893.43,
       "exchange": "NSE",
-      "sector": "Energy",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -901,7 +901,7 @@
       "scrip_code": "540005",
       "market_cap_cr": 120410.7,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -961,7 +961,7 @@
       "scrip_code": "541729",
       "market_cap_cr": 114634.75,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Market Infra",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -1171,7 +1171,7 @@
       "scrip_code": "543287",
       "market_cap_cr": 93708.23,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -1213,16 +1213,6 @@
       "exchange": "NSE",
       "sector": "Auto",
       "quality_tier": "HC",
-      "rs_tier": "LOW"
-    },
-    "SHREECEM": {
-      "symbol": "SHREECEM",
-      "name": "SHREE CEMENT LIMITED",
-      "scrip_code": "500387",
-      "market_cap_cr": 91194.09,
-      "exchange": "NSE",
-      "sector": "Infrastructure",
-      "quality_tier": "SB",
       "rs_tier": "LOW"
     },
     "LENSKART": {
@@ -1351,7 +1341,7 @@
       "scrip_code": "503806",
       "market_cap_cr": 80497.95,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -1405,23 +1395,13 @@
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
-    "NATIONALUM": {
-      "symbol": "NATIONALUM",
-      "name": "National Aluminium Company Limited",
-      "scrip_code": "532234",
-      "market_cap_cr": 77955.84,
-      "exchange": "NSE",
-      "sector": "Metals",
-      "quality_tier": "HC",
-      "rs_tier": "MID"
-    },
     "OIL": {
       "symbol": "OIL",
       "name": "Oil India Limited",
       "scrip_code": "533106",
       "market_cap_cr": 77450.93,
       "exchange": "NSE",
-      "sector": "Energy",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -1461,7 +1441,7 @@
       "scrip_code": "544162",
       "market_cap_cr": 74775.0,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Telecom",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -1514,16 +1494,6 @@
       "sector": "Banking",
       "quality_tier": "STANDARD",
       "rs_tier": "MID"
-    },
-    "LTF": {
-      "symbol": "LTF",
-      "name": "L&T Finance Limited",
-      "scrip_code": "533519",
-      "market_cap_cr": 71807.81,
-      "exchange": "NSE",
-      "sector": "NBFC",
-      "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
     },
     "PAYTM": {
       "symbol": "PAYTM",
@@ -1801,7 +1771,7 @@
       "scrip_code": "509480",
       "market_cap_cr": 58370.1,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -2001,7 +1971,7 @@
       "scrip_code": "517569",
       "market_cap_cr": 50357.61,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -2011,7 +1981,7 @@
       "scrip_code": "500368",
       "market_cap_cr": 49629.07,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -2031,7 +2001,7 @@
       "scrip_code": "544238",
       "market_cap_cr": 47882.56,
       "exchange": "NSE",
-      "sector": "Renewable Energy",
+      "sector": "Power",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
     },
@@ -2181,7 +2151,7 @@
       "scrip_code": "500575",
       "market_cap_cr": 41218.31,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -2193,16 +2163,6 @@
       "exchange": "NSE",
       "sector": "Hospitality",
       "quality_tier": "SB",
-      "rs_tier": "LOW"
-    },
-    "HUDCO": {
-      "symbol": "HUDCO",
-      "name": "Housing & Urban Development Corporation Limited",
-      "scrip_code": "540530",
-      "market_cap_cr": 40740.67,
-      "exchange": "NSE",
-      "sector": "NBFC",
-      "quality_tier": "STANDARD",
       "rs_tier": "LOW"
     },
     "PETRONET": {
@@ -2291,7 +2251,7 @@
       "scrip_code": "543300",
       "market_cap_cr": 37785.11,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -2311,7 +2271,7 @@
       "scrip_code": "500660",
       "market_cap_cr": 37442.12,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -2341,7 +2301,7 @@
       "scrip_code": "543245",
       "market_cap_cr": 37070.19,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -2401,7 +2361,7 @@
       "scrip_code": "540115",
       "market_cap_cr": 36406.98,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -2421,7 +2381,7 @@
       "scrip_code": "500163",
       "market_cap_cr": 35607.52,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -2551,7 +2511,7 @@
       "scrip_code": "500067",
       "market_cap_cr": 32668.67,
       "exchange": "NSE",
-      "sector": "Electronics",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -2621,7 +2581,7 @@
       "scrip_code": "517174",
       "market_cap_cr": 31425.82,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -2631,7 +2591,7 @@
       "scrip_code": "500459",
       "market_cap_cr": 31327.86,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -2661,7 +2621,7 @@
       "scrip_code": "544362",
       "market_cap_cr": 30960.42,
       "exchange": "NSE",
-      "sector": "Energy",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -2703,7 +2663,7 @@
       "exchange": "NSE",
       "sector": "NBFC",
       "quality_tier": "SB",
-      "rs_tier": "LOW"
+      "rs_tier": "MID"
     },
     "PWL": {
       "symbol": "PWL",
@@ -2745,16 +2705,6 @@
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
-    "SJVN": {
-      "symbol": "SJVN",
-      "name": "SJVN Limited",
-      "scrip_code": "",
-      "market_cap_cr": 29536.34,
-      "exchange": "NSE",
-      "sector": "Power",
-      "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
-    },
     "LICHSGFIN": {
       "symbol": "LICHSGFIN",
       "name": "LIC Housing Finance Limited",
@@ -2785,16 +2735,6 @@
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
-    "543971": {
-      "symbol": "543971",
-      "name": "Bondada Engineering Limited",
-      "scrip_code": "543971",
-      "market_cap_cr": 28805.19,
-      "exchange": "BSE",
-      "sector": "Others",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
     "ANANDRATHI": {
       "symbol": "ANANDRATHI",
       "name": "Anand Rathi Wealth Limited",
@@ -2803,16 +2743,6 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "MID"
-    },
-    "TATATECH": {
-      "symbol": "TATATECH",
-      "name": "Tata Technologies Limited",
-      "scrip_code": "544028",
-      "market_cap_cr": 28638.84,
-      "exchange": "NSE",
-      "sector": "IT",
-      "quality_tier": "SB",
       "rs_tier": "MID"
     },
     "NUVAMA": {
@@ -2931,7 +2861,7 @@
       "scrip_code": "520056",
       "market_cap_cr": 27426.64,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -2991,7 +2921,7 @@
       "scrip_code": "539524",
       "market_cap_cr": 26840.01,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -3011,7 +2941,7 @@
       "scrip_code": "543945",
       "market_cap_cr": 26595.29,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -3081,7 +3011,7 @@
       "scrip_code": "543498",
       "market_cap_cr": 25843.59,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -3151,7 +3081,7 @@
       "scrip_code": "543458",
       "market_cap_cr": 24879.34,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -3211,7 +3141,7 @@
       "scrip_code": "533655",
       "market_cap_cr": 23571.91,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
     },
@@ -3221,7 +3151,7 @@
       "scrip_code": "543981",
       "market_cap_cr": 23257.89,
       "exchange": "NSE",
-      "sector": "Textiles",
+      "sector": "Others",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
     },
@@ -3231,7 +3161,7 @@
       "scrip_code": "515030",
       "market_cap_cr": 23009.73,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -3313,7 +3243,7 @@
       "exchange": "NSE",
       "sector": "Pharma",
       "quality_tier": "SB",
-      "rs_tier": "MID"
+      "rs_tier": "HIGH"
     },
     "AEGISVOPAK": {
       "symbol": "AEGISVOPAK",
@@ -3431,7 +3361,7 @@
       "scrip_code": "544176",
       "market_cap_cr": 20826.92,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "NBFC",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -3471,7 +3401,7 @@
       "scrip_code": "542752",
       "market_cap_cr": 20575.72,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -3521,7 +3451,7 @@
       "scrip_code": "500027",
       "market_cap_cr": 20183.8,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -3565,16 +3495,6 @@
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
-    "CARBORUNIV": {
-      "symbol": "CARBORUNIV",
-      "name": "Carborundum Universal Limited",
-      "scrip_code": "513375",
-      "market_cap_cr": 19602.74,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "MID"
-    },
     "ERIS": {
       "symbol": "ERIS",
       "name": "Eris Lifesciences Limited",
@@ -3601,7 +3521,7 @@
       "scrip_code": "544405",
       "market_cap_cr": 19262.32,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -3691,7 +3611,7 @@
       "scrip_code": "515055",
       "market_cap_cr": 18503.07,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -3711,7 +3631,7 @@
       "scrip_code": "500463",
       "market_cap_cr": 18419.7,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -3761,7 +3681,7 @@
       "scrip_code": "500870",
       "market_cap_cr": 18122.7,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -3821,19 +3741,9 @@
       "scrip_code": "543358",
       "market_cap_cr": 17833.2,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "MID"
-    },
-    "DEEPAKFERT": {
-      "symbol": "DEEPAKFERT",
-      "name": "Deepak Fertilizers and Petrochemicals Corporation Limited",
-      "scrip_code": "500645",
-      "market_cap_cr": 17818.77,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "HIGH"
     },
     "SYNGENE": {
       "symbol": "SYNGENE",
@@ -3841,7 +3751,7 @@
       "scrip_code": "539268",
       "market_cap_cr": 17761.82,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -3921,19 +3831,9 @@
       "scrip_code": "500144",
       "market_cap_cr": 17378.5,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "MID"
-    },
-    "CUPID": {
-      "symbol": "CUPID",
-      "name": "Cupid Limited",
-      "scrip_code": "530843",
-      "market_cap_cr": 17354.19,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "HC",
-      "rs_tier": "HIGH"
     },
     "AARTIIND": {
       "symbol": "AARTIIND",
@@ -3971,7 +3871,7 @@
       "scrip_code": "500233",
       "market_cap_cr": 17083.55,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -3991,7 +3891,7 @@
       "scrip_code": "532756",
       "market_cap_cr": 16936.63,
       "exchange": "NSE",
-      "sector": "Auto Components",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4011,7 +3911,7 @@
       "scrip_code": "513023",
       "market_cap_cr": 16770.66,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4091,7 +3991,7 @@
       "scrip_code": "532726",
       "market_cap_cr": 16152.55,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -4111,7 +4011,7 @@
       "scrip_code": "544443",
       "market_cap_cr": 16125.47,
       "exchange": "NSE",
-      "sector": "Hospitality",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4141,7 +4041,7 @@
       "scrip_code": "523367",
       "market_cap_cr": 16052.94,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4152,16 +4052,6 @@
       "market_cap_cr": 15957.9,
       "exchange": "NSE",
       "sector": "Infrastructure",
-      "quality_tier": "SB",
-      "rs_tier": "LOW"
-    },
-    "GABRIEL": {
-      "symbol": "GABRIEL",
-      "name": "Gabriel India Limited",
-      "scrip_code": "505714",
-      "market_cap_cr": 15802.27,
-      "exchange": "NSE",
-      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4231,7 +4121,7 @@
       "scrip_code": "517146",
       "market_cap_cr": 15404.18,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -4241,7 +4131,7 @@
       "scrip_code": "524742",
       "market_cap_cr": 15388.57,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -4361,7 +4251,7 @@
       "scrip_code": "532605",
       "market_cap_cr": 14696.94,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -4371,7 +4261,7 @@
       "scrip_code": "538962",
       "market_cap_cr": 14695.94,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4421,7 +4311,7 @@
       "scrip_code": "544321",
       "market_cap_cr": 14520.45,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -4481,19 +4371,9 @@
       "scrip_code": "500655",
       "market_cap_cr": 14213.35,
       "exchange": "NSE",
-      "sector": "Electronics",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
-    },
-    "FINEORG": {
-      "symbol": "FINEORG",
-      "name": "Fine Organic Industries Limited",
-      "scrip_code": "541557",
-      "market_cap_cr": 14181.46,
-      "exchange": "NSE",
-      "sector": "Chemicals",
-      "quality_tier": "SB",
-      "rs_tier": "LOW"
     },
     "ECLERX": {
       "symbol": "ECLERX",
@@ -4501,7 +4381,7 @@
       "scrip_code": "532927",
       "market_cap_cr": 14051.21,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4531,7 +4411,7 @@
       "scrip_code": "544408",
       "market_cap_cr": 13805.82,
       "exchange": "NSE",
-      "sector": "Hospitality",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4631,7 +4511,7 @@
       "scrip_code": "544081",
       "market_cap_cr": 13554.42,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4681,19 +4561,9 @@
       "scrip_code": "532493",
       "market_cap_cr": 13308.44,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Defence",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
-    },
-    "KEC": {
-      "symbol": "KEC",
-      "name": "KEC International Limited",
-      "scrip_code": "532714",
-      "market_cap_cr": 13300.68,
-      "exchange": "NSE",
-      "sector": "Capital Goods",
-      "quality_tier": "SB",
-      "rs_tier": "LOW"
     },
     "TEGA": {
       "symbol": "TEGA",
@@ -4711,19 +4581,9 @@
       "scrip_code": "544045",
       "market_cap_cr": 13261.01,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
-    },
-    "HONASA": {
-      "symbol": "HONASA",
-      "name": "Honasa Consumer Limited",
-      "scrip_code": "544014",
-      "market_cap_cr": 13227.65,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "HIGH"
     },
     "WELSPUNLIV": {
       "symbol": "WELSPUNLIV",
@@ -4805,16 +4665,6 @@
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
-    "THANGAMAYL": {
-      "symbol": "THANGAMAYL",
-      "name": "Thangamayil Jewellery Limited",
-      "scrip_code": "533158",
-      "market_cap_cr": 13069.68,
-      "exchange": "NSE",
-      "sector": "Jewellery",
-      "quality_tier": "HC",
-      "rs_tier": "MID"
-    },
     "APTUS": {
       "symbol": "APTUS",
       "name": "Aptus Value Housing Finance India Limited",
@@ -4835,16 +4685,6 @@
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
-    "ENGINERSIN": {
-      "symbol": "ENGINERSIN",
-      "name": "Engineers India Limited",
-      "scrip_code": "",
-      "market_cap_cr": 13022.52,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "LOW"
-    },
     "CLEANMAX": {
       "symbol": "CLEANMAX",
       "name": "Clean Max Enviro Energy Solutions Limited",
@@ -4861,7 +4701,7 @@
       "scrip_code": "500241",
       "market_cap_cr": 12967.48,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -4871,7 +4711,7 @@
       "scrip_code": "543322",
       "market_cap_cr": 12955.15,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Media",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -4971,7 +4811,7 @@
       "scrip_code": "544645",
       "market_cap_cr": 12462.93,
       "exchange": "NSE",
-      "sector": "Hospitality",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -4991,7 +4831,7 @@
       "scrip_code": "533272",
       "market_cap_cr": 12425.79,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -5001,7 +4841,7 @@
       "scrip_code": "500101",
       "market_cap_cr": 12407.2,
       "exchange": "NSE",
-      "sector": "Textiles",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -5121,7 +4961,7 @@
       "scrip_code": "512529",
       "market_cap_cr": 11432.72,
       "exchange": "NSE",
-      "sector": "Financials",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -5171,7 +5011,7 @@
       "scrip_code": "543527",
       "market_cap_cr": 11263.44,
       "exchange": "NSE",
-      "sector": "Wealth Management",
+      "sector": "Market Infra",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -5201,7 +5041,7 @@
       "scrip_code": "504067",
       "market_cap_cr": 11203.09,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -5211,7 +5051,7 @@
       "scrip_code": "524404",
       "market_cap_cr": 11156.44,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
     },
@@ -5231,7 +5071,7 @@
       "scrip_code": "532966",
       "market_cap_cr": 11126.07,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -5241,7 +5081,7 @@
       "scrip_code": "540743",
       "market_cap_cr": 11083.78,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -5281,7 +5121,7 @@
       "scrip_code": "543960",
       "market_cap_cr": 10997.26,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -5355,16 +5195,6 @@
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
-    "MEDPLUS": {
-      "symbol": "MEDPLUS",
-      "name": "Medplus Health Services Limited",
-      "scrip_code": "543427",
-      "market_cap_cr": 10750.08,
-      "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "HC",
-      "rs_tier": "MID"
-    },
     "BLS": {
       "symbol": "BLS",
       "name": "BLS International Services Limited",
@@ -5421,7 +5251,7 @@
       "scrip_code": "544250",
       "market_cap_cr": 10582.68,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -5441,7 +5271,7 @@
       "scrip_code": "532762",
       "market_cap_cr": 10532.68,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -5631,7 +5461,7 @@
       "scrip_code": "500133",
       "market_cap_cr": 10022.4,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -5651,7 +5481,7 @@
       "scrip_code": "522285",
       "market_cap_cr": 9937.2,
       "exchange": "NSE",
-      "sector": "Steel",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -5681,7 +5511,7 @@
       "scrip_code": "530549",
       "market_cap_cr": 9758.56,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -5701,7 +5531,7 @@
       "scrip_code": "541556",
       "market_cap_cr": 9719.73,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Logistics",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -5721,7 +5551,7 @@
       "scrip_code": "532928",
       "market_cap_cr": 9621.82,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Jewellery",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -5751,7 +5581,7 @@
       "scrip_code": "533269",
       "market_cap_cr": 9520.59,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -5771,7 +5601,7 @@
       "scrip_code": "520113",
       "market_cap_cr": 9503.64,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -5821,7 +5651,7 @@
       "scrip_code": "544288",
       "market_cap_cr": 9295.97,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Logistics",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -5861,7 +5691,7 @@
       "scrip_code": "544022",
       "market_cap_cr": 8988.72,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -5881,7 +5711,7 @@
       "scrip_code": "532400",
       "market_cap_cr": 8925.39,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -5911,7 +5741,7 @@
       "scrip_code": "543317",
       "market_cap_cr": 8705.55,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -5971,7 +5801,7 @@
       "scrip_code": "532856",
       "market_cap_cr": 8624.3,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -5981,7 +5811,7 @@
       "scrip_code": "500043",
       "market_cap_cr": 8597.85,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -6021,7 +5851,7 @@
       "scrip_code": "541974",
       "market_cap_cr": 8516.82,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Agro",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -6041,7 +5871,7 @@
       "scrip_code": "532375",
       "market_cap_cr": 8468.2,
       "exchange": "NSE",
-      "sector": "Media & Entertainment",
+      "sector": "Media",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -6083,7 +5913,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
+      "rs_tier": "MID"
     },
     "V2RETAIL": {
       "symbol": "V2RETAIL",
@@ -6091,7 +5921,7 @@
       "scrip_code": "532867",
       "market_cap_cr": 8387.76,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -6101,7 +5931,7 @@
       "scrip_code": "544619",
       "market_cap_cr": 8382.48,
       "exchange": "NSE",
-      "sector": "Pharmaceuticals",
+      "sector": "Pharma",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -6151,7 +5981,7 @@
       "scrip_code": "",
       "market_cap_cr": 8307.07,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -6181,7 +6011,7 @@
       "scrip_code": "544570",
       "market_cap_cr": 8242.61,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -6201,7 +6031,7 @@
       "scrip_code": "538666",
       "market_cap_cr": 8164.95,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Agro",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -6261,7 +6091,7 @@
       "scrip_code": "544222",
       "market_cap_cr": 8030.2,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -6311,7 +6141,7 @@
       "scrip_code": "539302",
       "market_cap_cr": 7906.29,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -6361,7 +6191,7 @@
       "scrip_code": "543434",
       "market_cap_cr": 7796.37,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -6391,7 +6221,7 @@
       "scrip_code": "543957",
       "market_cap_cr": 7712.77,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -6431,7 +6261,7 @@
       "scrip_code": "544476",
       "market_cap_cr": 7643.87,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -6511,7 +6341,7 @@
       "scrip_code": "512329",
       "market_cap_cr": 7436.52,
       "exchange": "NSE",
-      "sector": "Financials",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -6521,7 +6351,7 @@
       "scrip_code": "524019",
       "market_cap_cr": 7417.21,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -6651,7 +6481,7 @@
       "scrip_code": "544488",
       "market_cap_cr": 7217.98,
       "exchange": "NSE",
-      "sector": "Energy",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -6715,16 +6545,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "RCF": {
-      "symbol": "RCF",
-      "name": "Rashtriya Chemicals and Fertilizers Limited",
-      "scrip_code": "524230",
-      "market_cap_cr": 7087.54,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
-    },
     "ASHAPURMIN": {
       "symbol": "ASHAPURMIN",
       "name": "Ashapura Minechem Limited",
@@ -6761,7 +6581,7 @@
       "scrip_code": "532553",
       "market_cap_cr": 7013.27,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -6774,16 +6594,6 @@
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "LOW"
-    },
-    "POWERICA": {
-      "symbol": "POWERICA",
-      "name": "Powerica Limited",
-      "scrip_code": "544744",
-      "market_cap_cr": 6978.7,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "MID"
     },
     "TANLA": {
       "symbol": "TANLA",
@@ -6811,7 +6621,7 @@
       "scrip_code": "540205",
       "market_cap_cr": 6906.95,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -6861,7 +6671,7 @@
       "scrip_code": "533033",
       "market_cap_cr": 6836.77,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -6901,7 +6711,7 @@
       "scrip_code": "544469",
       "market_cap_cr": 6738.52,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -6941,7 +6751,7 @@
       "scrip_code": "543398",
       "market_cap_cr": 6674.36,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -6995,23 +6805,13 @@
       "quality_tier": "STANDARD",
       "rs_tier": "LOW"
     },
-    "GARFIBRES": {
-      "symbol": "GARFIBRES",
-      "name": "Garware Technical Fibres Limited",
-      "scrip_code": "509557",
-      "market_cap_cr": 6546.09,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "HC",
-      "rs_tier": "MID"
-    },
     "INDIAGLYCO": {
       "symbol": "INDIAGLYCO",
       "name": "India Glycols Limited",
       "scrip_code": "500201",
       "market_cap_cr": 6535.11,
       "exchange": "NSE",
-      "sector": "Specialty Chemicals",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7021,7 +6821,7 @@
       "scrip_code": "543306",
       "market_cap_cr": 6522.04,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -7081,7 +6881,7 @@
       "scrip_code": "544317",
       "market_cap_cr": 6437.58,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7091,7 +6891,7 @@
       "scrip_code": "543532",
       "market_cap_cr": 6372.34,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Retail",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7151,7 +6951,7 @@
       "scrip_code": "519126",
       "market_cap_cr": 6285.32,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -7161,7 +6961,7 @@
       "scrip_code": "532509",
       "market_cap_cr": 6265.98,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -7181,7 +6981,7 @@
       "scrip_code": "538562",
       "market_cap_cr": 6202.38,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
     },
@@ -7361,7 +7161,7 @@
       "scrip_code": "531112",
       "market_cap_cr": 5779.59,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7381,7 +7181,7 @@
       "scrip_code": "543748",
       "market_cap_cr": 5740.9,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Pharma",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -7391,7 +7191,7 @@
       "scrip_code": "530305",
       "market_cap_cr": 5712.59,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7421,7 +7221,7 @@
       "scrip_code": "539607",
       "market_cap_cr": 5658.25,
       "exchange": "BSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -7441,7 +7241,7 @@
       "scrip_code": "",
       "market_cap_cr": 5606.0,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "NBFC",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -7451,7 +7251,7 @@
       "scrip_code": "544526",
       "market_cap_cr": 5605.97,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7475,16 +7275,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "LOW"
     },
-    "NIRLON": {
-      "symbol": "NIRLON",
-      "name": "Nirlon Limited",
-      "scrip_code": "",
-      "market_cap_cr": 5426.91,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "LOW"
-    },
     "PTC": {
       "symbol": "PTC",
       "name": "PTC India Limited",
@@ -7501,7 +7291,7 @@
       "scrip_code": "505192",
       "market_cap_cr": 5420.79,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7511,7 +7301,7 @@
       "scrip_code": "544664",
       "market_cap_cr": 5374.04,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -7581,19 +7371,9 @@
       "scrip_code": "517206",
       "market_cap_cr": 5248.28,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "HC",
       "rs_tier": "LOW"
-    },
-    "JSFB": {
-      "symbol": "JSFB",
-      "name": "Jana Small Finance Bank Limited",
-      "scrip_code": "544118",
-      "market_cap_cr": 5217.02,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "MID"
     },
     "ENTERO": {
       "symbol": "ENTERO",
@@ -7671,7 +7451,7 @@
       "scrip_code": "500336",
       "market_cap_cr": 5123.68,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -7684,16 +7464,6 @@
       "sector": "Agro",
       "quality_tier": "SB",
       "rs_tier": "MID"
-    },
-    "JAMNAAUTO": {
-      "symbol": "JAMNAAUTO",
-      "name": "Jamna Auto Industries Limited",
-      "scrip_code": "520051",
-      "market_cap_cr": 5104.08,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "LOW"
     },
     "NEOGEN": {
       "symbol": "NEOGEN",
@@ -7831,7 +7601,7 @@
       "scrip_code": "544580",
       "market_cap_cr": 4901.68,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Market Infra",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7841,7 +7611,7 @@
       "scrip_code": "544067",
       "market_cap_cr": 4866.41,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -7861,7 +7631,7 @@
       "scrip_code": "534804",
       "market_cap_cr": 4862.56,
       "exchange": "NSE",
-      "sector": "Financials",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7871,7 +7641,7 @@
       "scrip_code": "535602",
       "market_cap_cr": 4841.19,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -7892,16 +7662,6 @@
       "market_cap_cr": 4826.2,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
-    },
-    "LGBBROSLTD": {
-      "symbol": "LGBBROSLTD",
-      "name": "LG Balakrishnan & Bros Limited",
-      "scrip_code": "500250",
-      "market_cap_cr": 4824.4,
-      "exchange": "NSE",
-      "sector": "Infrastructure",
       "quality_tier": "STANDARD",
       "rs_tier": "LOW"
     },
@@ -7941,7 +7701,7 @@
       "scrip_code": "517385",
       "market_cap_cr": 4780.56,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -7961,19 +7721,9 @@
       "scrip_code": "532884",
       "market_cap_cr": 4773.37,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
-    },
-    "ELECTCAST": {
-      "symbol": "ELECTCAST",
-      "name": "Electrosteel Castings Limited",
-      "scrip_code": "500128",
-      "market_cap_cr": 4768.06,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "MID"
     },
     "WEBELSOLAR": {
       "symbol": "WEBELSOLAR",
@@ -7981,7 +7731,7 @@
       "scrip_code": "517498",
       "market_cap_cr": 4743.67,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
     },
@@ -8001,7 +7751,7 @@
       "scrip_code": "543258",
       "market_cap_cr": 4724.18,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -8031,7 +7781,7 @@
       "scrip_code": "533520",
       "market_cap_cr": 4696.8,
       "exchange": "NSE",
-      "sector": "Diversified Services",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -8071,7 +7821,7 @@
       "scrip_code": "500407",
       "market_cap_cr": 4660.16,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -8081,7 +7831,7 @@
       "scrip_code": "533333",
       "market_cap_cr": 4656.84,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
     },
@@ -8111,7 +7861,7 @@
       "scrip_code": "526729",
       "market_cap_cr": 4617.21,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Jewellery",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -8151,7 +7901,7 @@
       "scrip_code": "500414",
       "market_cap_cr": 4536.19,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -8215,23 +7965,13 @@
       "quality_tier": "STANDARD",
       "rs_tier": "LOW"
     },
-    "IONEXCHANG": {
-      "symbol": "IONEXCHANG",
-      "name": "ION Exchange (India) Limited",
-      "scrip_code": "500214",
-      "market_cap_cr": 4450.7,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
-    },
     "RPEL": {
       "symbol": "RPEL",
       "name": "Raghav Productivity Enhancers Limited",
       "scrip_code": "539837",
       "market_cap_cr": 4431.93,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "HC",
       "rs_tier": "HIGH"
     },
@@ -8291,7 +8031,7 @@
       "scrip_code": "543626",
       "market_cap_cr": 4386.14,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -8301,7 +8041,7 @@
       "scrip_code": "542760",
       "market_cap_cr": 4383.04,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -8311,7 +8051,7 @@
       "scrip_code": "509966",
       "market_cap_cr": 4335.23,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -8331,7 +8071,7 @@
       "scrip_code": "530655",
       "market_cap_cr": 4305.72,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -8343,16 +8083,6 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
-      "rs_tier": "LOW"
-    },
-    "RAYMONDLSL": {
-      "symbol": "RAYMONDLSL",
-      "name": "Raymond Lifestyle Limited",
-      "scrip_code": "544240",
-      "market_cap_cr": 4302.39,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
       "rs_tier": "LOW"
     },
     "THOMASCOOK": {
@@ -8451,7 +8181,7 @@
       "scrip_code": "500171",
       "market_cap_cr": 4184.11,
       "exchange": "NSE",
-      "sector": "Textiles",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -8461,7 +8191,7 @@
       "scrip_code": "544545",
       "market_cap_cr": 4180.87,
       "exchange": "NSE",
-      "sector": "Renewable Energy",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -8521,7 +8251,7 @@
       "scrip_code": "544198",
       "market_cap_cr": 4110.09,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -8541,7 +8271,7 @@
       "scrip_code": "544550",
       "market_cap_cr": 4099.88,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -8551,7 +8281,7 @@
       "scrip_code": "539118",
       "market_cap_cr": 4088.28,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Logistics",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -8574,16 +8304,6 @@
       "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "MID"
-    },
-    "SANDHAR": {
-      "symbol": "SANDHAR",
-      "name": "Sandhar Technologies Limited",
-      "scrip_code": "541163",
-      "market_cap_cr": 4071.13,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "HIGH"
     },
     "CAPILLARY": {
       "symbol": "CAPILLARY",
@@ -8671,7 +8391,7 @@
       "scrip_code": "",
       "market_cap_cr": 3972.0,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -8691,7 +8411,7 @@
       "scrip_code": "532626",
       "market_cap_cr": 3921.61,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -8771,7 +8491,7 @@
       "scrip_code": "543325",
       "market_cap_cr": 3826.55,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -8791,7 +8511,7 @@
       "scrip_code": "500187",
       "market_cap_cr": 3816.82,
       "exchange": "NSE",
-      "sector": "Consumer",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -8811,7 +8531,7 @@
       "scrip_code": "541019",
       "market_cap_cr": 3803.71,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -8821,7 +8541,7 @@
       "scrip_code": "524164",
       "market_cap_cr": 3785.92,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -8891,7 +8611,7 @@
       "scrip_code": "532156",
       "market_cap_cr": 3718.94,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -9001,7 +8721,7 @@
       "scrip_code": "520057",
       "market_cap_cr": 3645.55,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -9091,7 +8811,7 @@
       "scrip_code": "",
       "market_cap_cr": 3567.9,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -9111,7 +8831,7 @@
       "scrip_code": "544699",
       "market_cap_cr": 3544.26,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "NBFC",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -9241,7 +8961,7 @@
       "scrip_code": "532054",
       "market_cap_cr": 3416.74,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -9311,7 +9031,7 @@
       "scrip_code": "544530",
       "market_cap_cr": 3370.86,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -9441,7 +9161,7 @@
       "scrip_code": "513262",
       "market_cap_cr": 3174.2,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -9461,7 +9181,7 @@
       "scrip_code": "530073",
       "market_cap_cr": 3151.8,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -9481,7 +9201,7 @@
       "scrip_code": "532735",
       "market_cap_cr": 3141.62,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -9491,7 +9211,7 @@
       "scrip_code": "523319",
       "market_cap_cr": 3139.29,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -9541,7 +9261,7 @@
       "scrip_code": "542597",
       "market_cap_cr": 3101.12,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Logistics",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -9551,7 +9271,7 @@
       "scrip_code": "526797",
       "market_cap_cr": 3098.82,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -9571,7 +9291,7 @@
       "scrip_code": "544320",
       "market_cap_cr": 3090.17,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -9591,7 +9311,7 @@
       "scrip_code": "524091",
       "market_cap_cr": 3064.83,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -9621,7 +9341,7 @@
       "scrip_code": "543288",
       "market_cap_cr": 3051.52,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Oil & Gas",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -9661,7 +9381,7 @@
       "scrip_code": "540725",
       "market_cap_cr": 3021.76,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Market Infra",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -9741,7 +9461,7 @@
       "scrip_code": "544232",
       "market_cap_cr": 2931.72,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -9751,7 +9471,7 @@
       "scrip_code": "533676",
       "market_cap_cr": 2920.92,
       "exchange": "NSE",
-      "sector": "IT",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -9771,7 +9491,7 @@
       "scrip_code": "535754",
       "market_cap_cr": 2908.28,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -9851,7 +9571,7 @@
       "scrip_code": "543213",
       "market_cap_cr": 2873.99,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -9871,7 +9591,7 @@
       "scrip_code": "543952",
       "market_cap_cr": 2852.86,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -9991,7 +9711,7 @@
       "scrip_code": "",
       "market_cap_cr": 2751.13,
       "exchange": "NSE",
-      "sector": "Textiles",
+      "sector": "Others",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -10011,7 +9731,7 @@
       "scrip_code": "539301",
       "market_cap_cr": 2724.96,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -10025,23 +9745,13 @@
       "quality_tier": "HC",
       "rs_tier": "HIGH"
     },
-    "JUBLCPL": {
-      "symbol": "JUBLCPL",
-      "name": "Jubilant Agri and Consumer Products Limited",
-      "scrip_code": "544355",
-      "market_cap_cr": 2712.45,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
-    },
     "JTLIND": {
       "symbol": "JTLIND",
       "name": "JTL INDUSTRIES LIMITED",
       "scrip_code": "534600",
       "market_cap_cr": 2712.26,
       "exchange": "NSE",
-      "sector": "Steel",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -10051,7 +9761,7 @@
       "scrip_code": "543689",
       "market_cap_cr": 2710.81,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -10081,7 +9791,7 @@
       "scrip_code": "532717",
       "market_cap_cr": 2672.84,
       "exchange": "NSE",
-      "sector": "Electrical Equipment",
+      "sector": "Capital Equipment",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -10101,7 +9811,7 @@
       "scrip_code": "511551",
       "market_cap_cr": 2663.42,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Market Infra",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -10111,7 +9821,7 @@
       "scrip_code": "506022",
       "market_cap_cr": 2652.92,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -10201,7 +9911,7 @@
       "scrip_code": "505010",
       "market_cap_cr": 2615.28,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -10261,7 +9971,7 @@
       "scrip_code": "543547",
       "market_cap_cr": 2565.19,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -10291,7 +10001,7 @@
       "scrip_code": "514234",
       "market_cap_cr": 2544.15,
       "exchange": "NSE",
-      "sector": "Textiles",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -10321,7 +10031,7 @@
       "scrip_code": "544402",
       "market_cap_cr": 2534.45,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Capital Goods",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -10343,7 +10053,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "GKENERGY": {
       "symbol": "GKENERGY",
@@ -10351,9 +10061,9 @@
       "scrip_code": "544525",
       "market_cap_cr": 2521.83,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "SB",
-      "rs_tier": "MID"
+      "rs_tier": "UNKNOWN"
     },
     "PROTEAN": {
       "symbol": "PROTEAN",
@@ -10363,7 +10073,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "GLOBUSSPR": {
       "symbol": "GLOBUSSPR",
@@ -10401,7 +10111,7 @@
       "scrip_code": "532930",
       "market_cap_cr": 2499.32,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "STANDARD",
       "rs_tier": "LOW"
     },
@@ -10441,7 +10151,7 @@
       "scrip_code": "532486",
       "market_cap_cr": 2482.49,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Infrastructure",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -10461,9 +10171,9 @@
       "scrip_code": "543812",
       "market_cap_cr": 2481.96,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "TIRUMALCHM": {
       "symbol": "TIRUMALCHM",
@@ -10483,7 +10193,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "MID"
+      "rs_tier": "UNKNOWN"
     },
     "MARSONS": {
       "symbol": "MARSONS",
@@ -10521,9 +10231,9 @@
       "scrip_code": "590005",
       "market_cap_cr": 2443.69,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "HC",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "MUFIN": {
       "symbol": "MUFIN",
@@ -10531,7 +10241,7 @@
       "scrip_code": "",
       "market_cap_cr": 2441.56,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "NBFC",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -10551,9 +10261,9 @@
       "scrip_code": "539686",
       "market_cap_cr": 2417.23,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "HC",
-      "rs_tier": "MID"
+      "rs_tier": "UNKNOWN"
     },
     "BHARATRAS": {
       "symbol": "BHARATRAS",
@@ -10591,7 +10301,7 @@
       "scrip_code": "535322",
       "market_cap_cr": 2402.36,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "NBFC",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -10601,7 +10311,7 @@
       "scrip_code": "522064",
       "market_cap_cr": 2397.21,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -10611,9 +10321,9 @@
       "scrip_code": "",
       "market_cap_cr": 2395.76,
       "exchange": "NSE",
-      "sector": "Financials",
+      "sector": "NBFC",
       "quality_tier": "SB",
-      "rs_tier": "HIGH"
+      "rs_tier": "UNKNOWN"
     },
     "RHETAN": {
       "symbol": "RHETAN",
@@ -10623,7 +10333,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "SIRCA": {
       "symbol": "SIRCA",
@@ -10641,7 +10351,7 @@
       "scrip_code": "500052",
       "market_cap_cr": 2377.34,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -10683,7 +10393,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "MID"
+      "rs_tier": "UNKNOWN"
     },
     "CAMLINFINE": {
       "symbol": "CAMLINFINE",
@@ -10703,7 +10413,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "FMGOETZE": {
       "symbol": "FMGOETZE",
@@ -10713,7 +10423,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "MOLDTKPAC": {
       "symbol": "MOLDTKPAC",
@@ -10733,7 +10443,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "SAGCEM": {
       "symbol": "SAGCEM",
@@ -10743,7 +10453,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "TCPLPACK": {
       "symbol": "TCPLPACK",
@@ -10793,7 +10503,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "MANGLMCEM": {
       "symbol": "MANGLMCEM",
@@ -10831,7 +10541,7 @@
       "scrip_code": "544386",
       "market_cap_cr": 2268.14,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Media",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -10893,7 +10603,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "APOLLOPIPE": {
       "symbol": "APOLLOPIPE",
@@ -10913,7 +10623,7 @@
       "exchange": "NSE",
       "sector": "NBFC",
       "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "ADVAIT": {
       "symbol": "ADVAIT",
@@ -10943,7 +10653,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "EXICOM": {
       "symbol": "EXICOM",
@@ -10961,7 +10671,7 @@
       "scrip_code": "",
       "market_cap_cr": 2202.21,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -10981,7 +10691,7 @@
       "scrip_code": "513228",
       "market_cap_cr": 2196.92,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -10994,16 +10704,6 @@
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "LOW"
-    },
-    "DCXINDIA": {
-      "symbol": "DCXINDIA",
-      "name": "DCX Systems Limited",
-      "scrip_code": "543650",
-      "market_cap_cr": 2182.06,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "MID"
     },
     "EPACK": {
       "symbol": "EPACK",
@@ -11031,7 +10731,7 @@
       "scrip_code": "",
       "market_cap_cr": 2170.71,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Jewellery",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -11043,7 +10743,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "HIGH"
+      "rs_tier": "UNKNOWN"
     },
     "MMFL": {
       "symbol": "MMFL",
@@ -11071,9 +10771,9 @@
       "scrip_code": "544217",
       "market_cap_cr": 2155.22,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Agro",
       "quality_tier": "SB",
-      "rs_tier": "HIGH"
+      "rs_tier": "UNKNOWN"
     },
     "SAIPARENT": {
       "symbol": "SAIPARENT",
@@ -11121,7 +10821,7 @@
       "scrip_code": "505160",
       "market_cap_cr": 2131.78,
       "exchange": "NSE",
-      "sector": "Auto Components",
+      "sector": "Auto",
       "quality_tier": "HC",
       "rs_tier": "MID"
     },
@@ -11141,7 +10841,7 @@
       "scrip_code": "506854",
       "market_cap_cr": 2121.25,
       "exchange": "BSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -11161,9 +10861,9 @@
       "scrip_code": "507488",
       "market_cap_cr": 2121.11,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "HC",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "PIXTRANS": {
       "symbol": "PIXTRANS",
@@ -11171,7 +10871,7 @@
       "scrip_code": "500333",
       "market_cap_cr": 2118.72,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -11185,33 +10885,13 @@
       "quality_tier": "STANDARD",
       "rs_tier": "LOW"
     },
-    "ARKADE": {
-      "symbol": "ARKADE",
-      "name": "Arkade Developers Limited",
-      "scrip_code": "544261",
-      "market_cap_cr": 2114.89,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "LOW"
-    },
-    "VINCOFE": {
-      "symbol": "VINCOFE",
-      "name": "Vintage Coffee And Beverages Limited",
-      "scrip_code": "538920",
-      "market_cap_cr": 2110.73,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "HC",
-      "rs_tier": "LOW"
-    },
     "BCG": {
       "symbol": "BCG",
       "name": "Brightcom Group Limited",
       "scrip_code": "532368",
       "market_cap_cr": 2107.34,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -11231,7 +10911,7 @@
       "scrip_code": "",
       "market_cap_cr": 2085.42,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "LOW"
     },
@@ -11253,7 +10933,7 @@
       "exchange": "NSE",
       "sector": "Capital Goods",
       "quality_tier": "HC",
-      "rs_tier": "HIGH"
+      "rs_tier": "UNKNOWN"
     },
     "VENKEYS": {
       "symbol": "VENKEYS",
@@ -11261,9 +10941,9 @@
       "scrip_code": "523261",
       "market_cap_cr": 2048.3,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "FMCG",
       "quality_tier": "HC",
-      "rs_tier": "LOW"
+      "rs_tier": "UNKNOWN"
     },
     "RISHABH": {
       "symbol": "RISHABH",
@@ -11273,7 +10953,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "MID"
+      "rs_tier": "UNKNOWN"
     },
     "MUKANDLTD": {
       "symbol": "MUKANDLTD",
@@ -11293,7 +10973,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "MID"
+      "rs_tier": "UNKNOWN"
     },
     "JAICORPLTD": {
       "symbol": "JAICORPLTD",
@@ -11323,7 +11003,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
-      "rs_tier": "MID"
+      "rs_tier": "UNKNOWN"
     },
     "SHRINGARMS": {
       "symbol": "SHRINGARMS",
@@ -11331,7 +11011,7 @@
       "scrip_code": "544512",
       "market_cap_cr": 2025.85,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Defence",
       "quality_tier": "HC",
       "rs_tier": "LOW"
     },
@@ -11341,7 +11021,7 @@
       "scrip_code": "544733",
       "market_cap_cr": 2025.66,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "MID"
     },
@@ -11371,7 +11051,7 @@
       "scrip_code": "544107",
       "market_cap_cr": 2012.16,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "HIGH"
     },
@@ -11403,7 +11083,7 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "MID"
+      "rs_tier": "UNKNOWN"
     }
   }
 }
