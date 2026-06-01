@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 471.85,
-      "unrealised_pct": 3.09
+      "current_price": 472.2,
+      "unrealised_pct": 3.17
     },
     {
       "symbol": "BSE",
@@ -31,8 +31,8 @@
       "rs_composite": 48.81,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4131.2,
-      "unrealised_pct": -3.45
+      "current_price": 4053.0,
+      "unrealised_pct": -5.28
     },
     {
       "symbol": "CUPID",
@@ -48,8 +48,8 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 130.96,
-      "unrealised_pct": 7.27
+      "current_price": 129.7,
+      "unrealised_pct": 6.23
     },
     {
       "symbol": "STLTECH",
@@ -82,34 +82,9 @@
       "rs_composite": 84.66,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 186.77,
-      "unrealised_pct": 28.75
-    },
-    {
-      "symbol": "MTARTECH",
-      "scanner": "VCP Breakout",
-      "entry_price": 7961.5,
-      "entry_time": "11:25",
-      "entry_date": "2026-05-29",
-      "stop_price": 7404.2,
-      "stop_unlocked": false,
-      "high_since_entry": 8145.0,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 84.88,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 7777.0,
-      "unrealised_pct": -2.32,
-      "exit_price": 7404.2,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "11:25",
-      "exit_date": "2026-06-01",
-      "pnl_pct": -7.0,
-      "pnl_inr": -10000,
-      "hold_days": 3,
-      "capital_per_slot": 142857
+      "current_price": 185.34,
+      "unrealised_pct": 27.77
     }
   ],
-  "last_updated": "2026-06-01 11:25 IST"
+  "last_updated": "2026-06-01 13:25 IST"
 }
