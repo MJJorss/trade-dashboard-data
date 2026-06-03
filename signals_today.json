@@ -4748,7 +4748,7 @@
         "Mark"
       ],
       "price": 3539.3,
-      "chg_pct": 1.05,
+      "chg_pct": 102.11,
       "vol_today": 255952,
       "vol_avg_3m": 258944,
       "vol_ratio": 0.99,
@@ -8530,7 +8530,7 @@
         "Mark"
       ],
       "price": 3539.3,
-      "chg_pct": 1.05,
+      "chg_pct": 102.11,
       "vol_today": 621240,
       "vol_avg_3m": 303673,
       "vol_ratio": 2.05,
@@ -10719,7 +10719,7 @@
         "Mark"
       ],
       "price": 3539.3,
-      "chg_pct": 1.05,
+      "chg_pct": 102.11,
       "vol_today": 627620,
       "vol_avg_3m": 306931,
       "vol_ratio": 2.04,
@@ -11280,5 +11280,5 @@
       "vol_emoji": "💤"
     }
   ],
-  "price_updated_at": "2026-06-02 20:03 IST"
+  "price_updated_at": "2026-06-03 08:46 IST"
 }
