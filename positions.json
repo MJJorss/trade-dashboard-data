@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 476.4,
-      "unrealised_pct": 4.09
+      "current_price": 468.3,
+      "unrealised_pct": 2.32
     },
     {
       "symbol": "CUPID",
@@ -31,8 +31,8 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 129.09,
-      "unrealised_pct": 5.73
+      "current_price": 128.94,
+      "unrealised_pct": 5.61
     },
     {
       "symbol": "STLTECH",
@@ -59,15 +59,15 @@
       "entry_date": "2026-05-22",
       "stop_price": 134.91,
       "stop_unlocked": true,
-      "high_since_entry": 194.99,
+      "high_since_entry": 197.4,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 84.66,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 194.75,
-      "unrealised_pct": 34.25
+      "current_price": 196.75,
+      "unrealised_pct": 35.63
     }
   ],
-  "last_updated": "2026-06-03 09:25 IST"
+  "last_updated": "2026-06-03 11:25 IST"
 }
