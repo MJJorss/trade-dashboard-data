@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 470.15,
-      "unrealised_pct": 2.72
+      "current_price": 472.05,
+      "unrealised_pct": 3.14
     },
     {
       "symbol": "CUPID",
@@ -25,40 +25,15 @@
       "entry_date": "2026-05-21",
       "stop_price": 113.54,
       "stop_unlocked": true,
-      "high_since_entry": 137.7,
+      "high_since_entry": 137.87,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 136.79,
-      "unrealised_pct": 12.04
-    },
-    {
-      "symbol": "STLTECH",
-      "scanner": "VCP Breakout",
-      "entry_price": 411.0,
-      "entry_time": "09:25",
-      "entry_date": "2026-05-21",
-      "stop_price": 382.23,
-      "stop_unlocked": true,
-      "high_since_entry": 679.9,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 124.17,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 672.0,
-      "unrealised_pct": 63.5,
-      "exit_price": 619.05,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "11:25",
-      "exit_date": "2026-06-05",
-      "pnl_pct": 50.62,
-      "pnl_inr": 72314,
-      "hold_days": 15,
-      "capital_per_slot": 142857
+      "current_price": 135.97,
+      "unrealised_pct": 11.37
     }
   ],
-  "last_updated": "2026-06-05 11:25 IST"
+  "last_updated": "2026-06-05 13:25 IST"
 }
