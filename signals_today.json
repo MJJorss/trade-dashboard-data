@@ -3662,8 +3662,8 @@
       "scanners": [
         "Mark"
       ],
-      "price": 1461.2,
-      "chg_pct": 0.05,
+      "price": 1476.1,
+      "chg_pct": 1.07,
       "vol_today": 243424,
       "vol_avg_3m": 146036,
       "vol_ratio": 1.67,
@@ -6590,8 +6590,8 @@
       "scanners": [
         "Mark"
       ],
-      "price": 32.98,
-      "chg_pct": -2.63,
+      "price": 32.88,
+      "chg_pct": -2.92,
       "vol_today": 2707583,
       "vol_avg_3m": 2110747,
       "vol_ratio": 1.28,
@@ -12407,5 +12407,5 @@
       "vol_emoji": "⚡"
     }
   ],
-  "price_updated_at": "2026-06-05 16:12 IST"
+  "price_updated_at": "2026-06-05 18:56 IST"
 }
