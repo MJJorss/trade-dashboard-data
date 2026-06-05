@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 480.95,
-      "unrealised_pct": 5.08
+      "current_price": 477.65,
+      "unrealised_pct": 4.36
     },
     {
       "symbol": "CUPID",
@@ -25,14 +25,14 @@
       "entry_date": "2026-05-21",
       "stop_price": 113.54,
       "stop_unlocked": true,
-      "high_since_entry": 135.0,
+      "high_since_entry": 136.5,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 133.31,
-      "unrealised_pct": 9.19
+      "current_price": 136.28,
+      "unrealised_pct": 11.62
     },
     {
       "symbol": "STLTECH",
@@ -42,40 +42,15 @@
       "entry_date": "2026-05-21",
       "stop_price": 382.23,
       "stop_unlocked": true,
-      "high_since_entry": 651.6,
+      "high_since_entry": 679.9,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 124.17,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 651.6,
-      "unrealised_pct": 58.54
-    },
-    {
-      "symbol": "HFCL",
-      "scanner": "VCP Breakout",
-      "entry_price": 145.06,
-      "entry_time": "13:25",
-      "entry_date": "2026-05-22",
-      "stop_price": 134.91,
-      "stop_unlocked": true,
-      "high_since_entry": 208.98,
-      "conviction": "\ud83d\ude80 STRONG",
-      "rs_tier": "HIGH",
-      "rs_composite": 84.66,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 201.09,
-      "unrealised_pct": 38.63,
-      "exit_price": 197.0,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "15:25",
-      "exit_date": "2026-06-04",
-      "pnl_pct": 35.81,
-      "pnl_inr": 51157,
-      "hold_days": 13,
-      "capital_per_slot": 142857
+      "current_price": 672.0,
+      "unrealised_pct": 63.5
     }
   ],
-  "last_updated": "2026-06-04 15:25 IST"
+  "last_updated": "2026-06-05 09:25 IST"
 }

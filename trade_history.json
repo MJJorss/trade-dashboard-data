@@ -304,6 +304,22 @@
       "capital_per_slot": 142857,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-06"
+    },
+    {
+      "symbol": "STLTECH",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 411.0,
+      "exit_price": 619.05,
+      "entry_date": "2026-05-21",
+      "exit_date": "2026-06-05",
+      "hold_days": 15,
+      "pnl_pct": 50.62,
+      "pnl_inr": 72314,
+      "capital_per_slot": 142857,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-06"
     }
   ]
 }
