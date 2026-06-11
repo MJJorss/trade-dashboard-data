@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 451.25,
-      "unrealised_pct": -1.41
+      "current_price": 450.0,
+      "unrealised_pct": -1.68
     },
     {
       "symbol": "CUPID",
@@ -25,15 +25,15 @@
       "entry_date": "2026-05-21",
       "stop_price": 113.54,
       "stop_unlocked": true,
-      "high_since_entry": 150.99,
+      "high_since_entry": 153.45,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 150.91,
-      "unrealised_pct": 23.61
+      "current_price": 152.38,
+      "unrealised_pct": 24.81
     }
   ],
-  "last_updated": "2026-06-10 15:25 IST"
+  "last_updated": "2026-06-11 09:25 IST"
 }
