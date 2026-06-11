@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 448.75,
-      "unrealised_pct": -1.96
+      "current_price": 445.55,
+      "unrealised_pct": -2.65
     },
     {
       "symbol": "CUPID",
@@ -31,9 +31,9 @@
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 155.09,
-      "unrealised_pct": 27.03
+      "current_price": 152.73,
+      "unrealised_pct": 25.1
     }
   ],
-  "last_updated": "2026-06-11 11:25 IST"
+  "last_updated": "2026-06-11 13:25 IST"
 }
