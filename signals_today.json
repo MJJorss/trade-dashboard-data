@@ -3885,7 +3885,7 @@
         "Mark"
       ],
       "price": 256.8,
-      "chg_pct": 1.44,
+      "chg_pct": 35.26,
       "vol_today": 4611010,
       "vol_avg_3m": 2857056,
       "vol_ratio": 1.61,
@@ -7342,7 +7342,7 @@
         "Mark"
       ],
       "price": 256.8,
-      "chg_pct": 1.44,
+      "chg_pct": 35.26,
       "vol_today": 2345177,
       "vol_avg_3m": 2914941,
       "vol_ratio": 0.8,
@@ -7580,5 +7580,5 @@
       "vol_emoji": "⚡"
     }
   ],
-  "price_updated_at": "2026-06-11 19:43 IST"
+  "price_updated_at": "2026-06-12 08:46 IST"
 }
