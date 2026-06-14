@@ -1,48 +1,48 @@
 {
   "metadata": {
-    "built_at": "14 Jun 2026 11:58 PM IST",
+    "built_at": "15 Jun 2026 12:45 AM IST",
     "threshold_cr": 2000,
-    "total_companies": 661,
-    "hc_count": 101,
-    "sb_count": 278,
-    "standard_count": 282,
+    "total_companies": 780,
+    "hc_count": 127,
+    "sb_count": 309,
+    "standard_count": 344,
     "rs_high_count": 0,
     "rs_mid_count": 0,
     "rs_low_count": 0,
-    "rs_unknown_count": 661,
+    "rs_unknown_count": 780,
     "symbols_checked": 3973,
-    "symbols_failed": 1997,
-    "scrip_code_coverage": 618
+    "symbols_failed": 2399,
+    "scrip_code_coverage": 718
   },
   "universe": {
-    "RELIANCE": {
-      "symbol": "RELIANCE",
-      "name": "Reliance Industries Limited",
-      "scrip_code": "500325",
-      "market_cap_cr": 1754349.75,
-      "exchange": "NSE",
-      "sector": "Oil & Gas",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "HDFCBANK": {
       "symbol": "HDFCBANK",
       "name": "HDFC Bank Limited",
       "scrip_code": "500180",
-      "market_cap_cr": 1188613.22,
+      "market_cap_cr": 1188511.61,
       "exchange": "NSE",
       "sector": "Banking",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "TCS": {
-      "symbol": "TCS",
-      "name": "Tata Consultancy Services Limited",
-      "scrip_code": "532540",
-      "market_cap_cr": 781904.93,
+    "ICICIBANK": {
+      "symbol": "ICICIBANK",
+      "name": "ICICI Bank Limited",
+      "scrip_code": "532174",
+      "market_cap_cr": 960968.84,
       "exchange": "NSE",
-      "sector": "IT",
-      "quality_tier": "SB",
+      "sector": "Banking",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "SBIN": {
+      "symbol": "SBIN",
+      "name": "State Bank of India",
+      "scrip_code": "",
+      "market_cap_cr": 938199.95,
+      "exchange": "NSE",
+      "sector": "Banking",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "BAJFINANCE": {
@@ -55,23 +55,23 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "LT": {
-      "symbol": "LT",
-      "name": "Larsen & Toubro Limited",
-      "scrip_code": "500510",
-      "market_cap_cr": 557145.65,
+    "INFY": {
+      "symbol": "INFY",
+      "name": "Infosys Limited",
+      "scrip_code": "500209",
+      "market_cap_cr": 452836.46,
       "exchange": "NSE",
-      "sector": "Capital Goods",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "LICI": {
-      "symbol": "LICI",
-      "name": "Life Insurance Corporation Of India",
-      "scrip_code": "543526",
-      "market_cap_cr": 504292.08,
+    "SUNPHARMA": {
+      "symbol": "SUNPHARMA",
+      "name": "Sun Pharmaceutical Industries Limited",
+      "scrip_code": "524715",
+      "market_cap_cr": 433559.83,
       "exchange": "NSE",
-      "sector": "Insurance",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -85,14 +85,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "AXISBANK": {
-      "symbol": "AXISBANK",
-      "name": "Axis Bank Limited",
-      "scrip_code": "532215",
-      "market_cap_cr": 420816.98,
+    "MARUTI": {
+      "symbol": "MARUTI",
+      "name": "Maruti Suzuki India Limited",
+      "scrip_code": "532500",
+      "market_cap_cr": 419727.41,
       "exchange": "NSE",
-      "sector": "Banking",
-      "quality_tier": "STANDARD",
+      "sector": "Auto",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "ADANIPORTS": {
@@ -115,6 +115,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "KOTAKBANK": {
+      "symbol": "KOTAKBANK",
+      "name": "Kotak Mahindra Bank Limited",
+      "scrip_code": "500247",
+      "market_cap_cr": 401837.21,
+      "exchange": "NSE",
+      "sector": "Banking",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "TITAN": {
       "symbol": "TITAN",
       "name": "Titan Company Limited",
@@ -125,33 +135,23 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "M&M": {
-      "symbol": "M&M",
-      "name": "Mahindra & Mahindra Limited",
-      "scrip_code": "500520",
-      "market_cap_cr": 365019.71,
+    "JSWSTEEL": {
+      "symbol": "JSWSTEEL",
+      "name": "JSW Steel Limited",
+      "scrip_code": "500228",
+      "market_cap_cr": 317063.4,
       "exchange": "NSE",
-      "sector": "Auto",
-      "quality_tier": "HC",
+      "sector": "Metals",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "ULTRACEMCO": {
-      "symbol": "ULTRACEMCO",
-      "name": "UltraTech Cement Limited",
-      "scrip_code": "532538",
-      "market_cap_cr": 326822.45,
+    "HCLTECH": {
+      "symbol": "HCLTECH",
+      "name": "HCL Technologies Limited",
+      "scrip_code": "532281",
+      "market_cap_cr": 300340.11,
       "exchange": "NSE",
-      "sector": "Infrastructure",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "ONGC": {
-      "symbol": "ONGC",
-      "name": "Oil & Natural Gas Corporation Limited",
-      "scrip_code": "500312",
-      "market_cap_cr": 310670.0,
-      "exchange": "NSE",
-      "sector": "Oil & Gas",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -185,24 +185,24 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "COALINDIA": {
-      "symbol": "COALINDIA",
-      "name": "Coal India Limited",
-      "scrip_code": "533278",
-      "market_cap_cr": 274087.36,
+    "NESTLEIND": {
+      "symbol": "NESTLEIND",
+      "name": "Nestle India Limited",
+      "scrip_code": "500790",
+      "market_cap_cr": 265432.47,
       "exchange": "NSE",
-      "sector": "Metals",
+      "sector": "FMCG",
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "POWERGRID": {
-      "symbol": "POWERGRID",
-      "name": "Power Grid Corporation of India Limited",
-      "scrip_code": "532898",
-      "market_cap_cr": 265020.72,
+    "ASIANPAINT": {
+      "symbol": "ASIANPAINT",
+      "name": "Asian Paints Limited",
+      "scrip_code": "500820",
+      "market_cap_cr": 262678.12,
       "exchange": "NSE",
-      "sector": "Power",
-      "quality_tier": "SB",
+      "sector": "Chemicals",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "DMART": {
@@ -225,6 +225,16 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "ADANIGREEN": {
+      "symbol": "ADANIGREEN",
+      "name": "Adani Green Energy Limited",
+      "scrip_code": "",
+      "market_cap_cr": 244127.97,
+      "exchange": "NSE",
+      "sector": "Power",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "HINDZINC": {
       "symbol": "HINDZINC",
       "name": "Hindustan Zinc Limited",
@@ -235,21 +245,31 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "HINDALCO": {
+      "symbol": "HINDALCO",
+      "name": "Hindalco Industries Limited",
+      "scrip_code": "500440",
+      "market_cap_cr": 228490.11,
+      "exchange": "NSE",
+      "sector": "Metals",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SHRIRAMFIN": {
+      "symbol": "SHRIRAMFIN",
+      "name": "Shriram Finance Limited",
+      "scrip_code": "",
+      "market_cap_cr": 225409.26,
+      "exchange": "NSE",
+      "sector": "NBFC",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "ETERNAL": {
       "symbol": "ETERNAL",
       "name": "ETERNAL LIMITED",
       "scrip_code": "543320",
       "market_cap_cr": 224376.94,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "GRASIM": {
-      "symbol": "GRASIM",
-      "name": "Grasim Industries Limited",
-      "scrip_code": "500300",
-      "market_cap_cr": 210375.99,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -265,16 +285,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "IOC": {
-      "symbol": "IOC",
-      "name": "Indian Oil Corporation Limited",
-      "scrip_code": "530965",
-      "market_cap_cr": 199391.88,
-      "exchange": "NSE",
-      "sector": "Oil & Gas",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
     "WIPRO": {
       "symbol": "WIPRO",
       "name": "Wipro Limited",
@@ -285,24 +295,24 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "ADANIENSOL": {
-      "symbol": "ADANIENSOL",
-      "name": "Adani Energy Solutions Limited",
-      "scrip_code": "539254",
-      "market_cap_cr": 178270.35,
+    "INDIGO": {
+      "symbol": "INDIGO",
+      "name": "InterGlobe Aviation Limited",
+      "scrip_code": "539448",
+      "market_cap_cr": 181922.35,
       "exchange": "NSE",
-      "sector": "Power",
+      "sector": "Logistics",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "BSE": {
-      "symbol": "BSE",
-      "name": "BSE Limited",
-      "scrip_code": "",
-      "market_cap_cr": 164401.05,
+    "SBILIFE": {
+      "symbol": "SBILIFE",
+      "name": "SBI Life Insurance Company Limited",
+      "scrip_code": "540719",
+      "market_cap_cr": 171060.81,
       "exchange": "NSE",
-      "sector": "Market Infra",
-      "quality_tier": "HC",
+      "sector": "Insurance",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "HYUNDAI": {
@@ -315,21 +325,21 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "TVSMOTOR": {
-      "symbol": "TVSMOTOR",
-      "name": "TVS Motor Company Limited",
-      "scrip_code": "532343",
-      "market_cap_cr": 157537.49,
+    "IDEA": {
+      "symbol": "IDEA",
+      "name": "Vodafone Idea Limited",
+      "scrip_code": "532822",
+      "market_cap_cr": 161214.43,
       "exchange": "NSE",
-      "sector": "Auto",
-      "quality_tier": "SB",
+      "sector": "Telecom",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "JIOFIN": {
-      "symbol": "JIOFIN",
-      "name": "Jio Financial Services Limited",
-      "scrip_code": "",
-      "market_cap_cr": 156052.04,
+    "ICICIAMC": {
+      "symbol": "ICICIAMC",
+      "name": "ICICI Prudential Asset Management Company Limited",
+      "scrip_code": "544658",
+      "market_cap_cr": 160386.9,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -355,26 +365,6 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "SOLARINDS": {
-      "symbol": "SOLARINDS",
-      "name": "Solar Industries India Limited",
-      "scrip_code": "532725",
-      "market_cap_cr": 155371.42,
-      "exchange": "NSE",
-      "sector": "Defence",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "TORNTPHARM": {
-      "symbol": "TORNTPHARM",
-      "name": "Torrent Pharmaceuticals Limited",
-      "scrip_code": "500420",
-      "market_cap_cr": 154872.63,
-      "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
     "POWERINDIA": {
       "symbol": "POWERINDIA",
       "name": "Hitachi Energy India Limited",
@@ -382,6 +372,16 @@
       "market_cap_cr": 153106.07,
       "exchange": "NSE",
       "sector": "Capital Goods",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "TRENT": {
+      "symbol": "TRENT",
+      "name": "Trent Limited",
+      "scrip_code": "500251",
+      "market_cap_cr": 146958.82,
+      "exchange": "NSE",
+      "sector": "Retail",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -395,24 +395,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "CGPOWER": {
-      "symbol": "CGPOWER",
-      "name": "CG Power and Industrial Solutions Limited",
-      "scrip_code": "500093",
-      "market_cap_cr": 143951.17,
+    "ABB": {
+      "symbol": "ABB",
+      "name": "ABB India Limited",
+      "scrip_code": "500002",
+      "market_cap_cr": 143695.06,
       "exchange": "NSE",
       "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "TMCV": {
-      "symbol": "TMCV",
-      "name": "Tata Motors Limited",
-      "scrip_code": "544569",
-      "market_cap_cr": 143709.12,
+    "POLYCAB": {
+      "symbol": "POLYCAB",
+      "name": "Polycab India Limited",
+      "scrip_code": "542652",
+      "market_cap_cr": 143677.88,
       "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
+      "sector": "Capital Goods",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "BANKBARODA": {
@@ -435,6 +435,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "TATACAP": {
+      "symbol": "TATACAP",
+      "name": "Tata Capital Limited",
+      "scrip_code": "544574",
+      "market_cap_cr": 137506.35,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "CHOLAFIN": {
       "symbol": "CHOLAFIN",
       "name": "Cholamandalam Investment and Finance Company Limited",
@@ -445,43 +455,23 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "BHEL": {
-      "symbol": "BHEL",
-      "name": "Bharat Heavy Electricals Limited",
-      "scrip_code": "500103",
-      "market_cap_cr": 131534.95,
+    "BPCL": {
+      "symbol": "BPCL",
+      "name": "Bharat Petroleum Corporation Limited",
+      "scrip_code": "500547",
+      "market_cap_cr": 129245.7,
       "exchange": "NSE",
-      "sector": "Capital Goods",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "UNIONBANK": {
-      "symbol": "UNIONBANK",
-      "name": "Union Bank of India",
-      "scrip_code": "532477",
-      "market_cap_cr": 129733.13,
-      "exchange": "NSE",
-      "sector": "Banking",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "SIEMENS": {
-      "symbol": "SIEMENS",
-      "name": "Siemens Limited",
-      "scrip_code": "500550",
-      "market_cap_cr": 127063.81,
-      "exchange": "NSE",
-      "sector": "Capital Goods",
+      "sector": "Oil & Gas",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "TECHM": {
-      "symbol": "TECHM",
-      "name": "Tech Mahindra Limited",
-      "scrip_code": "532755",
-      "market_cap_cr": 126947.19,
+    "ENRIN": {
+      "symbol": "ENRIN",
+      "name": "Siemens Energy India Limited",
+      "scrip_code": "",
+      "market_cap_cr": 129200.53,
       "exchange": "NSE",
-      "sector": "IT",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -492,26 +482,6 @@
       "market_cap_cr": 126136.03,
       "exchange": "NSE",
       "sector": "Power",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "IRFC": {
-      "symbol": "IRFC",
-      "name": "Indian Railway Finance Corporation Limited",
-      "scrip_code": "543257",
-      "market_cap_cr": 125457.66,
-      "exchange": "NSE",
-      "sector": "NBFC",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "GVT&D": {
-      "symbol": "GVT&D",
-      "name": "GE Vernova T&D India Limited",
-      "scrip_code": "522275",
-      "market_cap_cr": 125334.78,
-      "exchange": "NSE",
-      "sector": "Capital Goods",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -533,6 +503,16 @@
       "exchange": "NSE",
       "sector": "Market Infra",
       "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "PNB": {
+      "symbol": "PNB",
+      "name": "Punjab National Bank",
+      "scrip_code": "532461",
+      "market_cap_cr": 123089.41,
+      "exchange": "NSE",
+      "sector": "Banking",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "APOLLOHOSP": {
@@ -575,23 +555,23 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "LTM": {
-      "symbol": "LTM",
-      "name": "LTM Limited",
-      "scrip_code": "540005",
-      "market_cap_cr": 114158.32,
+    "BOSCHLTD": {
+      "symbol": "BOSCHLTD",
+      "name": "Bosch Limited",
+      "scrip_code": "500530",
+      "market_cap_cr": 115270.76,
       "exchange": "NSE",
-      "sector": "Metals",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "INDIANB": {
-      "symbol": "INDIANB",
-      "name": "Indian Bank",
-      "scrip_code": "532814",
-      "market_cap_cr": 113831.92,
+    "GAIL": {
+      "symbol": "GAIL",
+      "name": "GAIL (India) Limited",
+      "scrip_code": "532155",
+      "market_cap_cr": 112105.11,
       "exchange": "NSE",
-      "sector": "Banking",
+      "sector": "Oil & Gas",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -622,6 +602,16 @@
       "market_cap_cr": 108930.25,
       "exchange": "NSE",
       "sector": "FMCG",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "DRREDDY": {
+      "symbol": "DRREDDY",
+      "name": "Dr. Reddy's Laboratories Limited",
+      "scrip_code": "500124",
+      "market_cap_cr": 105994.83,
+      "exchange": "NSE",
+      "sector": "Pharma",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -695,13 +685,13 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "MAZDOCK": {
-      "symbol": "MAZDOCK",
-      "name": "Mazagon Dock Shipbuilders Limited",
-      "scrip_code": "543237",
-      "market_cap_cr": 97295.26,
+    "INDHOTEL": {
+      "symbol": "INDHOTEL",
+      "name": "The Indian Hotels Company Limited",
+      "scrip_code": "500850",
+      "market_cap_cr": 96722.22,
       "exchange": "NSE",
-      "sector": "Defence",
+      "sector": "Hospitality",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -715,6 +705,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "RECLTD": {
+      "symbol": "RECLTD",
+      "name": "REC Limited",
+      "scrip_code": "532955",
+      "market_cap_cr": 91478.2,
+      "exchange": "NSE",
+      "sector": "NBFC",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "LODHA": {
       "symbol": "LODHA",
       "name": "Lodha Developers Limited",
@@ -722,6 +722,16 @@
       "market_cap_cr": 89792.49,
       "exchange": "NSE",
       "sector": "Infrastructure",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "ASHOKLEY": {
+      "symbol": "ASHOKLEY",
+      "name": "Ashok Leyland Limited",
+      "scrip_code": "500477",
+      "market_cap_cr": 89400.06,
+      "exchange": "NSE",
+      "sector": "Auto",
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
@@ -745,6 +755,16 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "LENSKART": {
+      "symbol": "LENSKART",
+      "name": "Lenskart Solutions Limited",
+      "scrip_code": "544600",
+      "market_cap_cr": 85533.14,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "ICICIGI": {
       "symbol": "ICICIGI",
       "name": "ICICI Lombard General Insurance Company Limited",
@@ -755,6 +775,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "NTPCGREEN": {
+      "symbol": "NTPCGREEN",
+      "name": "NTPC Green Energy Limited",
+      "scrip_code": "",
+      "market_cap_cr": 82872.95,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "OFSS": {
       "symbol": "OFSS",
       "name": "Oracle Financial Services Software Limited",
@@ -762,6 +792,26 @@
       "market_cap_cr": 81535.74,
       "exchange": "NSE",
       "sector": "IT",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "IDBI": {
+      "symbol": "IDBI",
+      "name": "IDBI Bank Limited",
+      "scrip_code": "500116",
+      "market_cap_cr": 80944.08,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "SRF": {
+      "symbol": "SRF",
+      "name": "SRF Limited",
+      "scrip_code": "503806",
+      "market_cap_cr": 80761.74,
+      "exchange": "NSE",
+      "sector": "Chemicals",
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
@@ -795,6 +845,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "MEESHO": {
+      "symbol": "MEESHO",
+      "name": "Meesho Limited",
+      "scrip_code": "544632",
+      "market_cap_cr": 76791.64,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "SUZLON": {
       "symbol": "SUZLON",
       "name": "Suzlon Energy Limited",
@@ -809,9 +869,19 @@
       "symbol": "DABUR",
       "name": "Dabur India Limited",
       "scrip_code": "500096",
-      "market_cap_cr": 75659.07,
+      "market_cap_cr": 75647.88,
       "exchange": "NSE",
       "sector": "FMCG",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "PERSISTENT": {
+      "symbol": "PERSISTENT",
+      "name": "Persistent Systems Limited",
+      "scrip_code": "533179",
+      "market_cap_cr": 75334.61,
+      "exchange": "NSE",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -835,16 +905,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "BHARTIHEXA": {
-      "symbol": "BHARTIHEXA",
-      "name": "Bharti Hexacom Limited",
-      "scrip_code": "544162",
-      "market_cap_cr": 73660.0,
-      "exchange": "NSE",
-      "sector": "Telecom",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
     "MCX": {
       "symbol": "MCX",
       "name": "Multi Commodity Exchange of India Limited",
@@ -855,31 +915,11 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "HAVELLS": {
-      "symbol": "HAVELLS",
-      "name": "Havells India Limited",
-      "scrip_code": "517354",
-      "market_cap_cr": 72454.43,
-      "exchange": "NSE",
-      "sector": "Capital Goods",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
     "YESBANK": {
       "symbol": "YESBANK",
       "name": "Yes Bank Limited",
       "scrip_code": "532648",
       "market_cap_cr": 72219.43,
-      "exchange": "NSE",
-      "sector": "Banking",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "INDUSINDBK": {
-      "symbol": "INDUSINDBK",
-      "name": "IndusInd Bank Limited",
-      "scrip_code": "532187",
-      "market_cap_cr": 71407.51,
       "exchange": "NSE",
       "sector": "Banking",
       "quality_tier": "STANDARD",
@@ -893,6 +933,16 @@
       "exchange": "NSE",
       "sector": "IT",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "BAJAJHFL": {
+      "symbol": "BAJAJHFL",
+      "name": "Bajaj Housing Finance Limited",
+      "scrip_code": "544252",
+      "market_cap_cr": 70468.81,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "TORNTPOWER": {
@@ -915,14 +965,14 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "LTF": {
-      "symbol": "LTF",
-      "name": "L&T Finance Limited",
-      "scrip_code": "533519",
-      "market_cap_cr": 69089.34,
+    "NATIONALUM": {
+      "symbol": "NATIONALUM",
+      "name": "National Aluminium Company Limited",
+      "scrip_code": "532234",
+      "market_cap_cr": 69057.35,
       "exchange": "NSE",
-      "sector": "NBFC",
-      "quality_tier": "STANDARD",
+      "sector": "Metals",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "PAYTM": {
@@ -933,6 +983,16 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "OIL": {
+      "symbol": "OIL",
+      "name": "Oil India Limited",
+      "scrip_code": "533106",
+      "market_cap_cr": 68187.4,
+      "exchange": "NSE",
+      "sector": "Oil & Gas",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "ICICIPRULI": {
@@ -952,16 +1012,6 @@
       "market_cap_cr": 67573.94,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "MAHABANK": {
-      "symbol": "MAHABANK",
-      "name": "Bank of Maharashtra",
-      "scrip_code": "532525",
-      "market_cap_cr": 67101.12,
-      "exchange": "NSE",
-      "sector": "Banking",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -1005,13 +1055,13 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "ALKEM": {
-      "symbol": "ALKEM",
-      "name": "Alkem Laboratories Limited",
-      "scrip_code": "539523",
-      "market_cap_cr": 63351.51,
+    "NAUKRI": {
+      "symbol": "NAUKRI",
+      "name": "Info Edge (India) Limited",
+      "scrip_code": "532777",
+      "market_cap_cr": 63089.63,
       "exchange": "NSE",
-      "sector": "Pharma",
+      "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -1022,16 +1072,6 @@
       "market_cap_cr": 63068.53,
       "exchange": "NSE",
       "sector": "Capital Goods",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "PHOENIXLTD": {
-      "symbol": "PHOENIXLTD",
-      "name": "The Phoenix Mills Limited",
-      "scrip_code": "503100",
-      "market_cap_cr": 62626.42,
-      "exchange": "NSE",
-      "sector": "Infrastructure",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -1059,7 +1099,7 @@
       "symbol": "UNOMINDA",
       "name": "UNO Minda Limited",
       "scrip_code": "532539",
-      "market_cap_cr": 61078.7,
+      "market_cap_cr": 61077.61,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
@@ -1115,16 +1155,6 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "LINDEINDIA": {
-      "symbol": "LINDEINDIA",
-      "name": "Linde India Limited",
-      "scrip_code": "523457",
-      "market_cap_cr": 59170.19,
-      "exchange": "NSE",
-      "sector": "Chemicals",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
     "FACT": {
       "symbol": "FACT",
       "name": "Fertilizers and Chemicals Travancore Limited",
@@ -1165,14 +1195,24 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "ABBOTINDIA": {
-      "symbol": "ABBOTINDIA",
-      "name": "Abbott India Limited",
-      "scrip_code": "500488",
-      "market_cap_cr": 55960.04,
+    "TATACOMM": {
+      "symbol": "TATACOMM",
+      "name": "Tata Communications Limited",
+      "scrip_code": "500483",
+      "market_cap_cr": 56059.5,
       "exchange": "NSE",
-      "sector": "Pharma",
+      "sector": "Telecom",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "VMM": {
+      "symbol": "VMM",
+      "name": "Vishal Mega Mart Limited",
+      "scrip_code": "544307",
+      "market_cap_cr": 55952.83,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "SBICARD": {
@@ -1185,14 +1225,24 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "MFSL": {
-      "symbol": "MFSL",
-      "name": "Max Financial Services Limited",
-      "scrip_code": "500271",
-      "market_cap_cr": 53989.81,
+    "HDBFS": {
+      "symbol": "HDBFS",
+      "name": "HDB Financial Services Limited",
+      "scrip_code": "544429",
+      "market_cap_cr": 53557.77,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "MOTILALOFS": {
+      "symbol": "MOTILALOFS",
+      "name": "Motilal Oswal Financial Services Limited",
+      "scrip_code": "532892",
+      "market_cap_cr": 53515.75,
+      "exchange": "NSE",
+      "sector": "Market Infra",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "MRF": {
@@ -1205,14 +1255,44 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "THERMAX": {
-      "symbol": "THERMAX",
-      "name": "Thermax Limited",
-      "scrip_code": "500411",
-      "market_cap_cr": 52922.35,
+    "UPL": {
+      "symbol": "UPL",
+      "name": "UPL Limited",
+      "scrip_code": "512070",
+      "market_cap_cr": 51621.5,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "KEI": {
+      "symbol": "KEI",
+      "name": "KEI Industries Limited",
+      "scrip_code": "517569",
+      "market_cap_cr": 51375.76,
       "exchange": "NSE",
       "sector": "Capital Goods",
-      "quality_tier": "SB",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "GODREJPROP": {
+      "symbol": "GODREJPROP",
+      "name": "Godrej Properties Limited",
+      "scrip_code": "533150",
+      "market_cap_cr": 51033.7,
+      "exchange": "NSE",
+      "sector": "Infrastructure",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "APLAPOLLO": {
+      "symbol": "APLAPOLLO",
+      "name": "APL Apollo Tubes Limited",
+      "scrip_code": "533758",
+      "market_cap_cr": 50533.83,
+      "exchange": "NSE",
+      "sector": "Metals",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "HINDCOPPER": {
@@ -1223,6 +1303,16 @@
       "exchange": "NSE",
       "sector": "Metals",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "RVNL": {
+      "symbol": "RVNL",
+      "name": "Rail Vikas Nigam Limited",
+      "scrip_code": "542649",
+      "market_cap_cr": 48768.62,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "RADICO": {
@@ -1245,6 +1335,16 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "PIRAMALFIN": {
+      "symbol": "PIRAMALFIN",
+      "name": "Piramal Finance Limited",
+      "scrip_code": "",
+      "market_cap_cr": 45508.35,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "SUPREMEIND": {
       "symbol": "SUPREMEIND",
       "name": "Supreme Industries Limited",
@@ -1255,13 +1355,23 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "360ONE": {
-      "symbol": "360ONE",
-      "name": "360 ONE WAM LIMITED",
-      "scrip_code": "542772",
-      "market_cap_cr": 44469.63,
+    "AIIL": {
+      "symbol": "AIIL",
+      "name": "Authum Investment & Infrastructure Limited",
+      "scrip_code": "539177",
+      "market_cap_cr": 44244.65,
       "exchange": "NSE",
-      "sector": "Market Infra",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ANTHEM": {
+      "symbol": "ANTHEM",
+      "name": "Anthem Biosciences Limited",
+      "scrip_code": "544449",
+      "market_cap_cr": 44215.31,
+      "exchange": "NSE",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -1283,16 +1393,6 @@
       "exchange": "NSE",
       "sector": "IT",
       "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "PIIND": {
-      "symbol": "PIIND",
-      "name": "PI Industries Limited",
-      "scrip_code": "523642",
-      "market_cap_cr": 43183.84,
-      "exchange": "NSE",
-      "sector": "Agro",
-      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "PAGEIND": {
@@ -1325,14 +1425,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "HUDCO": {
-      "symbol": "HUDCO",
-      "name": "Housing & Urban Development Corporation Limited",
-      "scrip_code": "540530",
-      "market_cap_cr": 41050.96,
+    "IRCTC": {
+      "symbol": "IRCTC",
+      "name": "Indian Railway Catering And Tourism Corporation Limited",
+      "scrip_code": "542830",
+      "market_cap_cr": 41720.0,
       "exchange": "NSE",
-      "sector": "NBFC",
-      "quality_tier": "STANDARD",
+      "sector": "Hospitality",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "PETRONET": {
+      "symbol": "PETRONET",
+      "name": "Petronet LNG Limited",
+      "scrip_code": "532522",
+      "market_cap_cr": 41190.01,
+      "exchange": "NSE",
+      "sector": "Oil & Gas",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "M&MFIN": {
@@ -1355,16 +1465,6 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "IPCALAB": {
-      "symbol": "IPCALAB",
-      "name": "IPCA Laboratories Limited",
-      "scrip_code": "524494",
-      "market_cap_cr": 40313.6,
-      "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "AIAENG": {
       "symbol": "AIAENG",
       "name": "AIA Engineering Limited",
@@ -1385,34 +1485,14 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "CPPLUS": {
-      "symbol": "CPPLUS",
-      "name": "Aditya Infotech Limited",
-      "scrip_code": "544466",
-      "market_cap_cr": 39656.69,
+    "ATHERENERG": {
+      "symbol": "ATHERENERG",
+      "name": "Ather Energy Limited",
+      "scrip_code": "544397",
+      "market_cap_cr": 39384.84,
       "exchange": "NSE",
-      "sector": "Capital Goods",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "AJANTPHARM": {
-      "symbol": "AJANTPHARM",
-      "name": "Ajanta Pharma Limited",
-      "scrip_code": "532331",
-      "market_cap_cr": 39354.72,
-      "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "BALKRISIND": {
-      "symbol": "BALKRISIND",
-      "name": "Balkrishna Industries Limited",
-      "scrip_code": "502355",
-      "market_cap_cr": 38934.08,
-      "exchange": "NSE",
-      "sector": "Auto",
-      "quality_tier": "SB",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "NH": {
@@ -1423,16 +1503,6 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "JKCEMENT": {
-      "symbol": "JKCEMENT",
-      "name": "JK Cement Limited",
-      "scrip_code": "532644",
-      "market_cap_cr": 37513.73,
-      "exchange": "NSE",
-      "sector": "Infrastructure",
-      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "COCHINSHIP": {
@@ -1455,14 +1525,14 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "WELCORP": {
-      "symbol": "WELCORP",
-      "name": "Welspun Corp Limited",
-      "scrip_code": "532144",
-      "market_cap_cr": 36892.18,
+    "GLAND": {
+      "symbol": "GLAND",
+      "name": "Gland Pharma Limited",
+      "scrip_code": "543245",
+      "market_cap_cr": 37247.9,
       "exchange": "NSE",
-      "sector": "Metals",
-      "quality_tier": "SB",
+      "sector": "Pharma",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "SONACOMS": {
@@ -1475,43 +1545,33 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "KPRMILL": {
-      "symbol": "KPRMILL",
-      "name": "K.P.R. Mill Limited",
-      "scrip_code": "532889",
-      "market_cap_cr": 36538.59,
+    "GUJGASLTD": {
+      "symbol": "GUJGASLTD",
+      "name": "Gujarat Gas Limited",
+      "scrip_code": "539336",
+      "market_cap_cr": 36121.89,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Oil & Gas",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "GLAXO": {
+      "symbol": "GLAXO",
+      "name": "GlaxoSmithKline Pharmaceuticals Limited",
+      "scrip_code": "500660",
+      "market_cap_cr": 35914.08,
+      "exchange": "NSE",
+      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "GODFRYPHLP": {
-      "symbol": "GODFRYPHLP",
-      "name": "Godfrey Phillips India Limited",
-      "scrip_code": "500163",
-      "market_cap_cr": 35797.81,
+    "UBL": {
+      "symbol": "UBL",
+      "name": "United Breweries Limited",
+      "scrip_code": "532478",
+      "market_cap_cr": 35826.9,
       "exchange": "NSE",
       "sector": "FMCG",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "3MINDIA": {
-      "symbol": "3MINDIA",
-      "name": "3M India Limited",
-      "scrip_code": "523395",
-      "market_cap_cr": 35659.58,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "KALYANKJIL": {
-      "symbol": "KALYANKJIL",
-      "name": "Kalyan Jewellers India Limited",
-      "scrip_code": "543278",
-      "market_cap_cr": 35650.19,
-      "exchange": "NSE",
-      "sector": "Jewellery",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -1525,13 +1585,43 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "GODREJIND": {
-      "symbol": "GODREJIND",
-      "name": "Godrej Industries Limited",
-      "scrip_code": "500164",
-      "market_cap_cr": 34859.3,
+    "ENDURANCE": {
+      "symbol": "ENDURANCE",
+      "name": "Endurance Technologies Limited",
+      "scrip_code": "540153",
+      "market_cap_cr": 35278.24,
       "exchange": "NSE",
       "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "POONAWALLA": {
+      "symbol": "POONAWALLA",
+      "name": "Poonawalla Fincorp Limited",
+      "scrip_code": "524000",
+      "market_cap_cr": 34413.05,
+      "exchange": "NSE",
+      "sector": "NBFC",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "IREDA": {
+      "symbol": "IREDA",
+      "name": "Indian Renewable Energy Development Agency Limited",
+      "scrip_code": "544026",
+      "market_cap_cr": 34328.81,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "CONCOR": {
+      "symbol": "CONCOR",
+      "name": "Container Corporation of India Limited",
+      "scrip_code": "531344",
+      "market_cap_cr": 34272.8,
+      "exchange": "NSE",
+      "sector": "Logistics",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -1543,6 +1633,16 @@
       "exchange": "NSE",
       "sector": "Chemicals",
       "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "TATAINVEST": {
+      "symbol": "TATAINVEST",
+      "name": "Tata Investment Corporation Limited",
+      "scrip_code": "501301",
+      "market_cap_cr": 33600.33,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "EXIDEIND": {
@@ -1585,6 +1685,26 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "DELHIVERY": {
+      "symbol": "DELHIVERY",
+      "name": "Delhivery Limited",
+      "scrip_code": "543529",
+      "market_cap_cr": 32836.99,
+      "exchange": "NSE",
+      "sector": "Logistics",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ITCHOTELS": {
+      "symbol": "ITCHOTELS",
+      "name": "ITC Hotels Limited",
+      "scrip_code": "544325",
+      "market_cap_cr": 32181.98,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "HONAUT": {
       "symbol": "HONAUT",
       "name": "Honeywell Automation India Limited",
@@ -1595,33 +1715,53 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "ABSLAMC": {
-      "symbol": "ABSLAMC",
-      "name": "Aditya Birla Sun Life AMC Limited",
-      "scrip_code": "543374",
-      "market_cap_cr": 31722.5,
+    "KIMS": {
+      "symbol": "KIMS",
+      "name": "Krishna Institute of Medical Sciences Limited",
+      "scrip_code": "543308",
+      "market_cap_cr": 31330.88,
       "exchange": "NSE",
-      "sector": "Market Infra",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "523105": {
-      "symbol": "523105",
-      "name": "CROPSTER AGRO LIMITED",
-      "scrip_code": "523105",
-      "market_cap_cr": 31662.29,
-      "exchange": "BSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "TATATECH": {
-      "symbol": "TATATECH",
-      "name": "Tata Technologies Limited",
-      "scrip_code": "544028",
-      "market_cap_cr": 30904.61,
+    "DALBHARAT": {
+      "symbol": "DALBHARAT",
+      "name": "Dalmia Bharat Limited",
+      "scrip_code": "542216",
+      "market_cap_cr": 31162.98,
       "exchange": "NSE",
-      "sector": "IT",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ANGELONE": {
+      "symbol": "ANGELONE",
+      "name": "Angel One Limited",
+      "scrip_code": "543235",
+      "market_cap_cr": 31008.21,
+      "exchange": "NSE",
+      "sector": "Market Infra",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "LICHSGFIN": {
+      "symbol": "LICHSGFIN",
+      "name": "LIC Housing Finance Limited",
+      "scrip_code": "",
+      "market_cap_cr": 30748.52,
+      "exchange": "NSE",
+      "sector": "NBFC",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "STARHEALTH": {
+      "symbol": "STARHEALTH",
+      "name": "Star Health and Allied Insurance Company Limited",
+      "scrip_code": "543412",
+      "market_cap_cr": 30538.14,
+      "exchange": "NSE",
+      "sector": "Insurance",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -1645,6 +1785,16 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "ANANDRATHI": {
+      "symbol": "ANANDRATHI",
+      "name": "Anand Rathi Wealth Limited",
+      "scrip_code": "543415",
+      "market_cap_cr": 29289.68,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "PGHH": {
       "symbol": "PGHH",
       "name": "Procter & Gamble Hygiene and Health Care Limited",
@@ -1653,16 +1803,6 @@
       "exchange": "NSE",
       "sector": "FMCG",
       "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "ITI": {
-      "symbol": "ITI",
-      "name": "ITI Limited",
-      "scrip_code": "523610",
-      "market_cap_cr": 28885.56,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "CHOLAHLDNG": {
@@ -1685,16 +1825,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "MANAPPURAM": {
-      "symbol": "MANAPPURAM",
-      "name": "Manappuram Finance Limited",
-      "scrip_code": "531213",
-      "market_cap_cr": 28649.75,
-      "exchange": "NSE",
-      "sector": "NBFC",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
     "SJVN": {
       "symbol": "SJVN",
       "name": "SJVN Limited",
@@ -1715,14 +1845,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "NBCC": {
-      "symbol": "NBCC",
-      "name": "NBCC (India) Limited",
-      "scrip_code": "534309",
-      "market_cap_cr": 28325.7,
+    "IKS": {
+      "symbol": "IKS",
+      "name": "Inventurus Knowledge Solutions Limited",
+      "scrip_code": "544309",
+      "market_cap_cr": 28030.65,
       "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
+      "sector": "IT",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "ZFCVINDIA": {
@@ -1742,6 +1872,16 @@
       "market_cap_cr": 27911.12,
       "exchange": "NSE",
       "sector": "Banking",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "PTCIL": {
+      "symbol": "PTCIL",
+      "name": "PTC Industries Limited",
+      "scrip_code": "539006",
+      "market_cap_cr": 27886.14,
+      "exchange": "NSE",
+      "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -1785,13 +1925,13 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "SHYAMMETL": {
-      "symbol": "SHYAMMETL",
-      "name": "Shyam Metalics and Energy Limited",
-      "scrip_code": "543299",
-      "market_cap_cr": 27227.53,
+    "TVSHLTD": {
+      "symbol": "TVSHLTD",
+      "name": "TVS Holdings Limited",
+      "scrip_code": "520056",
+      "market_cap_cr": 26993.67,
       "exchange": "NSE",
-      "sector": "Metals",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -1805,23 +1945,23 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "AMBER": {
-      "symbol": "AMBER",
-      "name": "Amber Enterprises India Limited",
-      "scrip_code": "540902",
-      "market_cap_cr": 26307.99,
+    "TIMKEN": {
+      "symbol": "TIMKEN",
+      "name": "Timken India Limited",
+      "scrip_code": "",
+      "market_cap_cr": 26513.85,
       "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
+      "sector": "Capital Goods",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "HFCL": {
-      "symbol": "HFCL",
-      "name": "HFCL Limited",
-      "scrip_code": "500183",
-      "market_cap_cr": 26299.11,
+    "SCHNEIDER": {
+      "symbol": "SCHNEIDER",
+      "name": "Schneider Electric Infrastructure Limited",
+      "scrip_code": "534139",
+      "market_cap_cr": 26468.82,
       "exchange": "NSE",
-      "sector": "Telecom",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -1833,6 +1973,36 @@
       "exchange": "NSE",
       "sector": "IT",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "PNBHOUSING": {
+      "symbol": "PNBHOUSING",
+      "name": "PNB Housing Finance Limited",
+      "scrip_code": "540173",
+      "market_cap_cr": 25798.4,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "SAILIFE": {
+      "symbol": "SAILIFE",
+      "name": "Sai Life Sciences Limited",
+      "scrip_code": "544306",
+      "market_cap_cr": 25750.82,
+      "exchange": "NSE",
+      "sector": "Power",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "CDSL": {
+      "symbol": "CDSL",
+      "name": "Central Depository Services (India) Limited",
+      "scrip_code": "",
+      "market_cap_cr": 25665.2,
+      "exchange": "NSE",
+      "sector": "Market Infra",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "ACUTAAS": {
@@ -1855,14 +2025,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "DATAPATTNS": {
-      "symbol": "DATAPATTNS",
-      "name": "Data Patterns (India) Limited",
-      "scrip_code": "543428",
-      "market_cap_cr": 25315.95,
+    "ACC": {
+      "symbol": "ACC",
+      "name": "ACC Limited",
+      "scrip_code": "500410",
+      "market_cap_cr": 25234.85,
       "exchange": "NSE",
-      "sector": "Defence",
-      "quality_tier": "SB",
+      "sector": "Infrastructure",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "NIACL": {
@@ -1875,13 +2045,23 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "GILLETTE": {
-      "symbol": "GILLETTE",
-      "name": "Gillette India Limited",
-      "scrip_code": "507815",
-      "market_cap_cr": 25079.21,
+    "IRB": {
+      "symbol": "IRB",
+      "name": "IRB Infrastructure Developers Limited",
+      "scrip_code": "532947",
+      "market_cap_cr": 25122.24,
       "exchange": "NSE",
-      "sector": "FMCG",
+      "sector": "Infrastructure",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "APOLLOTYRE": {
+      "symbol": "APOLLOTYRE",
+      "name": "Apollo Tyres Limited",
+      "scrip_code": "500877",
+      "market_cap_cr": 25100.83,
+      "exchange": "NSE",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -1905,11 +2085,61 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "MSUMI": {
+      "symbol": "MSUMI",
+      "name": "Motherson Sumi Wiring India Limited",
+      "scrip_code": "543498",
+      "market_cap_cr": 24437.67,
+      "exchange": "NSE",
+      "sector": "Auto",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SYRMA": {
+      "symbol": "SYRMA",
+      "name": "Syrma SGS Technology Limited",
+      "scrip_code": "543573",
+      "market_cap_cr": 24212.96,
+      "exchange": "NSE",
+      "sector": "IT",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "KIOCL": {
+      "symbol": "KIOCL",
+      "name": "KIOCL Limited",
+      "scrip_code": "540680",
+      "market_cap_cr": 24161.14,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "AEGISVOPAK": {
       "symbol": "AEGISVOPAK",
       "name": "Aegis Vopak Terminals Limited",
       "scrip_code": "544407",
       "market_cap_cr": 24043.42,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "EMMVEE": {
+      "symbol": "EMMVEE",
+      "name": "Emmvee Photovoltaic Power Limited",
+      "scrip_code": "544608",
+      "market_cap_cr": 23782.05,
+      "exchange": "NSE",
+      "sector": "Power",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "ACMESOLAR": {
+      "symbol": "ACMESOLAR",
+      "name": "Acme Solar Holdings Limited",
+      "scrip_code": "544283",
+      "market_cap_cr": 23636.52,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -1925,14 +2155,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "IGL": {
-      "symbol": "IGL",
-      "name": "Indraprastha Gas Limited",
-      "scrip_code": "532514",
-      "market_cap_cr": 22796.23,
+    "IFCI": {
+      "symbol": "IFCI",
+      "name": "IFCI Limited",
+      "scrip_code": "500106",
+      "market_cap_cr": 22785.82,
       "exchange": "NSE",
-      "sector": "Oil & Gas",
-      "quality_tier": "SB",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "DEEPAKNTR": {
@@ -1955,16 +2185,6 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "CESC": {
-      "symbol": "CESC",
-      "name": "CESC Limited",
-      "scrip_code": "500084",
-      "market_cap_cr": 22322.61,
-      "exchange": "NSE",
-      "sector": "Power",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "KPIL": {
       "symbol": "KPIL",
       "name": "Kalpataru Projects International Limited",
@@ -1972,16 +2192,6 @@
       "market_cap_cr": 22183.35,
       "exchange": "NSE",
       "sector": "Capital Goods",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "NEULANDLAB": {
-      "symbol": "NEULANDLAB",
-      "name": "Neuland Laboratories Limited",
-      "scrip_code": "524558",
-      "market_cap_cr": 22067.41,
-      "exchange": "NSE",
-      "sector": "Pharma",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -2015,14 +2225,14 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "TRITURBINE": {
-      "symbol": "TRITURBINE",
-      "name": "Triveni Turbine Limited",
-      "scrip_code": "533655",
-      "market_cap_cr": 21362.54,
+    "GRINDWELL": {
+      "symbol": "GRINDWELL",
+      "name": "Grindwell Norton Limited",
+      "scrip_code": "506076",
+      "market_cap_cr": 21368.96,
       "exchange": "NSE",
       "sector": "Capital Goods",
-      "quality_tier": "HC",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "CRAFTSMAN": {
@@ -2045,31 +2255,41 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "RAMCOCEM": {
-      "symbol": "RAMCOCEM",
-      "name": "The Ramco Cements Limited",
-      "scrip_code": "500260",
-      "market_cap_cr": 20699.21,
+    "CREDITACC": {
+      "symbol": "CREDITACC",
+      "name": "CREDITACCESS GRAMEEN LIMITED",
+      "scrip_code": "541770",
+      "market_cap_cr": 20929.61,
       "exchange": "NSE",
-      "sector": "Infrastructure",
+      "sector": "NBFC",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "AADHARHFC": {
-      "symbol": "AADHARHFC",
-      "name": "Aadhar Housing Finance Limited",
-      "scrip_code": "544176",
-      "market_cap_cr": 20692.99,
+    "KAYNES": {
+      "symbol": "KAYNES",
+      "name": "Kaynes Technology India Limited",
+      "scrip_code": "543664",
+      "market_cap_cr": 20660.08,
       "exchange": "NSE",
-      "sector": "NBFC",
-      "quality_tier": "HC",
+      "sector": "Others",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "ASTRAZEN": {
-      "symbol": "ASTRAZEN",
-      "name": "AstraZeneca Pharma India Limited",
+    "PFIZER": {
+      "symbol": "PFIZER",
+      "name": "Pfizer Limited",
+      "scrip_code": "500680",
+      "market_cap_cr": 20641.38,
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "HATSUN": {
+      "symbol": "HATSUN",
+      "name": "Hatsun Agro Product Limited",
       "scrip_code": "",
-      "market_cap_cr": 20581.25,
+      "market_cap_cr": 20492.84,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -2105,6 +2325,46 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "BELRISE": {
+      "symbol": "BELRISE",
+      "name": "Belrise Industries Limited",
+      "scrip_code": "544405",
+      "market_cap_cr": 20290.13,
+      "exchange": "NSE",
+      "sector": "Auto",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SUNTV": {
+      "symbol": "SUNTV",
+      "name": "Sun TV Network Limited",
+      "scrip_code": "532733",
+      "market_cap_cr": 20273.68,
+      "exchange": "NSE",
+      "sector": "Media",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "OLAELEC": {
+      "symbol": "OLAELEC",
+      "name": "Ola Electric Mobility Limited",
+      "scrip_code": "544225",
+      "market_cap_cr": 20162.44,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "SAMMAANCAP": {
+      "symbol": "SAMMAANCAP",
+      "name": "Sammaan Capital Limited",
+      "scrip_code": "535789",
+      "market_cap_cr": 20020.61,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "CARBORUNIV": {
       "symbol": "CARBORUNIV",
       "name": "Carborundum Universal Limited",
@@ -2115,11 +2375,31 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "GMDCLTD": {
-      "symbol": "GMDCLTD",
-      "name": "Gujarat Mineral Development Corporation Limited",
-      "scrip_code": "532181",
-      "market_cap_cr": 19461.6,
+    "CUB": {
+      "symbol": "CUB",
+      "name": "City Union Bank Limited",
+      "scrip_code": "532210",
+      "market_cap_cr": 19979.22,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "GESHIP": {
+      "symbol": "GESHIP",
+      "name": "The Great Eastern Shipping Company Limited",
+      "scrip_code": "500620",
+      "market_cap_cr": 19830.36,
+      "exchange": "NSE",
+      "sector": "Power",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "DEEPAKFERT": {
+      "symbol": "DEEPAKFERT",
+      "name": "Deepak Fertilizers and Petrochemicals Corporation Limited",
+      "scrip_code": "500645",
+      "market_cap_cr": 19663.71,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -2155,6 +2435,26 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "ATUL": {
+      "symbol": "ATUL",
+      "name": "Atul Limited",
+      "scrip_code": "500027",
+      "market_cap_cr": 19151.86,
+      "exchange": "NSE",
+      "sector": "Chemicals",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "BAYERCROP": {
+      "symbol": "BAYERCROP",
+      "name": "Bayer Cropscience Limited",
+      "scrip_code": "506285",
+      "market_cap_cr": 19077.92,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "TATACHEM": {
       "symbol": "TATACHEM",
       "name": "Tata Chemicals Limited",
@@ -2175,16 +2475,6 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "GRANULES": {
-      "symbol": "GRANULES",
-      "name": "Granules India Limited",
-      "scrip_code": "532482",
-      "market_cap_cr": 18968.85,
-      "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
     "SAGILITY": {
       "symbol": "SAGILITY",
       "name": "SAGILITY LIMITED",
@@ -2195,14 +2485,14 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "CAMS": {
-      "symbol": "CAMS",
-      "name": "Computer Age Management Services Limited",
-      "scrip_code": "543232",
-      "market_cap_cr": 18834.42,
+    "CHAMBLFERT": {
+      "symbol": "CHAMBLFERT",
+      "name": "Chambal Fertilizers & Chemicals Limited",
+      "scrip_code": "500085",
+      "market_cap_cr": 18836.67,
       "exchange": "NSE",
-      "sector": "Market Infra",
-      "quality_tier": "HC",
+      "sector": "Agro",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "TDPOWERSYS": {
@@ -2222,26 +2512,6 @@
       "market_cap_cr": 18567.13,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "URBANCO": {
-      "symbol": "URBANCO",
-      "name": "Urban Company Limited",
-      "scrip_code": "544515",
-      "market_cap_cr": 18525.83,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "REDINGTON": {
-      "symbol": "REDINGTON",
-      "name": "Redington Limited",
-      "scrip_code": "",
-      "market_cap_cr": 18486.62,
-      "exchange": "NSE",
-      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -2265,34 +2535,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "SARDAEN": {
-      "symbol": "SARDAEN",
-      "name": "Sarda Energy & Minerals Limited",
-      "scrip_code": "",
-      "market_cap_cr": 18359.06,
+    "INDIACEM": {
+      "symbol": "INDIACEM",
+      "name": "The India Cements Limited",
+      "scrip_code": "530005",
+      "market_cap_cr": 18249.82,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "CAPLIPOINT": {
-      "symbol": "CAPLIPOINT",
-      "name": "Caplin Point Laboratories Limited",
-      "scrip_code": "524742",
-      "market_cap_cr": 18356.83,
+    "VTL": {
+      "symbol": "VTL",
+      "name": "Vardhman Textiles Limited",
+      "scrip_code": "502986",
+      "market_cap_cr": 18150.99,
       "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "SYNGENE": {
-      "symbol": "SYNGENE",
-      "name": "Syngene International Limited",
-      "scrip_code": "539268",
-      "market_cap_cr": 18338.47,
-      "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "SB",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "SANSERA": {
@@ -2302,6 +2562,26 @@
       "market_cap_cr": 18138.63,
       "exchange": "NSE",
       "sector": "Auto",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "BBOX": {
+      "symbol": "BBOX",
+      "name": "Black Box Limited",
+      "scrip_code": "500463",
+      "market_cap_cr": 18051.18,
+      "exchange": "NSE",
+      "sector": "IT",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "GPIL": {
+      "symbol": "GPIL",
+      "name": "Godawari Power And Ispat limited",
+      "scrip_code": "532734",
+      "market_cap_cr": 18021.55,
+      "exchange": "NSE",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -2315,24 +2595,34 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "SUNDRMFAST": {
-      "symbol": "SUNDRMFAST",
-      "name": "Sundram Fasteners Limited",
-      "scrip_code": "500403",
-      "market_cap_cr": 17619.26,
+    "KAJARIACER": {
+      "symbol": "KAJARIACER",
+      "name": "Kajaria Ceramics Limited",
+      "scrip_code": "500233",
+      "market_cap_cr": 17265.12,
       "exchange": "NSE",
-      "sector": "Auto",
+      "sector": "Infrastructure",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "J&KBANK": {
-      "symbol": "J&KBANK",
-      "name": "The Jammu & Kashmir Bank Limited",
-      "scrip_code": "532209",
-      "market_cap_cr": 17343.62,
+    "JSWCEMENT": {
+      "symbol": "JSWCEMENT",
+      "name": "JSW Cement Limited",
+      "scrip_code": "544480",
+      "market_cap_cr": 17161.36,
       "exchange": "NSE",
-      "sector": "Banking",
-      "quality_tier": "STANDARD",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "FSL": {
+      "symbol": "FSL",
+      "name": "Firstsource Solutions Limited",
+      "scrip_code": "532809",
+      "market_cap_cr": 17141.59,
+      "exchange": "NSE",
+      "sector": "IT",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "CIEINDIA": {
@@ -2395,6 +2685,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "NAVA": {
+      "symbol": "NAVA",
+      "name": "NAVA LIMITED",
+      "scrip_code": "513023",
+      "market_cap_cr": 16465.01,
+      "exchange": "NSE",
+      "sector": "Power",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "TRAVELFOOD": {
       "symbol": "TRAVELFOOD",
       "name": "Travel Food Services Limited",
@@ -2435,24 +2735,24 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "ZYDUSWELL": {
-      "symbol": "ZYDUSWELL",
-      "name": "Zydus Wellness Limited",
-      "scrip_code": "531335",
-      "market_cap_cr": 16130.57,
+    "ZENTEC": {
+      "symbol": "ZENTEC",
+      "name": "Zen Technologies Limited",
+      "scrip_code": "533339",
+      "market_cap_cr": 16165.29,
       "exchange": "NSE",
-      "sector": "Agro",
+      "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "JBMA": {
-      "symbol": "JBMA",
-      "name": "JBM Auto Limited",
-      "scrip_code": "532605",
-      "market_cap_cr": 16073.33,
+    "CHALET": {
+      "symbol": "CHALET",
+      "name": "Chalet Hotels Limited",
+      "scrip_code": "542399",
+      "market_cap_cr": 16096.07,
       "exchange": "NSE",
-      "sector": "Auto",
-      "quality_tier": "HC",
+      "sector": "Hospitality",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "DCMSHRIRAM": {
@@ -2465,24 +2765,24 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "FINCABLES": {
-      "symbol": "FINCABLES",
-      "name": "Finolex Cables Limited",
-      "scrip_code": "500144",
-      "market_cap_cr": 15829.22,
+    "GALLANTT": {
+      "symbol": "GALLANTT",
+      "name": "Gallantt Ispat Limited",
+      "scrip_code": "532726",
+      "market_cap_cr": 15837.68,
       "exchange": "NSE",
-      "sector": "Capital Goods",
-      "quality_tier": "SB",
+      "sector": "Metals",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "POLYMED": {
-      "symbol": "POLYMED",
-      "name": "Poly Medicure Limited",
-      "scrip_code": "531768",
-      "market_cap_cr": 15526.36,
+    "IGIL": {
+      "symbol": "IGIL",
+      "name": "International Gemological Institute Limited",
+      "scrip_code": "544311",
+      "market_cap_cr": 15778.15,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "STANDARD",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "NIVABUPA": {
@@ -2495,14 +2795,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "JYOTICNC": {
-      "symbol": "JYOTICNC",
-      "name": "Jyoti CNC Automation Limited",
-      "scrip_code": "544081",
-      "market_cap_cr": 15437.48,
+    "NATCOPHARM": {
+      "symbol": "NATCOPHARM",
+      "name": "Natco Pharma Limited",
+      "scrip_code": "524816",
+      "market_cap_cr": 15475.09,
       "exchange": "NSE",
-      "sector": "Capital Goods",
-      "quality_tier": "HC",
+      "sector": "Pharma",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "JUBLPHARMA": {
+      "symbol": "JUBLPHARMA",
+      "name": "Jubilant Pharmova Limited",
+      "scrip_code": "530019",
+      "market_cap_cr": 15442.75,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "JINDALSAW": {
@@ -2515,14 +2825,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "INOXWIND": {
-      "symbol": "INOXWIND",
-      "name": "Inox Wind Limited",
-      "scrip_code": "539083",
-      "market_cap_cr": 15211.95,
+    "ARE&M": {
+      "symbol": "ARE&M",
+      "name": "Amara Raja Energy & Mobility Limited",
+      "scrip_code": "500008",
+      "market_cap_cr": 15062.99,
       "exchange": "NSE",
-      "sector": "Power",
-      "quality_tier": "SB",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "CCL": {
@@ -2545,34 +2855,34 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "MINDACORP": {
-      "symbol": "MINDACORP",
-      "name": "Minda Corporation Limited",
-      "scrip_code": "538962",
-      "market_cap_cr": 14992.49,
+    "USHAMART": {
+      "symbol": "USHAMART",
+      "name": "Usha Martin Limited",
+      "scrip_code": "517146",
+      "market_cap_cr": 14818.21,
       "exchange": "NSE",
-      "sector": "Auto",
+      "sector": "Metals",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "APOLLO": {
-      "symbol": "APOLLO",
-      "name": "Apollo Micro Systems Limited",
-      "scrip_code": "540879",
-      "market_cap_cr": 14766.68,
+    "CLEANMAX": {
+      "symbol": "CLEANMAX",
+      "name": "Clean Max Enviro Energy Solutions Limited",
+      "scrip_code": "544717",
+      "market_cap_cr": 14716.85,
       "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "SB",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "KSB": {
-      "symbol": "KSB",
-      "name": "Ksb Limited",
-      "scrip_code": "500249",
-      "market_cap_cr": 14671.51,
+    "APLLTD": {
+      "symbol": "APLLTD",
+      "name": "Alembic Pharmaceuticals Limited",
+      "scrip_code": "533573",
+      "market_cap_cr": 14645.92,
       "exchange": "NSE",
-      "sector": "Capital Goods",
-      "quality_tier": "SB",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "BASF": {
@@ -2605,24 +2915,64 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "JSWDULUX": {
-      "symbol": "JSWDULUX",
-      "name": "JSW Dulux Limited",
-      "scrip_code": "500710",
-      "market_cap_cr": 14445.39,
+    "AVANTIFEED": {
+      "symbol": "AVANTIFEED",
+      "name": "Avanti Feeds Limited",
+      "scrip_code": "512573",
+      "market_cap_cr": 14496.54,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Agro",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "ATLANTAELE": {
-      "symbol": "ATLANTAELE",
-      "name": "Atlanta Electricals Limited",
-      "scrip_code": "544527",
-      "market_cap_cr": 14256.63,
+    "VENTIVE": {
+      "symbol": "VENTIVE",
+      "name": "Ventive Hospitality Limited",
+      "scrip_code": "544321",
+      "market_cap_cr": 14479.58,
       "exchange": "NSE",
       "sector": "Infrastructure",
       "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "THELEELA": {
+      "symbol": "THELEELA",
+      "name": "Leela Palaces Hotels & Resorts Limited",
+      "scrip_code": "544408",
+      "market_cap_cr": 14326.79,
+      "exchange": "NSE",
+      "sector": "Consumer",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "KFINTECH": {
+      "symbol": "KFINTECH",
+      "name": "Kfin Technologies Limited",
+      "scrip_code": "543720",
+      "market_cap_cr": 14301.49,
+      "exchange": "NSE",
+      "sector": "Market Infra",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "GRWRHITECH": {
+      "symbol": "GRWRHITECH",
+      "name": "Garware Hi-Tech Films Limited",
+      "scrip_code": "500655",
+      "market_cap_cr": 14264.69,
+      "exchange": "NSE",
+      "sector": "Chemicals",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SOBHA": {
+      "symbol": "SOBHA",
+      "name": "Sobha Limited",
+      "scrip_code": "532784",
+      "market_cap_cr": 14261.22,
+      "exchange": "NSE",
+      "sector": "Infrastructure",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "CONCORDBIO": {
@@ -2645,14 +2995,14 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "MAHSCOOTER": {
-      "symbol": "MAHSCOOTER",
-      "name": "Maharashtra Scooters Limited",
-      "scrip_code": "500266",
-      "market_cap_cr": 13966.85,
+    "AGARWALEYE": {
+      "symbol": "AGARWALEYE",
+      "name": "Dr. Agarwal's Health Care Limited",
+      "scrip_code": "544350",
+      "market_cap_cr": 13947.25,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "STANDARD",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "NSLNISP": {
@@ -2665,24 +3015,14 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "DOMS": {
-      "symbol": "DOMS",
-      "name": "DOMS Industries Limited",
-      "scrip_code": "544045",
-      "market_cap_cr": 13836.94,
-      "exchange": "NSE",
-      "sector": "FMCG",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "SCI": {
-      "symbol": "SCI",
-      "name": "Shipping Corporation Of India Limited",
-      "scrip_code": "523598",
-      "market_cap_cr": 13824.91,
+    "RAINBOW": {
+      "symbol": "RAINBOW",
+      "name": "Rainbow Childrens Medicare Limited",
+      "scrip_code": "543524",
+      "market_cap_cr": 13846.57,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "STANDARD",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "AZAD": {
@@ -2695,14 +3035,44 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "SHAILY": {
-      "symbol": "SHAILY",
-      "name": "Shaily Engineering Plastics Limited",
-      "scrip_code": "501423",
-      "market_cap_cr": 13682.21,
+    "PGEL": {
+      "symbol": "PGEL",
+      "name": "PG Electroplast Limited",
+      "scrip_code": "533581",
+      "market_cap_cr": 13787.24,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "ASTRAMICRO": {
+      "symbol": "ASTRAMICRO",
+      "name": "Astra Microwave Products Limited",
+      "scrip_code": "532493",
+      "market_cap_cr": 13681.58,
+      "exchange": "NSE",
+      "sector": "Defence",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "DEVYANI": {
+      "symbol": "DEVYANI",
+      "name": "Devyani International Limited",
+      "scrip_code": "543330",
+      "market_cap_cr": 13562.34,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "APTUS": {
+      "symbol": "APTUS",
+      "name": "Aptus Value Housing Finance India Limited",
+      "scrip_code": "543335",
+      "market_cap_cr": 13532.57,
+      "exchange": "NSE",
+      "sector": "NBFC",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "HONASA": {
@@ -2733,6 +3103,16 @@
       "exchange": "NSE",
       "sector": "Auto",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "JSWHL": {
+      "symbol": "JSWHL",
+      "name": "JSW Holdings Limited",
+      "scrip_code": "532642",
+      "market_cap_cr": 13485.71,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "VINATIORGA": {
@@ -2805,11 +3185,11 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "PARADEEP": {
-      "symbol": "PARADEEP",
-      "name": "Paradeep Phosphates Limited",
-      "scrip_code": "543530",
-      "market_cap_cr": 13114.17,
+    "CANHLIFE": {
+      "symbol": "CANHLIFE",
+      "name": "Canara HSBC Life Insurance Company Limited",
+      "scrip_code": "544583",
+      "market_cap_cr": 13113.19,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -2832,6 +3212,46 @@
       "market_cap_cr": 13060.43,
       "exchange": "NSE",
       "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "FIVESTAR": {
+      "symbol": "FIVESTAR",
+      "name": "Five-Star Business Finance Limited",
+      "scrip_code": "543663",
+      "market_cap_cr": 13046.95,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ECLERX": {
+      "symbol": "ECLERX",
+      "name": "eClerx Services Limited",
+      "scrip_code": "532927",
+      "market_cap_cr": 13042.89,
+      "exchange": "NSE",
+      "sector": "IT",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "EIDPARRY": {
+      "symbol": "EIDPARRY",
+      "name": "EID Parry India Limited",
+      "scrip_code": "500125",
+      "market_cap_cr": 12990.77,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ARVIND": {
+      "symbol": "ARVIND",
+      "name": "Arvind Limited",
+      "scrip_code": "500101",
+      "market_cap_cr": 12974.67,
+      "exchange": "NSE",
+      "sector": "Textiles",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -2865,14 +3285,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "JPPOWER": {
-      "symbol": "JPPOWER",
-      "name": "Jaiprakash Power Ventures Limited",
-      "scrip_code": "532627",
-      "market_cap_cr": 12637.78,
+    "GRAPHITE": {
+      "symbol": "GRAPHITE",
+      "name": "Graphite India Limited",
+      "scrip_code": "509488",
+      "market_cap_cr": 12609.54,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "HAPPYFORGE": {
+      "symbol": "HAPPYFORGE",
+      "name": "Happy Forgings Limited",
+      "scrip_code": "544057",
+      "market_cap_cr": 12550.5,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "TRIDENT": {
@@ -2885,6 +3315,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "INDGN": {
+      "symbol": "INDGN",
+      "name": "Indegene Limited",
+      "scrip_code": "",
+      "market_cap_cr": 12305.44,
+      "exchange": "NSE",
+      "sector": "Metals",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "SEDEMAC": {
       "symbol": "SEDEMAC",
       "name": "SEDEMAC Mechatronics Limited",
@@ -2895,6 +3335,36 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "TMB": {
+      "symbol": "TMB",
+      "name": "Tamilnad Mercantile Bank Limited",
+      "scrip_code": "543596",
+      "market_cap_cr": 12208.11,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "SOUTHBANK": {
+      "symbol": "SOUTHBANK",
+      "name": "The South Indian Bank Limited",
+      "scrip_code": "532218",
+      "market_cap_cr": 12198.1,
+      "exchange": "NSE",
+      "sector": "Banking",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "INDIAMART": {
+      "symbol": "INDIAMART",
+      "name": "Indiamart Intermesh Limited",
+      "scrip_code": "542726",
+      "market_cap_cr": 12131.77,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "TECHNOE": {
       "symbol": "TECHNOE",
       "name": "Techno Electric & Engineering Company Limited",
@@ -2903,6 +3373,26 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "PRUDENT": {
+      "symbol": "PRUDENT",
+      "name": "Prudent Corporate Advisory Services Limited",
+      "scrip_code": "543527",
+      "market_cap_cr": 12049.34,
+      "exchange": "NSE",
+      "sector": "Market Infra",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "AEQUS": {
+      "symbol": "AEQUS",
+      "name": "Aequs Limited",
+      "scrip_code": "544634",
+      "market_cap_cr": 12042.77,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "AFCONS": {
@@ -2920,6 +3410,16 @@
       "name": "Elecon Engineering Company Limited",
       "scrip_code": "",
       "market_cap_cr": 11980.71,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ABLBL": {
+      "symbol": "ABLBL",
+      "name": "Aditya Birla Lifestyle Brands Limited",
+      "scrip_code": "544403",
+      "market_cap_cr": 11964.19,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -2955,6 +3455,16 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "JMFINANCIL": {
+      "symbol": "JMFINANCIL",
+      "name": "JM Financial Limited",
+      "scrip_code": "523405",
+      "market_cap_cr": 11563.68,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "HOMEFIRST": {
       "symbol": "HOMEFIRST",
       "name": "Home First Finance Company India Limited",
@@ -2965,14 +3475,14 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "MARKSANS": {
-      "symbol": "MARKSANS",
-      "name": "Marksans Pharma Limited",
-      "scrip_code": "524404",
-      "market_cap_cr": 11406.13,
+    "BALRAMCHIN": {
+      "symbol": "BALRAMCHIN",
+      "name": "Balrampur Chini Mills Limited",
+      "scrip_code": "",
+      "market_cap_cr": 11421.1,
       "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "HC",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "BLUEDART": {
@@ -2985,6 +3495,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "AVALON": {
+      "symbol": "AVALON",
+      "name": "Avalon Technologies Limited",
+      "scrip_code": "",
+      "market_cap_cr": 11293.8,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "JAINREC": {
       "symbol": "JAINREC",
       "name": "Jain Resource Recycling Limited",
@@ -2995,6 +3515,16 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "CARTRADE": {
+      "symbol": "CARTRADE",
+      "name": "Cartrade Tech Limited",
+      "scrip_code": "543333",
+      "market_cap_cr": 11242.19,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "LUMAXTECH": {
       "symbol": "LUMAXTECH",
       "name": "Lumax Auto Technologies Limited",
@@ -3003,6 +3533,36 @@
       "exchange": "NSE",
       "sector": "Auto",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "ACE": {
+      "symbol": "ACE",
+      "name": "Action Construction Equipment Limited",
+      "scrip_code": "532762",
+      "market_cap_cr": 11126.0,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "AAVAS": {
+      "symbol": "AAVAS",
+      "name": "Aavas Financiers Limited",
+      "scrip_code": "541988",
+      "market_cap_cr": 11100.29,
+      "exchange": "NSE",
+      "sector": "NBFC",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "NUVOCO": {
+      "symbol": "NUVOCO",
+      "name": "Nuvoco Vistas Corporation Limited",
+      "scrip_code": "543334",
+      "market_cap_cr": 11089.7,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "METROPOLIS": {
@@ -3025,24 +3585,14 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "SIGNATURE": {
-      "symbol": "SIGNATURE",
-      "name": "Signatureglobal (India) Limited",
-      "scrip_code": "543990",
-      "market_cap_cr": 10931.73,
+    "JKTYRE": {
+      "symbol": "JKTYRE",
+      "name": "JK Tyre & Industries Limited",
+      "scrip_code": "530007",
+      "market_cap_cr": 10911.76,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "VIYASH": {
-      "symbol": "VIYASH",
-      "name": "Viyash Scientific Limited",
-      "scrip_code": "512529",
-      "market_cap_cr": 10907.22,
-      "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "GODREJAGRO": {
@@ -3052,36 +3602,6 @@
       "market_cap_cr": 10877.96,
       "exchange": "NSE",
       "sector": "FMCG",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "BLS": {
-      "symbol": "BLS",
-      "name": "BLS International Services Limited",
-      "scrip_code": "540073",
-      "market_cap_cr": 10802.46,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "RKFORGE": {
-      "symbol": "RKFORGE",
-      "name": "Ramkrishna Forgings Limited",
-      "scrip_code": "532527",
-      "market_cap_cr": 10765.25,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "IEX": {
-      "symbol": "IEX",
-      "name": "Indian Energy Exchange Limited",
-      "scrip_code": "540750",
-      "market_cap_cr": 10763.2,
-      "exchange": "NSE",
-      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -3095,16 +3615,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "FINPIPE": {
-      "symbol": "FINPIPE",
-      "name": "Finolex Industries Limited",
-      "scrip_code": "500940",
-      "market_cap_cr": 10709.2,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
     "SHILPAMED": {
       "symbol": "SHILPAMED",
       "name": "Shilpa Medicare Limited",
@@ -3113,6 +3623,16 @@
       "exchange": "NSE",
       "sector": "Pharma",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "OLECTRA": {
+      "symbol": "OLECTRA",
+      "name": "Olectra Greentech Limited",
+      "scrip_code": "532439",
+      "market_cap_cr": 10670.5,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "IIFLCAPS": {
@@ -3155,6 +3675,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "MEDPLUS": {
+      "symbol": "MEDPLUS",
+      "name": "Medplus Health Services Limited",
+      "scrip_code": "543427",
+      "market_cap_cr": 10597.57,
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "NAZARA": {
       "symbol": "NAZARA",
       "name": "Nazara Technologies Limited",
@@ -3163,6 +3693,16 @@
       "exchange": "NSE",
       "sector": "Media",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "BBTC": {
+      "symbol": "BBTC",
+      "name": "The Bombay Burmah Trading Corporation Limited",
+      "scrip_code": "501425",
+      "market_cap_cr": 10570.44,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "FIRSTCRY": {
@@ -3175,14 +3715,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "SANDUMA": {
-      "symbol": "SANDUMA",
-      "name": "Sandur Manganese & Iron Ores Limited",
-      "scrip_code": "504918",
-      "market_cap_cr": 10485.28,
+    "KIRLPNU": {
+      "symbol": "KIRLPNU",
+      "name": "Kirloskar Pneumatic Company Limited",
+      "scrip_code": "505283",
+      "market_cap_cr": 10406.3,
       "exchange": "NSE",
-      "sector": "Metals",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SWANDEF": {
+      "symbol": "SWANDEF",
+      "name": "Swan Defence and Heavy Industries Limited",
+      "scrip_code": "533107",
+      "market_cap_cr": 10378.91,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "EDELWEISS": {
@@ -3215,14 +3765,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "LLOYDSENT": {
-      "symbol": "LLOYDSENT",
-      "name": "Lloyds Enterprises Limited",
-      "scrip_code": "512463",
-      "market_cap_cr": 10224.85,
+    "ZENSARTECH": {
+      "symbol": "ZENSARTECH",
+      "name": "Zensar Technologies Limited",
+      "scrip_code": "504067",
+      "market_cap_cr": 10258.83,
       "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
+      "sector": "IT",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "MMTC": {
@@ -3255,24 +3805,34 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "SBFC": {
-      "symbol": "SBFC",
-      "name": "SBFC Finance Limited",
-      "scrip_code": "543959",
-      "market_cap_cr": 10044.58,
+    "RAILTEL": {
+      "symbol": "RAILTEL",
+      "name": "Railtel Corporation Of India Limited",
+      "scrip_code": "543265",
+      "market_cap_cr": 9971.56,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Telecom",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "BLACKBUCK": {
+      "symbol": "BLACKBUCK",
+      "name": "BLACKBUCK LIMITED",
+      "scrip_code": "544288",
+      "market_cap_cr": 9959.64,
+      "exchange": "NSE",
+      "sector": "Logistics",
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "WAAREERTL": {
-      "symbol": "WAAREERTL",
-      "name": "Waaree Renewable Technologies Limited",
-      "scrip_code": "534618",
-      "market_cap_cr": 9965.02,
+    "SWANCORP": {
+      "symbol": "SWANCORP",
+      "name": "SWAN CORP LIMITED",
+      "scrip_code": "503310",
+      "market_cap_cr": 9945.99,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "HC",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "RITES": {
@@ -3295,6 +3855,16 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "WABAG": {
+      "symbol": "WABAG",
+      "name": "VA Tech Wabag Limited",
+      "scrip_code": "533269",
+      "market_cap_cr": 9847.74,
+      "exchange": "NSE",
+      "sector": "Infrastructure",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "JUBLINGREA": {
       "symbol": "JUBLINGREA",
       "name": "Jubilant Ingrevia Limited",
@@ -3305,14 +3875,34 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "NCC": {
-      "symbol": "NCC",
-      "name": "NCC Limited",
-      "scrip_code": "500294",
-      "market_cap_cr": 9542.01,
+    "VOLTAMP": {
+      "symbol": "VOLTAMP",
+      "name": "Voltamp Transformers Limited",
+      "scrip_code": "532757",
+      "market_cap_cr": 9813.61,
       "exchange": "NSE",
-      "sector": "Infrastructure",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "WHIRLPOOL": {
+      "symbol": "WHIRLPOOL",
+      "name": "Whirlpool of India Limited",
+      "scrip_code": "500238",
+      "market_cap_cr": 9772.87,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "STAR": {
+      "symbol": "STAR",
+      "name": "Strides Pharma Science Limited",
+      "scrip_code": "532531",
+      "market_cap_cr": 9770.31,
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "AKUMS": {
@@ -3345,6 +3935,26 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "TARIL": {
+      "symbol": "TARIL",
+      "name": "Transformers And Rectifiers (India) Limited",
+      "scrip_code": "532928",
+      "market_cap_cr": 9455.22,
+      "exchange": "NSE",
+      "sector": "Jewellery",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "HCG": {
+      "symbol": "HCG",
+      "name": "Healthcare Global Enterprises Limited",
+      "scrip_code": "539787",
+      "market_cap_cr": 9404.55,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "ALKYLAMINE": {
       "symbol": "ALKYLAMINE",
       "name": "Alkyl Amines Chemicals Limited",
@@ -3352,6 +3962,36 @@
       "market_cap_cr": 9369.59,
       "exchange": "NSE",
       "sector": "Chemicals",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "MANORAMA": {
+      "symbol": "MANORAMA",
+      "name": "Manorama Industries Limited",
+      "scrip_code": "541974",
+      "market_cap_cr": 9344.39,
+      "exchange": "NSE",
+      "sector": "Agro",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "AMAGI": {
+      "symbol": "AMAGI",
+      "name": "Amagi Media Labs Limited",
+      "scrip_code": "544679",
+      "market_cap_cr": 9311.23,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "RATEGAIN": {
+      "symbol": "RATEGAIN",
+      "name": "Rategain Travel Technologies Limited",
+      "scrip_code": "",
+      "market_cap_cr": 9247.06,
+      "exchange": "NSE",
+      "sector": "IT",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -3363,6 +4003,46 @@
       "exchange": "NSE",
       "sector": "Media",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "VESUVIUS": {
+      "symbol": "VESUVIUS",
+      "name": "Vesuvius India Limited",
+      "scrip_code": "520113",
+      "market_cap_cr": 9233.7,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "TTML": {
+      "symbol": "TTML",
+      "name": "Tata Teleservices (Maharashtra) Limited",
+      "scrip_code": "532371",
+      "market_cap_cr": 9023.95,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "BLUEJET": {
+      "symbol": "BLUEJET",
+      "name": "Blue Jet Healthcare Limited",
+      "scrip_code": "544009",
+      "market_cap_cr": 8881.43,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "BSOFT": {
+      "symbol": "BSOFT",
+      "name": "BIRLASOFT LIMITED",
+      "scrip_code": "532400",
+      "market_cap_cr": 8870.89,
+      "exchange": "NSE",
+      "sector": "IT",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "PARAS": {
@@ -3395,6 +4075,26 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "POWERMECH": {
+      "symbol": "POWERMECH",
+      "name": "Power Mech Projects Limited",
+      "scrip_code": "539302",
+      "market_cap_cr": 8811.46,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "SAREGAMA": {
+      "symbol": "SAREGAMA",
+      "name": "Saregama India Limited",
+      "scrip_code": "532163",
+      "market_cap_cr": 8808.06,
+      "exchange": "NSE",
+      "sector": "Media",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "GENUSPOWER": {
       "symbol": "GENUSPOWER",
       "name": "Genus Power Infrastructures Limited",
@@ -3405,12 +4105,12 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "500285": {
-      "symbol": "500285",
-      "name": "SpiceJet Limited",
-      "scrip_code": "500285",
-      "market_cap_cr": 8656.04,
-      "exchange": "BSE",
+    "TSFINV": {
+      "symbol": "TSFINV",
+      "name": "TSF INVESTMENTS LIMITED",
+      "scrip_code": "",
+      "market_cap_cr": 8651.12,
+      "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
@@ -3423,16 +4123,6 @@
       "exchange": "NSE",
       "sector": "Jewellery",
       "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "JLHL": {
-      "symbol": "JLHL",
-      "name": "Jupiter Life Line Hospitals Limited",
-      "scrip_code": "543980",
-      "market_cap_cr": 8640.29,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "BATAINDIA": {
@@ -3465,16 +4155,6 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "SIGMAADV": {
-      "symbol": "SIGMAADV",
-      "name": "SIGMA ADVANCED SYSTEMS LIMITED",
-      "scrip_code": "532408",
-      "market_cap_cr": 8530.0,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "LEMONTREE": {
       "symbol": "LEMONTREE",
       "name": "Lemon Tree Hotels Limited",
@@ -3495,6 +4175,36 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "INDIASHLTR": {
+      "symbol": "INDIASHLTR",
+      "name": "India Shelter Finance Corporation Limited",
+      "scrip_code": "544044",
+      "market_cap_cr": 8485.24,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "SUDEEPPHRM": {
+      "symbol": "SUDEEPPHRM",
+      "name": "Sudeep Pharma Limited",
+      "scrip_code": "544619",
+      "market_cap_cr": 8482.44,
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "ASKAUTOLTD": {
+      "symbol": "ASKAUTOLTD",
+      "name": "ASK Automotive Limited",
+      "scrip_code": "544022",
+      "market_cap_cr": 8479.1,
+      "exchange": "NSE",
+      "sector": "Auto",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "THYROCARE": {
       "symbol": "THYROCARE",
       "name": "Thyrocare Technologies Limited",
@@ -3505,14 +4215,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "EUREKAFORB": {
-      "symbol": "EUREKAFORB",
-      "name": "Eureka Forbes Limited",
-      "scrip_code": "543482",
-      "market_cap_cr": 8436.24,
+    "TIMETECHNO": {
+      "symbol": "TIMETECHNO",
+      "name": "Time Technoplast Limited",
+      "scrip_code": "532856",
+      "market_cap_cr": 8416.48,
       "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
+      "sector": "Chemicals",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "GRINFRA": {
@@ -3523,6 +4233,16 @@
       "exchange": "NSE",
       "sector": "Capital Goods",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SHARDACROP": {
+      "symbol": "SHARDACROP",
+      "name": "Sharda Cropchem Limited",
+      "scrip_code": "538666",
+      "market_cap_cr": 8320.13,
+      "exchange": "NSE",
+      "sector": "Agro",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "MAHSEAMLES": {
@@ -3575,16 +4295,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "TIPSMUSIC": {
-      "symbol": "TIPSMUSIC",
-      "name": "Tips Music Limited",
-      "scrip_code": "532375",
-      "market_cap_cr": 8219.57,
-      "exchange": "NSE",
-      "sector": "Media",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
     "RELIGARE": {
       "symbol": "RELIGARE",
       "name": "Religare Enterprises Limited",
@@ -3595,16 +4305,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "MIDHANI": {
-      "symbol": "MIDHANI",
-      "name": "Mishra Dhatu Nigam Limited",
-      "scrip_code": "541195",
-      "market_cap_cr": 8149.29,
-      "exchange": "NSE",
-      "sector": "Metals",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
     "CLEAN": {
       "symbol": "CLEAN",
       "name": "Clean Science and Technology Limited",
@@ -3613,36 +4313,6 @@
       "exchange": "NSE",
       "sector": "Pharma",
       "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "V2RETAIL": {
-      "symbol": "V2RETAIL",
-      "name": "V2 Retail Limited",
-      "scrip_code": "532867",
-      "market_cap_cr": 8124.85,
-      "exchange": "NSE",
-      "sector": "FMCG",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "YATHARTH": {
-      "symbol": "YATHARTH",
-      "name": "Yatharth Hospital & Trauma Care Services Limited",
-      "scrip_code": "543950",
-      "market_cap_cr": 8094.25,
-      "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "KPIGREEN": {
-      "symbol": "KPIGREEN",
-      "name": "KPI Green Energy Limited",
-      "scrip_code": "",
-      "market_cap_cr": 7985.95,
-      "exchange": "NSE",
-      "sector": "Power",
-      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "E2E": {
@@ -3665,16 +4335,6 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "SHREEJISPG": {
-      "symbol": "SHREEJISPG",
-      "name": "Shreeji Shipping Global Limited",
-      "scrip_code": "544490",
-      "market_cap_cr": 7924.34,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "BLUESTONE": {
       "symbol": "BLUESTONE",
       "name": "BlueStone Jewellery and Lifestyle Limited",
@@ -3682,6 +4342,16 @@
       "market_cap_cr": 7917.27,
       "exchange": "NSE",
       "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "SKFINDIA": {
+      "symbol": "SKFINDIA",
+      "name": "SKF India Limited",
+      "scrip_code": "500472",
+      "market_cap_cr": 7874.97,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -3695,14 +4365,34 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "JSLL": {
-      "symbol": "JSLL",
-      "name": "Jeena Sikho Lifecare Limited",
-      "scrip_code": "544476",
-      "market_cap_cr": 7669.36,
+    "IXIGO": {
+      "symbol": "IXIGO",
+      "name": "Le Travenues Technology Limited",
+      "scrip_code": "544192",
+      "market_cap_cr": 7830.24,
       "exchange": "NSE",
-      "sector": "Metals",
-      "quality_tier": "SB",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "BAJAJCON": {
+      "symbol": "BAJAJCON",
+      "name": "Bajaj Consumer Care Limited",
+      "scrip_code": "",
+      "market_cap_cr": 7745.67,
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "SFL": {
+      "symbol": "SFL",
+      "name": "Sheela Foam Limited",
+      "scrip_code": "540203",
+      "market_cap_cr": 7676.99,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "NESCO": {
@@ -3715,13 +4405,13 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "BORORENEW": {
-      "symbol": "BORORENEW",
-      "name": "BOROSIL RENEWABLES LIMITED",
-      "scrip_code": "502219",
-      "market_cap_cr": 7627.9,
+    "VIKRAMSOLR": {
+      "symbol": "VIKRAMSOLR",
+      "name": "Vikram Solar Limited",
+      "scrip_code": "544488",
+      "market_cap_cr": 7635.53,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -3741,16 +4431,6 @@
       "scrip_code": "500123",
       "market_cap_cr": 7590.76,
       "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "532467": {
-      "symbol": "532467",
-      "name": "Hazoor Multi Projects Limited",
-      "scrip_code": "532467",
-      "market_cap_cr": 7578.49,
-      "exchange": "BSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
@@ -3775,23 +4455,13 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "NEPHROPLUS": {
-      "symbol": "NEPHROPLUS",
-      "name": "Nephrocare Health Services Limited",
-      "scrip_code": "544647",
-      "market_cap_cr": 7450.3,
+    "SGMART": {
+      "symbol": "SGMART",
+      "name": "SG Mart Limited",
+      "scrip_code": "512329",
+      "market_cap_cr": 7465.06,
       "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "GPPL": {
-      "symbol": "GPPL",
-      "name": "Gujarat Pipavav Port Limited",
-      "scrip_code": "533248",
-      "market_cap_cr": 7447.84,
-      "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Retail",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -3815,6 +4485,26 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "GNFC": {
+      "symbol": "GNFC",
+      "name": "Gujarat Narmada Valley Fertilizers and Chemicals Limited",
+      "scrip_code": "500670",
+      "market_cap_cr": 7405.81,
+      "exchange": "NSE",
+      "sector": "Chemicals",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "JYOTHYLAB": {
+      "symbol": "JYOTHYLAB",
+      "name": "Jyothy Labs Limited",
+      "scrip_code": "532926",
+      "market_cap_cr": 7394.97,
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "TTKPRESTIG": {
       "symbol": "TTKPRESTIG",
       "name": "TTK Prestige Limited",
@@ -3823,6 +4513,16 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "REDTAPE": {
+      "symbol": "REDTAPE",
+      "name": "Redtape Limited",
+      "scrip_code": "543957",
+      "market_cap_cr": 7379.98,
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "JKLAKSHMI": {
@@ -3835,24 +4535,24 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "ABFRL": {
-      "symbol": "ABFRL",
-      "name": "Aditya Birla Fashion and Retail Limited",
-      "scrip_code": "535755",
-      "market_cap_cr": 7300.66,
+    "SPARC": {
+      "symbol": "SPARC",
+      "name": "Sun Pharma Advanced Research Company Limited",
+      "scrip_code": "532872",
+      "market_cap_cr": 7286.16,
       "exchange": "NSE",
-      "sector": "Retail",
-      "quality_tier": "STANDARD",
+      "sector": "Pharma",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "CAMPUS": {
-      "symbol": "CAMPUS",
-      "name": "Campus Activewear Limited",
-      "scrip_code": "543523",
-      "market_cap_cr": 7300.62,
+    "BIRLACORPN": {
+      "symbol": "BIRLACORPN",
+      "name": "Birla Corporation Limited",
+      "scrip_code": "",
+      "market_cap_cr": 7274.31,
       "exchange": "NSE",
-      "sector": "Retail",
-      "quality_tier": "SB",
+      "sector": "Infrastructure",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "GAEL": {
@@ -3895,14 +4595,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "PRECWIRE": {
-      "symbol": "PRECWIRE",
-      "name": "Precision Wires India Limited",
-      "scrip_code": "523539",
-      "market_cap_cr": 7129.51,
+    "SUVEN": {
+      "symbol": "SUVEN",
+      "name": "Suven Life Sciences Limited",
+      "scrip_code": "",
+      "market_cap_cr": 7146.83,
       "exchange": "NSE",
-      "sector": "Capital Goods",
-      "quality_tier": "HC",
+      "sector": "Pharma",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "TCI": {
@@ -3913,26 +4613,6 @@
       "exchange": "NSE",
       "sector": "Logistics",
       "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "539469": {
-      "symbol": "539469",
-      "name": "PANORAMA STUDIOS INTERNATIONAL LIMITED",
-      "scrip_code": "539469",
-      "market_cap_cr": 7087.85,
-      "exchange": "BSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "SONATSOFTW": {
-      "symbol": "SONATSOFTW",
-      "name": "Sonata Software Limited",
-      "scrip_code": "532221",
-      "market_cap_cr": 7058.26,
-      "exchange": "NSE",
-      "sector": "IT",
-      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "MAXESTATES": {
@@ -4065,14 +4745,54 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "SHAKTIPUMP": {
-      "symbol": "SHAKTIPUMP",
-      "name": "Shakti Pumps (India) Limited",
-      "scrip_code": "531431",
-      "market_cap_cr": 6656.7,
+    "PRICOLLTD": {
+      "symbol": "PRICOLLTD",
+      "name": "Pricol Limited",
+      "scrip_code": "540293",
+      "market_cap_cr": 6715.67,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "ACI": {
+      "symbol": "ACI",
+      "name": "Archean Chemical Industries Limited",
+      "scrip_code": "543657",
+      "market_cap_cr": 6702.56,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ISGEC": {
+      "symbol": "ISGEC",
+      "name": "Isgec Heavy Engineering Limited",
+      "scrip_code": "533033",
+      "market_cap_cr": 6694.86,
       "exchange": "NSE",
       "sector": "Capital Goods",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "RAIN": {
+      "symbol": "RAIN",
+      "name": "Rain Industries Limited",
+      "scrip_code": "",
+      "market_cap_cr": 6626.01,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ASHAPURMIN": {
+      "symbol": "ASHAPURMIN",
+      "name": "Ashapura Minechem Limited",
+      "scrip_code": "",
+      "market_cap_cr": 6600.85,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "LOTUSDEV": {
@@ -4115,6 +4835,26 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "CEIGALL": {
+      "symbol": "CEIGALL",
+      "name": "Ceigall India Limited",
+      "scrip_code": "544223",
+      "market_cap_cr": 6515.26,
+      "exchange": "NSE",
+      "sector": "Infrastructure",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "KALPATARU": {
+      "symbol": "KALPATARU",
+      "name": "Kalpataru Limited",
+      "scrip_code": "544423",
+      "market_cap_cr": 6460.55,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "GREENLAM": {
       "symbol": "GREENLAM",
       "name": "Greenlam Industries Limited",
@@ -4132,6 +4872,16 @@
       "market_cap_cr": 6444.64,
       "exchange": "NSE",
       "sector": "FMCG",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "ETHOSLTD": {
+      "symbol": "ETHOSLTD",
+      "name": "Ethos Limited",
+      "scrip_code": "543532",
+      "market_cap_cr": 6421.85,
+      "exchange": "NSE",
+      "sector": "Retail",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -4155,16 +4905,6 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "SUNFLAG": {
-      "symbol": "SUNFLAG",
-      "name": "Sunflag Iron And Steel Company Limited",
-      "scrip_code": "500404",
-      "market_cap_cr": 6329.31,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "KOVAI": {
       "symbol": "KOVAI",
       "name": "Kovai Medical Center & Hospital Limited",
@@ -4175,23 +4915,23 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "FDC": {
-      "symbol": "FDC",
-      "name": "FDC Limited",
-      "scrip_code": "531599",
-      "market_cap_cr": 6312.15,
+    "SUPRAJIT": {
+      "symbol": "SUPRAJIT",
+      "name": "Suprajit Engineering Limited",
+      "scrip_code": "532509",
+      "market_cap_cr": 6289.98,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Auto",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "CSBBANK": {
-      "symbol": "CSBBANK",
-      "name": "CSB Bank Limited",
-      "scrip_code": "542867",
-      "market_cap_cr": 6173.22,
+    "GVPIL": {
+      "symbol": "GVPIL",
+      "name": "GE Power India Limited",
+      "scrip_code": "532309",
+      "market_cap_cr": 6249.13,
       "exchange": "NSE",
-      "sector": "Banking",
+      "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -4205,14 +4945,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "SKIPPER": {
-      "symbol": "SKIPPER",
-      "name": "Skipper Limited",
-      "scrip_code": "538562",
-      "market_cap_cr": 6112.62,
+    "SAATVIKGL": {
+      "symbol": "SAATVIKGL",
+      "name": "Saatvik Green Energy Limited",
+      "scrip_code": "544526",
+      "market_cap_cr": 6062.91,
       "exchange": "NSE",
-      "sector": "Capital Goods",
-      "quality_tier": "HC",
+      "sector": "FMCG",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "JAIBALAJI": {
@@ -4222,6 +4962,16 @@
       "market_cap_cr": 6043.67,
       "exchange": "NSE",
       "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "GALAXYSURF": {
+      "symbol": "GALAXYSURF",
+      "name": "Galaxy Surfactants Limited",
+      "scrip_code": "540935",
+      "market_cap_cr": 6024.12,
+      "exchange": "NSE",
+      "sector": "Chemicals",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -4255,16 +5005,6 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "SENORES": {
-      "symbol": "SENORES",
-      "name": "Senores Pharmaceuticals Limited",
-      "scrip_code": "544319",
-      "market_cap_cr": 5945.52,
-      "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
     "PRSMJOHNSN": {
       "symbol": "PRSMJOHNSN",
       "name": "Prism Johnson Limited",
@@ -4295,34 +5035,34 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "AARTIPHARM": {
-      "symbol": "AARTIPHARM",
-      "name": "Aarti Pharmalabs Limited",
-      "scrip_code": "543748",
-      "market_cap_cr": 5832.47,
+    "POWERICA": {
+      "symbol": "POWERICA",
+      "name": "Powerica Limited",
+      "scrip_code": "544744",
+      "market_cap_cr": 5821.39,
       "exchange": "NSE",
-      "sector": "Pharma",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "531889": {
-      "symbol": "531889",
-      "name": "NURTURE WELL INDUSTRIES LIMITED",
-      "scrip_code": "531889",
-      "market_cap_cr": 5794.2,
-      "exchange": "BSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "FEDFINA": {
-      "symbol": "FEDFINA",
-      "name": "Fedbank Financial Services Limited",
-      "scrip_code": "544027",
-      "market_cap_cr": 5716.92,
+    "DCBBANK": {
+      "symbol": "DCBBANK",
+      "name": "DCB Bank Limited",
+      "scrip_code": "532772",
+      "market_cap_cr": 5787.73,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Banking",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "PICCADIL": {
+      "symbol": "PICCADIL",
+      "name": "Piccadily Agro Industries Limited",
+      "scrip_code": "530305",
+      "market_cap_cr": 5731.32,
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "SURYAROSNI": {
@@ -4335,24 +5075,14 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "TIIL": {
-      "symbol": "TIIL",
-      "name": "Technocraft Industries (India) Limited",
-      "scrip_code": "532804",
-      "market_cap_cr": 5688.61,
+    "VMART": {
+      "symbol": "VMART",
+      "name": "V-Mart Retail Limited",
+      "scrip_code": "534976",
+      "market_cap_cr": 5682.11,
       "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "539607": {
-      "symbol": "539607",
-      "name": "Blue Cloud Softech Solutions Limited",
-      "scrip_code": "539607",
-      "market_cap_cr": 5658.25,
-      "exchange": "BSE",
-      "sector": "IT",
-      "quality_tier": "SB",
+      "sector": "Retail",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "PTC": {
@@ -4360,16 +5090,6 @@
       "name": "PTC India Limited",
       "scrip_code": "532524",
       "market_cap_cr": 5600.48,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "NEOGEN": {
-      "symbol": "NEOGEN",
-      "name": "Neogen Chemicals Limited",
-      "scrip_code": "",
-      "market_cap_cr": 5596.81,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -4383,16 +5103,6 @@
       "exchange": "NSE",
       "sector": "Infrastructure",
       "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "BECTORFOOD": {
-      "symbol": "BECTORFOOD",
-      "name": "Mrs. Bectors Food Specialities Limited",
-      "scrip_code": "543253",
-      "market_cap_cr": 5575.56,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "KSHINTL": {
@@ -4425,6 +5135,16 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "PAISALO": {
+      "symbol": "PAISALO",
+      "name": "Paisalo Digital Limited",
+      "scrip_code": "532900",
+      "market_cap_cr": 5420.75,
+      "exchange": "NSE",
+      "sector": "NBFC",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "SAPPHIRE": {
       "symbol": "SAPPHIRE",
       "name": "Sapphire Foods India Limited",
@@ -4435,14 +5155,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "CENTUM": {
-      "symbol": "CENTUM",
-      "name": "Centum Electronics Limited",
-      "scrip_code": "517544",
-      "market_cap_cr": 5292.01,
+    "INNOVACAP": {
+      "symbol": "INNOVACAP",
+      "name": "Innova Captab Limited",
+      "scrip_code": "544067",
+      "market_cap_cr": 5407.76,
       "exchange": "NSE",
-      "sector": "Capital Goods",
+      "sector": "Infrastructure",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "MASFIN": {
+      "symbol": "MASFIN",
+      "name": "MAS Financial Services Limited",
+      "scrip_code": "",
+      "market_cap_cr": 5364.67,
+      "exchange": "NSE",
+      "sector": "NBFC",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "HAPPSTMNDS": {
@@ -4455,14 +5185,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "IBULLSLTD": {
-      "symbol": "IBULLSLTD",
-      "name": "Indiabulls Limited",
-      "scrip_code": "533520",
-      "market_cap_cr": 5258.33,
+    "PNCINFRA": {
+      "symbol": "PNCINFRA",
+      "name": "PNC Infratech Limited",
+      "scrip_code": "539150",
+      "market_cap_cr": 5207.74,
       "exchange": "NSE",
-      "sector": "Real Estate",
-      "quality_tier": "SB",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "IFBIND": {
@@ -4472,16 +5202,6 @@
       "market_cap_cr": 5207.07,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "ITDC": {
-      "symbol": "ITDC",
-      "name": "India Tourism Development Corporation Limited",
-      "scrip_code": "532189",
-      "market_cap_cr": 5043.24,
-      "exchange": "NSE",
-      "sector": "Consumer",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -4525,16 +5245,6 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "RTNPOWER": {
-      "symbol": "RTNPOWER",
-      "name": "RattanIndia Power Limited",
-      "scrip_code": "533122",
-      "market_cap_cr": 4978.09,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "PURVA": {
       "symbol": "PURVA",
       "name": "Puravankara Limited",
@@ -4575,6 +5285,16 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "EBGNG": {
+      "symbol": "EBGNG",
+      "name": "GNG Electronics Limited",
+      "scrip_code": "544455",
+      "market_cap_cr": 4936.13,
+      "exchange": "NSE",
+      "sector": "Power",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "RUSTOMJEE": {
       "symbol": "RUSTOMJEE",
       "name": "Keystone Realtors Limited",
@@ -4585,13 +5305,13 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "RBA": {
-      "symbol": "RBA",
-      "name": "Restaurant Brands Asia Limited",
-      "scrip_code": "543248",
-      "market_cap_cr": 4901.87,
+    "MASTEK": {
+      "symbol": "MASTEK",
+      "name": "Mastek Limited",
+      "scrip_code": "523704",
+      "market_cap_cr": 4910.21,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "IT",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -4605,13 +5325,13 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "MBAPL": {
-      "symbol": "MBAPL",
-      "name": "Madhya Bharat Agro Products Limited",
-      "scrip_code": "",
-      "market_cap_cr": 4890.02,
+    "SWSOLAR": {
+      "symbol": "SWSOLAR",
+      "name": "Sterling and Wilson Renewable Energy Limited",
+      "scrip_code": "542760",
+      "market_cap_cr": 4897.57,
       "exchange": "NSE",
-      "sector": "Agro",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -4623,6 +5343,16 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "JAMNAAUTO": {
+      "symbol": "JAMNAAUTO",
+      "name": "Jamna Auto Industries Limited",
+      "scrip_code": "520051",
+      "market_cap_cr": 4881.39,
+      "exchange": "NSE",
+      "sector": "Auto",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "NETWORK18": {
@@ -4655,16 +5385,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "EPIGRAL": {
-      "symbol": "EPIGRAL",
-      "name": "Epigral Limited",
-      "scrip_code": "543332",
-      "market_cap_cr": 4836.14,
-      "exchange": "NSE",
-      "sector": "Chemicals",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
     "PILANIINVS": {
       "symbol": "PILANIINVS",
       "name": "Pilani Investment and Industries Corporation Limited",
@@ -4683,6 +5403,16 @@
       "exchange": "NSE",
       "sector": "Chemicals",
       "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "MHRIL": {
+      "symbol": "MHRIL",
+      "name": "Mahindra Holidays & Resorts India Limited",
+      "scrip_code": "533088",
+      "market_cap_cr": 4735.98,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "CCAVENUE": {
@@ -4705,13 +5435,23 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "GULFOILLUB": {
-      "symbol": "GULFOILLUB",
-      "name": "Gulf Oil Lubricants India Limited",
-      "scrip_code": "538567",
-      "market_cap_cr": 4659.53,
+    "NORTHARC": {
+      "symbol": "NORTHARC",
+      "name": "Northern Arc Capital Limited",
+      "scrip_code": "544260",
+      "market_cap_cr": 4670.27,
       "exchange": "NSE",
       "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "KMEW": {
+      "symbol": "KMEW",
+      "name": "Knowledge Marine & Engineering Works Limited",
+      "scrip_code": "543273",
+      "market_cap_cr": 4668.82,
+      "exchange": "NSE",
+      "sector": "Logistics",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -4725,14 +5465,24 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "GUJALKALI": {
-      "symbol": "GUJALKALI",
-      "name": "Gujarat Alkalies and Chemicals Limited",
-      "scrip_code": "530001",
-      "market_cap_cr": 4642.68,
+    "AGIIL": {
+      "symbol": "AGIIL",
+      "name": "Agi Infra Limited",
+      "scrip_code": "539042",
+      "market_cap_cr": 4645.53,
       "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
+      "sector": "IT",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "BLISSGVS": {
+      "symbol": "BLISSGVS",
+      "name": "Bliss GVS Pharma Limited",
+      "scrip_code": "506197",
+      "market_cap_cr": 4634.66,
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "DATAMATICS": {
@@ -4745,13 +5495,13 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "SYMPHONY": {
-      "symbol": "SYMPHONY",
-      "name": "Symphony Limited",
-      "scrip_code": "517385",
-      "market_cap_cr": 4618.84,
+    "MAPMYINDIA": {
+      "symbol": "MAPMYINDIA",
+      "name": "C.E. Info Systems Limited",
+      "scrip_code": "543425",
+      "market_cap_cr": 4619.64,
       "exchange": "NSE",
-      "sector": "FMCG",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -4763,6 +5513,16 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "FCL": {
+      "symbol": "FCL",
+      "name": "Fineotex Chemical Limited",
+      "scrip_code": "533333",
+      "market_cap_cr": 4596.29,
+      "exchange": "NSE",
+      "sector": "Chemicals",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "JUSTDIAL": {
@@ -4795,6 +5555,16 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "DEEDEV": {
+      "symbol": "DEEDEV",
+      "name": "DEE Development Engineers Limited",
+      "scrip_code": "544198",
+      "market_cap_cr": 4548.52,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "BANARISUG": {
       "symbol": "BANARISUG",
       "name": "Bannari Amman Sugars Limited",
@@ -4805,13 +5575,13 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "STYL": {
-      "symbol": "STYL",
-      "name": "Seshaasai Technologies Limited",
-      "scrip_code": "544533",
-      "market_cap_cr": 4520.85,
+    "REFEX": {
+      "symbol": "REFEX",
+      "name": "Refex Industries Limited",
+      "scrip_code": "532884",
+      "market_cap_cr": 4527.65,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Power",
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
@@ -4835,6 +5605,16 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "KSCL": {
+      "symbol": "KSCL",
+      "name": "Kaveri Seed Company Limited",
+      "scrip_code": "532899",
+      "market_cap_cr": 4481.64,
+      "exchange": "NSE",
+      "sector": "Agro",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "MANINFRA": {
       "symbol": "MANINFRA",
       "name": "Man Infraconstruction Limited",
@@ -4855,6 +5635,26 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "VIPIND": {
+      "symbol": "VIPIND",
+      "name": "VIP Industries Limited",
+      "scrip_code": "507880",
+      "market_cap_cr": 4471.79,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "BAJAJHIND": {
+      "symbol": "BAJAJHIND",
+      "name": "Bajaj Hindusthan Sugar Limited",
+      "scrip_code": "500032",
+      "market_cap_cr": 4444.43,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "RALLIS": {
       "symbol": "RALLIS",
       "name": "Rallis India Limited",
@@ -4865,23 +5665,23 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "ELECTCAST": {
-      "symbol": "ELECTCAST",
-      "name": "Electrosteel Castings Limited",
-      "scrip_code": "500128",
-      "market_cap_cr": 4420.64,
+    "AVANTEL": {
+      "symbol": "AVANTEL",
+      "name": "Avantel Limited",
+      "scrip_code": "532406",
+      "market_cap_cr": 4410.8,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "GOODLUCK": {
-      "symbol": "GOODLUCK",
-      "name": "Goodluck India Limited",
-      "scrip_code": "530655",
-      "market_cap_cr": 4370.86,
+    "VSTIND": {
+      "symbol": "VSTIND",
+      "name": "VST Industries Limited",
+      "scrip_code": "509966",
+      "market_cap_cr": 4405.59,
       "exchange": "NSE",
-      "sector": "Metals",
+      "sector": "FMCG",
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
@@ -4900,6 +5700,26 @@
       "name": "Juniper Hotels Limited",
       "scrip_code": "544129",
       "market_cap_cr": 4338.8,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "VADILALIND": {
+      "symbol": "VADILALIND",
+      "name": "Vadilal Industries Limited",
+      "scrip_code": "519156",
+      "market_cap_cr": 4324.2,
+      "exchange": "NSE",
+      "sector": "Consumer",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "GREAVESCOT": {
+      "symbol": "GREAVESCOT",
+      "name": "Greaves Cotton Limited",
+      "scrip_code": "501455",
+      "market_cap_cr": 4315.43,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -4945,6 +5765,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "GUJTHEM": {
+      "symbol": "GUJTHEM",
+      "name": "Gujarat Themis Biosyn Limited",
+      "scrip_code": "506879",
+      "market_cap_cr": 4257.34,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "TRUALT": {
       "symbol": "TRUALT",
       "name": "TruAlt Bioenergy Limited",
@@ -4953,6 +5783,16 @@
       "exchange": "NSE",
       "sector": "Power",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SUNTECK": {
+      "symbol": "SUNTECK",
+      "name": "Sunteck Realty Limited",
+      "scrip_code": "512179",
+      "market_cap_cr": 4229.05,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "IONEXCHANG": {
@@ -4985,41 +5825,31 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "NRBBEARING": {
+      "symbol": "NRBBEARING",
+      "name": "NRB Bearing Limited",
+      "scrip_code": "530367",
+      "market_cap_cr": 4148.29,
+      "exchange": "NSE",
+      "sector": "Auto",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SHOPERSTOP": {
+      "symbol": "SHOPERSTOP",
+      "name": "Shoppers Stop Limited",
+      "scrip_code": "532638",
+      "market_cap_cr": 4096.64,
+      "exchange": "NSE",
+      "sector": "Retail",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "MANINDS": {
       "symbol": "MANINDS",
       "name": "Man Industries (India) Limited",
       "scrip_code": "513269",
       "market_cap_cr": 4095.52,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "MOSCHIP": {
-      "symbol": "MOSCHIP",
-      "name": "Moschip Technologies Limited",
-      "scrip_code": "532407",
-      "market_cap_cr": 4068.83,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "UNIVCABLES": {
-      "symbol": "UNIVCABLES",
-      "name": "Universal Cables Limited",
-      "scrip_code": "504212",
-      "market_cap_cr": 4066.65,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "CAPILLARY": {
-      "symbol": "CAPILLARY",
-      "name": "Capillary Technologies India Limited",
-      "scrip_code": "544614",
-      "market_cap_cr": 4061.02,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -5045,14 +5875,14 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "SEAMECLTD": {
-      "symbol": "SEAMECLTD",
-      "name": "Seamec Limited",
-      "scrip_code": "526807",
-      "market_cap_cr": 4043.97,
+    "SGFIN": {
+      "symbol": "SGFIN",
+      "name": "SG Finserve Limited",
+      "scrip_code": "",
+      "market_cap_cr": 4045.95,
       "exchange": "NSE",
-      "sector": "Auto",
-      "quality_tier": "SB",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "SBCL": {
@@ -5085,6 +5915,16 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "WHEELS": {
+      "symbol": "WHEELS",
+      "name": "Wheels India Limited",
+      "scrip_code": "590073",
+      "market_cap_cr": 4004.57,
+      "exchange": "NSE",
+      "sector": "Auto",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "HEMIPROP": {
       "symbol": "HEMIPROP",
       "name": "Hemisphere Properties India Limited",
@@ -5093,6 +5933,36 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "VISHNU": {
+      "symbol": "VISHNU",
+      "name": "Vishnu Chemicals Limited",
+      "scrip_code": "516072",
+      "market_cap_cr": 3978.33,
+      "exchange": "NSE",
+      "sector": "Chemicals",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "IOLCP": {
+      "symbol": "IOLCP",
+      "name": "IOL Chemicals and Pharmaceuticals Limited",
+      "scrip_code": "524164",
+      "market_cap_cr": 3945.6,
+      "exchange": "NSE",
+      "sector": "Chemicals",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "RAYMONDREL": {
+      "symbol": "RAYMONDREL",
+      "name": "Raymond Realty Limited",
+      "scrip_code": "544420",
+      "market_cap_cr": 3943.17,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "SOTL": {
@@ -5105,21 +5975,21 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "VSTTILLERS": {
-      "symbol": "VSTTILLERS",
-      "name": "V.S.T Tillers Tractors Limited",
-      "scrip_code": "531266",
-      "market_cap_cr": 3893.74,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "RAYMOND": {
       "symbol": "RAYMOND",
       "name": "Raymond Limited",
       "scrip_code": "500330",
       "market_cap_cr": 3893.26,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ELLEN": {
+      "symbol": "ELLEN",
+      "name": "Ellenbarrie Industrial Gases Limited",
+      "scrip_code": "",
+      "market_cap_cr": 3889.82,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -5135,13 +6005,23 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "HIRECT": {
-      "symbol": "HIRECT",
-      "name": "Hind Rectifiers Limited",
-      "scrip_code": "504036",
-      "market_cap_cr": 3873.75,
+    "POCL": {
+      "symbol": "POCL",
+      "name": "Pondy Oxides & Chemicals Limited",
+      "scrip_code": "532626",
+      "market_cap_cr": 3874.93,
       "exchange": "NSE",
-      "sector": "Others",
+      "sector": "Chemicals",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "NACLIND": {
+      "symbol": "NACLIND",
+      "name": "NACL Industries Limited",
+      "scrip_code": "524709",
+      "market_cap_cr": 3865.02,
+      "exchange": "NSE",
+      "sector": "Chemicals",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -5155,11 +6035,41 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "EMUDHRA": {
+      "symbol": "EMUDHRA",
+      "name": "eMudhra Limited",
+      "scrip_code": "543533",
+      "market_cap_cr": 3836.36,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "LUXIND": {
       "symbol": "LUXIND",
       "name": "Lux Industries Limited",
       "scrip_code": "539542",
       "market_cap_cr": 3822.71,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ROLEXRINGS": {
+      "symbol": "ROLEXRINGS",
+      "name": "Rolex Rings Limited",
+      "scrip_code": "543325",
+      "market_cap_cr": 3801.77,
+      "exchange": "NSE",
+      "sector": "Auto",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "WAKEFIT": {
+      "symbol": "WAKEFIT",
+      "name": "Wakefit Innovations Limited",
+      "scrip_code": "544642",
+      "market_cap_cr": 3797.06,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -5185,24 +6095,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "OPTIEMUS": {
-      "symbol": "OPTIEMUS",
-      "name": "Optiemus Infracom Limited",
-      "scrip_code": "530135",
-      "market_cap_cr": 3751.54,
+    "ROSSTECH": {
+      "symbol": "ROSSTECH",
+      "name": "Rossell Techsys Limited",
+      "scrip_code": "544294",
+      "market_cap_cr": 3749.97,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "STYRENIX": {
-      "symbol": "STYRENIX",
-      "name": "Styrenix Performance Materials Limited",
-      "scrip_code": "506222",
-      "market_cap_cr": 3740.09,
+    "FOSECOIND": {
+      "symbol": "FOSECOIND",
+      "name": "Foseco India Limited",
+      "scrip_code": "500150",
+      "market_cap_cr": 3745.66,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "STANDARD",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "ORIENTELEC": {
@@ -5215,6 +6125,16 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "GUFICBIO": {
+      "symbol": "GUFICBIO",
+      "name": "Gufic Biosciences Limited",
+      "scrip_code": "509079",
+      "market_cap_cr": 3734.52,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "TARC": {
       "symbol": "TARC",
       "name": "TARC Limited",
@@ -5225,24 +6145,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "NFL": {
-      "symbol": "NFL",
-      "name": "National Fertilizers Limited",
-      "scrip_code": "523630",
-      "market_cap_cr": 3685.72,
+    "ZOTA": {
+      "symbol": "ZOTA",
+      "name": "Zota Health Care LImited",
+      "scrip_code": "",
+      "market_cap_cr": 3700.89,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "AYE": {
-      "symbol": "AYE",
-      "name": "Aye Finance Limited",
-      "scrip_code": "544699",
-      "market_cap_cr": 3679.22,
+    "RPGLIFE": {
+      "symbol": "RPGLIFE",
+      "name": "RPG Life Sciences Limited",
+      "scrip_code": "532983",
+      "market_cap_cr": 3688.7,
       "exchange": "NSE",
-      "sector": "NBFC",
-      "quality_tier": "HC",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "HGINFRA": {
@@ -5255,24 +6175,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "RPTECH": {
-      "symbol": "RPTECH",
-      "name": "Rashi Peripherals Limited",
-      "scrip_code": "544119",
-      "market_cap_cr": 3670.61,
+    "HARSHA": {
+      "symbol": "HARSHA",
+      "name": "Harsha Engineers International Limited",
+      "scrip_code": "543600",
+      "market_cap_cr": 3662.7,
       "exchange": "NSE",
-      "sector": "IT",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "ASHIANA": {
-      "symbol": "ASHIANA",
-      "name": "Ashiana Housing Limited",
-      "scrip_code": "523716",
-      "market_cap_cr": 3650.06,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "QUESS": {
@@ -5315,51 +6225,11 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "CRIZAC": {
-      "symbol": "CRIZAC",
-      "name": "Crizac Limited",
-      "scrip_code": "544439",
-      "market_cap_cr": 3627.39,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
     "DBCORP": {
       "symbol": "DBCORP",
       "name": "D.B.Corp Limited",
       "scrip_code": "533151",
       "market_cap_cr": 3617.68,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "PSPPROJECT": {
-      "symbol": "PSPPROJECT",
-      "name": "PSP Projects Limited",
-      "scrip_code": "540544",
-      "market_cap_cr": 3617.31,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "SMSPHARMA": {
-      "symbol": "SMSPHARMA",
-      "name": "SMS Pharmaceuticals Limited",
-      "scrip_code": "532815",
-      "market_cap_cr": 3605.6,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "CYIENTDLM": {
-      "symbol": "CYIENTDLM",
-      "name": "Cyient DLM Limited",
-      "scrip_code": "543933",
-      "market_cap_cr": 3587.27,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -5373,16 +6243,6 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "JKIL": {
-      "symbol": "JKIL",
-      "name": "J.Kumar Infraprojects Limited",
-      "scrip_code": "532940",
-      "market_cap_cr": 3555.52,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "GOPAL": {
@@ -5425,14 +6285,24 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "YASHO": {
-      "symbol": "YASHO",
-      "name": "Yasho Industries Limited",
-      "scrip_code": "541167",
-      "market_cap_cr": 3500.69,
+    "BHAGCHEM": {
+      "symbol": "BHAGCHEM",
+      "name": "Bhagiradha Chemicals & Industries Limited",
+      "scrip_code": "531719",
+      "market_cap_cr": 3514.03,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "KSL": {
+      "symbol": "KSL",
+      "name": "Kalyani Steels Limited",
+      "scrip_code": "500235",
+      "market_cap_cr": 3496.61,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "JTEKTINDIA": {
@@ -5442,16 +6312,6 @@
       "market_cap_cr": 3473.01,
       "exchange": "NSE",
       "sector": "Auto",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "MAYURUNIQ": {
-      "symbol": "MAYURUNIQ",
-      "name": "Mayur Uniquoters Ltd",
-      "scrip_code": "522249",
-      "market_cap_cr": 3454.48,
-      "exchange": "NSE",
-      "sector": "Chemicals",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -5485,6 +6345,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "AARTIDRUGS": {
+      "symbol": "AARTIDRUGS",
+      "name": "Aarti Drugs Limited",
+      "scrip_code": "524348",
+      "market_cap_cr": 3399.81,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "CARYSIL": {
       "symbol": "CARYSIL",
       "name": "CARYSIL LIMITED",
@@ -5495,6 +6365,16 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "SHANTIGEAR": {
+      "symbol": "SHANTIGEAR",
+      "name": "Shanthi Gears Limited",
+      "scrip_code": "522034",
+      "market_cap_cr": 3376.96,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "HEIDELBERG": {
       "symbol": "HEIDELBERG",
       "name": "HeidelbergCement India Limited",
@@ -5502,6 +6382,16 @@
       "market_cap_cr": 3376.81,
       "exchange": "NSE",
       "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SANGHVIMOV": {
+      "symbol": "SANGHVIMOV",
+      "name": "Sanghvi Movers Limited",
+      "scrip_code": "530073",
+      "market_cap_cr": 3365.21,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -5545,11 +6435,11 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "JINDALPOLY": {
-      "symbol": "JINDALPOLY",
-      "name": "Jindal Poly Films Limited",
-      "scrip_code": "500227",
-      "market_cap_cr": 3305.44,
+    "WSTCSTPAPR": {
+      "symbol": "WSTCSTPAPR",
+      "name": "West Coast Paper Mills Limited",
+      "scrip_code": "500444",
+      "market_cap_cr": 3281.31,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -5562,6 +6452,26 @@
       "market_cap_cr": 3279.31,
       "exchange": "NSE",
       "sector": "Telecom",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "EIEL": {
+      "symbol": "EIEL",
+      "name": "Enviro Infra Engineers Limited",
+      "scrip_code": "544290",
+      "market_cap_cr": 3258.89,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "MARINE": {
+      "symbol": "MARINE",
+      "name": "Marine Electricals (India) Limited",
+      "scrip_code": "",
+      "market_cap_cr": 3241.01,
+      "exchange": "NSE",
+      "sector": "Capital Goods",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -5595,14 +6505,24 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "MUTHOOTMF": {
-      "symbol": "MUTHOOTMF",
-      "name": "Muthoot Microfin Limited",
-      "scrip_code": "544055",
-      "market_cap_cr": 3170.79,
+    "CHEMPLASTS": {
+      "symbol": "CHEMPLASTS",
+      "name": "Chemplast Sanmar Limited",
+      "scrip_code": "543336",
+      "market_cap_cr": 3209.62,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "DEEPINDS": {
+      "symbol": "DEEPINDS",
+      "name": "Deep Industries Limited",
+      "scrip_code": "543288",
+      "market_cap_cr": 3159.68,
+      "exchange": "NSE",
+      "sector": "Oil & Gas",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "NITINSPIN": {
@@ -5615,11 +6535,41 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "BBL": {
+      "symbol": "BBL",
+      "name": "Bharat Bijlee Limited",
+      "scrip_code": "503960",
+      "market_cap_cr": 3145.66,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "NAVNETEDUL": {
       "symbol": "NAVNETEDUL",
       "name": "Navneet Education Limited",
       "scrip_code": "508989",
       "market_cap_cr": 3123.97,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ADFFOODS": {
+      "symbol": "ADFFOODS",
+      "name": "ADF Foods Limited",
+      "scrip_code": "519183",
+      "market_cap_cr": 3115.18,
+      "exchange": "NSE",
+      "sector": "FMCG",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "DREDGECORP": {
+      "symbol": "DREDGECORP",
+      "name": "Dredging Corporation of India Limited",
+      "scrip_code": "523618",
+      "market_cap_cr": 3074.4,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -5670,6 +6620,26 @@
       "name": "Ramky Infrastructure Limited",
       "scrip_code": "533262",
       "market_cap_cr": 3044.01,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "SUNCLAY": {
+      "symbol": "SUNCLAY",
+      "name": "Sundaram Clayton Limited",
+      "scrip_code": "544066",
+      "market_cap_cr": 3024.51,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "UFLEX": {
+      "symbol": "UFLEX",
+      "name": "UFLEX Limited",
+      "scrip_code": "500148",
+      "market_cap_cr": 3024.22,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -5735,6 +6705,26 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
+    "SHAREINDIA": {
+      "symbol": "SHAREINDIA",
+      "name": "Share India Securities Limited",
+      "scrip_code": "540725",
+      "market_cap_cr": 2997.91,
+      "exchange": "NSE",
+      "sector": "Market Infra",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "WINDMACHIN": {
+      "symbol": "WINDMACHIN",
+      "name": "Windsor Machines Limited",
+      "scrip_code": "",
+      "market_cap_cr": 2985.58,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "UNIPARTS": {
       "symbol": "UNIPARTS",
       "name": "Uniparts India Limited",
@@ -5743,16 +6733,6 @@
       "exchange": "NSE",
       "sector": "Auto",
       "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "BALMLAWRIE": {
-      "symbol": "BALMLAWRIE",
-      "name": "Balmer Lawrie & Company Limited",
-      "scrip_code": "523319",
-      "market_cap_cr": 2977.18,
-      "exchange": "NSE",
-      "sector": "FMCG",
-      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "PARAGMILK": {
@@ -5765,6 +6745,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "MAITHANALL": {
+      "symbol": "MAITHANALL",
+      "name": "Maithan Alloys Limited",
+      "scrip_code": "590078",
+      "market_cap_cr": 2970.83,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "HERITGFOOD": {
       "symbol": "HERITGFOOD",
       "name": "Heritage Foods Limited",
@@ -5772,6 +6762,26 @@
       "market_cap_cr": 2969.47,
       "exchange": "NSE",
       "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "ANTELOPUS": {
+      "symbol": "ANTELOPUS",
+      "name": "Antelopus Selan Energy Limited",
+      "scrip_code": "530075",
+      "market_cap_cr": 2960.67,
+      "exchange": "NSE",
+      "sector": "Oil & Gas",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "SOLARA": {
+      "symbol": "SOLARA",
+      "name": "Solara Active Pharma Sciences Limited",
+      "scrip_code": "541540",
+      "market_cap_cr": 2957.39,
+      "exchange": "NSE",
+      "sector": "Pharma",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -5795,26 +6805,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "NIITMTS": {
-      "symbol": "NIITMTS",
-      "name": "NIIT Learning Systems Limited",
-      "scrip_code": "543952",
-      "market_cap_cr": 2937.44,
-      "exchange": "NSE",
-      "sector": "IT",
-      "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "KITEX": {
-      "symbol": "KITEX",
-      "name": "Kitex Garments Limited",
-      "scrip_code": "521248",
-      "market_cap_cr": 2902.33,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "STEELCAS": {
       "symbol": "STEELCAS",
       "name": "Steelcast Limited",
@@ -5822,6 +6812,16 @@
       "market_cap_cr": 2901.91,
       "exchange": "NSE",
       "sector": "Capital Goods",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "GKENERGY": {
+      "symbol": "GKENERGY",
+      "name": "GK Energy Limited",
+      "scrip_code": "544525",
+      "market_cap_cr": 2901.3,
+      "exchange": "NSE",
+      "sector": "Power",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -5845,13 +6845,33 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "FUSION": {
-      "symbol": "FUSION",
-      "name": "Fusion Finance Limited",
-      "scrip_code": "",
-      "market_cap_cr": 2842.49,
+    "ELPROINTL": {
+      "symbol": "ELPROINTL",
+      "name": "Elpro International Limited",
+      "scrip_code": "504000",
+      "market_cap_cr": 2890.47,
       "exchange": "NSE",
-      "sector": "NBFC",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "RPSGVENT": {
+      "symbol": "RPSGVENT",
+      "name": "RPSG VENTURES LIMITED",
+      "scrip_code": "542333",
+      "market_cap_cr": 2885.8,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "NSIL": {
+      "symbol": "NSIL",
+      "name": "Nalwa Sons Investments Limited",
+      "scrip_code": "532256",
+      "market_cap_cr": 2850.83,
+      "exchange": "NSE",
+      "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -5875,24 +6895,24 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "POLYPLEX": {
-      "symbol": "POLYPLEX",
-      "name": "Polyplex Corporation Limited",
-      "scrip_code": "524051",
-      "market_cap_cr": 2831.6,
+    "ZAGGLE": {
+      "symbol": "ZAGGLE",
+      "name": "Zaggle Prepaid Ocean Services Limited",
+      "scrip_code": "543985",
+      "market_cap_cr": 2832.56,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "STANDARD",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "XPROINDIA": {
-      "symbol": "XPROINDIA",
-      "name": "Xpro India Limited",
-      "scrip_code": "590013",
-      "market_cap_cr": 2825.84,
+    "SIYSIL": {
+      "symbol": "SIYSIL",
+      "name": "Siyaram Silk Mills Limited",
+      "scrip_code": "503811",
+      "market_cap_cr": 2822.02,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "STANDARD",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "TATVA": {
@@ -5915,11 +6935,61 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "MARATHON": {
-      "symbol": "MARATHON",
-      "name": "Marathon Nextgen Realty Limited",
-      "scrip_code": "",
-      "market_cap_cr": 2719.07,
+    "EFCIL": {
+      "symbol": "EFCIL",
+      "name": "EFC (I) Limited",
+      "scrip_code": "512008",
+      "market_cap_cr": 2789.67,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "ORIENTCEM": {
+      "symbol": "ORIENTCEM",
+      "name": "Orient Cement Limited",
+      "scrip_code": "535754",
+      "market_cap_cr": 2769.8,
+      "exchange": "NSE",
+      "sector": "Infrastructure",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "APCOTEXIND": {
+      "symbol": "APCOTEXIND",
+      "name": "Apcotex Industries Limited",
+      "scrip_code": "523694",
+      "market_cap_cr": 2764.63,
+      "exchange": "NSE",
+      "sector": "Chemicals",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "INDOTECH": {
+      "symbol": "INDOTECH",
+      "name": "Indo Tech Transformers Limited",
+      "scrip_code": "532717",
+      "market_cap_cr": 2761.2,
+      "exchange": "NSE",
+      "sector": "Capital Equipment",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "MEDIASSIST": {
+      "symbol": "MEDIASSIST",
+      "name": "Medi Assist Healthcare Services Limited",
+      "scrip_code": "544088",
+      "market_cap_cr": 2750.15,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "MOREPENLAB": {
+      "symbol": "MOREPENLAB",
+      "name": "Morepen Laboratories Limited",
+      "scrip_code": "500288",
+      "market_cap_cr": 2734.29,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -5933,26 +7003,6 @@
       "exchange": "NSE",
       "sector": "Market Infra",
       "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "DIAMONDYD": {
-      "symbol": "DIAMONDYD",
-      "name": "Prataap Snacks Limited",
-      "scrip_code": "540724",
-      "market_cap_cr": 2682.76,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "SANGAMIND": {
-      "symbol": "SANGAMIND",
-      "name": "Sangam (India) Limited",
-      "scrip_code": "514234",
-      "market_cap_cr": 2677.53,
-      "exchange": "NSE",
-      "sector": "Textiles",
-      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "DDEVPLSTIK": {
@@ -5975,6 +7025,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "VSSL": {
+      "symbol": "VSSL",
+      "name": "Vardhman Special Steels Limited",
+      "scrip_code": "534392",
+      "market_cap_cr": 2658.86,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "DALMIASUG": {
       "symbol": "DALMIASUG",
       "name": "Dalmia Bharat Sugar and Industries Limited",
@@ -5985,11 +7045,31 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "HLEGLAS": {
+      "symbol": "HLEGLAS",
+      "name": "HLE Glascoat Limited",
+      "scrip_code": "522215",
+      "market_cap_cr": 2641.71,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "CAMLINFINE": {
       "symbol": "CAMLINFINE",
       "name": "Camlin Fine Sciences Limited",
       "scrip_code": "532834",
       "market_cap_cr": 2631.66,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "HUBTOWN": {
+      "symbol": "HUBTOWN",
+      "name": "Hubtown Limited",
+      "scrip_code": "",
+      "market_cap_cr": 2626.02,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -6003,16 +7083,6 @@
       "exchange": "NSE",
       "sector": "Infrastructure",
       "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "ARVSMART": {
-      "symbol": "ARVSMART",
-      "name": "Arvind SmartSpaces Limited",
-      "scrip_code": "539301",
-      "market_cap_cr": 2619.0,
-      "exchange": "NSE",
-      "sector": "Infrastructure",
-      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "PATELENG": {
@@ -6035,34 +7105,14 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "AUTOAXLES": {
-      "symbol": "AUTOAXLES",
-      "name": "Automotive Axles Limited",
-      "scrip_code": "505010",
-      "market_cap_cr": 2564.05,
+    "INA": {
+      "symbol": "INA",
+      "name": "Insolation Energy Limited",
+      "scrip_code": "543620",
+      "market_cap_cr": 2579.26,
       "exchange": "NSE",
       "sector": "Auto",
       "quality_tier": "HC",
-      "rs_tier": "UNKNOWN"
-    },
-    "SUNDROP": {
-      "symbol": "SUNDROP",
-      "name": "Sundrop Brands Limited",
-      "scrip_code": "500215",
-      "market_cap_cr": 2548.31,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "SAIPARENT": {
-      "symbol": "SAIPARENT",
-      "name": "Sai Parenterals Limited",
-      "scrip_code": "544742",
-      "market_cap_cr": 2540.31,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "RAMCOIND": {
@@ -6075,14 +7125,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "PRAKASH": {
-      "symbol": "PRAKASH",
-      "name": "Prakash Industries Limited",
-      "scrip_code": "506022",
-      "market_cap_cr": 2534.01,
+    "RML": {
+      "symbol": "RML",
+      "name": "Rane (Madras) Limited",
+      "scrip_code": "532661",
+      "market_cap_cr": 2534.33,
       "exchange": "NSE",
-      "sector": "Metals",
-      "quality_tier": "SB",
+      "sector": "Logistics",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "SILVERTUC": {
+      "symbol": "SILVERTUC",
+      "name": "Silver Touch Technologies Limited",
+      "scrip_code": "543525",
+      "market_cap_cr": 2521.36,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
     "ADVAIT": {
@@ -6105,26 +7165,6 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "EVEREADY": {
-      "symbol": "EVEREADY",
-      "name": "Eveready Industries India Limited",
-      "scrip_code": "531508",
-      "market_cap_cr": 2507.71,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "PROTEAN": {
-      "symbol": "PROTEAN",
-      "name": "Protean eGov Technologies Limited",
-      "scrip_code": "",
-      "market_cap_cr": 2501.99,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
     "BUILDPRO": {
       "symbol": "BUILDPRO",
       "name": "Shankara Buildpro Limited",
@@ -6135,14 +7175,14 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "GIPCL": {
-      "symbol": "GIPCL",
-      "name": "Gujarat Industries Power Company Limited",
-      "scrip_code": "517300",
-      "market_cap_cr": 2493.08,
+    "SATIN": {
+      "symbol": "SATIN",
+      "name": "Satin Creditcare Network Limited",
+      "scrip_code": "",
+      "market_cap_cr": 2496.73,
       "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
+      "sector": "NBFC",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "RELTD": {
@@ -6165,21 +7205,31 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "531859": {
-      "symbol": "531859",
-      "name": "ORIENTAL RAIL INFRASTRUCTURE LIMITED",
-      "scrip_code": "531859",
-      "market_cap_cr": 2489.5,
-      "exchange": "BSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "STYLEBAAZA": {
       "symbol": "STYLEBAAZA",
       "name": "Baazar Style Retail Limited",
       "scrip_code": "544243",
       "market_cap_cr": 2484.76,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "VIMTALABS": {
+      "symbol": "VIMTALABS",
+      "name": "Vimta Labs Limited",
+      "scrip_code": "524394",
+      "market_cap_cr": 2472.02,
+      "exchange": "NSE",
+      "sector": "Pharma",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "VINDHYATEL": {
+      "symbol": "VINDHYATEL",
+      "name": "Vindhya Telelinks Limited",
+      "scrip_code": "517015",
+      "market_cap_cr": 2470.91,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -6195,16 +7245,6 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "GANECOS": {
-      "symbol": "GANECOS",
-      "name": "Ganesha Ecosphere Limited",
-      "scrip_code": "514167",
-      "market_cap_cr": 2449.2,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
     "VEEDOL": {
       "symbol": "VEEDOL",
       "name": "Veedol Corporation Limited",
@@ -6213,6 +7253,16 @@
       "exchange": "NSE",
       "sector": "FMCG",
       "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "EPACKPEB": {
+      "symbol": "EPACKPEB",
+      "name": "EPack Prefab Technologies Limited",
+      "scrip_code": "544540",
+      "market_cap_cr": 2430.19,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "BEPL": {
@@ -6225,6 +7275,26 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "MUFIN": {
+      "symbol": "MUFIN",
+      "name": "Mufin Green Finance Limited",
+      "scrip_code": "",
+      "market_cap_cr": 2417.18,
+      "exchange": "NSE",
+      "sector": "NBFC",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
+    "IMAGICAA": {
+      "symbol": "IMAGICAA",
+      "name": "Imagicaaworld Entertainment Limited",
+      "scrip_code": "539056",
+      "market_cap_cr": 2413.4,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "VENUSREM": {
       "symbol": "VENUSREM",
       "name": "Venus Remedies Limited",
@@ -6233,6 +7303,16 @@
       "exchange": "NSE",
       "sector": "Pharma",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "NIBE": {
+      "symbol": "NIBE",
+      "name": "NIBE Limited",
+      "scrip_code": "535136",
+      "market_cap_cr": 2409.14,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "AJMERA": {
@@ -6245,13 +7325,13 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "REPCOHOME": {
-      "symbol": "REPCOHOME",
-      "name": "Repco Home Finance Limited",
-      "scrip_code": "535322",
-      "market_cap_cr": 2389.84,
+    "BRIGHOTEL": {
+      "symbol": "BRIGHOTEL",
+      "name": "Brigade Hotel Ventures Limited",
+      "scrip_code": "544457",
+      "market_cap_cr": 2393.01,
       "exchange": "NSE",
-      "sector": "NBFC",
+      "sector": "Others",
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
@@ -6265,6 +7345,36 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "GREENPANEL": {
+      "symbol": "GREENPANEL",
+      "name": "Greenpanel Industries Limited",
+      "scrip_code": "542857",
+      "market_cap_cr": 2371.0,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "MSPL": {
+      "symbol": "MSPL",
+      "name": "MSP Steel & Power Limited",
+      "scrip_code": "532650",
+      "market_cap_cr": 2367.51,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "CONFIPET": {
+      "symbol": "CONFIPET",
+      "name": "Confidence Petroleum India Limited",
+      "scrip_code": "526829",
+      "market_cap_cr": 2352.27,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "KPEL": {
       "symbol": "KPEL",
       "name": "K.P. Energy Limited",
@@ -6275,11 +7385,11 @@
       "quality_tier": "HC",
       "rs_tier": "UNKNOWN"
     },
-    "UFBL": {
-      "symbol": "UFBL",
-      "name": "United Foodbrands Limited",
-      "scrip_code": "543283",
-      "market_cap_cr": 2343.23,
+    "TEAMLEASE": {
+      "symbol": "TEAMLEASE",
+      "name": "Teamlease Services Limited",
+      "scrip_code": "539658",
+      "market_cap_cr": 2347.47,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -6295,13 +7405,33 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "BGRENERGY": {
-      "symbol": "BGRENERGY",
-      "name": "BGR Energy Systems Limited",
-      "scrip_code": "532930",
-      "market_cap_cr": 2330.82,
+    "MANGLMCEM": {
+      "symbol": "MANGLMCEM",
+      "name": "Mangalam Cement Limited",
+      "scrip_code": "502157",
+      "market_cap_cr": 2337.0,
       "exchange": "NSE",
-      "sector": "Power",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SPORTKING": {
+      "symbol": "SPORTKING",
+      "name": "Sportking India Limited",
+      "scrip_code": "539221",
+      "market_cap_cr": 2335.41,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "UTKARSHBNK": {
+      "symbol": "UTKARSHBNK",
+      "name": "Utkarsh Small Finance Bank Limited",
+      "scrip_code": "543942",
+      "market_cap_cr": 2331.18,
+      "exchange": "NSE",
+      "sector": "Others",
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
@@ -6315,6 +7445,46 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "RAJRATAN": {
+      "symbol": "RAJRATAN",
+      "name": "Rajratan Global Wire Limited",
+      "scrip_code": "",
+      "market_cap_cr": 2321.0,
+      "exchange": "NSE",
+      "sector": "Metals",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "PRABHA": {
+      "symbol": "PRABHA",
+      "name": "Prabha Energy Limited",
+      "scrip_code": "544379",
+      "market_cap_cr": 2309.99,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "SERVOTECH": {
+      "symbol": "SERVOTECH",
+      "name": "Servotech Renewable Power System Limited",
+      "scrip_code": "",
+      "market_cap_cr": 2304.75,
+      "exchange": "NSE",
+      "sector": "Power",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "HPL": {
+      "symbol": "HPL",
+      "name": "HPL Electric & Power Limited",
+      "scrip_code": "540136",
+      "market_cap_cr": 2295.85,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "FILATEX": {
       "symbol": "FILATEX",
       "name": "Filatex India Limited",
@@ -6323,16 +7493,6 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "PANAMAPET": {
-      "symbol": "PANAMAPET",
-      "name": "Panama Petrochem Limited",
-      "scrip_code": "524820",
-      "market_cap_cr": 2295.13,
-      "exchange": "NSE",
-      "sector": "Chemicals",
-      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "BAJEL": {
@@ -6355,6 +7515,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "HIKAL": {
+      "symbol": "HIKAL",
+      "name": "Hikal Limited",
+      "scrip_code": "524735",
+      "market_cap_cr": 2278.6,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
     "RAJESHEXPO": {
       "symbol": "RAJESHEXPO",
       "name": "Rajesh Exports Limited",
@@ -6370,6 +7540,16 @@
       "name": "Alembic Limited",
       "scrip_code": "506235",
       "market_cap_cr": 2241.71,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
+      "rs_tier": "UNKNOWN"
+    },
+    "JAYKAY": {
+      "symbol": "JAYKAY",
+      "name": "Jaykay Enterprises Limited",
+      "scrip_code": "500306",
+      "market_cap_cr": 2240.94,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -6405,6 +7585,26 @@
       "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
+    "BCG": {
+      "symbol": "BCG",
+      "name": "Brightcom Group Limited",
+      "scrip_code": "532368",
+      "market_cap_cr": 2216.34,
+      "exchange": "NSE",
+      "sector": "IT",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "TALBROAUTO": {
+      "symbol": "TALBROAUTO",
+      "name": "Talbros Automotive Components Limited",
+      "scrip_code": "505160",
+      "market_cap_cr": 2211.41,
+      "exchange": "NSE",
+      "sector": "Auto",
+      "quality_tier": "HC",
+      "rs_tier": "UNKNOWN"
+    },
     "EPACK": {
       "symbol": "EPACK",
       "name": "EPACK Durable Limited",
@@ -6415,21 +7615,31 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "KICL": {
-      "symbol": "KICL",
-      "name": "Kalyani Investment Company Limited",
-      "scrip_code": "533302",
-      "market_cap_cr": 2180.47,
+    "VERANDA": {
+      "symbol": "VERANDA",
+      "name": "Veranda Learning Solutions Limited",
+      "scrip_code": "543514",
+      "market_cap_cr": 2193.13,
       "exchange": "NSE",
       "sector": "Others",
-      "quality_tier": "STANDARD",
+      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
-    "APOLLOPIPE": {
-      "symbol": "APOLLOPIPE",
-      "name": "Apollo Pipes Limited",
-      "scrip_code": "531761",
-      "market_cap_cr": 2174.01,
+    "STOVEKRAFT": {
+      "symbol": "STOVEKRAFT",
+      "name": "Stove Kraft Limited",
+      "scrip_code": "543260",
+      "market_cap_cr": 2173.16,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "AWFIS": {
+      "symbol": "AWFIS",
+      "name": "Awfis Space Solutions Limited",
+      "scrip_code": "544181",
+      "market_cap_cr": 2168.36,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -6455,6 +7665,16 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
+    "SANSTAR": {
+      "symbol": "SANSTAR",
+      "name": "Sanstar Limited",
+      "scrip_code": "544217",
+      "market_cap_cr": 2134.08,
+      "exchange": "NSE",
+      "sector": "Agro",
+      "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
     "RISHABH": {
       "symbol": "RISHABH",
       "name": "Rishabh Instruments Limited",
@@ -6473,16 +7693,6 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "506854": {
-      "symbol": "506854",
-      "name": "TANFAC Industries Ltd.",
-      "scrip_code": "506854",
-      "market_cap_cr": 2121.25,
-      "exchange": "BSE",
-      "sector": "Chemicals",
-      "quality_tier": "SB",
       "rs_tier": "UNKNOWN"
     },
     "TASTYBITE": {
@@ -6525,24 +7735,24 @@
       "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
-    "GEOJITFSL": {
-      "symbol": "GEOJITFSL",
-      "name": "Geojit Financial Services Limited",
-      "scrip_code": "532285",
-      "market_cap_cr": 2098.44,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "TAJGVK": {
-      "symbol": "TAJGVK",
-      "name": "Taj GVK Hotels & Resorts Limited",
-      "scrip_code": "532390",
-      "market_cap_cr": 2072.28,
+    "SOMANYCERA": {
+      "symbol": "SOMANYCERA",
+      "name": "Somany Ceramics Limited",
+      "scrip_code": "531548",
+      "market_cap_cr": 2099.45,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SCILAL": {
+      "symbol": "SCILAL",
+      "name": "Shipping Corporation of India Land and Assets Limited",
+      "scrip_code": "544142",
+      "market_cap_cr": 2095.63,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     },
     "BLSE": {
@@ -6560,36 +7770,6 @@
       "name": "DCX Systems Limited",
       "scrip_code": "543650",
       "market_cap_cr": 2062.32,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "TIRUMALCHM": {
-      "symbol": "TIRUMALCHM",
-      "name": "Thirumalai Chemicals Limited",
-      "scrip_code": "500412",
-      "market_cap_cr": 2061.45,
-      "exchange": "NSE",
-      "sector": "Others",
-      "quality_tier": "STANDARD",
-      "rs_tier": "UNKNOWN"
-    },
-    "DPABHUSHAN": {
-      "symbol": "DPABHUSHAN",
-      "name": "D. P. Abhushan Limited",
-      "scrip_code": "",
-      "market_cap_cr": 2045.72,
-      "exchange": "NSE",
-      "sector": "Jewellery",
-      "quality_tier": "SB",
-      "rs_tier": "UNKNOWN"
-    },
-    "SIMPLEXINF": {
-      "symbol": "SIMPLEXINF",
-      "name": "Simplex Infrastructures Limited",
-      "scrip_code": "523838",
-      "market_cap_cr": 2032.75,
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "STANDARD",
@@ -6623,6 +7803,16 @@
       "exchange": "NSE",
       "sector": "Others",
       "quality_tier": "SB",
+      "rs_tier": "UNKNOWN"
+    },
+    "SPAL": {
+      "symbol": "SPAL",
+      "name": "S. P. Apparels Limited",
+      "scrip_code": "540048",
+      "market_cap_cr": 2009.85,
+      "exchange": "NSE",
+      "sector": "Others",
+      "quality_tier": "STANDARD",
       "rs_tier": "UNKNOWN"
     }
   }
