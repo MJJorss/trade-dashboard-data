@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 443.45,
-      "unrealised_pct": -3.11
+      "current_price": 444.5,
+      "unrealised_pct": -2.88
     },
     {
       "symbol": "CUPID",
@@ -25,14 +25,14 @@
       "entry_date": "2026-05-21",
       "stop_price": 113.54,
       "stop_unlocked": true,
-      "high_since_entry": 164.85,
+      "high_since_entry": 164.9,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 164.7,
-      "unrealised_pct": 34.9
+      "current_price": 164.89,
+      "unrealised_pct": 35.06
     },
     {
       "symbol": "HFCL",
@@ -59,14 +59,14 @@
       "entry_date": "2026-06-15",
       "stop_price": 549.63,
       "stop_unlocked": false,
-      "high_since_entry": 608.0,
+      "high_since_entry": 612.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 146.91,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 592.75,
-      "unrealised_pct": 0.3
+      "current_price": 609.75,
+      "unrealised_pct": 3.17
     },
     {
       "symbol": "BBOX",
@@ -82,8 +82,8 @@
       "rs_composite": 59.73,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1039.9,
-      "unrealised_pct": 1.3
+      "current_price": 1042.0,
+      "unrealised_pct": 1.5
     },
     {
       "symbol": "RAIN",
@@ -99,8 +99,8 @@
       "rs_composite": 59.32,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 211.19,
-      "unrealised_pct": 4.19
+      "current_price": 207.77,
+      "unrealised_pct": 2.51
     },
     {
       "symbol": "MTARTECH",
@@ -110,15 +110,15 @@
       "entry_date": "2026-06-15",
       "stop_price": 6733.2,
       "stop_unlocked": false,
-      "high_since_entry": 7400.5,
+      "high_since_entry": 7560.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 54.09,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7301.0,
-      "unrealised_pct": 0.84
+      "current_price": 7465.5,
+      "unrealised_pct": 3.11
     }
   ],
-  "last_updated": "2026-06-15 11:25 IST"
+  "last_updated": "2026-06-15 13:25 IST"
 }
