@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 444.5,
-      "unrealised_pct": -2.88
+      "current_price": 445.05,
+      "unrealised_pct": -2.76
     },
     {
       "symbol": "CUPID",
@@ -25,14 +25,14 @@
       "entry_date": "2026-05-21",
       "stop_price": 113.54,
       "stop_unlocked": true,
-      "high_since_entry": 164.9,
+      "high_since_entry": 164.95,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 37.77,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 164.89,
-      "unrealised_pct": 35.06
+      "current_price": 164.8,
+      "unrealised_pct": 34.98
     },
     {
       "symbol": "HFCL",
@@ -65,8 +65,8 @@
       "rs_composite": 146.91,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 609.75,
-      "unrealised_pct": 3.17
+      "current_price": 606.75,
+      "unrealised_pct": 2.66
     },
     {
       "symbol": "BBOX",
@@ -82,8 +82,8 @@
       "rs_composite": 59.73,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1042.0,
-      "unrealised_pct": 1.5
+      "current_price": 1008.0,
+      "unrealised_pct": -1.81
     },
     {
       "symbol": "RAIN",
@@ -99,8 +99,8 @@
       "rs_composite": 59.32,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 207.77,
-      "unrealised_pct": 2.51
+      "current_price": 208.3,
+      "unrealised_pct": 2.77
     },
     {
       "symbol": "MTARTECH",
@@ -116,9 +116,9 @@
       "rs_composite": 54.09,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7465.5,
-      "unrealised_pct": 3.11
+      "current_price": 7334.5,
+      "unrealised_pct": 1.31
     }
   ],
-  "last_updated": "2026-06-15 13:25 IST"
+  "last_updated": "2026-06-15 15:25 IST"
 }

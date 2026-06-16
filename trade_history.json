@@ -320,6 +320,22 @@
       "capital_per_slot": 142857,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-06"
+    },
+    {
+      "symbol": "CUPID",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
+      "rs_tier": "HIGH",
+      "entry_price": 122.09,
+      "exit_price": 162.45,
+      "entry_date": "2026-05-21",
+      "exit_date": "2026-06-16",
+      "hold_days": 26,
+      "pnl_pct": 33.06,
+      "pnl_inr": 47229,
+      "capital_per_slot": 142857,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-06"
     }
   ]
 }
