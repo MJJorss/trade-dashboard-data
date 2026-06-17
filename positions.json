@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 452.4,
-      "unrealised_pct": -1.16
+      "current_price": 450.85,
+      "unrealised_pct": -1.5
     },
     {
       "symbol": "HFCL",
@@ -25,14 +25,14 @@
       "entry_date": "2026-06-15",
       "stop_price": 167.82,
       "stop_unlocked": false,
-      "high_since_entry": 187.86,
+      "high_since_entry": 189.47,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 100.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 186.35,
-      "unrealised_pct": 3.27
+      "current_price": 189.47,
+      "unrealised_pct": 5.0
     },
     {
       "symbol": "STLTECH",
@@ -42,14 +42,14 @@
       "entry_date": "2026-06-15",
       "stop_price": 549.63,
       "stop_unlocked": false,
-      "high_since_entry": 615.0,
+      "high_since_entry": 630.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 146.91,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 597.0,
-      "unrealised_pct": 1.02
+      "current_price": 620.0,
+      "unrealised_pct": 4.91
     },
     {
       "symbol": "BBOX",
@@ -65,8 +65,8 @@
       "rs_composite": 59.73,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1014.1,
-      "unrealised_pct": -1.22
+      "current_price": 1018.0,
+      "unrealised_pct": -0.84
     },
     {
       "symbol": "RAIN",
@@ -82,8 +82,8 @@
       "rs_composite": 59.32,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 194.0,
-      "unrealised_pct": -4.29
+      "current_price": 194.4,
+      "unrealised_pct": -4.09
     },
     {
       "symbol": "MTARTECH",
@@ -93,32 +93,32 @@
       "entry_date": "2026-06-15",
       "stop_price": 6733.2,
       "stop_unlocked": false,
-      "high_since_entry": 7775.0,
+      "high_since_entry": 7779.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 54.09,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7723.5,
-      "unrealised_pct": 6.68
+      "current_price": 7730.0,
+      "unrealised_pct": 6.77
     },
     {
       "symbol": "CUPID",
       "scanner": "Mark Screener",
-      "entry_price": 164.31,
-      "entry_time": "13:25",
+      "entry_price": 164.63,
+      "entry_time": "15:25",
       "entry_date": "2026-06-16",
-      "stop_price": 152.81,
+      "stop_price": 153.11,
       "stop_unlocked": false,
       "high_since_entry": 165.0,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
-      "rs_composite": 78.75,
+      "rs_composite": 79.75,
       "rs_benchmark": "Nifty 50",
       "status": "closed",
-      "exit_price": 152.81,
+      "exit_price": 153.11,
       "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "13:25",
+      "exit_time": "15:25",
       "exit_date": "2026-06-16",
       "pnl_pct": -7.0,
       "pnl_inr": -10000,
@@ -126,5 +126,5 @@
       "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-06-16 13:25 IST"
+  "last_updated": "2026-06-16 15:25 IST"
 }
