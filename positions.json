@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 450.85,
-      "unrealised_pct": -1.5
+      "current_price": 451.7,
+      "unrealised_pct": -1.31
     },
     {
       "symbol": "HFCL",
@@ -42,14 +42,14 @@
       "entry_date": "2026-06-15",
       "stop_price": 549.63,
       "stop_unlocked": false,
-      "high_since_entry": 630.0,
+      "high_since_entry": 647.4,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 146.91,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 611.55,
-      "unrealised_pct": 3.48
+      "current_price": 647.35,
+      "unrealised_pct": 9.53
     },
     {
       "symbol": "BBOX",
@@ -59,31 +59,14 @@
       "entry_date": "2026-06-15",
       "stop_price": 954.74,
       "stop_unlocked": false,
-      "high_since_entry": 1062.5,
+      "high_since_entry": 1085.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 59.73,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1060.1,
-      "unrealised_pct": 3.26
-    },
-    {
-      "symbol": "RAIN",
-      "scanner": "VCP Breakout",
-      "entry_price": 202.69,
-      "entry_time": "09:25",
-      "entry_date": "2026-06-15",
-      "stop_price": 188.5,
-      "stop_unlocked": false,
-      "high_since_entry": 214.17,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 59.32,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 191.66,
-      "unrealised_pct": -5.44
+      "current_price": 1053.1,
+      "unrealised_pct": 2.58
     },
     {
       "symbol": "MTARTECH",
@@ -99,8 +82,8 @@
       "rs_composite": 54.09,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 8403.5,
-      "unrealised_pct": 16.07
+      "current_price": 8270.0,
+      "unrealised_pct": 14.23
     },
     {
       "symbol": "THERMAX",
@@ -116,9 +99,34 @@
       "rs_composite": 30.49,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4690.8,
-      "unrealised_pct": -2.22
+      "current_price": 4693.9,
+      "unrealised_pct": -2.16
+    },
+    {
+      "symbol": "RAIN",
+      "scanner": "VCP Breakout",
+      "entry_price": 202.69,
+      "entry_time": "09:25",
+      "entry_date": "2026-06-15",
+      "stop_price": 188.5,
+      "stop_unlocked": false,
+      "high_since_entry": 214.17,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 59.32,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 191.66,
+      "unrealised_pct": -5.44,
+      "exit_price": 188.5,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "15:25",
+      "exit_date": "2026-06-18",
+      "pnl_pct": -7.0,
+      "pnl_inr": -10000,
+      "hold_days": 3,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-06-18 13:25 IST"
+  "last_updated": "2026-06-18 15:25 IST"
 }
