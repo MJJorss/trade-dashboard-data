@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 452.3,
-      "unrealised_pct": -1.18
+      "current_price": 451.4,
+      "unrealised_pct": -1.38
     },
     {
       "symbol": "HFCL",
@@ -48,8 +48,8 @@
       "rs_composite": 146.91,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 671.5,
-      "unrealised_pct": 13.62
+      "current_price": 659.0,
+      "unrealised_pct": 11.51
     },
     {
       "symbol": "BBOX",
@@ -65,8 +65,8 @@
       "rs_composite": 59.73,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1041.9,
-      "unrealised_pct": 1.49
+      "current_price": 1037.1,
+      "unrealised_pct": 1.02
     },
     {
       "symbol": "MTARTECH",
@@ -76,14 +76,14 @@
       "entry_date": "2026-06-15",
       "stop_price": 6733.2,
       "stop_unlocked": true,
-      "high_since_entry": 8686.5,
+      "high_since_entry": 8714.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 54.09,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 8596.0,
-      "unrealised_pct": 18.73
+      "current_price": 8438.0,
+      "unrealised_pct": 16.55
     },
     {
       "symbol": "THERMAX",
@@ -99,8 +99,8 @@
       "rs_composite": 30.49,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4725.8,
-      "unrealised_pct": -1.49
+      "current_price": 4700.0,
+      "unrealised_pct": -2.03
     },
     {
       "symbol": "CUPID",
@@ -110,15 +110,15 @@
       "entry_date": "2026-06-19",
       "stop_price": 160.53,
       "stop_unlocked": false,
-      "high_since_entry": 174.4,
+      "high_since_entry": 176.0,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 87.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 174.32,
-      "unrealised_pct": 0.99
+      "current_price": 175.9,
+      "unrealised_pct": 1.91
     }
   ],
-  "last_updated": "2026-06-19 09:25 IST"
+  "last_updated": "2026-06-19 11:25 IST"
 }
