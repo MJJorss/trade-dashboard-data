@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 449.9,
-      "unrealised_pct": -1.7
+      "current_price": 451.9,
+      "unrealised_pct": -1.27
     },
     {
       "symbol": "HFCL",
@@ -48,8 +48,8 @@
       "rs_composite": 146.91,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 655.2,
-      "unrealised_pct": 10.86
+      "current_price": 651.3,
+      "unrealised_pct": 10.2
     },
     {
       "symbol": "BBOX",
@@ -65,8 +65,8 @@
       "rs_composite": 59.73,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1033.7,
-      "unrealised_pct": 0.69
+      "current_price": 1019.7,
+      "unrealised_pct": -0.67
     },
     {
       "symbol": "MTARTECH",
@@ -82,8 +82,8 @@
       "rs_composite": 54.09,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 8319.5,
-      "unrealised_pct": 14.91
+      "current_price": 8389.0,
+      "unrealised_pct": 15.87
     },
     {
       "symbol": "THERMAX",
@@ -99,8 +99,8 @@
       "rs_composite": 30.49,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4695.0,
-      "unrealised_pct": -2.13
+      "current_price": 4711.1,
+      "unrealised_pct": -1.8
     },
     {
       "symbol": "CUPID",
@@ -116,9 +116,9 @@
       "rs_composite": 87.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 176.85,
-      "unrealised_pct": 2.46
+      "current_price": 176.99,
+      "unrealised_pct": 2.54
     }
   ],
-  "last_updated": "2026-06-19 13:25 IST"
+  "last_updated": "2026-06-19 15:25 IST"
 }
