@@ -432,6 +432,22 @@
       "capital_per_slot": 142857,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-06"
+    },
+    {
+      "symbol": "MTARTECH",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 7240.0,
+      "exit_price": 8265.0,
+      "entry_date": "2026-06-15",
+      "exit_date": "2026-06-22",
+      "hold_days": 7,
+      "pnl_pct": 14.16,
+      "pnl_inr": 20229,
+      "capital_per_slot": 142857,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-06"
     }
   ]
 }
