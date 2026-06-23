@@ -448,6 +448,22 @@
       "capital_per_slot": 142857,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-06"
+    },
+    {
+      "symbol": "HFCL",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\ude80 STRONG",
+      "rs_tier": "HIGH",
+      "entry_price": 180.45,
+      "exit_price": 204.44,
+      "entry_date": "2026-06-15",
+      "exit_date": "2026-06-23",
+      "hold_days": 8,
+      "pnl_pct": 13.29,
+      "pnl_inr": 18986,
+      "capital_per_slot": 142857,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-06"
     }
   ]
 }
