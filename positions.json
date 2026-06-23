@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 448.65,
-      "unrealised_pct": -1.98
+      "current_price": 449.25,
+      "unrealised_pct": -1.85
     },
     {
       "symbol": "BBOX",
@@ -31,8 +31,8 @@
       "rs_composite": 59.73,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 982.5,
-      "unrealised_pct": -4.3
+      "current_price": 992.7,
+      "unrealised_pct": -3.3
     },
     {
       "symbol": "THERMAX",
@@ -48,8 +48,8 @@
       "rs_composite": 30.49,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4869.3,
-      "unrealised_pct": 1.5
+      "current_price": 4843.6,
+      "unrealised_pct": 0.96
     },
     {
       "symbol": "CUPID",
@@ -59,14 +59,14 @@
       "entry_date": "2026-06-19",
       "stop_price": 160.53,
       "stop_unlocked": false,
-      "high_since_entry": 182.29,
+      "high_since_entry": 182.5,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 87.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 182.07,
-      "unrealised_pct": 5.48
+      "current_price": 181.85,
+      "unrealised_pct": 5.35
     },
     {
       "symbol": "SPARC",
@@ -76,14 +76,14 @@
       "entry_date": "2026-06-22",
       "stop_price": 222.49,
       "stop_unlocked": false,
-      "high_since_entry": 242.5,
+      "high_since_entry": 244.75,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 65.42,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 241.15,
-      "unrealised_pct": 0.8
+      "current_price": 241.29,
+      "unrealised_pct": 0.86
     },
     {
       "symbol": "FCL",
@@ -93,42 +93,34 @@
       "entry_date": "2026-06-22",
       "stop_price": 41.43,
       "stop_unlocked": false,
-      "high_since_entry": 46.5,
+      "high_since_entry": 47.18,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 69.29,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 45.94,
-      "unrealised_pct": 3.12
+      "current_price": 46.16,
+      "unrealised_pct": 3.61
     },
     {
-      "symbol": "HFCL",
+      "symbol": "GVPIL",
       "scanner": "VCP Breakout",
-      "entry_price": 180.45,
-      "entry_time": "09:25",
-      "entry_date": "2026-06-15",
-      "stop_price": 167.82,
-      "stop_unlocked": true,
-      "high_since_entry": 220.09,
-      "conviction": "\ud83d\ude80 STRONG",
+      "entry_price": 1042.0,
+      "entry_time": "11:25",
+      "entry_date": "2026-06-23",
+      "stop_price": 969.06,
+      "stop_unlocked": false,
+      "high_since_entry": 1063.9,
+      "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
-      "rs_composite": 100.01,
+      "rs_composite": 99.07,
       "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 211.0,
-      "unrealised_pct": 16.93,
-      "exit_price": 204.44,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "09:25",
-      "exit_date": "2026-06-23",
-      "pnl_pct": 13.29,
-      "pnl_inr": 18986,
-      "hold_days": 8,
-      "capital_per_slot": 142857
+      "status": "open",
+      "current_price": 1038.0,
+      "unrealised_pct": -0.38
     }
   ],
-  "last_updated": "2026-06-23 09:25 IST",
+  "last_updated": "2026-06-23 11:25 IST",
   "closed_today_map": {
     "2026-06-23": [
       "HFCL"
