@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 445.0,
-      "unrealised_pct": -2.77
+      "current_price": 443.8,
+      "unrealised_pct": -3.04
     },
     {
       "symbol": "BBOX",
@@ -31,8 +31,8 @@
       "rs_composite": 59.73,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1024.0,
-      "unrealised_pct": -0.25
+      "current_price": 1002.5,
+      "unrealised_pct": -2.35
     },
     {
       "symbol": "THERMAX",
@@ -48,8 +48,8 @@
       "rs_composite": 30.49,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4779.3,
-      "unrealised_pct": -0.38
+      "current_price": 4760.0,
+      "unrealised_pct": -0.78
     },
     {
       "symbol": "CUPID",
@@ -59,14 +59,14 @@
       "entry_date": "2026-06-19",
       "stop_price": 160.53,
       "stop_unlocked": false,
-      "high_since_entry": 182.86,
+      "high_since_entry": 182.88,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 87.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 182.6,
-      "unrealised_pct": 5.79
+      "current_price": 178.39,
+      "unrealised_pct": 3.35
     },
     {
       "symbol": "SPARC",
@@ -82,8 +82,8 @@
       "rs_composite": 65.42,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 245.11,
-      "unrealised_pct": 2.45
+      "current_price": 235.45,
+      "unrealised_pct": -1.58
     },
     {
       "symbol": "GVPIL",
@@ -99,11 +99,11 @@
       "rs_composite": 99.07,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1038.5,
-      "unrealised_pct": -0.34
+      "current_price": 1030.65,
+      "unrealised_pct": -1.09
     }
   ],
-  "last_updated": "2026-06-24 09:25 IST",
+  "last_updated": "2026-06-24 11:25 IST",
   "closed_today_map": {
     "2026-06-24": []
   }
