@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 433.15,
-      "unrealised_pct": -5.36
+      "current_price": 435.2,
+      "unrealised_pct": -4.92
     },
     {
       "symbol": "BBOX",
@@ -31,8 +31,8 @@
       "rs_composite": 59.73,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 965.7,
-      "unrealised_pct": -5.93
+      "current_price": 955.9,
+      "unrealised_pct": -6.89
     },
     {
       "symbol": "THERMAX",
@@ -48,8 +48,8 @@
       "rs_composite": 30.49,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4859.1,
-      "unrealised_pct": 1.29
+      "current_price": 4839.8,
+      "unrealised_pct": 0.88
     },
     {
       "symbol": "CUPID",
@@ -65,8 +65,8 @@
       "rs_composite": 87.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 182.84,
-      "unrealised_pct": 5.93
+      "current_price": 182.53,
+      "unrealised_pct": 5.75
     },
     {
       "symbol": "SPARC",
@@ -82,11 +82,11 @@
       "rs_composite": 65.42,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 227.86,
-      "unrealised_pct": -4.76
+      "current_price": 224.29,
+      "unrealised_pct": -6.25
     }
   ],
-  "last_updated": "2026-06-25 13:25 IST",
+  "last_updated": "2026-06-25 15:25 IST",
   "closed_today_map": {
     "2026-06-25": [
       "GVPIL"
