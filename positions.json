@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 435.75,
-      "unrealised_pct": -4.8
+      "current_price": 442.35,
+      "unrealised_pct": -3.35
     },
     {
       "symbol": "THERMAX",
@@ -25,14 +25,14 @@
       "entry_date": "2026-06-18",
       "stop_price": 4461.58,
       "stop_unlocked": false,
-      "high_since_entry": 4939.8,
+      "high_since_entry": 4985.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 30.49,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 4911.3,
-      "unrealised_pct": 2.37
+      "current_price": 4900.0,
+      "unrealised_pct": 2.14
     },
     {
       "symbol": "CUPID",
@@ -48,11 +48,11 @@
       "rs_composite": 87.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 188.26,
-      "unrealised_pct": 9.07
+      "current_price": 188.35,
+      "unrealised_pct": 9.12
     }
   ],
-  "last_updated": "2026-06-29 11:25 IST",
+  "last_updated": "2026-06-29 13:25 IST",
   "closed_today_map": {
     "2026-06-29": [
       "BBOX",
