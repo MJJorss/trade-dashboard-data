@@ -84,43 +84,9 @@
       "status": "open",
       "current_price": 224.92,
       "unrealised_pct": -5.99
-    },
-    {
-      "symbol": "HFCL",
-      "scanner": "VCP Breakout",
-      "entry_price": 215.0,
-      "entry_time": "09:25",
-      "entry_date": "2026-06-26",
-      "stop_price": 199.95,
-      "stop_unlocked": false,
-      "high_since_entry": 215.0,
-      "conviction": "\ud83d\ude80 STRONG",
-      "rs_tier": "HIGH",
-      "rs_composite": 137.37,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 215.0,
-      "unrealised_pct": 0.0
-    },
-    {
-      "symbol": "STLTECH",
-      "scanner": "VCP Breakout",
-      "entry_price": 613.35,
-      "entry_time": "09:25",
-      "entry_date": "2026-06-26",
-      "stop_price": 570.42,
-      "stop_unlocked": false,
-      "high_since_entry": 613.35,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 154.54,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 613.35,
-      "unrealised_pct": -0.0
     }
   ],
-  "last_updated": "2026-06-26 13:25 IST",
+  "last_updated": "2026-06-26 15:25 IST",
   "closed_today_map": {
     "2026-06-26": []
   }
