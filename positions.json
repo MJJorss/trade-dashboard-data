@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 439.2,
-      "unrealised_pct": -4.04
+      "current_price": 443.35,
+      "unrealised_pct": -3.14
     },
     {
       "symbol": "SPARC",
@@ -31,8 +31,8 @@
       "rs_composite": 53.22,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 239.0,
-      "unrealised_pct": 0.32
+      "current_price": 239.35,
+      "unrealised_pct": 0.47
     },
     {
       "symbol": "BLISSGVS",
@@ -48,8 +48,8 @@
       "rs_composite": 67.4,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 501.4,
-      "unrealised_pct": -4.88
+      "current_price": 517.5,
+      "unrealised_pct": -1.82
     },
     {
       "symbol": "GRWRHITECH",
@@ -65,8 +65,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6952.5,
-      "unrealised_pct": -0.29
+      "current_price": 6865.0,
+      "unrealised_pct": -1.55
     },
     {
       "symbol": "ASTRAMICRO",
@@ -76,14 +76,14 @@
       "entry_date": "2026-07-02",
       "stop_price": 1657.26,
       "stop_unlocked": false,
-      "high_since_entry": 1802.9,
+      "high_since_entry": 1816.8,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1752.4,
-      "unrealised_pct": -1.66
+      "current_price": 1813.3,
+      "unrealised_pct": 1.76
     },
     {
       "symbol": "BBOX",
@@ -99,8 +99,8 @@
       "rs_composite": 47.08,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 964.0,
-      "unrealised_pct": -1.36
+      "current_price": 978.0,
+      "unrealised_pct": 0.08
     },
     {
       "symbol": "RPTECH",
@@ -116,11 +116,11 @@
       "rs_composite": 84.2,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 790.8,
-      "unrealised_pct": -1.65
+      "current_price": 766.0,
+      "unrealised_pct": -4.73
     }
   ],
-  "last_updated": "2026-07-03 09:25 IST",
+  "last_updated": "2026-07-03 11:25 IST",
   "closed_today_map": {
     "2026-07-03": []
   }
