@@ -1364,7 +1364,7 @@
         "Mark"
       ],
       "price": 713.5,
-      "chg_pct": 2.27,
+      "chg_pct": 411.36,
       "vol_today": 431030,
       "vol_avg_3m": 334501,
       "vol_ratio": 1.29,
@@ -2518,7 +2518,7 @@
         "Mark"
       ],
       "price": 604.3,
-      "chg_pct": 1.86,
+      "chg_pct": 409.31,
       "vol_today": 244365,
       "vol_avg_3m": 235337,
       "vol_ratio": 1.04,
@@ -9826,7 +9826,7 @@
         "Mark"
       ],
       "price": 604.3,
-      "chg_pct": 1.86,
+      "chg_pct": 409.31,
       "vol_today": 241528,
       "vol_avg_3m": 226315,
       "vol_ratio": 1.07,
@@ -10791,7 +10791,7 @@
         "VCP"
       ],
       "price": 604.3,
-      "chg_pct": 1.86,
+      "chg_pct": 409.31,
       "vol_today": 60114,
       "vol_avg_3m": 220629,
       "vol_ratio": 0.27,
@@ -12688,7 +12688,7 @@
         "Mark"
       ],
       "price": 713.5,
-      "chg_pct": 2.27,
+      "chg_pct": 411.36,
       "vol_today": 451220,
       "vol_avg_3m": 336715,
       "vol_ratio": 1.34,
@@ -13449,5 +13449,5 @@
     "signal_emoji": "🟢",
     "updated": "2026-07-02 15:25"
   },
-  "price_updated_at": "2026-07-02 17:53 IST"
+  "price_updated_at": "2026-07-03 08:47 IST"
 }
