@@ -14,8 +14,8 @@
       "rs_composite": 22.33,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 437.15,
-      "unrealised_pct": -4.49
+      "current_price": 436.1,
+      "unrealised_pct": -4.72
     },
     {
       "symbol": "SPARC",
@@ -31,8 +31,8 @@
       "rs_composite": 53.22,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 258.19,
-      "unrealised_pct": 8.37
+      "current_price": 260.15,
+      "unrealised_pct": 9.2
     },
     {
       "symbol": "GRWRHITECH",
@@ -48,8 +48,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6951.5,
-      "unrealised_pct": -0.31
+      "current_price": 7028.5,
+      "unrealised_pct": 0.8
     },
     {
       "symbol": "ASTRAMICRO",
@@ -59,14 +59,14 @@
       "entry_date": "2026-07-02",
       "stop_price": 1657.26,
       "stop_unlocked": false,
-      "high_since_entry": 1869.0,
+      "high_since_entry": 1869.9,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1848.0,
-      "unrealised_pct": 3.7
+      "current_price": 1861.9,
+      "unrealised_pct": 4.48
     },
     {
       "symbol": "BBOX",
@@ -82,8 +82,8 @@
       "rs_composite": 47.08,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 986.85,
-      "unrealised_pct": 0.98
+      "current_price": 991.65,
+      "unrealised_pct": 1.47
     },
     {
       "symbol": "HFCL",
@@ -93,42 +93,34 @@
       "entry_date": "2026-07-03",
       "stop_price": 199.77,
       "stop_unlocked": false,
-      "high_since_entry": 222.0,
+      "high_since_entry": 225.2,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 221.11,
-      "unrealised_pct": 2.93
+      "current_price": 225.2,
+      "unrealised_pct": 4.84
     },
     {
-      "symbol": "BLISSGVS",
+      "symbol": "SIS",
       "scanner": "VCP Breakout",
-      "entry_price": 527.1,
-      "entry_time": "09:25",
-      "entry_date": "2026-07-02",
-      "stop_price": 490.2,
+      "entry_price": 426.65,
+      "entry_time": "13:15",
+      "entry_date": "2026-07-06",
+      "stop_price": 396.78,
       "stop_unlocked": false,
-      "high_since_entry": 532.8,
-      "conviction": "\ud83d\udcca STANDARD",
+      "high_since_entry": 428.0,
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
-      "rs_composite": 67.4,
+      "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 512.2,
-      "unrealised_pct": -2.83,
-      "exit_price": 490.2,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "11:25",
-      "exit_date": "2026-07-06",
-      "pnl_pct": -7.0,
-      "pnl_inr": -10000,
-      "hold_days": 4,
-      "capital_per_slot": 142857
+      "status": "open",
+      "current_price": 426.1,
+      "unrealised_pct": -0.13
     }
   ],
-  "last_updated": "2026-07-06 11:25 IST",
+  "last_updated": "2026-07-06 13:15 IST",
   "closed_today_map": {
     "2026-07-06": [
       "BLISSGVS"
