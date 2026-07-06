@@ -576,6 +576,22 @@
       "capital_per_slot": 142857,
       "exit_reason": "Stop Loss -7% \ud83d\udd34",
       "month": "2026-07"
+    },
+    {
+      "symbol": "BLISSGVS",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 527.1,
+      "exit_price": 490.2,
+      "entry_date": "2026-07-02",
+      "exit_date": "2026-07-06",
+      "hold_days": 4,
+      "pnl_pct": -7.0,
+      "pnl_inr": -10000,
+      "capital_per_slot": 142857,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "month": "2026-07"
     }
   ]
 }
