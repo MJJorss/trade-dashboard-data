@@ -14,8 +14,8 @@
       "rs_composite": 53.22,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 261.2,
-      "unrealised_pct": 9.64
+      "current_price": 259.21,
+      "unrealised_pct": 8.8
     },
     {
       "symbol": "GRWRHITECH",
@@ -31,8 +31,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6925.0,
-      "unrealised_pct": -0.69
+      "current_price": 6908.5,
+      "unrealised_pct": -0.92
     },
     {
       "symbol": "ASTRAMICRO",
@@ -48,8 +48,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1827.7,
-      "unrealised_pct": 2.56
+      "current_price": 1786.0,
+      "unrealised_pct": 0.22
     },
     {
       "symbol": "BBOX",
@@ -65,8 +65,8 @@
       "rs_composite": 47.08,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 950.35,
-      "unrealised_pct": -2.75
+      "current_price": 948.95,
+      "unrealised_pct": -2.9
     },
     {
       "symbol": "HFCL",
@@ -82,8 +82,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 220.01,
-      "unrealised_pct": 2.42
+      "current_price": 218.22,
+      "unrealised_pct": 1.59
     },
     {
       "symbol": "SIS",
@@ -99,36 +99,11 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 429.05,
-      "unrealised_pct": 0.56
-    },
-    {
-      "symbol": "COALINDIA",
-      "scanner": "VCP Breakout",
-      "entry_price": 457.7,
-      "entry_time": "09:25",
-      "entry_date": "2026-04-01",
-      "stop_price": 425.66,
-      "stop_unlocked": false,
-      "high_since_entry": 491.25,
-      "conviction": "\ud83d\ude80 STRONG",
-      "rs_tier": "HIGH",
-      "rs_composite": 22.33,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 428.25,
-      "unrealised_pct": -6.43,
-      "exit_price": 425.66,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "11:25",
-      "exit_date": "2026-07-07",
-      "pnl_pct": -7.0,
-      "pnl_inr": -10000,
-      "hold_days": 97,
-      "capital_per_slot": 142857
+      "current_price": 426.95,
+      "unrealised_pct": 0.07
     }
   ],
-  "last_updated": "2026-07-07 11:25 IST",
+  "last_updated": "2026-07-07 13:15 IST",
   "closed_today_map": {
     "2026-07-07": [
       "COALINDIA"
