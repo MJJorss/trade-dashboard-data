@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T16:11:24.678055+05:30",
+  "generated_at": "2026-07-10T18:58:33.798961+05:30",
   "market_date": "2026-07-10",
-  "total_stocks": 85,
-  "failed": 0,
+  "total_stocks": 84,
+  "failed": 1,
   "stocks": [
     {
       "symbol": "RPTECH",
@@ -369,29 +369,6 @@
       "composite_score": 41.869,
       "ema9": 59.41,
       "ema21": 55.94,
-      "pullback_zone": false,
-      "pullback_confirmed": false
-    },
-    {
-      "symbol": "UFBL",
-      "sector": "Others",
-      "cap": "Small Cap",
-      "quality_tier": "STANDARD",
-      "market_cap_cr": 2761.26,
-      "price": 755.8,
-      "chg_pct": 3.96,
-      "vol_yesterday": 363491,
-      "vol_20d_avg": 199059,
-      "vol_3m_avg": 406360,
-      "vol_ratio_20d": 0.49,
-      "vol_ratio_1d": 0.895,
-      "vol_label": "BELOW_AVG",
-      "rs_score_fresh": 84.45,
-      "rs_drift": null,
-      "rs_drift_flag": false,
-      "composite_score": 41.38,
-      "ema9": 705.22,
-      "ema21": 659.92,
       "pullback_zone": false,
       "pullback_confirmed": false
     },
