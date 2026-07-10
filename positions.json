@@ -14,8 +14,8 @@
       "rs_composite": 53.22,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 277.67,
-      "unrealised_pct": 16.55
+      "current_price": 278.46,
+      "unrealised_pct": 16.88
     },
     {
       "symbol": "GRWRHITECH",
@@ -31,8 +31,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6954.5,
-      "unrealised_pct": -0.27
+      "current_price": 6932.0,
+      "unrealised_pct": -0.59
     },
     {
       "symbol": "ASTRAMICRO",
@@ -48,8 +48,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1830.7,
-      "unrealised_pct": 2.73
+      "current_price": 1831.7,
+      "unrealised_pct": 2.79
     },
     {
       "symbol": "BBOX",
@@ -65,8 +65,8 @@
       "rs_composite": 47.08,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 955.5,
-      "unrealised_pct": -2.23
+      "current_price": 941.2,
+      "unrealised_pct": -3.69
     },
     {
       "symbol": "HFCL",
@@ -82,8 +82,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 213.82,
-      "unrealised_pct": -0.46
+      "current_price": 214.34,
+      "unrealised_pct": -0.22
     },
     {
       "symbol": "SIS",
@@ -99,8 +99,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 436.55,
-      "unrealised_pct": 2.32
+      "current_price": 436.1,
+      "unrealised_pct": 2.21
     },
     {
       "symbol": "SIGMAADV",
@@ -120,7 +120,7 @@
       "unrealised_pct": 0.88
     }
   ],
-  "last_updated": "2026-07-09 13:25 IST",
+  "last_updated": "2026-07-09 15:02 IST",
   "closed_today_map": {
     "2026-07-09": []
   }
