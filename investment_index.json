@@ -1,5 +1,5 @@
 {
-  "generated_at": "11 Jul 2026 11:42 PM IST",
+  "generated_at": "12 Jul 2026 01:51 AM IST",
   "rebalance_date": "2026-07-11",
   "total_slots": 20,
   "filled_slots": 20,
@@ -23,7 +23,7 @@
       "entry_date": "2026-07-11",
       "days_held": 0,
       "pct_move": 0.0,
-      "dma21": 1585.39,
+      "dma21": 1585.37,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -45,7 +45,7 @@
       "entry_date": "2026-05-10",
       "days_held": 62,
       "pct_move": 53.91,
-      "dma21": 205.84,
+      "dma21": 205.83,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -89,7 +89,7 @@
       "entry_date": "2026-07-11",
       "days_held": 0,
       "pct_move": 0.0,
-      "dma21": 5931.72,
+      "dma21": 5931.67,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -111,7 +111,7 @@
       "entry_date": "2026-07-11",
       "days_held": 0,
       "pct_move": 0.0,
-      "dma21": 18341.61,
+      "dma21": 18341.41,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -133,7 +133,7 @@
       "entry_date": "2026-07-11",
       "days_held": 0,
       "pct_move": 0.0,
-      "dma21": 3504.21,
+      "dma21": 3504.17,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -155,7 +155,7 @@
       "entry_date": "2026-07-11",
       "days_held": 0,
       "pct_move": 0.0,
-      "dma21": 1763.44,
+      "dma21": 1763.43,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -177,7 +177,7 @@
       "entry_date": "2026-07-11",
       "days_held": 0,
       "pct_move": 0.0,
-      "dma21": 271.66,
+      "dma21": 271.65,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -221,7 +221,7 @@
       "entry_date": "2026-07-03",
       "days_held": 8,
       "pct_move": -5.98,
-      "dma21": 1156.03,
+      "dma21": 1156.02,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -243,7 +243,7 @@
       "entry_date": "2026-07-10",
       "days_held": 1,
       "pct_move": 0.0,
-      "dma21": 2092.86,
+      "dma21": 2092.84,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -287,7 +287,7 @@
       "entry_date": "2026-07-03",
       "days_held": 8,
       "pct_move": 0.75,
-      "dma21": 729.34,
+      "dma21": 729.33,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -309,7 +309,7 @@
       "entry_date": "2026-07-10",
       "days_held": 1,
       "pct_move": 0.0,
-      "dma21": 1138.22,
+      "dma21": 1138.21,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -331,7 +331,7 @@
       "entry_date": "2026-07-10",
       "days_held": 1,
       "pct_move": 0.0,
-      "dma21": 1819.28,
+      "dma21": 1819.27,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -397,7 +397,7 @@
       "entry_date": "2026-07-10",
       "days_held": 1,
       "pct_move": 0.0,
-      "dma21": 2127.47,
+      "dma21": 2127.46,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
@@ -486,7 +486,7 @@
       "q_pending": false,
       "cmp": 18236.0,
       "above_21dma": true,
-      "dma21": 18016.53
+      "dma21": 18016.18
     },
     {
       "symbol": "ATLANTAELE",
@@ -499,7 +499,7 @@
       "q_pending": false,
       "cmp": 1695.4,
       "above_21dma": false,
-      "dma21": 1767.77
+      "dma21": 1767.78
     },
     {
       "symbol": "NAVINFLUOR",
@@ -512,7 +512,7 @@
       "q_pending": false,
       "cmp": 7712.0,
       "above_21dma": true,
-      "dma21": 7498.0
+      "dma21": 7497.97
     },
     {
       "symbol": "CEMPRO",
@@ -538,7 +538,7 @@
       "q_pending": false,
       "cmp": 2496.3,
       "above_21dma": true,
-      "dma21": 2404.19
+      "dma21": 2404.18
     },
     {
       "symbol": "OBEROIRLTY",
@@ -551,7 +551,7 @@
       "q_pending": false,
       "cmp": 1924.8,
       "above_21dma": true,
-      "dma21": 1803.34
+      "dma21": 1803.32
     },
     {
       "symbol": "SYRMA",
@@ -564,7 +564,7 @@
       "q_pending": false,
       "cmp": 1451.9,
       "above_21dma": true,
-      "dma21": 1356.12
+      "dma21": 1356.11
     },
     {
       "symbol": "EMMVEE",
