@@ -1,16 +1,16 @@
 {
-  "generated_at": "12 Jul 2026 02:20 PM IST",
+  "generated_at": "12 Jul 2026 09:21 PM IST",
   "rebalance_date": "2026-07-12",
   "total_slots": 20,
-  "filled_slots": 20,
-  "total_deployed": 2000000,
-  "total_pnl_inr": 81870.0,
-  "total_pnl_pct": 4.09,
+  "filled_slots": 11,
+  "total_deployed": 1100000,
+  "total_pnl_inr": 86580.0,
+  "total_pnl_pct": 7.87,
   "holdings": [
     {
       "symbol": "PRESTIGE",
       "slot_rank": 1,
-      "composite_score": 94.9,
+      "composite_score": 94.8,
       "eps_seq": 900.4,
       "sales_seq": 166.54,
       "mcap_cr": 73297.36,
@@ -40,7 +40,7 @@
       "eps_seq": 319.21,
       "sales_seq": 127.81,
       "mcap_cr": 33680.82,
-      "rs_composite": 77.79,
+      "rs_composite": 78.81,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -66,7 +66,7 @@
       "eps_seq": 213.94,
       "sales_seq": 116.07,
       "mcap_cr": 28876.58,
-      "rs_composite": 67.23,
+      "rs_composite": 68.25,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -92,7 +92,7 @@
       "eps_seq": 354.33,
       "sales_seq": 105.63,
       "mcap_cr": 20061.58,
-      "rs_composite": 31.67,
+      "rs_composite": 32.69,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -114,11 +114,11 @@
     {
       "symbol": "NEULANDLAB",
       "slot_rank": 5,
-      "composite_score": 90.7,
+      "composite_score": 90.8,
       "eps_seq": 664.72,
       "sales_seq": 136.4,
       "mcap_cr": 25032.4,
-      "rs_composite": 12.6,
+      "rs_composite": 13.62,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -170,7 +170,7 @@
       "eps_seq": 207.73,
       "sales_seq": 45.49,
       "mcap_cr": 43343.67,
-      "rs_composite": 31.16,
+      "rs_composite": 32.18,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -190,13 +190,65 @@
       "pnl_inr": 0.0
     },
     {
-      "symbol": "VIYASH",
+      "symbol": "RAYMONDREL",
       "slot_rank": 8,
+      "composite_score": 89.0,
+      "eps_seq": 6613.33,
+      "sales_seq": 888.24,
+      "mcap_cr": 4645.19,
+      "rs_composite": 30.79,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC100",
+      "rs_benchmark_fallback": true,
+      "rs_label": "🟢 HIGH RS",
+      "q_pending": false,
+      "cmp": 700.0,
+      "entry_price": 700.0,
+      "entry_date": "2026-07-12",
+      "days_held": 0,
+      "pct_move": 0.0,
+      "dma21": 646.35,
+      "above_21dma": true,
+      "dma_label": "🟢 Above 21 EMA",
+      "capital_deployed": 100000,
+      "pnl_inr": 0.0
+    },
+    {
+      "symbol": "IBULLSLTD",
+      "slot_rank": 9,
+      "composite_score": 88.8,
+      "eps_seq": 259.74,
+      "sales_seq": 302.18,
+      "mcap_cr": 6841.87,
+      "rs_composite": 43.27,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC100",
+      "rs_benchmark_fallback": true,
+      "rs_label": "🟢 HIGH RS",
+      "q_pending": false,
+      "cmp": 29.63,
+      "entry_price": 29.63,
+      "entry_date": "2026-07-12",
+      "days_held": 0,
+      "pct_move": 0.0,
+      "dma21": 27.07,
+      "above_21dma": true,
+      "dma_label": "🟢 Above 21 EMA",
+      "capital_deployed": 100000,
+      "pnl_inr": 0.0
+    },
+    {
+      "symbol": "VIYASH",
+      "slot_rank": 10,
       "composite_score": 88.3,
       "eps_seq": 455.37,
       "sales_seq": 129.02,
       "mcap_cr": 12280.63,
-      "rs_composite": 15.21,
+      "rs_composite": 16.23,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -217,12 +269,12 @@
     },
     {
       "symbol": "SEDEMAC",
-      "slot_rank": 9,
+      "slot_rank": 11,
       "composite_score": 88.0,
       "eps_seq": 272.59,
       "sales_seq": 59.91,
       "mcap_cr": 12134.7,
-      "rs_composite": 29.92,
+      "rs_composite": 30.94,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -240,292 +292,6 @@
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
       "pnl_inr": 0.0
-    },
-    {
-      "symbol": "KERNEX",
-      "slot_rank": 10,
-      "composite_score": 80.2,
-      "eps_seq": 109.45,
-      "sales_seq": 206.46,
-      "mcap_cr": 3577.75,
-      "rs_composite": 44.38,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC100",
-      "rs_benchmark_fallback": true,
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 2157.5,
-      "entry_price": 2157.5,
-      "entry_date": "2026-07-10",
-      "days_held": 2,
-      "pct_move": 0.0,
-      "dma21": 2092.84,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
-    },
-    {
-      "symbol": "BLISSGVS",
-      "slot_rank": 11,
-      "composite_score": 78.7,
-      "eps_seq": 128.9,
-      "sales_seq": 29.8,
-      "mcap_cr": 5514.93,
-      "rs_composite": 60.44,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC100",
-      "rs_benchmark_fallback": true,
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 524.3,
-      "entry_price": 524.3,
-      "entry_date": "2026-07-10",
-      "days_held": 2,
-      "pct_move": 0.0,
-      "dma21": 488.53,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
-    },
-    {
-      "symbol": "RAMCOSYS",
-      "slot_rank": 12,
-      "composite_score": 76.9,
-      "eps_seq": 371.75,
-      "sales_seq": 19.39,
-      "mcap_cr": 3114.79,
-      "rs_composite": 58.22,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC100",
-      "rs_benchmark_fallback": true,
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 805.6,
-      "entry_price": 799.6,
-      "entry_date": "2026-07-03",
-      "days_held": 9,
-      "pct_move": 0.75,
-      "dma21": 729.33,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 750.0
-    },
-    {
-      "symbol": "AEGISLOG",
-      "slot_rank": 13,
-      "composite_score": 75.8,
-      "eps_seq": 45.69,
-      "sales_seq": 52.16,
-      "mcap_cr": 44036.47,
-      "rs_composite": 48.91,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC100",
-      "rs_benchmark_fallback": false,
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 1246.1,
-      "entry_price": 1325.4,
-      "entry_date": "2026-07-03",
-      "days_held": 9,
-      "pct_move": -5.98,
-      "dma21": 1156.02,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": -5980.0
-    },
-    {
-      "symbol": "RML",
-      "slot_rank": 14,
-      "composite_score": 75.4,
-      "eps_seq": 522.22,
-      "sales_seq": 16.26,
-      "mcap_cr": 3620.48,
-      "rs_composite": 48.6,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC100",
-      "rs_benchmark_fallback": true,
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 1299.6,
-      "entry_price": 1299.6,
-      "entry_date": "2026-07-10",
-      "days_held": 2,
-      "pct_move": 0.0,
-      "dma21": 1138.21,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
-    },
-    {
-      "symbol": "IOLCP",
-      "slot_rank": 15,
-      "composite_score": 66.0,
-      "eps_seq": 68.18,
-      "sales_seq": 17.37,
-      "mcap_cr": 4896.09,
-      "rs_composite": 54.32,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC100",
-      "rs_benchmark_fallback": true,
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 171.06,
-      "entry_price": 171.06,
-      "entry_date": "2026-07-10",
-      "days_held": 2,
-      "pct_move": 0.0,
-      "dma21": 146.08,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
-    },
-    {
-      "symbol": "SETL",
-      "slot_rank": 16,
-      "composite_score": 63.1,
-      "eps_seq": 31.13,
-      "sales_seq": 36.28,
-      "mcap_cr": 5675.51,
-      "rs_composite": 93.01,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC100",
-      "rs_benchmark_fallback": true,
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 290.7,
-      "entry_price": 290.7,
-      "entry_date": "2026-07-10",
-      "days_held": 2,
-      "pct_move": 0.0,
-      "dma21": 236.61,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
-    },
-    {
-      "symbol": "BALAMINES",
-      "slot_rank": 17,
-      "composite_score": 63.0,
-      "eps_seq": 57.79,
-      "sales_seq": 11.92,
-      "mcap_cr": 7668.67,
-      "rs_composite": 63.18,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC100",
-      "rs_benchmark_fallback": true,
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 2414.9,
-      "entry_price": 2414.9,
-      "entry_date": "2026-07-10",
-      "days_held": 2,
-      "pct_move": 0.0,
-      "dma21": 2127.46,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
-    },
-    {
-      "symbol": "ADANIPORTS",
-      "slot_rank": 18,
-      "composite_score": 51.9,
-      "eps_seq": 11.43,
-      "sales_seq": 26.5,
-      "mcap_cr": 423986.04,
-      "rs_composite": 7.33,
-      "rs_tier": "LOW",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "Nifty 50",
-      "rs_benchmark_fallback": false,
-      "rs_label": "🔴 LOW RS",
-      "q_pending": false,
-      "cmp": 1828.1,
-      "entry_price": 1828.1,
-      "entry_date": "2026-07-10",
-      "days_held": 2,
-      "pct_move": 0.0,
-      "dma21": 1819.27,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
-    },
-    {
-      "symbol": "LICI",
-      "slot_rank": 19,
-      "composite_score": 51.4,
-      "eps_seq": 23.26,
-      "sales_seq": 13.82,
-      "mcap_cr": 555777.55,
-      "rs_composite": 4.78,
-      "rs_tier": "MID",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "Nifty 50",
-      "rs_benchmark_fallback": false,
-      "rs_label": "🟡 MID RS",
-      "q_pending": false,
-      "cmp": 443.05,
-      "entry_price": 443.05,
-      "entry_date": "2026-07-10",
-      "days_held": 2,
-      "pct_move": 0.0,
-      "dma21": 427.96,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
-    },
-    {
-      "symbol": "BHARTIARTL",
-      "slot_rank": 20,
-      "composite_score": 36.0,
-      "eps_seq": -16.49,
-      "sales_seq": 15.68,
-      "mcap_cr": 1195591.76,
-      "rs_composite": 1.81,
-      "rs_tier": "MID",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "Nifty 50",
-      "rs_benchmark_fallback": false,
-      "rs_label": "🟡 MID RS",
-      "q_pending": false,
-      "cmp": 1920.4,
-      "entry_price": 1910.4,
-      "entry_date": "2026-07-03",
-      "days_held": 9,
-      "pct_move": 0.52,
-      "dma21": 1883.35,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 520.0
     }
   ],
   "watchlist_next10": [
@@ -535,7 +301,7 @@
       "composite_score": 82.0,
       "eps_seq": 640.16,
       "sales_seq": 49.48,
-      "rs_composite": 23.84,
+      "rs_composite": 24.86,
       "rs_tier": "HIGH",
       "q_pending": false,
       "cmp": 256.68,
@@ -543,25 +309,12 @@
       "dma21": 244.65
     },
     {
-      "symbol": "TIMEX",
-      "slot_rank": 22,
-      "composite_score": 82.0,
-      "eps_seq": 212.12,
-      "sales_seq": 73.69,
-      "rs_composite": 13.35,
-      "rs_tier": "MID",
-      "q_pending": false,
-      "cmp": 569.6,
-      "above_21dma": true,
-      "dma21": 509.26
-    },
-    {
       "symbol": "ACUTAAS",
-      "slot_rank": 23,
+      "slot_rank": 22,
       "composite_score": 81.7,
       "eps_seq": 110.88,
       "sales_seq": 40.28,
-      "rs_composite": 20.37,
+      "rs_composite": 21.38,
       "rs_tier": "MID",
       "q_pending": false,
       "cmp": 3400.8,
@@ -570,11 +323,11 @@
     },
     {
       "symbol": "SHILPAMED",
-      "slot_rank": 24,
+      "slot_rank": 23,
       "composite_score": 81.5,
       "eps_seq": 147.82,
       "sales_seq": 32.09,
-      "rs_composite": 28.26,
+      "rs_composite": 29.28,
       "rs_tier": "HIGH",
       "q_pending": false,
       "cmp": 627.15,
@@ -583,8 +336,8 @@
     },
     {
       "symbol": "COFORGE",
-      "slot_rank": 25,
-      "composite_score": 81.3,
+      "slot_rank": 24,
+      "composite_score": 81.2,
       "eps_seq": 151.04,
       "sales_seq": 30.05,
       "rs_composite": 9.79,
@@ -595,9 +348,35 @@
       "dma21": 1459.12
     },
     {
-      "symbol": "GROWW",
+      "symbol": "BHAGYANGR",
+      "slot_rank": 25,
+      "composite_score": 80.8,
+      "eps_seq": 303.71,
+      "sales_seq": 61.83,
+      "rs_composite": 49.52,
+      "rs_tier": "HIGH",
+      "q_pending": false,
+      "cmp": 383.1,
+      "above_21dma": true,
+      "dma21": 373.63
+    },
+    {
+      "symbol": "TIMEX",
       "slot_rank": 26,
-      "composite_score": 80.9,
+      "composite_score": 80.4,
+      "eps_seq": 212.12,
+      "sales_seq": 73.69,
+      "rs_composite": 9.1,
+      "rs_tier": "LOW",
+      "q_pending": false,
+      "cmp": 569.6,
+      "above_21dma": true,
+      "dma21": 509.26
+    },
+    {
+      "symbol": "GROWW",
+      "slot_rank": 27,
+      "composite_score": 80.3,
       "eps_seq": 122.06,
       "sales_seq": 87.93,
       "rs_composite": 0.24,
@@ -608,25 +387,12 @@
       "dma21": 199.03
     },
     {
-      "symbol": "BHAGYANGR",
-      "slot_rank": 27,
-      "composite_score": 80.8,
-      "eps_seq": 303.71,
-      "sales_seq": 61.83,
-      "rs_composite": 48.5,
-      "rs_tier": "HIGH",
-      "q_pending": false,
-      "cmp": 383.1,
-      "above_21dma": true,
-      "dma21": 373.63
-    },
-    {
       "symbol": "IIFL",
       "slot_rank": 28,
       "composite_score": 80.2,
       "eps_seq": 182.57,
       "sales_seq": 42.5,
-      "rs_composite": 3.38,
+      "rs_composite": 4.4,
       "rs_tier": "MID",
       "q_pending": false,
       "cmp": 552.7,
@@ -639,7 +405,7 @@
       "composite_score": 80.2,
       "eps_seq": 109.45,
       "sales_seq": 206.46,
-      "rs_composite": 44.38,
+      "rs_composite": 45.4,
       "rs_tier": "HIGH",
       "q_pending": false,
       "cmp": 2157.5,
@@ -652,7 +418,7 @@
       "composite_score": 79.9,
       "eps_seq": 146.6,
       "sales_seq": 77.25,
-      "rs_composite": 31.39,
+      "rs_composite": 32.41,
       "rs_tier": "HIGH",
       "q_pending": false,
       "cmp": 509.35,
@@ -661,10 +427,322 @@
     }
   ],
   "this_rebalance": {
-    "entries": [],
-    "exits": []
+    "entries": [
+      {
+        "symbol": "RAYMONDREL",
+        "entry_price": 700.0,
+        "rank": 10,
+        "composite": 88.99,
+        "rs_tier": "HIGH",
+        "rs_confidence": "full"
+      },
+      {
+        "symbol": "IBULLSLTD",
+        "entry_price": 29.63,
+        "rank": 11,
+        "composite": 88.77,
+        "rs_tier": "HIGH",
+        "rs_confidence": "full"
+      }
+    ],
+    "exits": [
+      {
+        "symbol": "KERNEX",
+        "reason": "Score eviction — fell to rank #29 (beyond buffer #25)",
+        "days_held": 2,
+        "rank": 29,
+        "cmp": 2157.5,
+        "score_breakdown": {
+          "composite": 80.15,
+          "eps_seq": 109.45,
+          "eps_pctile": 81.51,
+          "sales_seq": 206.46,
+          "sales_pctile": 98.59,
+          "rs_composite": 45.4,
+          "rs_tier": "HIGH",
+          "rs_pctile": 96.43,
+          "mcap_cr": 3577.75,
+          "mcap_pctile": 29.75
+        }
+      },
+      {
+        "symbol": "BALAMINES",
+        "reason": "Score eviction — fell to rank #158 (beyond buffer #25)",
+        "days_held": 2,
+        "rank": 158,
+        "cmp": 2414.9,
+        "score_breakdown": {
+          "composite": 62.98,
+          "eps_seq": 57.79,
+          "eps_pctile": 66.9,
+          "sales_seq": 11.92,
+          "sales_pctile": 26.19,
+          "rs_composite": 64.2,
+          "rs_tier": "HIGH",
+          "rs_pctile": 99.11,
+          "mcap_cr": 7668.67,
+          "mcap_pctile": 52.11
+        }
+      },
+      {
+        "symbol": "LICI",
+        "reason": "Score eviction — fell to rank #267 (beyond buffer #25)",
+        "days_held": 2,
+        "rank": 267,
+        "cmp": 443.05,
+        "score_breakdown": {
+          "composite": 51.35,
+          "eps_seq": 23.26,
+          "eps_pctile": 39.96,
+          "sales_seq": 13.82,
+          "sales_pctile": 32.28,
+          "rs_composite": 4.78,
+          "rs_tier": "MID",
+          "rs_pctile": 59.82,
+          "mcap_cr": 555777.55,
+          "mcap_pctile": 99.65
+        }
+      },
+      {
+        "symbol": "AEGISLOG",
+        "reason": "Score eviction — fell to rank #59 (beyond buffer #25)",
+        "days_held": 9,
+        "rank": 59,
+        "cmp": 1246.1,
+        "score_breakdown": {
+          "composite": 75.8,
+          "eps_seq": 45.69,
+          "eps_pctile": 58.45,
+          "sales_seq": 52.16,
+          "sales_pctile": 85.19,
+          "rs_composite": 49.92,
+          "rs_tier": "HIGH",
+          "rs_pctile": 97.86,
+          "mcap_cr": 44036.47,
+          "mcap_pctile": 85.92
+        }
+      },
+      {
+        "symbol": "RML",
+        "reason": "Score eviction — fell to rank #62 (beyond buffer #25)",
+        "days_held": 2,
+        "rank": 62,
+        "cmp": 1299.6,
+        "score_breakdown": {
+          "composite": 75.41,
+          "eps_seq": 522.22,
+          "eps_pctile": 97.18,
+          "sales_seq": 16.26,
+          "sales_pctile": 37.74,
+          "rs_composite": 49.62,
+          "rs_tier": "HIGH",
+          "rs_pctile": 97.68,
+          "mcap_cr": 3620.48,
+          "mcap_pctile": 30.63
+        }
+      },
+      {
+        "symbol": "BLISSGVS",
+        "reason": "Score eviction — fell to rank #35 (beyond buffer #25)",
+        "days_held": 2,
+        "rank": 35,
+        "cmp": 524.3,
+        "score_breakdown": {
+          "composite": 78.72,
+          "eps_seq": 128.9,
+          "eps_pctile": 86.09,
+          "sales_seq": 29.8,
+          "sales_pctile": 68.61,
+          "rs_composite": 61.46,
+          "rs_tier": "HIGH",
+          "rs_pctile": 98.93,
+          "mcap_cr": 5514.93,
+          "mcap_pctile": 43.13
+        }
+      },
+      {
+        "symbol": "RAMCOSYS",
+        "reason": "Score eviction — fell to rank #45 (beyond buffer #25)",
+        "days_held": 9,
+        "rank": 45,
+        "cmp": 805.6,
+        "score_breakdown": {
+          "composite": 76.91,
+          "eps_seq": 371.75,
+          "eps_pctile": 96.65,
+          "sales_seq": 19.39,
+          "sales_pctile": 48.5,
+          "rs_composite": 59.24,
+          "rs_tier": "HIGH",
+          "rs_pctile": 98.39,
+          "mcap_cr": 3114.79,
+          "mcap_pctile": 26.94
+        }
+      },
+      {
+        "symbol": "SETL",
+        "reason": "Score eviction — fell to rank #155 (beyond buffer #25)",
+        "days_held": 2,
+        "rank": 155,
+        "cmp": 290.7,
+        "score_breakdown": {
+          "composite": 63.13,
+          "eps_seq": 31.13,
+          "eps_pctile": 47.89,
+          "sales_seq": 36.28,
+          "sales_pctile": 74.6,
+          "rs_composite": 94.03,
+          "rs_tier": "HIGH",
+          "rs_pctile": 100.0,
+          "mcap_cr": 5675.51,
+          "mcap_pctile": 44.37
+        }
+      },
+      {
+        "symbol": "IOLCP",
+        "reason": "Score eviction — fell to rank #130 (beyond buffer #25)",
+        "days_held": 2,
+        "rank": 130,
+        "cmp": 171.06,
+        "score_breakdown": {
+          "composite": 66.02,
+          "eps_seq": 68.18,
+          "eps_pctile": 71.65,
+          "sales_seq": 17.37,
+          "sales_pctile": 40.83,
+          "rs_composite": 55.33,
+          "rs_tier": "HIGH",
+          "rs_pctile": 98.21,
+          "mcap_cr": 4896.09,
+          "mcap_pctile": 39.79
+        }
+      },
+      {
+        "symbol": "ADANIPORTS",
+        "reason": "Score eviction — fell to rank #260 (beyond buffer #25)",
+        "days_held": 2,
+        "rank": 260,
+        "cmp": 1828.1,
+        "score_breakdown": {
+          "composite": 51.74,
+          "eps_seq": 11.43,
+          "eps_pctile": 25.53,
+          "sales_seq": 26.5,
+          "sales_pctile": 62.43,
+          "rs_composite": 7.33,
+          "rs_tier": "LOW",
+          "rs_pctile": 64.64,
+          "mcap_cr": 423986.04,
+          "mcap_pctile": 98.94
+        }
+      },
+      {
+        "symbol": "BHARTIARTL",
+        "reason": "Score eviction — fell to rank #432 (beyond buffer #25)",
+        "days_held": 9,
+        "rank": 432,
+        "cmp": 1920.4,
+        "score_breakdown": {
+          "composite": 35.56,
+          "eps_seq": -16.49,
+          "eps_pctile": 6.34,
+          "sales_seq": 15.68,
+          "sales_pctile": 36.6,
+          "rs_composite": 1.81,
+          "rs_tier": "MID",
+          "rs_pctile": 51.96,
+          "mcap_cr": 1195591.76,
+          "mcap_pctile": 100.0
+        }
+      }
+    ]
   },
   "diagnostics": [
+    {
+      "symbol": "SPARC",
+      "rank": 4,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC100",
+      "rs_benchmark_fallback": true,
+      "liquidity_cr": null,
+      "cmp": null,
+      "flags": [
+        "RS benchmark fallback — using MC100 instead of cap-tier benchmark",
+        "Entry skipped — extended move +10.5%"
+      ]
+    },
+    {
+      "symbol": "DIACABS",
+      "rank": 7,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC100",
+      "rs_benchmark_fallback": false,
+      "liquidity_cr": 156.02,
+      "cmp": 229.01,
+      "flags": [
+        "Entry skipped — extended move +15.1%"
+      ]
+    },
+    {
+      "symbol": "RAYMONDREL",
+      "rank": 10,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC100",
+      "rs_benchmark_fallback": true,
+      "liquidity_cr": null,
+      "cmp": null,
+      "flags": [
+        "RS benchmark fallback — using MC100 instead of cap-tier benchmark"
+      ]
+    },
+    {
+      "symbol": "IBULLSLTD",
+      "rank": 11,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC100",
+      "rs_benchmark_fallback": true,
+      "liquidity_cr": null,
+      "cmp": null,
+      "flags": [
+        "RS benchmark fallback — using MC100 instead of cap-tier benchmark"
+      ]
+    },
+    {
+      "symbol": "MTARTECH",
+      "rank": 14,
+      "rs_tier": "MID",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC100",
+      "rs_benchmark_fallback": false,
+      "liquidity_cr": 874.5,
+      "cmp": 7101.0,
+      "flags": [
+        "Entry skipped — below 21 EMA"
+      ]
+    },
+    {
+      "symbol": "APOLLO",
+      "rank": 15,
+      "rs_tier": "MID",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC100",
+      "rs_benchmark_fallback": false,
+      "liquidity_cr": 730.34,
+      "cmp": 408.85,
+      "flags": [
+        "Entry skipped — below 21 EMA"
+      ]
+    },
     {
       "symbol": "KERNEX",
       "rank": 29,
@@ -677,7 +755,7 @@
       "cmp": 2157.5,
       "flags": [
         "RS benchmark fallback — using MC100 instead of cap-tier benchmark",
-        "Rank grace period (held 2d < 14d)"
+        "Score eviction — rank #29"
       ]
     },
     {
@@ -692,7 +770,7 @@
       "cmp": 524.3,
       "flags": [
         "RS benchmark fallback — using MC100 instead of cap-tier benchmark",
-        "Rank grace period (held 2d < 14d)"
+        "Score eviction — rank #35"
       ]
     },
     {
@@ -707,7 +785,7 @@
       "cmp": 805.6,
       "flags": [
         "RS benchmark fallback — using MC100 instead of cap-tier benchmark",
-        "Rank grace period (held 9d < 14d)"
+        "Score eviction — rank #45"
       ]
     },
     {
@@ -721,7 +799,7 @@
       "liquidity_cr": 392.75,
       "cmp": 1246.1,
       "flags": [
-        "Rank grace period (held 9d < 14d)"
+        "Score eviction — rank #59"
       ]
     },
     {
@@ -736,7 +814,7 @@
       "cmp": 1299.6,
       "flags": [
         "RS benchmark fallback — using MC100 instead of cap-tier benchmark",
-        "Rank grace period (held 2d < 14d)"
+        "Score eviction — rank #62"
       ]
     },
     {
@@ -751,12 +829,12 @@
       "cmp": 171.06,
       "flags": [
         "RS benchmark fallback — using MC100 instead of cap-tier benchmark",
-        "Rank grace period (held 2d < 14d)"
+        "Score eviction — rank #130"
       ]
     },
     {
       "symbol": "SETL",
-      "rank": 156,
+      "rank": 155,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -766,7 +844,7 @@
       "cmp": 290.7,
       "flags": [
         "RS benchmark fallback — using MC100 instead of cap-tier benchmark",
-        "Rank grace period (held 2d < 14d)"
+        "Score eviction — rank #155"
       ]
     },
     {
@@ -781,12 +859,12 @@
       "cmp": 2414.9,
       "flags": [
         "RS benchmark fallback — using MC100 instead of cap-tier benchmark",
-        "Rank grace period (held 2d < 14d)"
+        "Score eviction — rank #158"
       ]
     },
     {
       "symbol": "ADANIPORTS",
-      "rank": 256,
+      "rank": 260,
       "rs_tier": "LOW",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -795,8 +873,7 @@
       "liquidity_cr": 372.99,
       "cmp": 1828.1,
       "flags": [
-        "Rank grace period (held 2d < 14d)",
-        "Held despite LOW RS"
+        "Score eviction — rank #260"
       ]
     },
     {
@@ -810,12 +887,12 @@
       "liquidity_cr": 190.71,
       "cmp": 443.05,
       "flags": [
-        "Rank grace period (held 2d < 14d)"
+        "Score eviction — rank #267"
       ]
     },
     {
       "symbol": "BHARTIARTL",
-      "rank": 424,
+      "rank": 432,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -824,7 +901,7 @@
       "liquidity_cr": 1231.94,
       "cmp": 1920.4,
       "flags": [
-        "Rank grace period (held 9d < 14d)"
+        "Score eviction — rank #432"
       ]
     }
   ],
