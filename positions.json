@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6918.5,
-      "unrealised_pct": -0.78
+      "current_price": 6966.5,
+      "unrealised_pct": -0.09
     },
     {
       "symbol": "ASTRAMICRO",
@@ -31,8 +31,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1787.8,
-      "unrealised_pct": 0.33
+      "current_price": 1810.7,
+      "unrealised_pct": 1.61
     },
     {
       "symbol": "BBOX",
@@ -48,8 +48,8 @@
       "rs_composite": 47.08,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 936.0,
-      "unrealised_pct": -4.22
+      "current_price": 925.05,
+      "unrealised_pct": -5.34
     },
     {
       "symbol": "HFCL",
@@ -65,8 +65,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 217.91,
-      "unrealised_pct": 1.44
+      "current_price": 218.0,
+      "unrealised_pct": 1.49
     },
     {
       "symbol": "SIS",
@@ -82,8 +82,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 435.75,
-      "unrealised_pct": 2.13
+      "current_price": 435.5,
+      "unrealised_pct": 2.07
     },
     {
       "symbol": "SIGMAADV",
@@ -99,8 +99,8 @@
       "rs_composite": 133.2,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 577.4,
-      "unrealised_pct": 4.37
+      "current_price": 580.15,
+      "unrealised_pct": 4.87
     },
     {
       "symbol": "CUPID",
@@ -116,11 +116,11 @@
       "rs_composite": 76.5,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 212.7,
-      "unrealised_pct": -1.66
+      "current_price": 213.27,
+      "unrealised_pct": -1.39
     }
   ],
-  "last_updated": "2026-07-10 13:15 IST",
+  "last_updated": "2026-07-10 15:02 IST",
   "closed_today_map": {
     "2026-07-10": [
       "SPARC"
