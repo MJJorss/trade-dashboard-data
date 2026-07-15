@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7043.5,
-      "unrealised_pct": 1.01
+      "current_price": 7110.0,
+      "unrealised_pct": 1.96
     },
     {
       "symbol": "ASTRAMICRO",
@@ -31,8 +31,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1726.6,
-      "unrealised_pct": -3.11
+      "current_price": 1752.8,
+      "unrealised_pct": -1.64
     },
     {
       "symbol": "HFCL",
@@ -48,8 +48,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 212.9,
-      "unrealised_pct": -0.89
+      "current_price": 220.86,
+      "unrealised_pct": 2.82
     },
     {
       "symbol": "SIS",
@@ -59,14 +59,14 @@
       "entry_date": "2026-07-06",
       "stop_price": 396.78,
       "stop_unlocked": false,
-      "high_since_entry": 443.95,
+      "high_since_entry": 444.2,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 433.15,
-      "unrealised_pct": 1.52
+      "current_price": 441.45,
+      "unrealised_pct": 3.47
     },
     {
       "symbol": "SIGMAADV",
@@ -82,8 +82,8 @@
       "rs_composite": 133.2,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 580.6,
-      "unrealised_pct": 4.95
+      "current_price": 586.0,
+      "unrealised_pct": 5.93
     },
     {
       "symbol": "CUPID",
@@ -99,8 +99,8 @@
       "rs_composite": 76.5,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 215.7,
-      "unrealised_pct": -0.27
+      "current_price": 219.45,
+      "unrealised_pct": 1.47
     },
     {
       "symbol": "CEMPRO",
@@ -116,12 +116,12 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1589.2,
-      "unrealised_pct": 0.26
+      "current_price": 1573.2,
+      "unrealised_pct": -0.75
     }
   ],
-  "last_updated": "2026-07-14 15:02 IST",
+  "last_updated": "2026-07-15 09:27 IST",
   "closed_today_map": {
-    "2026-07-14": []
+    "2026-07-15": []
   }
 }
