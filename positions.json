@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6946.0,
-      "unrealised_pct": -0.39
+      "current_price": 7043.5,
+      "unrealised_pct": 1.01
     },
     {
       "symbol": "ASTRAMICRO",
@@ -31,8 +31,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1727.0,
-      "unrealised_pct": -3.09
+      "current_price": 1726.6,
+      "unrealised_pct": -3.11
     },
     {
       "symbol": "HFCL",
@@ -48,8 +48,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 211.92,
-      "unrealised_pct": -1.35
+      "current_price": 212.9,
+      "unrealised_pct": -0.89
     },
     {
       "symbol": "SIS",
@@ -65,8 +65,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 435.5,
-      "unrealised_pct": 2.07
+      "current_price": 433.15,
+      "unrealised_pct": 1.52
     },
     {
       "symbol": "SIGMAADV",
@@ -82,8 +82,8 @@
       "rs_composite": 133.2,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 579.95,
-      "unrealised_pct": 4.84
+      "current_price": 580.6,
+      "unrealised_pct": 4.95
     },
     {
       "symbol": "CUPID",
@@ -99,8 +99,8 @@
       "rs_composite": 76.5,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 214.4,
-      "unrealised_pct": -0.87
+      "current_price": 215.7,
+      "unrealised_pct": -0.27
     },
     {
       "symbol": "CEMPRO",
@@ -116,11 +116,11 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1579.6,
-      "unrealised_pct": -0.35
+      "current_price": 1589.2,
+      "unrealised_pct": 0.26
     }
   ],
-  "last_updated": "2026-07-14 13:15 IST",
+  "last_updated": "2026-07-14 15:02 IST",
   "closed_today_map": {
     "2026-07-14": []
   }
