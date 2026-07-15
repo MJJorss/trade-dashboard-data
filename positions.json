@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7110.0,
-      "unrealised_pct": 1.96
+      "current_price": 7049.0,
+      "unrealised_pct": 1.09
     },
     {
       "symbol": "ASTRAMICRO",
@@ -31,8 +31,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1752.8,
-      "unrealised_pct": -1.64
+      "current_price": 1789.1,
+      "unrealised_pct": 0.4
     },
     {
       "symbol": "HFCL",
@@ -48,8 +48,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 220.86,
-      "unrealised_pct": 2.82
+      "current_price": 223.35,
+      "unrealised_pct": 3.98
     },
     {
       "symbol": "SIS",
@@ -59,31 +59,14 @@
       "entry_date": "2026-07-06",
       "stop_price": 396.78,
       "stop_unlocked": false,
-      "high_since_entry": 444.2,
+      "high_since_entry": 445.35,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 441.45,
-      "unrealised_pct": 3.47
-    },
-    {
-      "symbol": "SIGMAADV",
-      "scanner": "VCP Breakout",
-      "entry_price": 553.2,
-      "entry_time": "11:25",
-      "entry_date": "2026-07-08",
-      "stop_price": 514.48,
-      "stop_unlocked": true,
-      "high_since_entry": 609.9,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 133.2,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 586.0,
-      "unrealised_pct": 5.93
+      "current_price": 437.7,
+      "unrealised_pct": 2.59
     },
     {
       "symbol": "CUPID",
@@ -93,14 +76,14 @@
       "entry_date": "2026-07-10",
       "stop_price": 201.14,
       "stop_unlocked": false,
-      "high_since_entry": 222.0,
+      "high_since_entry": 223.0,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 76.5,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 219.45,
-      "unrealised_pct": 1.47
+      "current_price": 221.3,
+      "unrealised_pct": 2.32
     },
     {
       "symbol": "CEMPRO",
@@ -116,12 +99,39 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1573.2,
-      "unrealised_pct": -0.75
+      "current_price": 1564.9,
+      "unrealised_pct": -1.27
+    },
+    {
+      "symbol": "SIGMAADV",
+      "scanner": "VCP Breakout",
+      "entry_price": 553.2,
+      "entry_time": "11:25",
+      "entry_date": "2026-07-08",
+      "stop_price": 514.48,
+      "stop_unlocked": true,
+      "high_since_entry": 609.9,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 133.2,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 586.0,
+      "unrealised_pct": 5.93,
+      "exit_price": 557.35,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "exit_time": "11:25",
+      "exit_date": "2026-07-15",
+      "pnl_pct": 0.75,
+      "pnl_inr": 1071,
+      "hold_days": 7,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-07-15 09:27 IST",
+  "last_updated": "2026-07-15 11:25 IST",
   "closed_today_map": {
-    "2026-07-15": []
+    "2026-07-15": [
+      "SIGMAADV"
+    ]
   }
 }
