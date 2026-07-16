@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7008.5,
-      "unrealised_pct": 0.51
+      "current_price": 6981.0,
+      "unrealised_pct": 0.11
     },
     {
       "symbol": "ASTRAMICRO",
@@ -31,8 +31,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1752.3,
-      "unrealised_pct": -1.67
+      "current_price": 1728.8,
+      "unrealised_pct": -2.99
     },
     {
       "symbol": "HFCL",
@@ -42,14 +42,14 @@
       "entry_date": "2026-07-03",
       "stop_price": 199.77,
       "stop_unlocked": false,
-      "high_since_entry": 228.45,
+      "high_since_entry": 229.4,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 222.68,
-      "unrealised_pct": 3.66
+      "current_price": 225.49,
+      "unrealised_pct": 4.97
     },
     {
       "symbol": "SIS",
@@ -65,8 +65,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 439.45,
-      "unrealised_pct": 3.0
+      "current_price": 438.4,
+      "unrealised_pct": 2.75
     },
     {
       "symbol": "CUPID",
@@ -82,8 +82,8 @@
       "rs_composite": 76.5,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 218.8,
-      "unrealised_pct": 1.17
+      "current_price": 221.9,
+      "unrealised_pct": 2.6
     },
     {
       "symbol": "CEMPRO",
@@ -99,31 +99,12 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1597.7,
-      "unrealised_pct": 0.79
-    },
-    {
-      "symbol": "HFCL",
-      "scanner": "Mark Screener",
-      "entry_price": 221.2,
-      "entry_time": "13:15",
-      "entry_date": "2026-07-15",
-      "stop_price": 205.72,
-      "stop_unlocked": false,
-      "high_since_entry": 223.41,
-      "conviction": "\ud83d\ude80 STRONG",
-      "rs_tier": "HIGH",
-      "rs_composite": 82.5,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 222.68,
-      "unrealised_pct": 0.67
+      "current_price": 1586.6,
+      "unrealised_pct": 0.09
     }
   ],
-  "last_updated": "2026-07-15 15:02 IST",
+  "last_updated": "2026-07-16 09:27 IST",
   "closed_today_map": {
-    "2026-07-15": [
-      "SIGMAADV"
-    ]
+    "2026-07-16": []
   }
 }
