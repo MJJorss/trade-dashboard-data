@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6948.5,
-      "unrealised_pct": -0.35
+      "current_price": 6861.0,
+      "unrealised_pct": -1.61
     },
     {
       "symbol": "ASTRAMICRO",
@@ -31,8 +31,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1716.6,
-      "unrealised_pct": -3.67
+      "current_price": 1710.4,
+      "unrealised_pct": -4.02
     },
     {
       "symbol": "HFCL",
@@ -48,8 +48,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 225.66,
-      "unrealised_pct": 5.05
+      "current_price": 216.56,
+      "unrealised_pct": 0.81
     },
     {
       "symbol": "SIS",
@@ -65,8 +65,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 440.75,
-      "unrealised_pct": 3.3
+      "current_price": 438.7,
+      "unrealised_pct": 2.82
     },
     {
       "symbol": "CUPID",
@@ -82,8 +82,8 @@
       "rs_composite": 76.5,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 215.07,
-      "unrealised_pct": -0.56
+      "current_price": 208.51,
+      "unrealised_pct": -3.59
     },
     {
       "symbol": "CEMPRO",
@@ -99,8 +99,8 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1610.0,
-      "unrealised_pct": 1.57
+      "current_price": 1594.0,
+      "unrealised_pct": 0.56
     },
     {
       "symbol": "SIGMAADV",
@@ -116,12 +116,12 @@
       "rs_composite": 96.38,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 564.1,
-      "unrealised_pct": -0.56
+      "current_price": 552.2,
+      "unrealised_pct": -2.66
     }
   ],
-  "last_updated": "2026-07-16 15:02 IST",
+  "last_updated": "2026-07-17 09:27 IST",
   "closed_today_map": {
-    "2026-07-16": []
+    "2026-07-17": []
   }
 }
