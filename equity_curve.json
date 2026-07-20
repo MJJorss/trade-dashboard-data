@@ -7,6 +7,14 @@
       "unrealized_pnl": -13273,
       "total_equity": 1263355,
       "open_positions": 6
+    },
+    {
+      "timestamp": "2026-07-20T13:15:49.986954+05:30",
+      "capital_base": 1276628,
+      "realized_pnl": 276628,
+      "unrealized_pnl": -10871,
+      "total_equity": 1265757,
+      "open_positions": 6
     }
   ]
 }
