@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6980.0,
-      "unrealised_pct": 0.1,
+      "current_price": 6954.5,
+      "unrealised_pct": -0.27,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1748.8,
-      "unrealised_pct": -1.86,
+      "current_price": 1742.2,
+      "unrealised_pct": -2.23,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 212.53,
-      "unrealised_pct": -1.06,
+      "current_price": 211.7,
+      "unrealised_pct": -1.45,
       "price_source": "live"
     },
     {
@@ -68,8 +68,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 442.0,
-      "unrealised_pct": 3.6,
+      "current_price": 441.3,
+      "unrealised_pct": 3.43,
       "price_source": "live"
     },
     {
@@ -80,14 +80,14 @@
       "entry_date": "2026-07-13",
       "stop_price": 1474.14,
       "stop_unlocked": false,
-      "high_since_entry": 1647.3,
+      "high_since_entry": 1649.2,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1644.4,
-      "unrealised_pct": 3.74,
+      "current_price": 1639.1,
+      "unrealised_pct": 3.41,
       "price_source": "live"
     },
     {
@@ -98,44 +98,18 @@
       "entry_date": "2026-07-21",
       "stop_price": 196.6,
       "stop_unlocked": false,
-      "high_since_entry": 212.47,
+      "high_since_entry": 212.99,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 60.19,
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 211.7,
-      "unrealised_pct": 0.14
-    },
-    {
-      "symbol": "SIGMAADV",
-      "scanner": "VCP Breakout",
-      "entry_price": 567.3,
-      "entry_time": "11:25",
-      "entry_date": "2026-07-16",
-      "stop_price": 527.59,
-      "stop_unlocked": false,
-      "high_since_entry": 584.0,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 96.38,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 539.8,
-      "unrealised_pct": -4.85,
-      "price_source": "live",
-      "exit_price": 527.59,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "09:27",
-      "exit_date": "2026-07-21",
-      "pnl_pct": -7.0,
-      "pnl_inr": -10000,
-      "hold_days": 5,
-      "capital_per_slot": 142857
+      "current_price": 210.82,
+      "unrealised_pct": -0.27
     }
   ],
-  "last_updated": "2026-07-21 09:27 IST",
+  "last_updated": "2026-07-21 11:25 IST",
   "closed_today_map": {
     "2026-07-21": [
       "SIGMAADV"
