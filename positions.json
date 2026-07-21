@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6958.5,
-      "unrealised_pct": -0.21,
+      "current_price": 6980.0,
+      "unrealised_pct": 0.1,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1733.3,
-      "unrealised_pct": -2.73,
+      "current_price": 1748.8,
+      "unrealised_pct": -1.86,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 207.36,
-      "unrealised_pct": -3.47,
+      "current_price": 212.53,
+      "unrealised_pct": -1.06,
       "price_source": "live"
     },
     {
@@ -68,8 +68,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 436.0,
-      "unrealised_pct": 2.19,
+      "current_price": 442.0,
+      "unrealised_pct": 3.6,
       "price_source": "live"
     },
     {
@@ -86,9 +86,27 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1620.3,
-      "unrealised_pct": 2.22,
+      "current_price": 1644.4,
+      "unrealised_pct": 3.74,
       "price_source": "live"
+    },
+    {
+      "symbol": "CUPID",
+      "scanner": "VCP Breakout",
+      "entry_price": 211.4,
+      "entry_time": "09:27",
+      "entry_date": "2026-07-21",
+      "stop_price": 196.6,
+      "stop_unlocked": false,
+      "high_since_entry": 212.47,
+      "conviction": "\ud83d\ude80 STRONG",
+      "rs_tier": "HIGH",
+      "rs_composite": 60.19,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "price_source": "live",
+      "current_price": 211.7,
+      "unrealised_pct": 0.14
     },
     {
       "symbol": "SIGMAADV",
@@ -103,16 +121,24 @@
       "rs_tier": "HIGH",
       "rs_composite": 96.38,
       "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 535.5,
-      "unrealised_pct": -5.61,
-      "price_source": "live"
+      "status": "closed",
+      "current_price": 539.8,
+      "unrealised_pct": -4.85,
+      "price_source": "live",
+      "exit_price": 527.59,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "09:27",
+      "exit_date": "2026-07-21",
+      "pnl_pct": -7.0,
+      "pnl_inr": -10000,
+      "hold_days": 5,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-07-20 13:15 IST",
+  "last_updated": "2026-07-21 09:27 IST",
   "closed_today_map": {
-    "2026-07-20": [
-      "CUPID"
+    "2026-07-21": [
+      "SIGMAADV"
     ]
   }
 }
