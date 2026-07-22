@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6924.0,
-      "unrealised_pct": -0.7,
+      "current_price": 6930.0,
+      "unrealised_pct": -0.62,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1747.9,
-      "unrealised_pct": -1.91,
+      "current_price": 1754.3,
+      "unrealised_pct": -1.55,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 213.2,
-      "unrealised_pct": -0.75,
+      "current_price": 217.05,
+      "unrealised_pct": 1.04,
       "price_source": "live"
     },
     {
@@ -68,8 +68,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 441.55,
-      "unrealised_pct": 3.49,
+      "current_price": 441.4,
+      "unrealised_pct": 3.46,
       "price_source": "live"
     },
     {
@@ -86,8 +86,8 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1639.8,
-      "unrealised_pct": 3.45,
+      "current_price": 1639.9,
+      "unrealised_pct": 3.46,
       "price_source": "live"
     },
     {
@@ -105,11 +105,29 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 211.07,
-      "unrealised_pct": -0.16
+      "current_price": 211.1,
+      "unrealised_pct": -0.14
+    },
+    {
+      "symbol": "BALAMINES",
+      "scanner": "VCP Breakout",
+      "entry_price": 2353.7,
+      "entry_time": "15:02",
+      "entry_date": "2026-07-21",
+      "stop_price": 2188.94,
+      "stop_unlocked": false,
+      "high_since_entry": 2373.9,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 51.99,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "price_source": "live",
+      "current_price": 2354.8,
+      "unrealised_pct": 0.05
     }
   ],
-  "last_updated": "2026-07-21 13:15 IST",
+  "last_updated": "2026-07-21 15:02 IST",
   "closed_today_map": {
     "2026-07-21": [
       "SIGMAADV"
