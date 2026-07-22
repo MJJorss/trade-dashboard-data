@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6862.5,
-      "unrealised_pct": -1.58,
+      "current_price": 6770.0,
+      "unrealised_pct": -2.91,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1745.0,
-      "unrealised_pct": -2.08,
+      "current_price": 1741.7,
+      "unrealised_pct": -2.26,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 222.15,
-      "unrealised_pct": 3.42,
+      "current_price": 222.1,
+      "unrealised_pct": 3.39,
       "price_source": "live"
     },
     {
@@ -68,8 +68,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 443.7,
-      "unrealised_pct": 4.0,
+      "current_price": 441.15,
+      "unrealised_pct": 3.4,
       "price_source": "live"
     },
     {
@@ -105,8 +105,8 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 206.72,
-      "unrealised_pct": -2.21
+      "current_price": 204.87,
+      "unrealised_pct": -3.09
     },
     {
       "symbol": "BALAMINES",
@@ -116,18 +116,18 @@
       "entry_date": "2026-07-21",
       "stop_price": 2188.94,
       "stop_unlocked": false,
-      "high_since_entry": 2396.8,
+      "high_since_entry": 2428.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 51.99,
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 2362.0,
-      "unrealised_pct": 0.35
+      "current_price": 2374.1,
+      "unrealised_pct": 0.87
     }
   ],
-  "last_updated": "2026-07-22 11:25 IST",
+  "last_updated": "2026-07-22 13:15 IST",
   "closed_today_map": {
     "2026-07-22": []
   }

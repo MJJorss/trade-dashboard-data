@@ -1,6 +1,6 @@
 {
   "capital_base": 1266628,
-  "last_updated": "2026-07-22 13:15 IST",
+  "last_updated": "2026-07-22 15:02 IST",
   "positions": [
     {
       "symbol": "GRWRHITECH",
@@ -14,9 +14,9 @@
       "recommended_qty": 25,
       "actual_capital_deployed": 142857,
       "actual_qty": 20,
-      "current_ltp": 6770.0,
-      "unrealized_pnl": -4060,
-      "unrealized_pnl_pct": -2.91,
+      "current_ltp": 6778.5,
+      "unrealized_pnl": -3890,
+      "unrealized_pnl_pct": -2.79,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -32,9 +32,9 @@
       "recommended_qty": 101,
       "actual_capital_deployed": 142857,
       "actual_qty": 80,
-      "current_ltp": 1741.7,
-      "unrealized_pnl": -3224,
-      "unrealized_pnl_pct": -2.26,
+      "current_ltp": 1758.0,
+      "unrealized_pnl": -1920,
+      "unrealized_pnl_pct": -1.35,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -50,9 +50,9 @@
       "recommended_qty": 842,
       "actual_capital_deployed": 142857,
       "actual_qty": 665,
-      "current_ltp": 222.1,
-      "unrealized_pnl": 4848,
-      "unrealized_pnl_pct": 3.39,
+      "current_ltp": 219.3,
+      "unrealized_pnl": 2986,
+      "unrealized_pnl_pct": 2.09,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -68,9 +68,9 @@
       "recommended_qty": 424,
       "actual_capital_deployed": 142857,
       "actual_qty": 334,
-      "current_ltp": 441.15,
-      "unrealized_pnl": 4843,
-      "unrealized_pnl_pct": 3.4,
+      "current_ltp": 438.55,
+      "unrealized_pnl": 3975,
+      "unrealized_pnl_pct": 2.79,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -86,9 +86,9 @@
       "recommended_qty": 114,
       "actual_capital_deployed": 142857,
       "actual_qty": 90,
-      "current_ltp": 1557.7,
-      "unrealized_pnl": -2466,
-      "unrealized_pnl_pct": -1.73,
+      "current_ltp": 1586.9,
+      "unrealized_pnl": 162,
+      "unrealized_pnl_pct": 0.11,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -104,9 +104,9 @@
       "recommended_qty": 855,
       "actual_capital_deployed": 142857,
       "actual_qty": 675,
-      "current_ltp": 204.87,
-      "unrealized_pnl": -4408,
-      "unrealized_pnl_pct": -3.09,
+      "current_ltp": 206.25,
+      "unrealized_pnl": -3476,
+      "unrealized_pnl_pct": -2.44,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -122,9 +122,9 @@
       "recommended_qty": 76,
       "actual_capital_deployed": 142857,
       "actual_qty": 60,
-      "current_ltp": 2374.1,
-      "unrealized_pnl": 1224,
-      "unrealized_pnl_pct": 0.87,
+      "current_ltp": 2363.9,
+      "unrealized_pnl": 612,
+      "unrealized_pnl_pct": 0.43,
       "price_source": "live",
       "status": "OPEN"
     }
