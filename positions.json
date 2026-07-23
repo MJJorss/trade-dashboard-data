@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6803.0,
-      "unrealised_pct": -2.44,
+      "current_price": 6704.0,
+      "unrealised_pct": -3.86,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1752.6,
-      "unrealised_pct": -1.65,
+      "current_price": 1764.0,
+      "unrealised_pct": -1.01,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 207.95,
-      "unrealised_pct": -3.19,
+      "current_price": 207.01,
+      "unrealised_pct": -3.63,
       "price_source": "live"
     },
     {
@@ -68,8 +68,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 437.5,
-      "unrealised_pct": 2.54,
+      "current_price": 438.3,
+      "unrealised_pct": 2.73,
       "price_source": "live"
     },
     {
@@ -86,8 +86,8 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1520.9,
-      "unrealised_pct": -4.05,
+      "current_price": 1516.8,
+      "unrealised_pct": -4.31,
       "price_source": "live"
     },
     {
@@ -105,8 +105,8 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 208.06,
-      "unrealised_pct": -1.58
+      "current_price": 207.13,
+      "unrealised_pct": -2.02
     },
     {
       "symbol": "BALAMINES",
@@ -123,11 +123,11 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 2402.1,
-      "unrealised_pct": 2.06
+      "current_price": 2361.0,
+      "unrealised_pct": 0.31
     }
   ],
-  "last_updated": "2026-07-23 11:25 IST",
+  "last_updated": "2026-07-23 13:15 IST",
   "closed_today_map": {
     "2026-07-23": []
   }

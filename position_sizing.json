@@ -1,6 +1,6 @@
 {
   "capital_base": 1266628,
-  "last_updated": "2026-07-23 13:15 IST",
+  "last_updated": "2026-07-23 15:02 IST",
   "positions": [
     {
       "symbol": "GRWRHITECH",
@@ -14,9 +14,9 @@
       "recommended_qty": 25,
       "actual_capital_deployed": 142857,
       "actual_qty": 20,
-      "current_ltp": 6704.0,
-      "unrealized_pnl": -5380,
-      "unrealized_pnl_pct": -3.86,
+      "current_ltp": 6825.5,
+      "unrealized_pnl": -2950,
+      "unrealized_pnl_pct": -2.12,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -32,9 +32,9 @@
       "recommended_qty": 101,
       "actual_capital_deployed": 142857,
       "actual_qty": 80,
-      "current_ltp": 1764.0,
-      "unrealized_pnl": -1440,
-      "unrealized_pnl_pct": -1.01,
+      "current_ltp": 1773.7,
+      "unrealized_pnl": -664,
+      "unrealized_pnl_pct": -0.47,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -68,9 +68,9 @@
       "recommended_qty": 424,
       "actual_capital_deployed": 142857,
       "actual_qty": 334,
-      "current_ltp": 438.3,
-      "unrealized_pnl": 3891,
-      "unrealized_pnl_pct": 2.73,
+      "current_ltp": 438.45,
+      "unrealized_pnl": 3941,
+      "unrealized_pnl_pct": 2.77,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -104,9 +104,9 @@
       "recommended_qty": 855,
       "actual_capital_deployed": 142857,
       "actual_qty": 675,
-      "current_ltp": 207.13,
-      "unrealized_pnl": -2882,
-      "unrealized_pnl_pct": -2.02,
+      "current_ltp": 208.0,
+      "unrealized_pnl": -2295,
+      "unrealized_pnl_pct": -1.61,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -122,9 +122,9 @@
       "recommended_qty": 76,
       "actual_capital_deployed": 142857,
       "actual_qty": 60,
-      "current_ltp": 2361.0,
-      "unrealized_pnl": 438,
-      "unrealized_pnl_pct": 0.31,
+      "current_ltp": 2375.8,
+      "unrealized_pnl": 1326,
+      "unrealized_pnl_pct": 0.94,
       "price_source": "live",
       "status": "OPEN"
     }
