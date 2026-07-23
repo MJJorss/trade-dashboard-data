@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6770.0,
-      "unrealised_pct": -2.91,
+      "current_price": 6778.5,
+      "unrealised_pct": -2.79,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1741.7,
-      "unrealised_pct": -2.26,
+      "current_price": 1758.0,
+      "unrealised_pct": -1.35,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 222.1,
-      "unrealised_pct": 3.39,
+      "current_price": 219.3,
+      "unrealised_pct": 2.09,
       "price_source": "live"
     },
     {
@@ -68,8 +68,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 441.15,
-      "unrealised_pct": 3.4,
+      "current_price": 438.55,
+      "unrealised_pct": 2.79,
       "price_source": "live"
     },
     {
@@ -86,8 +86,8 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1557.7,
-      "unrealised_pct": -1.73,
+      "current_price": 1586.9,
+      "unrealised_pct": 0.11,
       "price_source": "live"
     },
     {
@@ -105,8 +105,8 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 204.87,
-      "unrealised_pct": -3.09
+      "current_price": 206.25,
+      "unrealised_pct": -2.44
     },
     {
       "symbol": "BALAMINES",
@@ -123,11 +123,11 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 2374.1,
-      "unrealised_pct": 0.87
+      "current_price": 2363.9,
+      "unrealised_pct": 0.43
     }
   ],
-  "last_updated": "2026-07-22 13:15 IST",
+  "last_updated": "2026-07-22 15:02 IST",
   "closed_today_map": {
     "2026-07-22": []
   }
