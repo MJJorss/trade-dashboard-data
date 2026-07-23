@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6723.5,
-      "unrealised_pct": -3.58,
+      "current_price": 6803.0,
+      "unrealised_pct": -2.44,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1758.5,
-      "unrealised_pct": -1.32,
+      "current_price": 1752.6,
+      "unrealised_pct": -1.65,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 102.96,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 215.5,
-      "unrealised_pct": 0.32,
+      "current_price": 207.95,
+      "unrealised_pct": -3.19,
       "price_source": "live"
     },
     {
@@ -68,8 +68,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 439.3,
-      "unrealised_pct": 2.96,
+      "current_price": 437.5,
+      "unrealised_pct": 2.54,
       "price_source": "live"
     },
     {
@@ -86,8 +86,8 @@
       "rs_composite": 102.57,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1578.5,
-      "unrealised_pct": -0.42,
+      "current_price": 1520.9,
+      "unrealised_pct": -4.05,
       "price_source": "live"
     },
     {
@@ -105,8 +105,8 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 208.6,
-      "unrealised_pct": -1.32
+      "current_price": 208.06,
+      "unrealised_pct": -1.58
     },
     {
       "symbol": "BALAMINES",
@@ -116,18 +116,18 @@
       "entry_date": "2026-07-21",
       "stop_price": 2188.94,
       "stop_unlocked": false,
-      "high_since_entry": 2428.0,
+      "high_since_entry": 2438.7,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 51.99,
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 2423.0,
-      "unrealised_pct": 2.94
+      "current_price": 2402.1,
+      "unrealised_pct": 2.06
     }
   ],
-  "last_updated": "2026-07-23 09:27 IST",
+  "last_updated": "2026-07-23 11:25 IST",
   "closed_today_map": {
     "2026-07-23": []
   }
