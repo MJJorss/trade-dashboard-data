@@ -704,6 +704,38 @@
       "capital_per_slot": 142857,
       "exit_reason": "Stop Loss -7% \ud83d\udd34",
       "month": "2026-07"
+    },
+    {
+      "symbol": "HFCL",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
+      "rs_tier": "HIGH",
+      "entry_price": 214.81,
+      "exit_price": 199.77,
+      "entry_date": "2026-07-03",
+      "exit_date": "2026-07-24",
+      "hold_days": 21,
+      "pnl_pct": -7.0,
+      "pnl_inr": -10000,
+      "capital_per_slot": 142857,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "month": "2026-07"
+    },
+    {
+      "symbol": "CEMPRO",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 1585.1,
+      "exit_price": 1441.0,
+      "entry_date": "2026-07-13",
+      "exit_date": "2026-07-24",
+      "hold_days": 11,
+      "pnl_pct": -9.09,
+      "pnl_inr": -12986,
+      "capital_per_slot": 142857,
+      "exit_reason": "Stop Loss (gap down) \ud83d\udd34",
+      "month": "2026-07"
     }
   ]
 }

@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6704.0,
-      "unrealised_pct": -3.86,
+      "current_price": 6825.5,
+      "unrealised_pct": -2.12,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1764.0,
-      "unrealised_pct": -1.01,
+      "current_price": 1773.7,
+      "unrealised_pct": -0.47,
       "price_source": "live"
     },
     {
@@ -68,8 +68,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 438.3,
-      "unrealised_pct": 2.73,
+      "current_price": 438.45,
+      "unrealised_pct": 2.77,
       "price_source": "live"
     },
     {
@@ -105,8 +105,8 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 207.13,
-      "unrealised_pct": -2.02
+      "current_price": 208.0,
+      "unrealised_pct": -1.61
     },
     {
       "symbol": "BALAMINES",
@@ -123,11 +123,11 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 2361.0,
-      "unrealised_pct": 0.31
+      "current_price": 2375.8,
+      "unrealised_pct": 0.94
     }
   ],
-  "last_updated": "2026-07-23 13:15 IST",
+  "last_updated": "2026-07-23 15:02 IST",
   "closed_today_map": {
     "2026-07-23": []
   }
