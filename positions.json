@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6825.5,
-      "unrealised_pct": -2.12,
+      "current_price": 6789.0,
+      "unrealised_pct": -2.64,
       "price_source": "live"
     },
     {
@@ -32,26 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1773.7,
-      "unrealised_pct": -0.47,
-      "price_source": "live"
-    },
-    {
-      "symbol": "HFCL",
-      "scanner": "VCP Breakout",
-      "entry_price": 214.81,
-      "entry_time": "15:25",
-      "entry_date": "2026-07-03",
-      "stop_price": 199.77,
-      "stop_unlocked": false,
-      "high_since_entry": 229.4,
-      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
-      "rs_tier": "HIGH",
-      "rs_composite": 102.96,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 207.01,
-      "unrealised_pct": -3.63,
+      "current_price": 1767.0,
+      "unrealised_pct": -0.84,
       "price_source": "live"
     },
     {
@@ -68,26 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 438.45,
-      "unrealised_pct": 2.77,
-      "price_source": "live"
-    },
-    {
-      "symbol": "CEMPRO",
-      "scanner": "VCP Breakout",
-      "entry_price": 1585.1,
-      "entry_time": "11:25",
-      "entry_date": "2026-07-13",
-      "stop_price": 1474.14,
-      "stop_unlocked": false,
-      "high_since_entry": 1649.2,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 102.57,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 1516.8,
-      "unrealised_pct": -4.31,
+      "current_price": 437.55,
+      "unrealised_pct": 2.55,
       "price_source": "live"
     },
     {
@@ -105,8 +69,8 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 208.0,
-      "unrealised_pct": -1.61
+      "current_price": 208.21,
+      "unrealised_pct": -1.51
     },
     {
       "symbol": "BALAMINES",
@@ -123,12 +87,67 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 2375.8,
-      "unrealised_pct": 0.94
+      "current_price": 2284.1,
+      "unrealised_pct": -2.96
+    },
+    {
+      "symbol": "HFCL",
+      "scanner": "VCP Breakout",
+      "entry_price": 214.81,
+      "entry_time": "15:25",
+      "entry_date": "2026-07-03",
+      "stop_price": 199.77,
+      "stop_unlocked": false,
+      "high_since_entry": 229.4,
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
+      "rs_tier": "HIGH",
+      "rs_composite": 102.96,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 207.01,
+      "unrealised_pct": -3.63,
+      "price_source": "live",
+      "exit_price": 199.77,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "09:27",
+      "exit_date": "2026-07-24",
+      "pnl_pct": -7.0,
+      "pnl_inr": -10000,
+      "hold_days": 21,
+      "capital_per_slot": 142857
+    },
+    {
+      "symbol": "CEMPRO",
+      "scanner": "VCP Breakout",
+      "entry_price": 1585.1,
+      "entry_time": "11:25",
+      "entry_date": "2026-07-13",
+      "stop_price": 1474.14,
+      "stop_unlocked": false,
+      "high_since_entry": 1649.2,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 102.57,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 1516.8,
+      "unrealised_pct": -4.31,
+      "price_source": "live",
+      "exit_price": 1441.0,
+      "exit_reason": "Stop Loss (gap down) \ud83d\udd34",
+      "exit_time": "09:27",
+      "exit_date": "2026-07-24",
+      "pnl_pct": -9.09,
+      "pnl_inr": -12986,
+      "hold_days": 11,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-07-23 15:02 IST",
+  "last_updated": "2026-07-24 09:27 IST",
   "closed_today_map": {
-    "2026-07-23": []
+    "2026-07-24": [
+      "CEMPRO",
+      "HFCL"
+    ]
   }
 }
