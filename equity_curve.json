@@ -179,6 +179,18 @@
       "actual_heat_pct": 4.02,
       "recommended_heat_inr": 62182,
       "recommended_heat_pct": 5.0
+    },
+    {
+      "timestamp": "2026-07-24T13:15:51.843150+05:30",
+      "capital_base": 1243642,
+      "realized_pnl": 243642,
+      "unrealized_pnl": -5029,
+      "total_equity": 1238613,
+      "open_positions": 5,
+      "actual_heat_inr": 50000,
+      "actual_heat_pct": 4.02,
+      "recommended_heat_inr": 62182,
+      "recommended_heat_pct": 5.0
     }
   ]
 }
