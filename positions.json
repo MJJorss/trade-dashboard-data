@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6873.0,
-      "unrealised_pct": -1.43,
+      "current_price": 6890.5,
+      "unrealised_pct": -1.18,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1783.5,
-      "unrealised_pct": 0.08,
+      "current_price": 1808.6,
+      "unrealised_pct": 1.49,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 438.5,
-      "unrealised_pct": 2.78,
+      "current_price": 438.45,
+      "unrealised_pct": 2.77,
       "price_source": "live"
     },
     {
@@ -62,15 +62,15 @@
       "entry_date": "2026-07-21",
       "stop_price": 196.6,
       "stop_unlocked": false,
-      "high_since_entry": 213.36,
+      "high_since_entry": 213.99,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 60.19,
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 212.86,
-      "unrealised_pct": 0.69
+      "current_price": 213.94,
+      "unrealised_pct": 1.2
     },
     {
       "symbol": "BALAMINES",
@@ -87,11 +87,11 @@
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 2221.0,
-      "unrealised_pct": -5.64
+      "current_price": 2203.3,
+      "unrealised_pct": -6.39
     }
   ],
-  "last_updated": "2026-07-24 13:15 IST",
+  "last_updated": "2026-07-24 15:02 IST",
   "closed_today_map": {
     "2026-07-24": [
       "CEMPRO",
