@@ -3,7 +3,7 @@
   "effective_risk_pct": 0.5,
   "equity_curve_multiplier": 0.5,
   "drawdown_multiplier": 1.0,
-  "last_updated": "2026-07-27 09:27 IST",
+  "last_updated": "2026-07-27 11:25 IST",
   "positions": [
     {
       "symbol": "GRWRHITECH",
@@ -18,9 +18,9 @@
       "recommended_qty": 12,
       "actual_capital_deployed": 142857,
       "actual_qty": 20,
-      "current_ltp": 7010.5,
-      "unrealized_pnl": 750,
-      "unrealized_pnl_pct": 0.54,
+      "current_ltp": 7117.5,
+      "unrealized_pnl": 2890,
+      "unrealized_pnl_pct": 2.07,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -37,9 +37,9 @@
       "recommended_qty": 49,
       "actual_capital_deployed": 142857,
       "actual_qty": 80,
-      "current_ltp": 1808.8,
-      "unrealized_pnl": 2144,
-      "unrealized_pnl_pct": 1.5,
+      "current_ltp": 1798.2,
+      "unrealized_pnl": 1296,
+      "unrealized_pnl_pct": 0.91,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -56,9 +56,9 @@
       "recommended_qty": 206,
       "actual_capital_deployed": 142857,
       "actual_qty": 334,
-      "current_ltp": 437.6,
-      "unrealized_pnl": 3657,
-      "unrealized_pnl_pct": 2.57,
+      "current_ltp": 435.15,
+      "unrealized_pnl": 2839,
+      "unrealized_pnl_pct": 1.99,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -75,9 +75,9 @@
       "recommended_qty": 416,
       "actual_capital_deployed": 142857,
       "actual_qty": 675,
-      "current_ltp": 217.17,
-      "unrealized_pnl": 3895,
-      "unrealized_pnl_pct": 2.73,
+      "current_ltp": 218.08,
+      "unrealized_pnl": 4509,
+      "unrealized_pnl_pct": 3.16,
       "price_source": "live",
       "status": "OPEN"
     }
