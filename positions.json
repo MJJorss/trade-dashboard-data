@@ -8,14 +8,14 @@
       "entry_date": "2026-07-02",
       "stop_price": 6484.89,
       "stop_unlocked": false,
-      "high_since_entry": 7185.0,
+      "high_since_entry": 7199.5,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7150.0,
-      "unrealised_pct": 2.54,
+      "current_price": 7110.5,
+      "unrealised_pct": 1.97,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1811.1,
-      "unrealised_pct": 1.63,
+      "current_price": 1813.3,
+      "unrealised_pct": 1.76,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 435.45,
-      "unrealised_pct": 2.06,
+      "current_price": 433.1,
+      "unrealised_pct": 1.51,
       "price_source": "live"
     },
     {
@@ -62,21 +62,19 @@
       "entry_date": "2026-07-21",
       "stop_price": 196.6,
       "stop_unlocked": false,
-      "high_since_entry": 222.0,
+      "high_since_entry": 225.77,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 60.19,
       "rs_benchmark": "Nifty 50",
       "status": "open",
       "price_source": "live",
-      "current_price": 221.33,
-      "unrealised_pct": 4.7
+      "current_price": 225.71,
+      "unrealised_pct": 6.77
     }
   ],
-  "last_updated": "2026-07-27 15:02 IST",
+  "last_updated": "2026-07-28 09:27 IST",
   "closed_today_map": {
-    "2026-07-27": [
-      "BALAMINES"
-    ]
+    "2026-07-28": []
   }
 }
