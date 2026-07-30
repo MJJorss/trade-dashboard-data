@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 6910.0,
-      "unrealised_pct": -0.9,
+      "current_price": 6880.0,
+      "unrealised_pct": -1.33,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1775.0,
-      "unrealised_pct": -0.39,
+      "current_price": 1753.1,
+      "unrealised_pct": -1.62,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 430.5,
-      "unrealised_pct": 0.9,
+      "current_price": 429.4,
+      "unrealised_pct": 0.64,
       "price_source": "live"
     },
     {
@@ -62,19 +62,29 @@
       "entry_date": "2026-07-21",
       "stop_price": 196.6,
       "stop_unlocked": true,
-      "high_since_entry": 234.0,
+      "high_since_entry": 234.5,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 60.19,
       "rs_benchmark": "Nifty 50",
-      "status": "open",
+      "status": "closed",
       "price_source": "live",
       "current_price": 233.75,
-      "unrealised_pct": 10.57
+      "unrealised_pct": 10.57,
+      "exit_price": 231.63,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "exit_time": "09:27",
+      "exit_date": "2026-07-30",
+      "pnl_pct": 9.57,
+      "pnl_inr": 13671,
+      "hold_days": 9,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-07-29 15:02 IST",
+  "last_updated": "2026-07-30 09:27 IST",
   "closed_today_map": {
-    "2026-07-29": []
+    "2026-07-30": [
+      "CUPID"
+    ]
   }
 }
