@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7113.5,
-      "unrealised_pct": 2.01,
+      "current_price": 7120.0,
+      "unrealised_pct": 2.11,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1902.7,
-      "unrealised_pct": 6.77,
+      "current_price": 1878.2,
+      "unrealised_pct": 5.4,
       "price_source": "live"
     },
     {
@@ -77,8 +77,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 232.89,
-      "unrealised_pct": -0.09
+      "current_price": 232.1,
+      "unrealised_pct": -0.43
     },
     {
       "symbol": "E2E",
@@ -129,8 +129,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 222.79,
-      "unrealised_pct": -0.0
+      "current_price": 222.9,
+      "unrealised_pct": 0.04
     },
     {
       "symbol": "LAURUSLABS",
@@ -155,11 +155,11 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1817.0,
-      "unrealised_pct": -0.08
+      "current_price": 1817.4,
+      "unrealised_pct": -0.06
     }
   ],
-  "last_updated": "2026-07-31 12:13 IST",
+  "last_updated": "2026-07-31 13:15 IST",
   "closed_today_map": {
     "2026-07-31": []
   }
