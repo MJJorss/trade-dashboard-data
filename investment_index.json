@@ -1,20 +1,20 @@
 {
-  "generated_at": "31 Jul 2026 03:33 PM IST",
+  "generated_at": "31 Jul 2026 04:36 PM IST",
   "rebalance_date": "2026-07-31",
   "total_slots": 20,
   "filled_slots": 6,
   "total_deployed": 600000,
-  "total_pnl_inr": 68480.0,
-  "total_pnl_pct": 11.41,
+  "total_pnl_inr": 69060.0,
+  "total_pnl_pct": 11.51,
   "holdings": [
     {
       "symbol": "IIFL",
       "slot_rank": 1,
-      "composite_score": 85.6,
+      "composite_score": 85.7,
       "eps_seq": 189.3,
       "sales_seq": 32.73,
       "mcap_cr": 26246.0,
-      "rs_composite": 23.13,
+      "rs_composite": 23.06,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -42,7 +42,7 @@
       "eps_seq": 633.09,
       "sales_seq": 91.81,
       "mcap_cr": 2273.26,
-      "rs_composite": 34.15,
+      "rs_composite": 34.05,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -52,25 +52,53 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 223.23,
+      "cmp": 223.25,
       "entry_price": 223.23,
       "entry_date": "2026-07-31",
       "days_held": 0,
-      "pct_move": 0.0,
+      "pct_move": 0.01,
       "dma21": 220.71,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
-      "pnl_inr": 0.0
+      "pnl_inr": 10.0
+    },
+    {
+      "symbol": "LLOYDSME",
+      "slot_rank": 3,
+      "composite_score": 84.6,
+      "eps_seq": 426.3,
+      "sales_seq": 311.71,
+      "mcap_cr": 96898.8,
+      "rs_composite": 16.49,
+      "rs_tier": "MID",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "Nifty 50",
+      "rs_benchmark_fallback": false,
+      "data_source": "previous",
+      "score_haircut_applied": true,
+      "rs_label": "🟡 MID RS",
+      "q_pending": false,
+      "cmp": 2047.0,
+      "entry_price": 1940.5,
+      "entry_date": "2026-07-24",
+      "days_held": 7,
+      "pct_move": 5.49,
+      "dma21": 1910.78,
+      "above_21dma": true,
+      "dma_label": "🟢 Above 21 EMA",
+      "capital_deployed": 100000,
+      "pnl_inr": 5490.0
     },
     {
       "symbol": "RRKABEL",
-      "slot_rank": 3,
+      "slot_rank": 4,
       "composite_score": 84.6,
       "eps_seq": 117.32,
       "sales_seq": 53.9,
       "mcap_cr": 29739.95,
-      "rs_composite": 21.94,
+      "rs_composite": 21.87,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -92,41 +120,13 @@
       "pnl_inr": 0.0
     },
     {
-      "symbol": "LLOYDSME",
-      "slot_rank": 4,
-      "composite_score": 84.4,
-      "eps_seq": 426.3,
-      "sales_seq": 311.71,
-      "mcap_cr": 96898.8,
-      "rs_composite": 15.94,
-      "rs_tier": "MID",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "Nifty 50",
-      "rs_benchmark_fallback": false,
-      "data_source": "previous",
-      "score_haircut_applied": true,
-      "rs_label": "🟡 MID RS",
-      "q_pending": false,
-      "cmp": 2036.0,
-      "entry_price": 1940.5,
-      "entry_date": "2026-07-24",
-      "days_held": 7,
-      "pct_move": 4.92,
-      "dma21": 1909.78,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 4920.0
-    },
-    {
       "symbol": "CUPID",
       "slot_rank": 5,
       "composite_score": 83.2,
       "eps_seq": 213.94,
       "sales_seq": 116.07,
       "mcap_cr": 24554.85,
-      "rs_composite": 47.1,
+      "rs_composite": 47.03,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -154,7 +154,7 @@
       "eps_seq": 638.19,
       "sales_seq": 114.08,
       "mcap_cr": 10870.36,
-      "rs_composite": 74.72,
+      "rs_composite": 74.65,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -183,7 +183,7 @@
       "composite_score": 77.2,
       "eps_seq": 95.14,
       "sales_seq": 42.51,
-      "rs_composite": 14.08,
+      "rs_composite": 14.01,
       "rs_tier": "MID",
       "q_pending": false,
       "cmp": 2684.4,
@@ -196,7 +196,7 @@
       "composite_score": 77.1,
       "eps_seq": 354.33,
       "sales_seq": 105.63,
-      "rs_composite": 4.89,
+      "rs_composite": 4.82,
       "rs_tier": "MID",
       "q_pending": false,
       "cmp": 5226.5,
@@ -209,7 +209,7 @@
       "composite_score": 76.4,
       "eps_seq": 151.04,
       "sales_seq": 30.05,
-      "rs_composite": 22.24,
+      "rs_composite": 22.18,
       "rs_tier": "HIGH",
       "q_pending": false,
       "cmp": 1721.0,
@@ -222,7 +222,7 @@
       "composite_score": 76.3,
       "eps_seq": 2987.34,
       "sales_seq": 6715.81,
-      "rs_composite": 3.83,
+      "rs_composite": 3.72,
       "rs_tier": "MID",
       "q_pending": false,
       "cmp": 206.21,
@@ -230,25 +230,12 @@
       "dma21": 225.36
     },
     {
-      "symbol": "TIMEX",
-      "slot_rank": 25,
-      "composite_score": 76.3,
-      "eps_seq": 212.12,
-      "sales_seq": 73.69,
-      "rs_composite": 24.88,
-      "rs_tier": "HIGH",
-      "q_pending": false,
-      "cmp": 532.05,
-      "above_21dma": false,
-      "dma21": 543.48
-    },
-    {
       "symbol": "CRAFTSMAN",
-      "slot_rank": 26,
+      "slot_rank": 25,
       "composite_score": 76.2,
       "eps_seq": 99.22,
       "sales_seq": 36.3,
-      "rs_composite": 6.37,
+      "rs_composite": 6.3,
       "rs_tier": "LOW",
       "q_pending": false,
       "cmp": 9873.5,
@@ -256,12 +243,25 @@
       "dma21": 9433.89
     },
     {
+      "symbol": "TIMEX",
+      "slot_rank": 26,
+      "composite_score": 76.2,
+      "eps_seq": 212.12,
+      "sales_seq": 73.69,
+      "rs_composite": 24.77,
+      "rs_tier": "HIGH",
+      "q_pending": false,
+      "cmp": 532.05,
+      "above_21dma": false,
+      "dma21": 543.48
+    },
+    {
       "symbol": "RUBICON",
       "slot_rank": 27,
       "composite_score": 76.0,
       "eps_seq": 111.83,
       "sales_seq": 43.49,
-      "rs_composite": 36.33,
+      "rs_composite": 36.26,
       "rs_tier": "HIGH",
       "q_pending": false,
       "cmp": 1491.0,
@@ -271,13 +271,13 @@
     {
       "symbol": "HINDZINC",
       "slot_rank": 28,
-      "composite_score": 75.8,
+      "composite_score": 75.9,
       "eps_seq": 146.14,
       "sales_seq": 77.22,
-      "rs_composite": -9.1,
+      "rs_composite": -9.18,
       "rs_tier": "LOW",
       "q_pending": false,
-      "cmp": 539.25,
+      "cmp": 539.2,
       "above_21dma": true,
       "dma21": 534.87
     },
@@ -287,12 +287,12 @@
       "composite_score": 75.1,
       "eps_seq": 103.94,
       "sales_seq": 33.57,
-      "rs_composite": 13.02,
+      "rs_composite": 13.09,
       "rs_tier": "MID",
       "q_pending": false,
-      "cmp": 640.6,
+      "cmp": 641.6,
       "above_21dma": false,
-      "dma21": 646.1
+      "dma21": 646.19
     },
     {
       "symbol": "UTLSOLAR",
@@ -300,73 +300,17 @@
       "composite_score": 74.4,
       "eps_seq": 107.49,
       "sales_seq": 87.52,
-      "rs_composite": 26.31,
+      "rs_composite": 26.1,
       "rs_tier": "HIGH",
       "q_pending": false,
-      "cmp": 380.8,
+      "cmp": 380.5,
       "above_21dma": true,
-      "dma21": 366.1
+      "dma21": 366.07
     }
   ],
   "this_rebalance": {
-    "entries": [
-      {
-        "symbol": "GANDHAR",
-        "entry_price": 223.23,
-        "rank": 6,
-        "composite": 84.68,
-        "rs_tier": "HIGH",
-        "rs_confidence": "full"
-      },
-      {
-        "symbol": "RRKABEL",
-        "entry_price": 2602.8,
-        "rank": 7,
-        "composite": 84.57,
-        "rs_tier": "HIGH",
-        "rs_confidence": "full"
-      }
-    ],
-    "exits": [
-      {
-        "symbol": "THANGAMAYL",
-        "reason": "Below 21 EMA — technical exit",
-        "days_held": 18,
-        "rank": 22,
-        "cmp": 5226.5,
-        "score_breakdown": {
-          "composite": 77.07,
-          "eps_seq": 354.33,
-          "eps_pctile": 95.89,
-          "sales_seq": 105.63,
-          "sales_pctile": 95.09,
-          "rs_composite": 4.89,
-          "rs_tier": "MID",
-          "rs_pctile": 64.85,
-          "mcap_cr": 17387.9,
-          "mcap_pctile": 69.94
-        }
-      },
-      {
-        "symbol": "IBULLSLTD",
-        "reason": "Below 21 EMA — technical exit",
-        "days_held": 18,
-        "rank": 19,
-        "cmp": 27.38,
-        "score_breakdown": {
-          "composite": 77.69,
-          "eps_seq": 259.74,
-          "eps_pctile": 94.3,
-          "sales_seq": 302.18,
-          "sales_pctile": 99.21,
-          "rs_composite": 17.7,
-          "rs_tier": "MID",
-          "rs_pctile": 86.52,
-          "mcap_cr": 5998.57,
-          "mcap_pctile": 44.94
-        }
-      }
-    ]
+    "entries": [],
+    "exits": []
   },
   "diagnostics": [
     {
@@ -384,22 +328,8 @@
       ]
     },
     {
-      "symbol": "LODHA",
-      "rank": 3,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "Nifty 50",
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 481.92,
-      "cmp": 1243.95,
-      "flags": [
-        "Entry skipped — extended move +8.7%"
-      ]
-    },
-    {
       "symbol": "LAURUSLABS",
-      "rank": 4,
+      "rank": 3,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -409,6 +339,20 @@
       "cmp": 1816.2,
       "flags": [
         "Entry skipped — extended move +13.4%"
+      ]
+    },
+    {
+      "symbol": "LODHA",
+      "rank": 4,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "Nifty 50",
+      "rs_benchmark_fallback": false,
+      "liquidity_cr": 481.92,
+      "cmp": 1243.95,
+      "flags": [
+        "Entry skipped — extended move +8.7%"
       ]
     },
     {
@@ -427,14 +371,14 @@
     },
     {
       "symbol": "LLOYDSME",
-      "rank": 8,
+      "rank": 7,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
       "rs_benchmark_label": "Nifty 50",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 112.97,
-      "cmp": 2036.0,
+      "liquidity_cr": 113.01,
+      "cmp": 2047.0,
       "flags": [
         "Using previous-quarter fundamentals (not yet reported) — 10% score haircut applied"
       ]
@@ -518,10 +462,10 @@
       "rs_window_days": 60,
       "rs_benchmark_label": "SC250",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 36.49,
-      "cmp": 614.9,
+      "liquidity_cr": 36.48,
+      "cmp": 611.35,
       "flags": [
-        "Entry skipped — extended move +9.6%"
+        "Entry skipped — extended move +9.0%"
       ]
     },
     {
@@ -536,36 +480,6 @@
       "cmp": 321.65,
       "flags": [
         "Entry skipped — extended move +24.2%"
-      ]
-    },
-    {
-      "symbol": "IBULLSLTD",
-      "rank": 19,
-      "rs_tier": "MID",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "SC250",
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 27.31,
-      "cmp": 27.38,
-      "flags": [
-        "Using previous-quarter fundamentals (not yet reported) — 10% score haircut applied",
-        "EMA exit"
-      ]
-    },
-    {
-      "symbol": "THANGAMAYL",
-      "rank": 22,
-      "rs_tier": "MID",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC100",
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 190.15,
-      "cmp": 5226.5,
-      "flags": [
-        "Using previous-quarter fundamentals (not yet reported) — 10% score haircut applied",
-        "EMA exit"
       ]
     }
   ],
