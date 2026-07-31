@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7010.0,
-      "unrealised_pct": 0.53,
+      "current_price": 7027.5,
+      "unrealised_pct": 0.78,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1941.6,
-      "unrealised_pct": 8.96,
+      "current_price": 1923.7,
+      "unrealised_pct": 7.95,
       "price_source": "live"
     },
     {
@@ -50,12 +50,12 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 423.5,
-      "unrealised_pct": -0.74,
+      "current_price": 422.15,
+      "unrealised_pct": -1.05,
       "price_source": "live"
     }
   ],
-  "last_updated": "2026-07-31 09:54 IST",
+  "last_updated": "2026-07-31 11:25 IST",
   "closed_today_map": {
     "2026-07-31": []
   }
