@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7166.0,
-      "unrealised_pct": 2.77,
+      "current_price": 7167.0,
+      "unrealised_pct": 2.78,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1871.0,
-      "unrealised_pct": 4.99,
+      "current_price": 1856.4,
+      "unrealised_pct": 4.18,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 426.75,
-      "unrealised_pct": 0.02,
+      "current_price": 426.35,
+      "unrealised_pct": -0.07,
       "price_source": "live"
     },
     {
@@ -77,8 +77,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 232.8,
-      "unrealised_pct": -0.13
+      "current_price": 232.99,
+      "unrealised_pct": -0.05
     },
     {
       "symbol": "E2E",
@@ -129,8 +129,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 227.92,
-      "unrealised_pct": 2.3
+      "current_price": 228.43,
+      "unrealised_pct": 2.53
     },
     {
       "symbol": "LAURUSLABS",
@@ -140,7 +140,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 1691.21,
       "stop_unlocked": false,
-      "high_since_entry": 1829.8,
+      "high_since_entry": 1838.3,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 37.83,
@@ -155,11 +155,11 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1829.3,
-      "unrealised_pct": 0.59
+      "current_price": 1828.8,
+      "unrealised_pct": 0.57
     }
   ],
-  "last_updated": "2026-08-03 10:33 IST",
+  "last_updated": "2026-08-03 11:25 IST",
   "closed_today_map": {
     "2026-08-03": []
   }
