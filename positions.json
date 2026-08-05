@@ -8,14 +8,14 @@
       "entry_date": "2026-07-02",
       "stop_price": 6484.89,
       "stop_unlocked": false,
-      "high_since_entry": 7349.5,
+      "high_since_entry": 7366.5,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7286.0,
-      "unrealised_pct": 4.49,
+      "current_price": 7327.5,
+      "unrealised_pct": 5.08,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1831.7,
-      "unrealised_pct": 2.79,
+      "current_price": 1838.7,
+      "unrealised_pct": 3.18,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 429.2,
-      "unrealised_pct": 0.6,
+      "current_price": 430.8,
+      "unrealised_pct": 0.97,
       "price_source": "live"
     },
     {
@@ -77,8 +77,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 238.5,
-      "unrealised_pct": 2.32
+      "current_price": 238.75,
+      "unrealised_pct": 2.42
     },
     {
       "symbol": "E2E",
@@ -114,7 +114,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 207.2,
       "stop_unlocked": false,
-      "high_since_entry": 238.0,
+      "high_since_entry": 239.1,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 40.09,
@@ -129,8 +129,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 236.46,
-      "unrealised_pct": 6.13
+      "current_price": 238.25,
+      "unrealised_pct": 6.93
     },
     {
       "symbol": "LAURUSLABS",
@@ -155,11 +155,11 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1831.8,
-      "unrealised_pct": 0.73
+      "current_price": 1835.0,
+      "unrealised_pct": 0.91
     }
   ],
-  "last_updated": "2026-08-04 13:15 IST",
+  "last_updated": "2026-08-04 15:02 IST",
   "closed_today_map": {
     "2026-08-04": []
   }
