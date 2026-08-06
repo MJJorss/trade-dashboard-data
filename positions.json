@@ -8,14 +8,14 @@
       "entry_date": "2026-07-02",
       "stop_price": 6484.89,
       "stop_unlocked": false,
-      "high_since_entry": 7427.5,
+      "high_since_entry": 7540.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7407.0,
-      "unrealised_pct": 6.22,
+      "current_price": 7426.5,
+      "unrealised_pct": 6.5,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1811.9,
-      "unrealised_pct": 1.68,
+      "current_price": 1799.8,
+      "unrealised_pct": 1.0,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 430.7,
-      "unrealised_pct": 0.95,
+      "current_price": 439.75,
+      "unrealised_pct": 3.07,
       "price_source": "live"
     },
     {
@@ -61,8 +61,8 @@
       "entry_time": "12:13",
       "entry_date": "2026-07-31",
       "stop_price": 216.78,
-      "stop_unlocked": false,
-      "high_since_entry": 253.5,
+      "stop_unlocked": true,
+      "high_since_entry": 263.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 51.18,
@@ -77,8 +77,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 252.49,
-      "unrealised_pct": 8.32
+      "current_price": 262.4,
+      "unrealised_pct": 12.57
     },
     {
       "symbol": "E2E",
@@ -88,7 +88,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 480.95,
       "stop_unlocked": true,
-      "high_since_entry": 598.65,
+      "high_since_entry": 627.7,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 47.69,
@@ -103,8 +103,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 598.65,
-      "unrealised_pct": 15.76
+      "current_price": 615.0,
+      "unrealised_pct": 18.92
     },
     {
       "symbol": "RAIN",
@@ -113,8 +113,8 @@
       "entry_time": "12:13",
       "entry_date": "2026-07-31",
       "stop_price": 207.2,
-      "stop_unlocked": false,
-      "high_since_entry": 243.1,
+      "stop_unlocked": true,
+      "high_since_entry": 247.75,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 40.09,
@@ -129,8 +129,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 239.38,
-      "unrealised_pct": 7.44
+      "current_price": 245.84,
+      "unrealised_pct": 10.34
     },
     {
       "symbol": "LAURUSLABS",
@@ -155,12 +155,12 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1838.5,
-      "unrealised_pct": 1.1
+      "current_price": 1847.1,
+      "unrealised_pct": 1.57
     }
   ],
-  "last_updated": "2026-08-05 15:02 IST",
+  "last_updated": "2026-08-06 11:25 IST",
   "closed_today_map": {
-    "2026-08-05": []
+    "2026-08-06": []
   }
 }
