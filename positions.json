@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7000.5,
-      "unrealised_pct": 0.39,
+      "current_price": 7028.0,
+      "unrealised_pct": 0.79,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1737.5,
-      "unrealised_pct": -2.5,
+      "current_price": 1700.0,
+      "unrealised_pct": -4.6,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 426.4,
-      "unrealised_pct": -0.06,
+      "current_price": 431.65,
+      "unrealised_pct": 1.17,
       "price_source": "live"
     },
     {
@@ -77,8 +77,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1854.0,
-      "unrealised_pct": 1.95
+      "current_price": 1841.0,
+      "unrealised_pct": 1.24
     },
     {
       "symbol": "HFCL",
@@ -103,8 +103,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 215.15,
-      "unrealised_pct": 5.37
+      "current_price": 212.35,
+      "unrealised_pct": 4.0
     },
     {
       "symbol": "HFCL",
@@ -129,8 +129,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 215.15,
-      "unrealised_pct": 5.37
+      "current_price": 212.35,
+      "unrealised_pct": 4.0
     },
     {
       "symbol": "SIGMAADV",
@@ -155,12 +155,12 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 708.0,
-      "unrealised_pct": 1.29
+      "current_price": 690.0,
+      "unrealised_pct": -1.29
     }
   ],
-  "last_updated": "2026-08-10 13:15 IST",
+  "last_updated": "2026-08-11 09:27 IST",
   "closed_today_map": {
-    "2026-08-10": []
+    "2026-08-11": []
   }
 }
