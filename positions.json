@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7028.0,
-      "unrealised_pct": 0.79,
+      "current_price": 7000.0,
+      "unrealised_pct": 0.39,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1700.0,
-      "unrealised_pct": -4.6,
+      "current_price": 1708.3,
+      "unrealised_pct": -4.14,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 431.65,
-      "unrealised_pct": 1.17,
+      "current_price": 437.0,
+      "unrealised_pct": 2.43,
       "price_source": "live"
     },
     {
@@ -77,8 +77,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1841.0,
-      "unrealised_pct": 1.24
+      "current_price": 1837.1,
+      "unrealised_pct": 1.02
     },
     {
       "symbol": "HFCL",
@@ -103,8 +103,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 212.35,
-      "unrealised_pct": 4.0
+      "current_price": 209.91,
+      "unrealised_pct": 2.81
     },
     {
       "symbol": "HFCL",
@@ -129,8 +129,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 212.35,
-      "unrealised_pct": 4.0
+      "current_price": 209.91,
+      "unrealised_pct": 2.81
     },
     {
       "symbol": "SIGMAADV",
@@ -155,11 +155,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 690.0,
-      "unrealised_pct": -1.29
+      "current_price": 694.5,
+      "unrealised_pct": -0.64
     }
   ],
-  "last_updated": "2026-08-11 09:27 IST",
+  "last_updated": "2026-08-11 11:25 IST",
   "closed_today_map": {
     "2026-08-11": []
   }
