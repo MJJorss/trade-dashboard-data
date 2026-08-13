@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7326.0,
-      "unrealised_pct": 5.06,
+      "current_price": 7272.0,
+      "unrealised_pct": 4.29,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1696.0,
-      "unrealised_pct": -4.83,
+      "current_price": 1681.0,
+      "unrealised_pct": -5.67,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 432.8,
-      "unrealised_pct": 1.44,
+      "current_price": 433.9,
+      "unrealised_pct": 1.7,
       "price_source": "live"
     },
     {
@@ -77,8 +77,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1836.9,
-      "unrealised_pct": 1.01
+      "current_price": 1837.8,
+      "unrealised_pct": 1.06
     },
     {
       "symbol": "HFCL",
@@ -103,8 +103,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 228.5,
-      "unrealised_pct": 11.91
+      "current_price": 228.6,
+      "unrealised_pct": 11.96
     },
     {
       "symbol": "HFCL",
@@ -129,8 +129,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 228.5,
-      "unrealised_pct": 11.91
+      "current_price": 228.6,
+      "unrealised_pct": 11.96
     },
     {
       "symbol": "SIGMAADV",
@@ -155,11 +155,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 660.05,
-      "unrealised_pct": -5.57
+      "current_price": 685.95,
+      "unrealised_pct": -1.87
     }
   ],
-  "last_updated": "2026-08-13 11:25 IST",
+  "last_updated": "2026-08-13 13:15 IST",
   "closed_today_map": {
     "2026-08-13": []
   }
