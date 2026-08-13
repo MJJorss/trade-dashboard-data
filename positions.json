@@ -14,8 +14,8 @@
       "rs_composite": 55.01,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 7315.0,
-      "unrealised_pct": 4.9,
+      "current_price": 7326.0,
+      "unrealised_pct": 5.06,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1690.5,
-      "unrealised_pct": -5.13,
+      "current_price": 1696.0,
+      "unrealised_pct": -4.83,
       "price_source": "live"
     },
     {
@@ -50,8 +50,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 438.35,
-      "unrealised_pct": 2.74,
+      "current_price": 432.8,
+      "unrealised_pct": 1.44,
       "price_source": "live"
     },
     {
@@ -77,8 +77,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1837.5,
-      "unrealised_pct": 1.04
+      "current_price": 1836.9,
+      "unrealised_pct": 1.01
     },
     {
       "symbol": "HFCL",
@@ -88,7 +88,7 @@
       "entry_date": "2026-08-07",
       "stop_price": 189.89,
       "stop_unlocked": true,
-      "high_since_entry": 229.7,
+      "high_since_entry": 230.95,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 16.98,
@@ -103,8 +103,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 229.57,
-      "unrealised_pct": 12.44
+      "current_price": 228.5,
+      "unrealised_pct": 11.91
     },
     {
       "symbol": "HFCL",
@@ -114,7 +114,7 @@
       "entry_date": "2026-08-07",
       "stop_price": 189.89,
       "stop_unlocked": true,
-      "high_since_entry": 229.7,
+      "high_since_entry": 230.95,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 16.98,
@@ -129,8 +129,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 229.57,
-      "unrealised_pct": 12.44
+      "current_price": 228.5,
+      "unrealised_pct": 11.91
     },
     {
       "symbol": "SIGMAADV",
@@ -155,11 +155,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 674.9,
-      "unrealised_pct": -3.45
+      "current_price": 660.05,
+      "unrealised_pct": -5.57
     }
   ],
-  "last_updated": "2026-08-13 09:27 IST",
+  "last_updated": "2026-08-13 11:25 IST",
   "closed_today_map": {
     "2026-08-13": []
   }
