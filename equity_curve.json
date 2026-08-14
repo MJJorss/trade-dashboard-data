@@ -1286,6 +1286,25 @@
       "drawdown_pct_from_peak": 0.08,
       "drawdown_multiplier": 1.0,
       "effective_risk_pct": 1.0
+    },
+    {
+      "timestamp": "2026-08-14T15:02:40.696829+05:30",
+      "capital_base": 1310805,
+      "realized_pnl": 310805,
+      "unrealized_pnl": -14244,
+      "total_equity": 1296561,
+      "open_positions": 5,
+      "actual_heat_inr": 51730,
+      "actual_heat_pct": 3.95,
+      "recommended_heat_inr": 65540,
+      "recommended_heat_pct": 5.0,
+      "heat_cap_pct": 7.0,
+      "equity_curve_ma20": 1257437,
+      "equity_curve_multiplier": 1.0,
+      "high_water_mark": 1310805,
+      "drawdown_pct_from_peak": 0.0,
+      "drawdown_multiplier": 1.0,
+      "effective_risk_pct": 1.0
     }
   ]
 }

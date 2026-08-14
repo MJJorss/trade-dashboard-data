@@ -832,6 +832,38 @@
       "capital_per_slot": 142857,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-08"
+    },
+    {
+      "symbol": "HFCL",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
+      "rs_tier": "HIGH",
+      "entry_price": 204.18,
+      "exit_price": 223.9,
+      "entry_date": "2026-08-07",
+      "exit_date": "2026-08-14",
+      "hold_days": 7,
+      "pnl_pct": 9.66,
+      "pnl_inr": 17576,
+      "capital_per_slot": 181943,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-08"
+    },
+    {
+      "symbol": "HFCL",
+      "scanner": "Jadhav Bot Strategy",
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
+      "rs_tier": "HIGH",
+      "entry_price": 204.18,
+      "exit_price": 223.9,
+      "entry_date": "2026-08-07",
+      "exit_date": "2026-08-14",
+      "hold_days": 7,
+      "pnl_pct": 9.66,
+      "pnl_inr": 17576,
+      "capital_per_slot": 181943,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-08"
     }
   ]
 }
