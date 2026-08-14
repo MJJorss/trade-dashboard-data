@@ -1,24 +1,6 @@
 {
   "positions": [
     {
-      "symbol": "GRWRHITECH",
-      "scanner": "VCP Breakout",
-      "entry_price": 6973.0,
-      "entry_time": "09:25",
-      "entry_date": "2026-07-02",
-      "stop_price": 6484.89,
-      "stop_unlocked": true,
-      "high_since_entry": 7990.0,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 55.01,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 7215.0,
-      "unrealised_pct": 3.47,
-      "price_source": "live"
-    },
-    {
       "symbol": "ASTRAMICRO",
       "scanner": "VCP Breakout",
       "entry_price": 1782.0,
@@ -32,8 +14,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1694.3,
-      "unrealised_pct": -4.92,
+      "current_price": 1728.3,
+      "unrealised_pct": -3.01,
       "price_source": "live"
     },
     {
@@ -50,8 +32,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 434.45,
-      "unrealised_pct": 1.83,
+      "current_price": 434.7,
+      "unrealised_pct": 1.89,
       "price_source": "live"
     },
     {
@@ -77,8 +59,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1845.9,
-      "unrealised_pct": 1.51
+      "current_price": 1822.3,
+      "unrealised_pct": 0.21
     },
     {
       "symbol": "HFCL",
@@ -103,8 +85,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 227.6,
-      "unrealised_pct": 11.47
+      "current_price": 225.36,
+      "unrealised_pct": 10.37
     },
     {
       "symbol": "HFCL",
@@ -129,8 +111,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 227.6,
-      "unrealised_pct": 11.47
+      "current_price": 225.36,
+      "unrealised_pct": 10.37
     },
     {
       "symbol": "SIGMAADV",
@@ -155,12 +137,40 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 685.0,
-      "unrealised_pct": -2.0
+      "current_price": 656.0,
+      "unrealised_pct": -6.15
+    },
+    {
+      "symbol": "GRWRHITECH",
+      "scanner": "VCP Breakout",
+      "entry_price": 6973.0,
+      "entry_time": "09:25",
+      "entry_date": "2026-07-02",
+      "stop_price": 6484.89,
+      "stop_unlocked": true,
+      "high_since_entry": 7990.0,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 55.01,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 7228.5,
+      "unrealised_pct": 3.66,
+      "price_source": "live",
+      "exit_price": 7072.0,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "exit_time": "11:25",
+      "exit_date": "2026-08-14",
+      "pnl_pct": 1.42,
+      "pnl_inr": 2029,
+      "hold_days": 43,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-08-13 15:02 IST",
+  "last_updated": "2026-08-14 11:25 IST",
   "closed_today_map": {
-    "2026-08-13": []
+    "2026-08-14": [
+      "GRWRHITECH"
+    ]
   }
 }

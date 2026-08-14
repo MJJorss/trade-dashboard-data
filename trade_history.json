@@ -816,6 +816,22 @@
       "capital_per_slot": 89100,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-08"
+    },
+    {
+      "symbol": "GRWRHITECH",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 6973.0,
+      "exit_price": 7072.0,
+      "entry_date": "2026-07-02",
+      "exit_date": "2026-08-14",
+      "hold_days": 43,
+      "pnl_pct": 1.42,
+      "pnl_inr": 2029,
+      "capital_per_slot": 142857,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-08"
     }
   ]
 }
