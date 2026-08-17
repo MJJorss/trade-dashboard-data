@@ -864,6 +864,22 @@
       "capital_per_slot": 181943,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-08"
+    },
+    {
+      "symbol": "SIGMAADV",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 699.0,
+      "exit_price": 645.0,
+      "entry_date": "2026-08-07",
+      "exit_date": "2026-08-17",
+      "hold_days": 10,
+      "pnl_pct": -7.73,
+      "pnl_inr": -14064,
+      "capital_per_slot": 181943,
+      "exit_reason": "Stop Loss (gap down) \ud83d\udd34",
+      "month": "2026-08"
     }
   ]
 }
