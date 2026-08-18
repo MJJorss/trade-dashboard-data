@@ -14,8 +14,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1738.0,
-      "unrealised_pct": -2.47,
+      "current_price": 1751.2,
+      "unrealised_pct": -1.73,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 415.05,
-      "unrealised_pct": -2.72,
+      "current_price": 419.3,
+      "unrealised_pct": -1.72,
       "price_source": "live"
     },
     {
@@ -59,8 +59,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1808.6,
-      "unrealised_pct": -0.54
+      "current_price": 1805.9,
+      "unrealised_pct": -0.69
     },
     {
       "symbol": "YASHO",
@@ -85,8 +85,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 4555.1,
-      "unrealised_pct": 5.53
+      "current_price": 4564.8,
+      "unrealised_pct": 5.76
     },
     {
       "symbol": "SETL",
@@ -111,8 +111,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 307.3,
-      "unrealised_pct": 2.9
+      "current_price": 304.2,
+      "unrealised_pct": 1.86
     },
     {
       "symbol": "TFCILTD",
@@ -137,8 +137,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 124.82,
-      "unrealised_pct": 6.32
+      "current_price": 122.95,
+      "unrealised_pct": 4.73
     },
     {
       "symbol": "UNIVCABLES",
@@ -163,11 +163,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1728.5,
-      "unrealised_pct": 1.98
+      "current_price": 1713.7,
+      "unrealised_pct": 1.11
     }
   ],
-  "last_updated": "2026-08-18 09:27 IST",
+  "last_updated": "2026-08-18 09:52 IST",
   "closed_today_map": {
     "2026-08-18": []
   }
