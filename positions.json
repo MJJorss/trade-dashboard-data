@@ -14,8 +14,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1710.1,
-      "unrealised_pct": -4.03,
+      "current_price": 1708.0,
+      "unrealised_pct": -4.15,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 422.0,
-      "unrealised_pct": -1.09,
+      "current_price": 416.6,
+      "unrealised_pct": -2.36,
       "price_source": "live"
     },
     {
@@ -59,8 +59,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1790.0,
-      "unrealised_pct": -1.57
+      "current_price": 1803.7,
+      "unrealised_pct": -0.81
     },
     {
       "symbol": "YASHO",
@@ -85,8 +85,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 4370.7,
-      "unrealised_pct": 1.26
+      "current_price": 4361.1,
+      "unrealised_pct": 1.04
     },
     {
       "symbol": "SETL",
@@ -111,8 +111,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 310.0,
-      "unrealised_pct": 3.8
+      "current_price": 309.95,
+      "unrealised_pct": 3.78
     },
     {
       "symbol": "TFCILTD",
@@ -122,7 +122,7 @@
       "entry_date": "2026-08-14",
       "stop_price": 109.18,
       "stop_unlocked": false,
-      "high_since_entry": 126.96,
+      "high_since_entry": 127.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 48.34,
@@ -137,8 +137,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 126.38,
-      "unrealised_pct": 7.65
+      "current_price": 119.05,
+      "unrealised_pct": 1.41
     },
     {
       "symbol": "UNIVCABLES",
@@ -163,11 +163,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1723.0,
-      "unrealised_pct": 1.66
+      "current_price": 1725.4,
+      "unrealised_pct": 1.8
     }
   ],
-  "last_updated": "2026-08-17 13:15 IST",
+  "last_updated": "2026-08-17 15:02 IST",
   "closed_today_map": {
     "2026-08-17": [
       "SIGMAADV"
