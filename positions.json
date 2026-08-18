@@ -14,8 +14,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1748.7,
-      "unrealised_pct": -1.87,
+      "current_price": 1754.0,
+      "unrealised_pct": -1.57,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 413.05,
-      "unrealised_pct": -3.19,
+      "current_price": 414.05,
+      "unrealised_pct": -2.95,
       "price_source": "live"
     },
     {
@@ -59,8 +59,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1820.6,
-      "unrealised_pct": 0.12
+      "current_price": 1819.7,
+      "unrealised_pct": 0.07
     },
     {
       "symbol": "YASHO",
@@ -85,8 +85,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 4904.4,
-      "unrealised_pct": 13.63
+      "current_price": 4910.1,
+      "unrealised_pct": 13.76
     },
     {
       "symbol": "SETL",
@@ -111,8 +111,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 308.15,
-      "unrealised_pct": 3.18
+      "current_price": 309.0,
+      "unrealised_pct": 3.47
     },
     {
       "symbol": "TFCILTD",
@@ -137,8 +137,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 123.17,
-      "unrealised_pct": 4.91
+      "current_price": 123.41,
+      "unrealised_pct": 5.12
     },
     {
       "symbol": "UNIVCABLES",
@@ -163,11 +163,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1736.7,
-      "unrealised_pct": 2.47
+      "current_price": 1742.5,
+      "unrealised_pct": 2.81
     }
   ],
-  "last_updated": "2026-08-18 14:44 IST",
+  "last_updated": "2026-08-18 15:02 IST",
   "closed_today_map": {
     "2026-08-18": []
   }
