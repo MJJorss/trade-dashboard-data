@@ -14,8 +14,8 @@
       "rs_composite": 53.53,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 1751.2,
-      "unrealised_pct": -1.73,
+      "current_price": 1747.9,
+      "unrealised_pct": -1.91,
       "price_source": "live"
     },
     {
@@ -32,8 +32,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 419.3,
-      "unrealised_pct": -1.72,
+      "current_price": 419.75,
+      "unrealised_pct": -1.62,
       "price_source": "live"
     },
     {
@@ -59,8 +59,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1805.9,
-      "unrealised_pct": -0.69
+      "current_price": 1820.1,
+      "unrealised_pct": 0.09
     },
     {
       "symbol": "YASHO",
@@ -70,7 +70,7 @@
       "entry_date": "2026-08-14",
       "stop_price": 4014.16,
       "stop_unlocked": false,
-      "high_since_entry": 4650.0,
+      "high_since_entry": 4670.4,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 81.79,
@@ -85,8 +85,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 4564.8,
-      "unrealised_pct": 5.76
+      "current_price": 4617.5,
+      "unrealised_pct": 6.98
     },
     {
       "symbol": "SETL",
@@ -111,8 +111,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 304.2,
-      "unrealised_pct": 1.86
+      "current_price": 306.65,
+      "unrealised_pct": 2.68
     },
     {
       "symbol": "TFCILTD",
@@ -137,8 +137,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 122.95,
-      "unrealised_pct": 4.73
+      "current_price": 122.83,
+      "unrealised_pct": 4.63
     },
     {
       "symbol": "UNIVCABLES",
@@ -148,7 +148,7 @@
       "entry_date": "2026-08-17",
       "stop_price": 1576.26,
       "stop_unlocked": false,
-      "high_since_entry": 1748.2,
+      "high_since_entry": 1768.8,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 57.79,
@@ -163,11 +163,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1713.7,
-      "unrealised_pct": 1.11
+      "current_price": 1757.0,
+      "unrealised_pct": 3.66
     }
   ],
-  "last_updated": "2026-08-18 09:52 IST",
+  "last_updated": "2026-08-18 11:25 IST",
   "closed_today_map": {
     "2026-08-18": []
   }
