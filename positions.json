@@ -32,8 +32,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 413.6,
-      "unrealised_pct": -3.06,
+      "current_price": 416.45,
+      "unrealised_pct": -2.39,
       "price_source": "live"
     },
     {
@@ -85,8 +85,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 4915.8,
-      "unrealised_pct": 13.89
+      "current_price": 4362.3,
+      "unrealised_pct": 1.07
     },
     {
       "symbol": "SETL",
@@ -137,8 +137,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 123.7,
-      "unrealised_pct": 5.37
+      "current_price": 120.28,
+      "unrealised_pct": 2.45
     },
     {
       "symbol": "UNIVCABLES",
@@ -163,12 +163,12 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1745.0,
-      "unrealised_pct": 2.96
+      "current_price": 1724.6,
+      "unrealised_pct": 1.75
     }
   ],
-  "last_updated": "2026-08-18 15:32 IST",
+  "last_updated": "2026-08-19 08:25 IST",
   "closed_today_map": {
-    "2026-08-18": []
+    "2026-08-19": []
   }
 }
