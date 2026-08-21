@@ -1,11 +1,11 @@
 {
-  "generated_at": "21 Aug 2026 02:16 PM IST",
+  "generated_at": "21 Aug 2026 02:39 PM IST",
   "rebalance_date": "2026-08-21",
   "total_slots": 20,
   "filled_slots": 9,
   "total_deployed": 900000,
-  "total_pnl_inr": 8090.0,
-  "total_pnl_pct": 0.9,
+  "total_pnl_inr": 8420.0,
+  "total_pnl_pct": 0.94,
   "holdings": [
     {
       "symbol": "KMEW",
@@ -14,7 +14,7 @@
       "eps_seq": 447.74,
       "sales_seq": 138.11,
       "mcap_cr": 6873.73,
-      "rs_composite": 23.59,
+      "rs_composite": 23.34,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -24,25 +24,25 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 2725.0,
+      "cmp": 2719.9,
       "entry_price": 2725.0,
       "entry_date": "2026-08-21",
       "days_held": 0,
-      "pct_move": 0.0,
-      "dma21": 2603.33,
+      "pct_move": -0.19,
+      "dma21": 2602.87,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
-      "pnl_inr": 0.0
+      "pnl_inr": -190.0
     },
     {
       "symbol": "OFSS",
       "slot_rank": 2,
-      "composite_score": 85.5,
+      "composite_score": 85.4,
       "eps_seq": 120.52,
       "sales_seq": 68.73,
       "mcap_cr": 103193.51,
-      "rs_composite": 12.76,
+      "rs_composite": 12.59,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -52,25 +52,25 @@
       "score_haircut_applied": false,
       "rs_label": "🟡 MID RS",
       "q_pending": false,
-      "cmp": 11696.0,
+      "cmp": 11681.0,
       "entry_price": 11734.0,
       "entry_date": "2026-08-07",
       "days_held": 14,
-      "pct_move": -0.32,
-      "dma21": 11580.98,
+      "pct_move": -0.45,
+      "dma21": 11579.62,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
-      "pnl_inr": -320.0
+      "pnl_inr": -450.0
     },
     {
       "symbol": "NYKAA",
       "slot_rank": 3,
-      "composite_score": 85.3,
+      "composite_score": 85.4,
       "eps_seq": 243.1,
       "sales_seq": 29.1,
       "mcap_cr": 94143.42,
-      "rs_composite": 16.21,
+      "rs_composite": 16.31,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -80,16 +80,16 @@
       "score_haircut_applied": false,
       "rs_label": "🟡 MID RS",
       "q_pending": false,
-      "cmp": 334.0,
+      "cmp": 334.4,
       "entry_price": 334.0,
       "entry_date": "2026-08-21",
       "days_held": 0,
-      "pct_move": 0.0,
-      "dma21": 328.07,
+      "pct_move": 0.12,
+      "dma21": 328.11,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
-      "pnl_inr": 0.0
+      "pnl_inr": 120.0
     },
     {
       "symbol": "PANAMAPET",
@@ -98,7 +98,7 @@
       "eps_seq": 624.8,
       "sales_seq": 150.3,
       "mcap_cr": 2941.5,
-      "rs_composite": 20.9,
+      "rs_composite": 21.57,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -108,53 +108,25 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 485.05,
+      "cmp": 487.65,
       "entry_price": 485.95,
       "entry_date": "2026-08-14",
       "days_held": 7,
-      "pct_move": -0.19,
-      "dma21": 480.0,
+      "pct_move": 0.35,
+      "dma21": 480.24,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
-      "pnl_inr": -190.0
-    },
-    {
-      "symbol": "DIVGIITTS",
-      "slot_rank": 5,
-      "composite_score": 84.2,
-      "eps_seq": 182.64,
-      "sales_seq": 91.32,
-      "mcap_cr": 3834.03,
-      "rs_composite": 35.66,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "SC250",
-      "rs_benchmark_fallback": false,
-      "data_source": "current",
-      "score_haircut_applied": false,
-      "rs_label": "🟢 HIGH RS",
-      "q_pending": false,
-      "cmp": 1222.95,
-      "entry_price": 1222.95,
-      "entry_date": "2026-08-21",
-      "days_held": 0,
-      "pct_move": 0.0,
-      "dma21": 1127.54,
-      "above_21dma": true,
-      "dma_label": "🟢 Above 21 EMA",
-      "capital_deployed": 100000,
-      "pnl_inr": 0.0
+      "pnl_inr": 350.0
     },
     {
       "symbol": "LODHA",
-      "slot_rank": 6,
+      "slot_rank": 5,
       "composite_score": 84.1,
       "eps_seq": 103.36,
       "sales_seq": 43.1,
       "mcap_cr": 124922.3,
-      "rs_composite": 20.6,
+      "rs_composite": 20.69,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -164,16 +136,44 @@
       "score_haircut_applied": false,
       "rs_label": "🟡 MID RS",
       "q_pending": false,
-      "cmp": 1235.2,
+      "cmp": 1236.4,
       "entry_price": 1213.1,
       "entry_date": "2026-08-07",
       "days_held": 14,
-      "pct_move": 1.82,
-      "dma21": 1214.71,
+      "pct_move": 1.92,
+      "dma21": 1214.82,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
-      "pnl_inr": 1820.0
+      "pnl_inr": 1920.0
+    },
+    {
+      "symbol": "DIVGIITTS",
+      "slot_rank": 6,
+      "composite_score": 84.1,
+      "eps_seq": 182.64,
+      "sales_seq": 91.32,
+      "mcap_cr": 3834.03,
+      "rs_composite": 35.34,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "SC250",
+      "rs_benchmark_fallback": false,
+      "data_source": "current",
+      "score_haircut_applied": false,
+      "rs_label": "🟢 HIGH RS",
+      "q_pending": false,
+      "cmp": 1220.25,
+      "entry_price": 1222.95,
+      "entry_date": "2026-08-21",
+      "days_held": 0,
+      "pct_move": -0.22,
+      "dma21": 1127.3,
+      "above_21dma": true,
+      "dma_label": "🟢 Above 21 EMA",
+      "capital_deployed": 100000,
+      "pnl_inr": -220.0
     },
     {
       "symbol": "SOTL",
@@ -182,7 +182,7 @@
       "eps_seq": 395.59,
       "sales_seq": 49.6,
       "mcap_cr": 4730.33,
-      "rs_composite": 28.72,
+      "rs_composite": 29.05,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -192,16 +192,16 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 677.3,
+      "cmp": 679.0,
       "entry_price": 698.0,
       "entry_date": "2026-08-14",
       "days_held": 7,
-      "pct_move": -2.97,
-      "dma21": 671.74,
+      "pct_move": -2.72,
+      "dma21": 671.9,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
-      "pnl_inr": -2970.0
+      "pnl_inr": -2720.0
     },
     {
       "symbol": "GANDHAR",
@@ -210,7 +210,7 @@
       "eps_seq": 633.09,
       "sales_seq": 91.81,
       "mcap_cr": 2495.44,
-      "rs_composite": 25.98,
+      "rs_composite": 25.8,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -220,16 +220,16 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 251.7,
+      "cmp": 251.38,
       "entry_price": 223.23,
       "entry_date": "2026-07-31",
       "days_held": 21,
-      "pct_move": 12.75,
-      "dma21": 239.86,
+      "pct_move": 12.61,
+      "dma21": 239.83,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
-      "pnl_inr": 12750.0
+      "pnl_inr": 12610.0
     },
     {
       "symbol": "LAURUSLABS",
@@ -238,7 +238,7 @@
       "eps_seq": 125.49,
       "sales_seq": 29.1,
       "mcap_cr": 98844.72,
-      "rs_composite": 22.33,
+      "rs_composite": 22.3,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -264,15 +264,15 @@
     {
       "symbol": "GALAXYSURF",
       "slot_rank": 21,
-      "composite_score": 77.6,
+      "composite_score": 77.7,
       "eps_seq": 108.73,
       "sales_seq": 39.44,
-      "rs_composite": 19.61,
+      "rs_composite": 19.56,
       "rs_tier": "MID",
       "q_pending": false,
-      "cmp": 2335.7,
+      "cmp": 2335.0,
       "above_21dma": true,
-      "dma21": 2167.73
+      "dma21": 2167.67
     },
     {
       "symbol": "TVSMOTOR",
@@ -280,33 +280,46 @@
       "composite_score": 77.5,
       "eps_seq": 67.11,
       "sales_seq": 33.46,
-      "rs_composite": 21.14,
+      "rs_composite": 21.4,
       "rs_tier": "HIGH",
       "q_pending": false,
-      "cmp": 4349.5,
+      "cmp": 4359.7,
       "above_21dma": true,
-      "dma21": 4247.46
+      "dma21": 4248.39
     },
     {
       "symbol": "KERNEX",
       "slot_rank": 23,
-      "composite_score": 77.3,
+      "composite_score": 77.4,
       "eps_seq": 1372.52,
       "sales_seq": 800.38,
-      "rs_composite": -2.28,
+      "rs_composite": -2.29,
       "rs_tier": "LOW",
       "q_pending": false,
-      "cmp": 1942.5,
+      "cmp": 1942.6,
       "above_21dma": false,
-      "dma21": 2107.21
+      "dma21": 2107.22
+    },
+    {
+      "symbol": "KPL",
+      "slot_rank": 24,
+      "composite_score": 77.2,
+      "eps_seq": 114.75,
+      "sales_seq": 45.63,
+      "rs_composite": 29.35,
+      "rs_tier": "HIGH",
+      "q_pending": false,
+      "cmp": 3364.7,
+      "above_21dma": true,
+      "dma21": 3117.41
     },
     {
       "symbol": "ZSARACOM",
-      "slot_rank": 24,
+      "slot_rank": 25,
       "composite_score": 77.2,
       "eps_seq": 169.55,
       "sales_seq": 140.17,
-      "rs_composite": 13.17,
+      "rs_composite": 13.16,
       "rs_tier": "MID",
       "q_pending": false,
       "cmp": 12500.0,
@@ -314,43 +327,30 @@
       "dma21": 12274.25
     },
     {
-      "symbol": "KPL",
-      "slot_rank": 25,
-      "composite_score": 77.2,
-      "eps_seq": 114.75,
-      "sales_seq": 45.63,
-      "rs_composite": 29.25,
-      "rs_tier": "HIGH",
+      "symbol": "KSHINTL",
+      "slot_rank": 26,
+      "composite_score": 77.1,
+      "eps_seq": 86.16,
+      "sales_seq": 108.38,
+      "rs_composite": 15.45,
+      "rs_tier": "MID",
       "q_pending": false,
-      "cmp": 3362.0,
+      "cmp": 1010.6,
       "above_21dma": true,
-      "dma21": 3117.16
+      "dma21": 951.85
     },
     {
       "symbol": "FREDUN",
-      "slot_rank": 26,
+      "slot_rank": 27,
       "composite_score": 77.1,
       "eps_seq": 94.53,
       "sales_seq": 90.45,
-      "rs_composite": 60.8,
+      "rs_composite": 59.6,
       "rs_tier": "HIGH",
       "q_pending": false,
-      "cmp": 1432.1,
+      "cmp": 1422.0,
       "above_21dma": true,
-      "dma21": 1271.27
-    },
-    {
-      "symbol": "KSHINTL",
-      "slot_rank": 27,
-      "composite_score": 76.9,
-      "eps_seq": 86.16,
-      "sales_seq": 108.38,
-      "rs_composite": 14.97,
-      "rs_tier": "MID",
-      "q_pending": false,
-      "cmp": 1006.55,
-      "above_21dma": true,
-      "dma21": 951.48
+      "dma21": 1270.35
     },
     {
       "symbol": "OIL",
@@ -358,12 +358,12 @@
       "composite_score": 76.6,
       "eps_seq": 91.4,
       "sales_seq": 57.7,
-      "rs_composite": 0.89,
+      "rs_composite": 0.72,
       "rs_tier": "MID",
       "q_pending": false,
-      "cmp": 476.75,
+      "cmp": 476.1,
       "above_21dma": true,
-      "dma21": 462.87
+      "dma21": 462.81
     },
     {
       "symbol": "COFORGE",
@@ -371,12 +371,12 @@
       "composite_score": 76.5,
       "eps_seq": 151.04,
       "sales_seq": 30.05,
-      "rs_composite": 28.33,
+      "rs_composite": 28.49,
       "rs_tier": "HIGH",
       "q_pending": false,
-      "cmp": 1879.1,
+      "cmp": 1881.7,
       "above_21dma": true,
-      "dma21": 1755.0
+      "dma21": 1755.23
     },
     {
       "symbol": "AVTNPL",
@@ -384,157 +384,17 @@
       "composite_score": 76.4,
       "eps_seq": 156.6,
       "sales_seq": 82.16,
-      "rs_composite": 16.38,
+      "rs_composite": 15.8,
       "rs_tier": "MID",
       "q_pending": false,
-      "cmp": 87.62,
+      "cmp": 87.22,
       "above_21dma": true,
-      "dma21": 77.75
+      "dma21": 77.71
     }
   ],
   "this_rebalance": {
-    "entries": [
-      {
-        "symbol": "KMEW",
-        "entry_price": 2725.0,
-        "rank": 1,
-        "composite": 88.01,
-        "rs_tier": "HIGH",
-        "rs_confidence": "full"
-      },
-      {
-        "symbol": "NYKAA",
-        "entry_price": 334.0,
-        "rank": 3,
-        "composite": 85.26,
-        "rs_tier": "MID",
-        "rs_confidence": "full"
-      },
-      {
-        "symbol": "DIVGIITTS",
-        "entry_price": 1222.95,
-        "rank": 6,
-        "composite": 84.16,
-        "rs_tier": "HIGH",
-        "rs_confidence": "full"
-      }
-    ],
-    "exits": [
-      {
-        "symbol": "CUPID",
-        "reason": "Score eviction — fell to rank #51 (beyond buffer #25)",
-        "days_held": 39,
-        "rank": 51,
-        "cmp": 283.31,
-        "score_breakdown": {
-          "composite": 73.32,
-          "eps_seq": 194.01,
-          "eps_pctile": 92.57,
-          "sales_seq": 142.49,
-          "sales_pctile": 97.21,
-          "rs_composite": null,
-          "rs_tier": "N/A",
-          "rs_pctile": null,
-          "mcap_cr": 37670.67,
-          "mcap_pctile": 81.46
-        }
-      },
-      {
-        "symbol": "DIACABS",
-        "reason": "Score eviction — fell to rank #121 (beyond buffer #25)",
-        "days_held": 39,
-        "rank": 121,
-        "cmp": 356.7,
-        "score_breakdown": {
-          "composite": 64.59,
-          "eps_seq": 638.19,
-          "eps_pctile": 97.61,
-          "sales_seq": 114.08,
-          "sales_pctile": 95.23,
-          "rs_composite": null,
-          "rs_tier": "N/A",
-          "rs_pctile": null,
-          "mcap_cr": 10870.36,
-          "mcap_pctile": 58.68
-        }
-      },
-      {
-        "symbol": "HFCL",
-        "reason": "Score eviction — fell to rank #34 (beyond buffer #25)",
-        "days_held": 7,
-        "rank": 34,
-        "cmp": 228.02,
-        "score_breakdown": {
-          "composite": 75.4,
-          "eps_seq": 809.06,
-          "eps_pctile": 98.28,
-          "sales_seq": 119.85,
-          "sales_pctile": 95.49,
-          "rs_composite": null,
-          "rs_tier": "N/A",
-          "rs_pctile": null,
-          "mcap_cr": 34484.47,
-          "mcap_pctile": 80.53
-        }
-      },
-      {
-        "symbol": "RRKABEL",
-        "reason": "Score eviction — fell to rank #94 (beyond buffer #25)",
-        "days_held": 21,
-        "rank": 94,
-        "cmp": 2917.1,
-        "score_breakdown": {
-          "composite": 66.89,
-          "eps_seq": 117.32,
-          "eps_pctile": 84.22,
-          "sales_seq": 53.9,
-          "sales_pctile": 84.88,
-          "rs_composite": null,
-          "rs_tier": "N/A",
-          "rs_pctile": null,
-          "mcap_cr": 32734.99,
-          "mcap_pctile": 80.13
-        }
-      },
-      {
-        "symbol": "IIFL",
-        "reason": "Score eviction — fell to rank #91 (beyond buffer #25)",
-        "days_held": 35,
-        "rank": 91,
-        "cmp": 679.1,
-        "score_breakdown": {
-          "composite": 67.04,
-          "eps_seq": 189.3,
-          "eps_pctile": 92.18,
-          "sales_seq": 32.73,
-          "sales_pctile": 69.76,
-          "rs_composite": null,
-          "rs_tier": "N/A",
-          "rs_pctile": null,
-          "mcap_cr": 27196.74,
-          "mcap_pctile": 77.35
-        }
-      },
-      {
-        "symbol": "NETWEB",
-        "reason": "Score eviction — fell to rank #56 (beyond buffer #25)",
-        "days_held": 7,
-        "rank": 56,
-        "cmp": 5615.3,
-        "score_breakdown": {
-          "composite": 72.78,
-          "eps_seq": 179.92,
-          "eps_pctile": 91.64,
-          "sales_seq": 172.13,
-          "sales_pctile": 98.01,
-          "rs_composite": null,
-          "rs_tier": "N/A",
-          "rs_pctile": null,
-          "mcap_cr": 30798.93,
-          "mcap_pctile": 79.6
-        }
-      }
-    ]
+    "entries": [],
+    "exits": []
   },
   "diagnostics": [
     {
@@ -545,10 +405,10 @@
       "rs_window_days": 60,
       "rs_benchmark_label": "SC250",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 20.17,
-      "cmp": 4015.0,
+      "liquidity_cr": 20.24,
+      "cmp": 4020.1,
       "flags": [
-        "Entry skipped — extended move +14.3%"
+        "Entry skipped — extended move +14.4%"
       ]
     },
     {
@@ -602,10 +462,10 @@
       "rs_window_days": 60,
       "rs_benchmark_label": "SC250",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 72.52,
-      "cmp": 493.7,
+      "liquidity_cr": 72.98,
+      "cmp": 499.25,
       "flags": [
-        "Entry skipped — extended move +7.4%"
+        "Entry skipped — extended move +8.6%"
       ]
     },
     {
@@ -620,91 +480,6 @@
       "cmp": null,
       "flags": [
         "Entry blocked — RS LOW"
-      ]
-    },
-    {
-      "symbol": "HFCL",
-      "rank": 34,
-      "rs_tier": "N/A",
-      "rs_confidence": "N/A",
-      "rs_window_days": null,
-      "rs_benchmark_label": null,
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 499.72,
-      "cmp": 228.02,
-      "flags": [
-        "Score eviction — rank #34"
-      ]
-    },
-    {
-      "symbol": "CUPID",
-      "rank": 51,
-      "rs_tier": "N/A",
-      "rs_confidence": "N/A",
-      "rs_window_days": null,
-      "rs_benchmark_label": null,
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 922.29,
-      "cmp": 283.31,
-      "flags": [
-        "Score eviction — rank #51"
-      ]
-    },
-    {
-      "symbol": "NETWEB",
-      "rank": 56,
-      "rs_tier": "N/A",
-      "rs_confidence": "N/A",
-      "rs_window_days": null,
-      "rs_benchmark_label": null,
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 968.68,
-      "cmp": 5615.3,
-      "flags": [
-        "Score eviction — rank #56"
-      ]
-    },
-    {
-      "symbol": "IIFL",
-      "rank": 91,
-      "rs_tier": "N/A",
-      "rs_confidence": "N/A",
-      "rs_window_days": null,
-      "rs_benchmark_label": null,
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 133.01,
-      "cmp": 679.1,
-      "flags": [
-        "Score eviction — rank #91"
-      ]
-    },
-    {
-      "symbol": "RRKABEL",
-      "rank": 94,
-      "rs_tier": "N/A",
-      "rs_confidence": "N/A",
-      "rs_window_days": null,
-      "rs_benchmark_label": null,
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 178.3,
-      "cmp": 2917.1,
-      "flags": [
-        "Score eviction — rank #94"
-      ]
-    },
-    {
-      "symbol": "DIACABS",
-      "rank": 121,
-      "rs_tier": "N/A",
-      "rs_confidence": "N/A",
-      "rs_window_days": null,
-      "rs_benchmark_label": null,
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 113.94,
-      "cmp": 356.7,
-      "flags": [
-        "Using previous-quarter fundamentals (not yet reported) — 10% score haircut applied",
-        "Score eviction — rank #121"
       ]
     }
   ],
