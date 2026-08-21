@@ -896,6 +896,22 @@
       "capital_per_slot": 182243,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-08"
+    },
+    {
+      "symbol": "TFCILTD",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 117.4,
+      "exit_price": 131.2,
+      "entry_date": "2026-08-14",
+      "exit_date": "2026-08-21",
+      "hold_days": 7,
+      "pnl_pct": 11.75,
+      "pnl_inr": 22003,
+      "capital_per_slot": 187257,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-08"
     }
   ]
 }
