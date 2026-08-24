@@ -1,24 +1,6 @@
 {
   "positions": [
     {
-      "symbol": "ASTRAMICRO",
-      "scanner": "VCP Breakout",
-      "entry_price": 1782.0,
-      "entry_time": "09:25",
-      "entry_date": "2026-07-02",
-      "stop_price": 1657.26,
-      "stop_unlocked": false,
-      "high_since_entry": 1960.0,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 53.53,
-      "rs_benchmark": "Nifty 50",
-      "status": "open",
-      "current_price": 1665.8,
-      "unrealised_pct": -6.52,
-      "price_source": "live"
-    },
-    {
       "symbol": "SIS",
       "scanner": "VCP Breakout",
       "entry_price": 426.65,
@@ -32,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 417.55,
-      "unrealised_pct": -2.13,
+      "current_price": 416.65,
+      "unrealised_pct": -2.34,
       "price_source": "live"
     },
     {
@@ -59,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1799.8,
-      "unrealised_pct": -1.03
+      "current_price": 1805.3,
+      "unrealised_pct": -0.73
     },
     {
       "symbol": "SETL",
@@ -85,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 298.2,
-      "unrealised_pct": -0.15
+      "current_price": 312.4,
+      "unrealised_pct": 4.6
     },
     {
       "symbol": "UNIVCABLES",
@@ -111,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1596.8,
-      "unrealised_pct": -5.79
+      "current_price": 1668.0,
+      "unrealised_pct": -1.59
     },
     {
       "symbol": "YASHO",
@@ -137,48 +119,66 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 4392.4,
-      "unrealised_pct": -2.39
+      "current_price": 4465.3,
+      "unrealised_pct": -0.77
     },
     {
-      "symbol": "TFCILTD",
+      "symbol": "CUPID",
       "scanner": "VCP Breakout",
-      "entry_price": 117.4,
-      "entry_time": "15:27",
-      "entry_date": "2026-08-14",
-      "stop_price": 109.18,
-      "stop_unlocked": true,
-      "high_since_entry": 134.92,
-      "conviction": "\ud83d\udcca STANDARD",
+      "entry_price": 285.11,
+      "entry_time": "09:27",
+      "entry_date": "2026-08-24",
+      "stop_price": 265.15,
+      "stop_unlocked": false,
+      "high_since_entry": 288.3,
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
-      "rs_composite": 48.34,
+      "rs_composite": 81.33,
       "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "capital_allocated": 187257,
-      "qty": 1595,
-      "risk_inr": 13108,
+      "status": "open",
+      "capital_allocated": 189643,
+      "qty": 665,
+      "risk_inr": 13275,
       "risk_pct_applied": 1.0,
       "stop_pct": 7.0,
-      "capital_base_at_entry": 1310805,
+      "capital_base_at_entry": 1327546,
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 133.01,
-      "unrealised_pct": 13.3,
-      "exit_price": 131.2,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "15:02",
-      "exit_date": "2026-08-21",
-      "pnl_pct": 11.75,
-      "pnl_inr": 22003,
-      "hold_days": 7,
-      "capital_per_slot": 187257
+      "current_price": 284.55,
+      "unrealised_pct": -0.2
+    },
+    {
+      "symbol": "ASTRAMICRO",
+      "scanner": "VCP Breakout",
+      "entry_price": 1782.0,
+      "entry_time": "09:25",
+      "entry_date": "2026-07-02",
+      "stop_price": 1657.26,
+      "stop_unlocked": false,
+      "high_since_entry": 1960.0,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 53.53,
+      "rs_benchmark": "Nifty 50",
+      "status": "closed",
+      "current_price": 1665.8,
+      "unrealised_pct": -6.52,
+      "price_source": "live",
+      "exit_price": 1657.26,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "09:27",
+      "exit_date": "2026-08-24",
+      "pnl_pct": -7.0,
+      "pnl_inr": -10000,
+      "hold_days": 53,
+      "capital_per_slot": 142857
     }
   ],
-  "last_updated": "2026-08-21 15:02 IST",
+  "last_updated": "2026-08-24 09:27 IST",
   "closed_today_map": {
-    "2026-08-21": [
-      "TFCILTD"
+    "2026-08-24": [
+      "ASTRAMICRO"
     ]
   }
 }
