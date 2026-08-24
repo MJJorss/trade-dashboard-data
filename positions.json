@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 418.3,
-      "unrealised_pct": -1.96,
+      "current_price": 420.0,
+      "unrealised_pct": -1.56,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1808.0,
-      "unrealised_pct": -0.58
+      "current_price": 1803.6,
+      "unrealised_pct": -0.82
     },
     {
       "symbol": "SETL",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1652.9,
-      "unrealised_pct": -2.48
+      "current_price": 1664.1,
+      "unrealised_pct": -1.82
     },
     {
       "symbol": "YASHO",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 4380.0,
-      "unrealised_pct": -2.66
+      "current_price": 4404.9,
+      "unrealised_pct": -2.11
     },
     {
       "symbol": "CUPID",
@@ -145,11 +145,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 286.44,
-      "unrealised_pct": 0.47
+      "current_price": 285.81,
+      "unrealised_pct": 0.25
     }
   ],
-  "last_updated": "2026-08-24 11:25 IST",
+  "last_updated": "2026-08-24 13:15 IST",
   "closed_today_map": {
     "2026-08-24": [
       "ASTRAMICRO"
