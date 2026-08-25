@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 420.0,
-      "unrealised_pct": -1.56,
+      "current_price": 417.6,
+      "unrealised_pct": -2.12,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1803.6,
-      "unrealised_pct": -0.82
+      "current_price": 1799.7,
+      "unrealised_pct": -1.03
     },
     {
       "symbol": "SETL",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 312.6,
-      "unrealised_pct": 4.67
+      "current_price": 312.5,
+      "unrealised_pct": 4.64
     },
     {
       "symbol": "UNIVCABLES",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1664.1,
-      "unrealised_pct": -1.82
+      "current_price": 1647.6,
+      "unrealised_pct": -2.79
     },
     {
       "symbol": "YASHO",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 4404.9,
-      "unrealised_pct": -2.11
+      "current_price": 4339.4,
+      "unrealised_pct": -3.57
     },
     {
       "symbol": "CUPID",
@@ -145,11 +145,37 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 285.81,
-      "unrealised_pct": 0.25
+      "current_price": 286.29,
+      "unrealised_pct": 0.41
+    },
+    {
+      "symbol": "HFCL",
+      "scanner": "VCP Breakout",
+      "entry_price": 237.88,
+      "entry_time": "15:02",
+      "entry_date": "2026-08-24",
+      "stop_price": 221.23,
+      "stop_unlocked": false,
+      "high_since_entry": 239.41,
+      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
+      "rs_tier": "HIGH",
+      "rs_composite": 25.75,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "capital_allocated": 188214,
+      "qty": 791,
+      "risk_inr": 13175,
+      "risk_pct_applied": 1.0,
+      "stop_pct": 7.0,
+      "capital_base_at_entry": 1317546,
+      "equity_curve_mult": 1.0,
+      "drawdown_mult": 1.0,
+      "price_source": "live",
+      "current_price": 237.7,
+      "unrealised_pct": -0.08
     }
   ],
-  "last_updated": "2026-08-24 13:15 IST",
+  "last_updated": "2026-08-24 15:02 IST",
   "closed_today_map": {
     "2026-08-24": [
       "ASTRAMICRO"
