@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 415.0,
-      "unrealised_pct": -2.73,
+      "current_price": 419.1,
+      "unrealised_pct": -1.77,
       "price_source": "live"
     },
     {
@@ -26,7 +26,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 1691.21,
       "stop_unlocked": false,
-      "high_since_entry": 1870.8,
+      "high_since_entry": 1883.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 37.83,
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1852.6,
-      "unrealised_pct": 1.88
+      "current_price": 1880.7,
+      "unrealised_pct": 3.42
     },
     {
       "symbol": "SETL",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 314.7,
-      "unrealised_pct": 5.37
+      "current_price": 314.55,
+      "unrealised_pct": 5.32
     },
     {
       "symbol": "CUPID",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 281.4,
-      "unrealised_pct": -1.3
+      "current_price": 281.74,
+      "unrealised_pct": -1.18
     },
     {
       "symbol": "HFCL",
@@ -119,15 +119,64 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 236.15,
-      "unrealised_pct": -0.73
+      "current_price": 238.27,
+      "unrealised_pct": 0.16
+    },
+    {
+      "symbol": "MOREPENLAB",
+      "scanner": "VCP Breakout",
+      "entry_price": 94.63,
+      "entry_time": "09:27",
+      "entry_date": "2026-08-26",
+      "stop_price": 88.01,
+      "stop_unlocked": false,
+      "high_since_entry": 94.89,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 88.02,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "capital_allocated": 184500,
+      "qty": 1949,
+      "risk_inr": 12915,
+      "risk_pct_applied": 1.0,
+      "stop_pct": 7.0,
+      "capital_base_at_entry": 1291524,
+      "equity_curve_mult": 1.0,
+      "drawdown_mult": 1.0,
+      "price_source": "live",
+      "current_price": 94.66,
+      "unrealised_pct": 0.03
+    },
+    {
+      "symbol": "TFCILTD",
+      "scanner": "VCP Breakout",
+      "entry_price": 139.23,
+      "entry_time": "09:27",
+      "entry_date": "2026-08-26",
+      "stop_price": 129.48,
+      "stop_unlocked": false,
+      "high_since_entry": 141.2,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 62.54,
+      "rs_benchmark": "Nifty 50",
+      "status": "open",
+      "capital_allocated": 184500,
+      "qty": 1325,
+      "risk_inr": 12915,
+      "risk_pct_applied": 1.0,
+      "stop_pct": 7.0,
+      "capital_base_at_entry": 1291524,
+      "equity_curve_mult": 1.0,
+      "drawdown_mult": 1.0,
+      "price_source": "live",
+      "current_price": 138.77,
+      "unrealised_pct": -0.33
     }
   ],
-  "last_updated": "2026-08-25 13:15 IST",
+  "last_updated": "2026-08-26 09:27 IST",
   "closed_today_map": {
-    "2026-08-25": [
-      "UNIVCABLES",
-      "YASHO"
-    ]
+    "2026-08-26": []
   }
 }
