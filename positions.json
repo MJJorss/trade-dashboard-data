@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 425.0,
-      "unrealised_pct": -0.39,
+      "current_price": 423.65,
+      "unrealised_pct": -0.7,
       "price_source": "live"
     },
     {
@@ -26,7 +26,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 1691.21,
       "stop_unlocked": false,
-      "high_since_entry": 1892.0,
+      "high_since_entry": 1895.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 37.83,
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1891.0,
-      "unrealised_pct": 3.99
+      "current_price": 1893.7,
+      "unrealised_pct": 4.14
     },
     {
       "symbol": "SETL",
@@ -51,8 +51,8 @@
       "entry_time": "15:27",
       "entry_date": "2026-08-14",
       "stop_price": 277.74,
-      "stop_unlocked": false,
-      "high_since_entry": 322.35,
+      "stop_unlocked": true,
+      "high_since_entry": 330.45,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 71.41,
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 320.5,
-      "unrealised_pct": 7.32
+      "current_price": 330.0,
+      "unrealised_pct": 10.5
     },
     {
       "symbol": "CUPID",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 281.57,
-      "unrealised_pct": -1.24
+      "current_price": 283.0,
+      "unrealised_pct": -0.74
     },
     {
       "symbol": "HFCL",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 236.75,
-      "unrealised_pct": -0.48
+      "current_price": 234.32,
+      "unrealised_pct": -1.5
     },
     {
       "symbol": "MOREPENLAB",
@@ -145,8 +145,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 96.0,
-      "unrealised_pct": 1.45
+      "current_price": 95.0,
+      "unrealised_pct": 0.39
     },
     {
       "symbol": "TFCILTD",
@@ -156,7 +156,7 @@
       "entry_date": "2026-08-26",
       "stop_price": 129.48,
       "stop_unlocked": false,
-      "high_since_entry": 142.89,
+      "high_since_entry": 143.74,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 62.54,
@@ -171,11 +171,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 140.45,
-      "unrealised_pct": 0.88
+      "current_price": 141.63,
+      "unrealised_pct": 1.72
     }
   ],
-  "last_updated": "2026-08-26 11:25 IST",
+  "last_updated": "2026-08-26 13:16 IST",
   "closed_today_map": {
     "2026-08-26": []
   }
