@@ -5,8 +5,8 @@
   "equity_curve_tier": 0,
   "drawdown_multiplier": 1.0,
   "fast_trigger_breached": false,
-  "fast_trigger_5day_pct": -0.34,
-  "last_updated": "2026-08-26 22:57 IST",
+  "fast_trigger_5day_pct": -0.16,
+  "last_updated": "2026-08-26 23:11 IST",
   "positions": [
     {
       "symbol": "SIS",
