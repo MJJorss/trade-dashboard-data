@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 419.1,
-      "unrealised_pct": -1.77,
+      "current_price": 419.0,
+      "unrealised_pct": -1.79,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1880.7,
-      "unrealised_pct": 3.42
+      "current_price": 1869.3,
+      "unrealised_pct": 2.79
     },
     {
       "symbol": "SETL",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 314.55,
-      "unrealised_pct": 5.32
+      "current_price": 315.0,
+      "unrealised_pct": 5.47
     },
     {
       "symbol": "CUPID",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 281.74,
-      "unrealised_pct": -1.18
+      "current_price": 283.0,
+      "unrealised_pct": -0.74
     },
     {
       "symbol": "HFCL",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 238.27,
-      "unrealised_pct": 0.16
+      "current_price": 237.88,
+      "unrealised_pct": 0.0
     },
     {
       "symbol": "MOREPENLAB",
@@ -130,7 +130,7 @@
       "entry_date": "2026-08-26",
       "stop_price": 88.01,
       "stop_unlocked": false,
-      "high_since_entry": 94.89,
+      "high_since_entry": 96.37,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 88.02,
@@ -145,8 +145,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 94.66,
-      "unrealised_pct": 0.03
+      "current_price": 94.55,
+      "unrealised_pct": -0.08
     },
     {
       "symbol": "TFCILTD",
@@ -156,7 +156,7 @@
       "entry_date": "2026-08-26",
       "stop_price": 129.48,
       "stop_unlocked": false,
-      "high_since_entry": 141.2,
+      "high_since_entry": 142.89,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 62.54,
@@ -171,11 +171,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 138.77,
-      "unrealised_pct": -0.33
+      "current_price": 141.15,
+      "unrealised_pct": 1.38
     }
   ],
-  "last_updated": "2026-08-26 09:27 IST",
+  "last_updated": "2026-08-26 10:04 IST",
   "closed_today_map": {
     "2026-08-26": []
   }
