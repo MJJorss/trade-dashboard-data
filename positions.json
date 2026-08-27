@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 424.7,
-      "unrealised_pct": -0.46,
+      "current_price": 425.0,
+      "unrealised_pct": -0.39,
       "price_source": "live"
     },
     {
@@ -26,7 +26,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 1691.21,
       "stop_unlocked": false,
-      "high_since_entry": 1911.0,
+      "high_since_entry": 1914.5,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 37.83,
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1911.0,
-      "unrealised_pct": 5.09
+      "current_price": 1911.2,
+      "unrealised_pct": 5.1
     },
     {
       "symbol": "SETL",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 276.2,
-      "unrealised_pct": -3.13
+      "current_price": 273.25,
+      "unrealised_pct": -4.16
     },
     {
       "symbol": "HFCL",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 242.66,
-      "unrealised_pct": 2.01
+      "current_price": 243.34,
+      "unrealised_pct": 2.3
     },
     {
       "symbol": "MOREPENLAB",
@@ -145,8 +145,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 96.54,
-      "unrealised_pct": 2.02
+      "current_price": 96.08,
+      "unrealised_pct": 1.53
     },
     {
       "symbol": "TFCILTD",
@@ -171,11 +171,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 142.24,
-      "unrealised_pct": 2.16
+      "current_price": 142.21,
+      "unrealised_pct": 2.14
     }
   ],
-  "last_updated": "2026-08-27 11:25 IST",
+  "last_updated": "2026-08-27 13:15 IST",
   "closed_today_map": {
     "2026-08-27": []
   }
