@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 428.55,
-      "unrealised_pct": 0.45,
+      "current_price": 430.45,
+      "unrealised_pct": 0.89,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1919.9,
-      "unrealised_pct": 5.58
+      "current_price": 1917.8,
+      "unrealised_pct": 5.46
     },
     {
       "symbol": "SETL",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 285.54,
-      "unrealised_pct": 0.15
+      "current_price": 281.84,
+      "unrealised_pct": -1.15
     },
     {
       "symbol": "HFCL",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 252.97,
-      "unrealised_pct": 6.34
+      "current_price": 250.25,
+      "unrealised_pct": 5.2
     },
     {
       "symbol": "MOREPENLAB",
@@ -129,8 +129,8 @@
       "entry_time": "09:27",
       "entry_date": "2026-08-26",
       "stop_price": 88.01,
-      "stop_unlocked": false,
-      "high_since_entry": 99.75,
+      "stop_unlocked": true,
+      "high_since_entry": 104.14,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 88.02,
@@ -145,8 +145,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 97.69,
-      "unrealised_pct": 3.23
+      "current_price": 102.82,
+      "unrealised_pct": 8.65
     },
     {
       "symbol": "TFCILTD",
@@ -171,11 +171,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 143.45,
-      "unrealised_pct": 3.03
+      "current_price": 140.3,
+      "unrealised_pct": 0.77
     }
   ],
-  "last_updated": "2026-08-28 11:25 IST",
+  "last_updated": "2026-08-28 13:16 IST",
   "closed_today_map": {
     "2026-08-28": []
   }
