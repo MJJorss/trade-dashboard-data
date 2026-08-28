@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "symbol": "PANAMAPET",
+    "entry_price": 485.95,
+    "exit_price": 465.2,
+    "capital_deployed": 100614.0,
+    "pnl_pct": -4.27,
+    "pnl_inr": -4296.0,
+    "days_held": 14,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-08-28"
+  },
+  {
+    "symbol": "RRKABEL",
+    "entry_price": 2919.3,
+    "exit_price": 2904.0,
+    "capital_deployed": 100000.0,
+    "pnl_pct": -0.52,
+    "pnl_inr": -520.0,
+    "days_held": 6,
+    "exit_reason": "Score eviction — fell to rank #26 (beyond buffer #25)",
+    "exit_date": "2026-08-28"
+  }
+]
