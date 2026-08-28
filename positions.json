@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 423.4,
-      "unrealised_pct": -0.76,
+      "current_price": 428.55,
+      "unrealised_pct": 0.45,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1922.2,
-      "unrealised_pct": 5.7
+      "current_price": 1919.9,
+      "unrealised_pct": 5.58
     },
     {
       "symbol": "SETL",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 277.67,
-      "unrealised_pct": -2.61
+      "current_price": 285.54,
+      "unrealised_pct": 0.15
     },
     {
       "symbol": "HFCL",
@@ -104,7 +104,7 @@
       "entry_date": "2026-08-24",
       "stop_price": 221.23,
       "stop_unlocked": false,
-      "high_since_entry": 251.75,
+      "high_since_entry": 255.1,
       "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
       "rs_tier": "HIGH",
       "rs_composite": 25.75,
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 247.5,
-      "unrealised_pct": 4.04
+      "current_price": 252.97,
+      "unrealised_pct": 6.34
     },
     {
       "symbol": "MOREPENLAB",
@@ -145,8 +145,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 97.55,
-      "unrealised_pct": 3.09
+      "current_price": 97.69,
+      "unrealised_pct": 3.23
     },
     {
       "symbol": "TFCILTD",
@@ -171,11 +171,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 142.06,
-      "unrealised_pct": 2.03
+      "current_price": 143.45,
+      "unrealised_pct": 3.03
     }
   ],
-  "last_updated": "2026-08-28 09:27 IST",
+  "last_updated": "2026-08-28 11:25 IST",
   "closed_today_map": {
     "2026-08-28": []
   }
