@@ -20,5 +20,16 @@
     "days_held": 6,
     "exit_reason": "Score eviction — fell to rank #26 (beyond buffer #25)",
     "exit_date": "2026-08-28"
+  },
+  {
+    "symbol": "SOTL",
+    "entry_price": 698.0,
+    "exit_price": 679.45,
+    "capital_deployed": 102213.0,
+    "pnl_pct": -2.66,
+    "pnl_inr": -2719.0,
+    "days_held": 14,
+    "exit_reason": "Score eviction — fell to rank #29 (beyond buffer #25)",
+    "exit_date": "2026-08-28"
   }
 ]
