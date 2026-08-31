@@ -960,6 +960,22 @@
       "capital_per_slot": 186500,
       "exit_reason": "Stop Loss -7% \ud83d\udd34",
       "month": "2026-08"
+    },
+    {
+      "symbol": "MOREPENLAB",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 94.63,
+      "exit_price": 104.06,
+      "entry_date": "2026-08-26",
+      "exit_date": "2026-08-31",
+      "hold_days": 5,
+      "pnl_pct": 9.97,
+      "pnl_inr": 18395,
+      "capital_per_slot": 184500,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-08"
     }
   ]
 }

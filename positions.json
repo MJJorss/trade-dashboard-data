@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 430.45,
-      "unrealised_pct": 0.89,
+      "current_price": 430.75,
+      "unrealised_pct": 0.96,
       "price_source": "live"
     },
     {
@@ -26,7 +26,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 1691.21,
       "stop_unlocked": false,
-      "high_since_entry": 1929.9,
+      "high_since_entry": 1935.8,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 37.83,
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1917.8,
-      "unrealised_pct": 5.46
+      "current_price": 1932.3,
+      "unrealised_pct": 6.26
     },
     {
       "symbol": "SETL",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 281.84,
-      "unrealised_pct": -1.15
+      "current_price": 283.04,
+      "unrealised_pct": -0.73
     },
     {
       "symbol": "HFCL",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 250.25,
-      "unrealised_pct": 5.2
+      "current_price": 251.05,
+      "unrealised_pct": 5.54
     },
     {
       "symbol": "MOREPENLAB",
@@ -130,7 +130,7 @@
       "entry_date": "2026-08-26",
       "stop_price": 88.01,
       "stop_unlocked": true,
-      "high_since_entry": 104.14,
+      "high_since_entry": 106.37,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 88.02,
@@ -145,8 +145,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 102.82,
-      "unrealised_pct": 8.65
+      "current_price": 106.37,
+      "unrealised_pct": 12.41
     },
     {
       "symbol": "TFCILTD",
@@ -171,11 +171,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 140.3,
-      "unrealised_pct": 0.77
+      "current_price": 140.5,
+      "unrealised_pct": 0.91
     }
   ],
-  "last_updated": "2026-08-28 13:16 IST",
+  "last_updated": "2026-08-28 15:02 IST",
   "closed_today_map": {
     "2026-08-28": []
   }
