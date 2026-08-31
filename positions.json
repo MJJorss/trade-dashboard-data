@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 431.8,
-      "unrealised_pct": 1.21,
+      "current_price": 433.05,
+      "unrealised_pct": 1.5,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1922.7,
-      "unrealised_pct": 5.73
+      "current_price": 1910.0,
+      "unrealised_pct": 5.03
     },
     {
       "symbol": "SETL",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 380.0,
-      "unrealised_pct": 27.24
+      "current_price": 362.0,
+      "unrealised_pct": 21.21
     },
     {
       "symbol": "CUPID",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 283.63,
-      "unrealised_pct": -0.52
+      "current_price": 279.1,
+      "unrealised_pct": -2.11
     },
     {
       "symbol": "HFCL",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 254.54,
-      "unrealised_pct": 7.0
+      "current_price": 253.4,
+      "unrealised_pct": 6.52
     },
     {
       "symbol": "TFCILTD",
@@ -145,45 +145,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 140.89,
-      "unrealised_pct": 1.19
-    },
-    {
-      "symbol": "MOREPENLAB",
-      "scanner": "VCP Breakout",
-      "entry_price": 94.63,
-      "entry_time": "09:27",
-      "entry_date": "2026-08-26",
-      "stop_price": 88.01,
-      "stop_unlocked": true,
-      "high_since_entry": 106.37,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 88.02,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "capital_allocated": 184500,
-      "qty": 1949,
-      "risk_inr": 12915,
-      "risk_pct_applied": 1.0,
-      "stop_pct": 7.0,
-      "capital_base_at_entry": 1291524,
-      "equity_curve_mult": 1.0,
-      "drawdown_mult": 1.0,
-      "price_source": "live",
-      "current_price": 106.37,
-      "unrealised_pct": 12.41,
-      "exit_price": 104.06,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "09:27",
-      "exit_date": "2026-08-31",
-      "pnl_pct": 9.97,
-      "pnl_inr": 18395,
-      "hold_days": 5,
-      "capital_per_slot": 184500
+      "current_price": 140.04,
+      "unrealised_pct": 0.58
     }
   ],
-  "last_updated": "2026-08-31 09:27 IST",
+  "last_updated": "2026-08-31 11:25 IST",
   "closed_today_map": {
     "2026-08-31": [
       "MOREPENLAB"
