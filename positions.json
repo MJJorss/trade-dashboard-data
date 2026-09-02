@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 428.5,
-      "unrealised_pct": 0.43,
+      "current_price": 428.4,
+      "unrealised_pct": 0.41,
       "price_source": "live"
     },
     {
@@ -41,7 +41,7 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1831.0,
+      "current_price": 1831.1,
       "unrealised_pct": 0.69
     },
     {
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 279.7,
-      "unrealised_pct": -1.9
+      "current_price": 278.95,
+      "unrealised_pct": -2.16
     },
     {
       "symbol": "HFCL",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 232.44,
-      "unrealised_pct": -2.29
+      "current_price": 231.7,
+      "unrealised_pct": -2.6
     },
     {
       "symbol": "TFCILTD",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 142.05,
-      "unrealised_pct": 2.03
+      "current_price": 144.45,
+      "unrealised_pct": 3.75
     },
     {
       "symbol": "WELCORP",
@@ -145,11 +145,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2559.5,
-      "unrealised_pct": 6.16
+      "current_price": 2548.6,
+      "unrealised_pct": 5.71
     }
   ],
-  "last_updated": "2026-09-02 11:25 IST",
+  "last_updated": "2026-09-02 13:15 IST",
   "closed_today_map": {
     "2026-09-02": [
       "SETL"
