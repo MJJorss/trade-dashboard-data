@@ -976,6 +976,22 @@
       "capital_per_slot": 184500,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-08"
+    },
+    {
+      "symbol": "SETL",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 298.65,
+      "exit_price": 379.7,
+      "entry_date": "2026-08-14",
+      "exit_date": "2026-09-02",
+      "hold_days": 19,
+      "pnl_pct": 27.14,
+      "pnl_inr": 50822,
+      "capital_per_slot": 187257,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-09"
     }
   ]
 }
