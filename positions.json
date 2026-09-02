@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 428.4,
-      "unrealised_pct": 0.41,
+      "current_price": 429.25,
+      "unrealised_pct": 0.61,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1831.1,
-      "unrealised_pct": 0.69
+      "current_price": 1854.7,
+      "unrealised_pct": 1.99
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 278.95,
-      "unrealised_pct": -2.16
+      "current_price": 280.2,
+      "unrealised_pct": -1.72
     },
     {
       "symbol": "HFCL",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 231.7,
-      "unrealised_pct": -2.6
+      "current_price": 228.94,
+      "unrealised_pct": -3.76
     },
     {
       "symbol": "TFCILTD",
@@ -104,7 +104,7 @@
       "entry_date": "2026-08-26",
       "stop_price": 129.48,
       "stop_unlocked": false,
-      "high_since_entry": 146.0,
+      "high_since_entry": 146.79,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 62.54,
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 144.45,
-      "unrealised_pct": 3.75
+      "current_price": 144.67,
+      "unrealised_pct": 3.91
     },
     {
       "symbol": "WELCORP",
@@ -145,11 +145,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2548.6,
-      "unrealised_pct": 5.71
+      "current_price": 2522.9,
+      "unrealised_pct": 4.64
     }
   ],
-  "last_updated": "2026-09-02 13:15 IST",
+  "last_updated": "2026-09-02 15:02 IST",
   "closed_today_map": {
     "2026-09-02": [
       "SETL"
