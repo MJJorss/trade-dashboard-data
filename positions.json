@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 435.95,
-      "unrealised_pct": 2.18,
+      "current_price": 434.1,
+      "unrealised_pct": 1.75,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1858.0,
-      "unrealised_pct": 2.17
+      "current_price": 1859.0,
+      "unrealised_pct": 2.23
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 279.05,
-      "unrealised_pct": -2.13
+      "current_price": 283.55,
+      "unrealised_pct": -0.55
     },
     {
       "symbol": "TFCILTD",
@@ -78,7 +78,7 @@
       "entry_date": "2026-08-26",
       "stop_price": 129.48,
       "stop_unlocked": false,
-      "high_since_entry": 147.3,
+      "high_since_entry": 147.39,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 62.54,
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 146.56,
-      "unrealised_pct": 5.26
+      "current_price": 145.84,
+      "unrealised_pct": 4.75
     },
     {
       "symbol": "WELCORP",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2656.9,
-      "unrealised_pct": 10.2
+      "current_price": 2639.6,
+      "unrealised_pct": 9.48
     },
     {
       "symbol": "SETL",
@@ -130,7 +130,7 @@
       "entry_date": "2026-09-03",
       "stop_price": 351.91,
       "stop_unlocked": false,
-      "high_since_entry": 393.65,
+      "high_since_entry": 398.8,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 100.63,
@@ -145,8 +145,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 386.95,
-      "unrealised_pct": 2.26
+      "current_price": 395.65,
+      "unrealised_pct": 4.56
     },
     {
       "symbol": "ENTERO",
@@ -156,7 +156,7 @@
       "entry_date": "2026-09-03",
       "stop_price": 1675.02,
       "stop_unlocked": false,
-      "high_since_entry": 1863.0,
+      "high_since_entry": 1865.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 51.57,
@@ -171,14 +171,12 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1849.7,
-      "unrealised_pct": 2.7
+      "current_price": 1850.8,
+      "unrealised_pct": 2.76
     }
   ],
-  "last_updated": "2026-09-03 15:02 IST",
+  "last_updated": "2026-09-04 09:27 IST",
   "closed_today_map": {
-    "2026-09-03": [
-      "HFCL"
-    ]
+    "2026-09-04": []
   }
 }
