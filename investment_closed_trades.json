@@ -75,5 +75,16 @@
     "days_held": 7,
     "exit_reason": "Below 21 EMA — technical exit",
     "exit_date": "2026-09-04"
+  },
+  {
+    "symbol": "NYKAA",
+    "entry_price": 334.0,
+    "exit_price": 332.5,
+    "capital_deployed": 100462.0,
+    "pnl_pct": -0.45,
+    "pnl_inr": -452.0,
+    "days_held": 14,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-04"
   }
 ]
