@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 430.5,
-      "unrealised_pct": 0.9,
+      "current_price": 431.0,
+      "unrealised_pct": 1.02,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1852.8,
-      "unrealised_pct": 1.89
+      "current_price": 1842.6,
+      "unrealised_pct": 1.33
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 282.8,
-      "unrealised_pct": -0.81
+      "current_price": 282.85,
+      "unrealised_pct": -0.79
     },
     {
       "symbol": "TFCILTD",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 145.75,
-      "unrealised_pct": 4.68
+      "current_price": 143.81,
+      "unrealised_pct": 3.29
     },
     {
       "symbol": "SETL",
@@ -104,7 +104,7 @@
       "entry_date": "2026-09-03",
       "stop_price": 351.91,
       "stop_unlocked": false,
-      "high_since_entry": 408.0,
+      "high_since_entry": 410.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 100.63,
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 406.95,
-      "unrealised_pct": 7.54
+      "current_price": 405.45,
+      "unrealised_pct": 7.15
     },
     {
       "symbol": "ENTERO",
@@ -145,45 +145,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1845.6,
-      "unrealised_pct": 2.47
-    },
-    {
-      "symbol": "WELCORP",
-      "scanner": "VCP Breakout",
-      "entry_price": 2411.0,
-      "entry_time": "15:02",
-      "entry_date": "2026-08-31",
-      "stop_price": 2242.23,
-      "stop_unlocked": true,
-      "high_since_entry": 2676.0,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 63.2,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "capital_allocated": 187129,
-      "qty": 77,
-      "risk_inr": 13099,
-      "risk_pct_applied": 1.0,
-      "stop_pct": 7.0,
-      "capital_base_at_entry": 1309919,
-      "equity_curve_mult": 1.0,
-      "drawdown_mult": 1.0,
-      "price_source": "live",
-      "current_price": 2639.6,
-      "unrealised_pct": 9.48,
-      "exit_price": 2623.4,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "11:25",
-      "exit_date": "2026-09-04",
-      "pnl_pct": 8.81,
-      "pnl_inr": 16486,
-      "hold_days": 4,
-      "capital_per_slot": 187129
+      "current_price": 1848.0,
+      "unrealised_pct": 2.6
     }
   ],
-  "last_updated": "2026-09-04 11:25 IST",
+  "last_updated": "2026-09-04 13:16 IST",
   "closed_today_map": {
     "2026-09-04": [
       "WELCORP"
