@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 435.75,
-      "unrealised_pct": 2.13,
+      "current_price": 435.95,
+      "unrealised_pct": 2.18,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1869.3,
-      "unrealised_pct": 2.79
+      "current_price": 1858.0,
+      "unrealised_pct": 2.17
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 279.55,
-      "unrealised_pct": -1.95
+      "current_price": 279.05,
+      "unrealised_pct": -2.13
     },
     {
       "symbol": "TFCILTD",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 146.14,
-      "unrealised_pct": 4.96
+      "current_price": 146.56,
+      "unrealised_pct": 5.26
     },
     {
       "symbol": "WELCORP",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2644.2,
-      "unrealised_pct": 9.67
+      "current_price": 2656.9,
+      "unrealised_pct": 10.2
     },
     {
       "symbol": "SETL",
@@ -130,7 +130,7 @@
       "entry_date": "2026-09-03",
       "stop_price": 351.91,
       "stop_unlocked": false,
-      "high_since_entry": 381.95,
+      "high_since_entry": 393.65,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 100.63,
@@ -145,8 +145,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 378.6,
-      "unrealised_pct": 0.05
+      "current_price": 386.95,
+      "unrealised_pct": 2.26
     },
     {
       "symbol": "ENTERO",
@@ -171,11 +171,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1836.5,
-      "unrealised_pct": 1.97
+      "current_price": 1849.7,
+      "unrealised_pct": 2.7
     }
   ],
-  "last_updated": "2026-09-03 13:15 IST",
+  "last_updated": "2026-09-03 15:02 IST",
   "closed_today_map": {
     "2026-09-03": [
       "HFCL"
