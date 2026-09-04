@@ -31,5 +31,49 @@
     "days_held": 14,
     "exit_reason": "Score eviction — fell to rank #29 (beyond buffer #25)",
     "exit_date": "2026-08-28"
+  },
+  {
+    "symbol": "LODHA",
+    "entry_price": 1213.1,
+    "exit_price": 1215.5,
+    "capital_deployed": 101711.0,
+    "pnl_pct": 0.2,
+    "pnl_inr": 203.0,
+    "days_held": 28,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-04"
+  },
+  {
+    "symbol": "SKYGOLD",
+    "entry_price": 803.5,
+    "exit_price": 780.0,
+    "capital_deployed": 100000.0,
+    "pnl_pct": -2.92,
+    "pnl_inr": -2920.0,
+    "days_held": 13,
+    "exit_reason": "Score eviction — fell to rank #27 (beyond buffer #25)",
+    "exit_date": "2026-09-04"
+  },
+  {
+    "symbol": "NEULANDLAB",
+    "entry_price": 23568.0,
+    "exit_price": 22720.0,
+    "capital_deployed": 100000.0,
+    "pnl_pct": -3.6,
+    "pnl_inr": -3600.0,
+    "days_held": 13,
+    "exit_reason": "Score eviction — fell to rank #42 (beyond buffer #25)",
+    "exit_date": "2026-09-04"
+  },
+  {
+    "symbol": "RRKABEL",
+    "entry_price": 2830.1,
+    "exit_price": 2426.2,
+    "capital_deployed": 102213.0,
+    "pnl_pct": -14.27,
+    "pnl_inr": -14586.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-04"
   }
 ]
