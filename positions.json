@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 431.55,
-      "unrealised_pct": 1.15,
+      "current_price": 431.25,
+      "unrealised_pct": 1.08,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1839.5,
-      "unrealised_pct": 1.15
+      "current_price": 1841.6,
+      "unrealised_pct": 1.27
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 283.2,
-      "unrealised_pct": -0.67
+      "current_price": 284.95,
+      "unrealised_pct": -0.06
     },
     {
       "symbol": "TFCILTD",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 143.72,
-      "unrealised_pct": 3.22
+      "current_price": 142.1,
+      "unrealised_pct": 2.06
     },
     {
       "symbol": "SETL",
@@ -104,7 +104,7 @@
       "entry_date": "2026-09-03",
       "stop_price": 351.91,
       "stop_unlocked": false,
-      "high_since_entry": 410.7,
+      "high_since_entry": 411.95,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 100.63,
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 409.6,
-      "unrealised_pct": 8.25
+      "current_price": 401.4,
+      "unrealised_pct": 6.08
     },
     {
       "symbol": "ENTERO",
@@ -145,14 +145,12 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1835.7,
-      "unrealised_pct": 1.92
+      "current_price": 1858.3,
+      "unrealised_pct": 3.18
     }
   ],
-  "last_updated": "2026-09-04 15:02 IST",
+  "last_updated": "2026-09-07 09:27 IST",
   "closed_today_map": {
-    "2026-09-04": [
-      "WELCORP"
-    ]
+    "2026-09-07": []
   }
 }
