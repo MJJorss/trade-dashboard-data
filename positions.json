@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 428.85,
-      "unrealised_pct": 0.52,
+      "current_price": 429.0,
+      "unrealised_pct": 0.55,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1882.5,
-      "unrealised_pct": 3.52
+      "current_price": 1929.2,
+      "unrealised_pct": 6.09
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 278.25,
-      "unrealised_pct": -2.41
+      "current_price": 276.85,
+      "unrealised_pct": -2.9
     },
     {
       "symbol": "TFCILTD",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 141.47,
-      "unrealised_pct": 1.61
+      "current_price": 142.2,
+      "unrealised_pct": 2.13
     },
     {
       "symbol": "SETL",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 395.35,
-      "unrealised_pct": 4.48
+      "current_price": 394.55,
+      "unrealised_pct": 4.27
     },
     {
       "symbol": "ENTERO",
@@ -130,7 +130,7 @@
       "entry_date": "2026-09-03",
       "stop_price": 1675.02,
       "stop_unlocked": false,
-      "high_since_entry": 1918.6,
+      "high_since_entry": 1920.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 51.57,
@@ -145,11 +145,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1899.1,
-      "unrealised_pct": 5.44
+      "current_price": 1878.6,
+      "unrealised_pct": 4.3
     }
   ],
-  "last_updated": "2026-09-08 09:27 IST",
+  "last_updated": "2026-09-08 11:25 IST",
   "closed_today_map": {
     "2026-09-08": []
   }
