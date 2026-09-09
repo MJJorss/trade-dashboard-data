@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 429.15,
-      "unrealised_pct": 0.59,
+      "current_price": 427.3,
+      "unrealised_pct": 0.15,
       "price_source": "live"
     },
     {
@@ -26,7 +26,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 1691.21,
       "stop_unlocked": false,
-      "high_since_entry": 1954.0,
+      "high_since_entry": 1955.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 37.83,
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1949.4,
-      "unrealised_pct": 7.2
+      "current_price": 1931.6,
+      "unrealised_pct": 6.22
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 272.6,
-      "unrealised_pct": -4.39
+      "current_price": 266.45,
+      "unrealised_pct": -6.54
     },
     {
       "symbol": "TFCILTD",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 141.6,
-      "unrealised_pct": 1.7
+      "current_price": 142.2,
+      "unrealised_pct": 2.13
     },
     {
       "symbol": "SETL",
@@ -103,8 +103,8 @@
       "entry_time": "11:25",
       "entry_date": "2026-09-03",
       "stop_price": 351.91,
-      "stop_unlocked": false,
-      "high_since_entry": 413.5,
+      "stop_unlocked": true,
+      "high_since_entry": 424.7,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 100.63,
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 401.45,
-      "unrealised_pct": 6.09
+      "current_price": 424.7,
+      "unrealised_pct": 12.24
     },
     {
       "symbol": "ENTERO",
@@ -145,11 +145,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1886.9,
-      "unrealised_pct": 4.76
+      "current_price": 1853.6,
+      "unrealised_pct": 2.91
     }
   ],
-  "last_updated": "2026-09-09 09:27 IST",
+  "last_updated": "2026-09-09 11:25 IST",
   "closed_today_map": {
     "2026-09-09": []
   }
