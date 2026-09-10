@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 425.1,
-      "unrealised_pct": -0.36,
+      "current_price": 424.6,
+      "unrealised_pct": -0.48,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1942.5,
-      "unrealised_pct": 6.82
+      "current_price": 1941.3,
+      "unrealised_pct": 6.75
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 281.8,
-      "unrealised_pct": -1.16
+      "current_price": 280.5,
+      "unrealised_pct": -1.62
     },
     {
       "symbol": "TFCILTD",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 141.53,
-      "unrealised_pct": 1.65
+      "current_price": 143.18,
+      "unrealised_pct": 2.84
     },
     {
       "symbol": "SETL",
@@ -145,11 +145,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1802.2,
-      "unrealised_pct": 0.06
+      "current_price": 1799.7,
+      "unrealised_pct": -0.08
     }
   ],
-  "last_updated": "2026-09-10 11:25 IST",
+  "last_updated": "2026-09-10 13:16 IST",
   "closed_today_map": {
     "2026-09-10": []
   }
