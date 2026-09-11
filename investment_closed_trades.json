@@ -86,5 +86,71 @@
     "days_held": 14,
     "exit_reason": "Below 21 EMA — technical exit",
     "exit_date": "2026-09-04"
+  },
+  {
+    "symbol": "OFSS",
+    "entry_price": 11734.0,
+    "exit_price": 11758.0,
+    "capital_deployed": 100533.0,
+    "pnl_pct": 0.2,
+    "pnl_inr": 201.0,
+    "days_held": 35,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-11"
+  },
+  {
+    "symbol": "MTARTECH",
+    "entry_price": 7029.5,
+    "exit_price": 7250.0,
+    "capital_deployed": 100000.0,
+    "pnl_pct": 3.14,
+    "pnl_inr": 3140.0,
+    "days_held": 20,
+    "exit_reason": "Score eviction — fell to rank #36 (beyond buffer #25)",
+    "exit_date": "2026-09-11"
+  },
+  {
+    "symbol": "PANAMAPET",
+    "entry_price": 491.5,
+    "exit_price": 482.05,
+    "capital_deployed": 101711.0,
+    "pnl_pct": -1.92,
+    "pnl_inr": -1953.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-11"
+  },
+  {
+    "symbol": "NETWEB",
+    "entry_price": 5323.0,
+    "exit_price": 5018.0,
+    "capital_deployed": 100614.0,
+    "pnl_pct": -5.73,
+    "pnl_inr": -5765.0,
+    "days_held": 14,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-11"
+  },
+  {
+    "symbol": "HINDZINC",
+    "entry_price": 610.1,
+    "exit_price": 578.0,
+    "capital_deployed": 102213.0,
+    "pnl_pct": -5.26,
+    "pnl_inr": -5376.0,
+    "days_held": 14,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-11"
+  },
+  {
+    "symbol": "HFCL",
+    "entry_price": 228.01,
+    "exit_price": 228.95,
+    "capital_deployed": 100000.0,
+    "pnl_pct": 0.41,
+    "pnl_inr": 410.0,
+    "days_held": 20,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-11"
   }
 ]
