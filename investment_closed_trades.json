@@ -152,5 +152,16 @@
     "days_held": 20,
     "exit_reason": "Below 21 EMA — technical exit",
     "exit_date": "2026-09-11"
+  },
+  {
+    "symbol": "DIVGIITTS",
+    "entry_price": 1222.95,
+    "exit_price": 1188.3,
+    "capital_deployed": 100129.0,
+    "pnl_pct": -2.83,
+    "pnl_inr": -2834.0,
+    "days_held": 21,
+    "exit_reason": "Score eviction — fell to rank #27 (beyond buffer #25)",
+    "exit_date": "2026-09-11"
   }
 ]
