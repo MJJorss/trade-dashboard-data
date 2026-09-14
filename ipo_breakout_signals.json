@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T12:18:36.537631",
+  "generated_at": "2026-09-14T10:01:43.580308",
   "scan_window_days": 365,
   "signals": [
     {
@@ -260,7 +260,7 @@
       "current_close": 200.24,
       "depth_pct": 11.87,
       "is_contracting": true,
-      "volume_ratio": 0.65,
+      "volume_ratio": 0.66,
       "post_listing_high": 227.2,
       "symbol": "GROWW",
       "company": "Billionbrains Garage Ventures Limited",
@@ -332,7 +332,7 @@
       "current_close": 506.35,
       "depth_pct": 22.93,
       "is_contracting": true,
-      "volume_ratio": 0.61,
+      "volume_ratio": 0.62,
       "post_listing_high": 657.0,
       "symbol": "TENNIND",
       "company": "Tenneco Clean Air India Limited",
@@ -470,7 +470,7 @@
       "current_close": 2236.1,
       "depth_pct": 1.5,
       "is_contracting": false,
-      "volume_ratio": 1.87,
+      "volume_ratio": 1.92,
       "post_listing_high": 2270.1,
       "symbol": "CORONA",
       "company": "Corona Remedies Limited",
@@ -761,8 +761,8 @@
       "traded_value_cr": 26.01,
       "extended_move": false,
       "extended_move_pct": -23.74,
-      "lockup_risk": false,
-      "lockup_milestone_days": null
+      "lockup_risk": true,
+      "lockup_milestone_days": 180
     },
     {
       "status": "NO_BASE",
@@ -795,10 +795,22 @@
       "traded_value_cr": 9.01
     },
     {
+      "status": "NO_BASE",
+      "base_high": 209.44,
+      "current_close": 205.13,
+      "depth_pct": 2.06,
+      "is_contracting": true,
+      "volume_ratio": 7.32,
+      "post_listing_high": 209.44,
       "symbol": "AMIRCHAND",
       "company": "Amir Chand Jagdish Kumar (Exports) Limited",
-      "status": "ILLIQUID",
-      "traded_value_cr": 9.3
+      "listing_date": "2026-04-02",
+      "issue_price": 212.0,
+      "traded_value_cr": 10.56,
+      "extended_move": false,
+      "extended_move_pct": 5.58,
+      "lockup_risk": false,
+      "lockup_milestone_days": null
     },
     {
       "status": "NO_BASE",
@@ -824,7 +836,7 @@
       "current_close": 216.58,
       "depth_pct": 19.48,
       "is_contracting": true,
-      "volume_ratio": 0.61,
+      "volume_ratio": 0.62,
       "post_listing_high": 268.96,
       "symbol": "CMRGREEN",
       "company": "CMR Green Technologies Limited",
