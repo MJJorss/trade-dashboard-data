@@ -1,0 +1,25 @@
+{
+  "snapshots": [
+    {
+      "timestamp": "2026-09-15T15:30:00+05:30",
+      "capital_base": 1350000,
+      "realized_pnl": 0,
+      "unrealized_pnl": 0.0,
+      "total_equity": 1350000.0,
+      "open_positions": 0,
+      "actual_heat_inr": 0.0,
+      "actual_heat_pct": 0.0,
+      "heat_cap_pct": 7.0,
+      "equity_curve_ma20": 1350000,
+      "equity_curve_multiplier": 1.0,
+      "equity_curve_tier": 0,
+      "effective_tier": 0,
+      "high_water_mark": 1350000,
+      "drawdown_pct_from_peak": 0.0,
+      "drawdown_multiplier": 1.0,
+      "fast_trigger_breached": false,
+      "fast_trigger_5day_pct": null,
+      "effective_risk_pct": 1.4
+    }
+  ]
+}

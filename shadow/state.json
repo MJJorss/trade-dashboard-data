@@ -1,0 +1,32 @@
+{
+  "start_date": "2026-09-15",
+  "config_cell": "ATR2.00_R1.40",
+  "config_hash": "fc799c910a5676bb",
+  "run_start_date": "2026-09-15",
+  "last_run_ist": "2026-09-15 15:45",
+  "as_of": "2026-09-15",
+  "test_run": false,
+  "frames_fetched": 7,
+  "frames_failed": {},
+  "signals_unlabelled": 0,
+  "decay": {
+    "n_closed": 0,
+    "window": 60,
+    "rolling_R": null,
+    "state": "NORMAL",
+    "note": "0/60 closed trades"
+  },
+  "restated": [],
+  "equivalence": {
+    "shadow_si": "BEARISH",
+    "shadow_ma": "BELOW",
+    "live_si": "BEARISH",
+    "live_ma": null,
+    "live_run_at": "2026-09-15T09:32:20Z",
+    "error": null,
+    "compared": "SI",
+    "match": true,
+    "date": "2026-09-15"
+  },
+  "runtime_s": 5.5
+}
