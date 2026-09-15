@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 420.15,
-      "unrealised_pct": -1.52,
+      "current_price": 419.5,
+      "unrealised_pct": -1.68,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1948.9,
-      "unrealised_pct": 7.17
+      "current_price": 1936.9,
+      "unrealised_pct": 6.51
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 283.45,
-      "unrealised_pct": -0.58
+      "current_price": 284.3,
+      "unrealised_pct": -0.28
     },
     {
       "symbol": "TFCILTD",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 141.32,
-      "unrealised_pct": 1.5
+      "current_price": 139.36,
+      "unrealised_pct": 0.09
     },
     {
       "symbol": "ENTERO",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1784.5,
-      "unrealised_pct": -0.92
+      "current_price": 1752.1,
+      "unrealised_pct": -2.72
     },
     {
       "symbol": "SETL",
@@ -145,11 +145,18 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 468.15,
-      "unrealised_pct": 23.72
+      "current_price": 444.75,
+      "unrealised_pct": 17.53,
+      "exit_pending": {
+        "reason": "SI Crossover \ud83d\udd35",
+        "signal_date": "2026-09-15",
+        "signal_price": 444.75,
+        "blocked_runs": 1,
+        "last_detail": "daily-bar lock | high==low==close==444.75 prev_close=468.15 drop=5.00% = 5% lower band"
+      }
     }
   ],
-  "last_updated": "2026-09-15 09:27 IST",
+  "last_updated": "2026-09-15 11:26 IST",
   "closed_today_map": {
     "2026-09-15": []
   }
