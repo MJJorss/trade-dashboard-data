@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 418.0,
-      "unrealised_pct": -2.03,
+      "current_price": 416.5,
+      "unrealised_pct": -2.38,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1879.1,
-      "unrealised_pct": 3.33
+      "current_price": 1897.3,
+      "unrealised_pct": 4.33
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 281.35,
-      "unrealised_pct": -1.32
+      "current_price": 280.0,
+      "unrealised_pct": -1.79
     },
     {
       "symbol": "TFCILTD",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 139.18,
-      "unrealised_pct": -0.04
+      "current_price": 138.55,
+      "unrealised_pct": -0.49
     },
     {
       "symbol": "SETL",
@@ -125,12 +125,12 @@
         "reason": "SI Crossover \ud83d\udd35",
         "signal_date": "2026-09-15",
         "signal_price": 444.75,
-        "blocked_runs": 6,
-        "last_detail": "5m-stagnation | day_low=422.55 prev_close=444.75 gap=4.99% | last 3 bars flat @422.55"
+        "blocked_runs": 7,
+        "last_detail": "daily-bar lock | high==low==close==422.55 prev_close=444.75 drop=4.99% = 5% lower band"
       }
     }
   ],
-  "last_updated": "2026-09-16 13:15 IST",
+  "last_updated": "2026-09-16 15:02 IST",
   "closed_today_map": {
     "2026-09-16": [
       "ENTERO"
