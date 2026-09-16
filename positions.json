@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 418.05,
-      "unrealised_pct": -2.02,
+      "current_price": 412.5,
+      "unrealised_pct": -3.32,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1919.6,
-      "unrealised_pct": 5.56
+      "current_price": 1890.0,
+      "unrealised_pct": 3.93
     },
     {
       "symbol": "CUPID",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 283.85,
-      "unrealised_pct": -0.44
+      "current_price": 283.6,
+      "unrealised_pct": -0.53
     },
     {
       "symbol": "TFCILTD",
@@ -93,8 +93,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 138.42,
-      "unrealised_pct": -0.58
+      "current_price": 137.69,
+      "unrealised_pct": -1.11
     },
     {
       "symbol": "ENTERO",
@@ -119,8 +119,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1802.1,
-      "unrealised_pct": 0.06
+      "current_price": 1746.1,
+      "unrealised_pct": -3.05
     },
     {
       "symbol": "SETL",
@@ -145,19 +145,19 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 444.75,
-      "unrealised_pct": 17.53,
+      "current_price": 422.55,
+      "unrealised_pct": 11.67,
       "exit_pending": {
         "reason": "SI Crossover \ud83d\udd35",
         "signal_date": "2026-09-15",
         "signal_price": 444.75,
-        "blocked_runs": 3,
-        "last_detail": "daily-bar lock | high==low==close==444.75 prev_close=468.15 drop=5.00% = 5% lower band"
+        "blocked_runs": 4,
+        "last_detail": "5m-stagnation | day_low=422.55 prev_close=444.75 gap=4.99% | last 3 bars flat @422.55"
       }
     }
   ],
-  "last_updated": "2026-09-15 15:02 IST",
+  "last_updated": "2026-09-16 09:27 IST",
   "closed_today_map": {
-    "2026-09-15": []
+    "2026-09-16": []
   }
 }
