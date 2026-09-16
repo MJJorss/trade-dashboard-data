@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-09-15",
-  "last_updated": "2026-09-15 15:30 IST",
+  "as_of": "2026-09-16",
+  "last_updated": "2026-09-16 15:30 IST",
   "capital_base": 1350000,
   "total_equity": 1350000.0,
   "starting_capital": 1350000,
@@ -12,7 +12,7 @@
   "effective_tier": 0,
   "drawdown_multiplier": 1.0,
   "fast_trigger_breached": false,
-  "fast_trigger_5day_pct": null,
+  "fast_trigger_5day_pct": 0.0,
   "heat_inr": 0.0,
   "heat_pct": 0.0,
   "heat_cap_pct": 7.0,
