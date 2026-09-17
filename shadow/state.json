@@ -3,12 +3,12 @@
   "config_cell": "ATR2.00_R1.40",
   "config_hash": "fc799c910a5676bb",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-09-16 15:45",
-  "as_of": "2026-09-16",
+  "last_run_ist": "2026-09-17 16:07",
+  "as_of": "2026-09-17",
   "test_run": false,
-  "frames_fetched": 24,
+  "frames_fetched": 50,
   "frames_failed": {},
-  "signals_unlabelled": 3,
+  "signals_unlabelled": 6,
   "decay": {
     "n_closed": 0,
     "window": 60,
@@ -22,11 +22,11 @@
     "shadow_ma": "BELOW",
     "live_si": "BEARISH",
     "live_ma": null,
-    "live_run_at": "2026-09-16T09:32:20Z",
+    "live_run_at": "2026-09-17T09:32:22Z",
     "error": null,
     "compared": "SI",
     "match": true,
-    "date": "2026-09-16"
+    "date": "2026-09-17"
   },
-  "runtime_s": 11.6
+  "runtime_s": 20.2
 }
