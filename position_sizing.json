@@ -5,8 +5,8 @@
   "equity_curve_tier": 0,
   "drawdown_multiplier": 1.0,
   "fast_trigger_breached": false,
-  "fast_trigger_5day_pct": -2.61,
-  "last_updated": "2026-09-18 09:27 IST",
+  "fast_trigger_5day_pct": -3.41,
+  "last_updated": "2026-09-18 11:25 IST",
   "positions": [
     {
       "symbol": "SIS",
@@ -21,9 +21,9 @@
       "recommended_qty": 457,
       "actual_capital_deployed": 142857,
       "actual_qty": 334,
-      "current_ltp": 419.0,
-      "unrealized_pnl": -2555,
-      "unrealized_pnl_pct": -1.79,
+      "current_ltp": 425.8,
+      "unrealized_pnl": -284,
+      "unrealized_pnl_pct": -0.2,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -40,9 +40,9 @@
       "recommended_qty": 107,
       "actual_capital_deployed": 89100,
       "actual_qty": 48,
-      "current_ltp": 1969.9,
-      "unrealized_pnl": 7267,
-      "unrealized_pnl_pct": 8.33,
+      "current_ltp": 1972.6,
+      "unrealized_pnl": 7397,
+      "unrealized_pnl_pct": 8.47,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -59,9 +59,9 @@
       "recommended_qty": 684,
       "actual_capital_deployed": 189643,
       "actual_qty": 665,
-      "current_ltp": 280.0,
-      "unrealized_pnl": -3398,
-      "unrealized_pnl_pct": -1.79,
+      "current_ltp": 278.7,
+      "unrealized_pnl": -4263,
+      "unrealized_pnl_pct": -2.25,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -78,9 +78,9 @@
       "recommended_qty": 1401,
       "actual_capital_deployed": 184500,
       "actual_qty": 1325,
-      "current_ltp": 139.34,
-      "unrealized_pnl": 146,
-      "unrealized_pnl_pct": 0.08,
+      "current_ltp": 139.19,
+      "unrealized_pnl": -53,
+      "unrealized_pnl_pct": -0.03,
       "price_source": "live",
       "status": "OPEN"
     }
