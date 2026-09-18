@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-09-17",
-  "last_updated": "2026-09-17 15:30 IST",
+  "as_of": "2026-09-18",
+  "last_updated": "2026-09-18 15:30 IST",
   "capital_base": 1350000,
   "total_equity": 1350000.0,
   "starting_capital": 1350000,
@@ -20,7 +20,7 @@
   "max_slots": 7,
   "gate": {
     "ma_status": "BELOW MA21",
-    "si_status": "BEARISH \u2014 green <= red",
+    "si_status": "BULLISH",
     "entries_allowed": false,
     "liquidates": true
   },
