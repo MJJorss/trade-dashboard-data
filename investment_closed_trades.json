@@ -163,5 +163,71 @@
     "days_held": 21,
     "exit_reason": "Score eviction — fell to rank #27 (beyond buffer #25)",
     "exit_date": "2026-09-11"
+  },
+  {
+    "symbol": "KRN",
+    "entry_price": 1482.1,
+    "exit_price": 1447.7,
+    "capital_deployed": 100000.0,
+    "pnl_pct": -2.32,
+    "pnl_inr": -2320.0,
+    "days_held": 27,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-18"
+  },
+  {
+    "symbol": "SOLARINDS",
+    "entry_price": 21445.0,
+    "exit_price": 18925.0,
+    "capital_deployed": 101711.0,
+    "pnl_pct": -11.75,
+    "pnl_inr": -11951.0,
+    "days_held": 14,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-18"
+  },
+  {
+    "symbol": "NYKAA",
+    "entry_price": 344.15,
+    "exit_price": 325.05,
+    "capital_deployed": 100533.0,
+    "pnl_pct": -5.55,
+    "pnl_inr": -5580.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-18"
+  },
+  {
+    "symbol": "AEROFLEX",
+    "entry_price": 563.7,
+    "exit_price": 508.9,
+    "capital_deployed": 100533.0,
+    "pnl_pct": -9.72,
+    "pnl_inr": -9772.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-18"
+  },
+  {
+    "symbol": "SKYGOLD",
+    "entry_price": 832.85,
+    "exit_price": 789.05,
+    "capital_deployed": 100533.0,
+    "pnl_pct": -5.26,
+    "pnl_inr": -5288.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-18"
+  },
+  {
+    "symbol": "KENNAMET",
+    "entry_price": 4680.0,
+    "exit_price": 4264.2,
+    "capital_deployed": 101711.0,
+    "pnl_pct": -8.88,
+    "pnl_inr": -9032.0,
+    "days_held": 14,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-18"
   }
 ]
