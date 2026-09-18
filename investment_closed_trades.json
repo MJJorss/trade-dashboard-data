@@ -229,5 +229,38 @@
     "days_held": 14,
     "exit_reason": "Below 21 EMA — technical exit",
     "exit_date": "2026-09-18"
+  },
+  {
+    "symbol": "CUPID",
+    "entry_price": 284.58,
+    "exit_price": 265.0,
+    "capital_deployed": 100000.0,
+    "pnl_pct": -6.88,
+    "pnl_inr": -6880.0,
+    "days_held": 27,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-18"
+  },
+  {
+    "symbol": "NEULANDLAB",
+    "entry_price": 23720.0,
+    "exit_price": 22840.0,
+    "capital_deployed": 100533.0,
+    "pnl_pct": -3.71,
+    "pnl_inr": -3730.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-18"
+  },
+  {
+    "symbol": "RUBICON",
+    "entry_price": 1790.0,
+    "exit_price": 1751.1,
+    "capital_deployed": 100533.0,
+    "pnl_pct": -2.17,
+    "pnl_inr": -2182.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-09-18"
   }
 ]
