@@ -86,5 +86,16 @@
     "total_return_pct": -2.8,
     "capital_per_slot": 100137.0,
     "top40_avg_composite_score": 82.68
+  },
+  {
+    "date": "2026-09-18",
+    "rebalance_num": 20,
+    "base_capital": 2000000,
+    "realized_pnl_cumulative_inr": -97802.0,
+    "unrealized_pnl_inr": 31947.0,
+    "total_equity": 1934145.0,
+    "total_return_pct": -3.29,
+    "capital_per_slot": 97203.0,
+    "top40_avg_composite_score": 82.64
   }
 ]
