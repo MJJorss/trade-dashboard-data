@@ -1,14 +1,14 @@
 {
   "start_date": "2026-09-15",
-  "config_cell": "ATR2.00_R1.40",
-  "config_hash": "fc799c910a5676bb",
+  "config_cell": "SLEEVED",
+  "config_hash": "a16973bb977dcae1",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-09-18 15:45",
+  "last_run_ist": "2026-09-20 19:33",
   "as_of": "2026-09-18",
   "test_run": false,
-  "frames_fetched": 80,
+  "frames_fetched": 84,
   "frames_failed": {},
-  "signals_unlabelled": 11,
+  "signals_unlabelled": 8,
   "decay": {
     "n_closed": 0,
     "window": 60,
@@ -28,5 +28,5 @@
     "match": false,
     "date": "2026-09-18"
   },
-  "runtime_s": 32.7
+  "runtime_s": 37.2
 }
