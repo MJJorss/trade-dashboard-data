@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 433.1,
-      "unrealised_pct": 1.51,
+      "current_price": 428.65,
+      "unrealised_pct": 0.47,
       "price_source": "live"
     },
     {
@@ -25,8 +25,8 @@
       "entry_time": "12:13",
       "entry_date": "2026-07-31",
       "stop_price": 1691.21,
-      "stop_unlocked": false,
-      "high_since_entry": 1986.8,
+      "stop_unlocked": true,
+      "high_since_entry": 2001.7,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 37.83,
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1983.0,
-      "unrealised_pct": 9.05
+      "current_price": 1991.1,
+      "unrealised_pct": 9.49
     },
     {
       "symbol": "TFCILTD",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 140.8,
-      "unrealised_pct": 1.13
+      "current_price": 140.27,
+      "unrealised_pct": 0.75
     },
     {
       "symbol": "RAYMOND",
@@ -78,7 +78,7 @@
       "entry_date": "2026-09-21",
       "stop_price": 927.16,
       "stop_unlocked": false,
-      "high_since_entry": 1023.0,
+      "high_since_entry": 1056.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 71.86,
@@ -96,8 +96,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1013.55,
-      "unrealised_pct": 1.67
+      "current_price": 1046.85,
+      "unrealised_pct": 5.01
     },
     {
       "symbol": "QUESS",
@@ -107,7 +107,7 @@
       "entry_date": "2026-09-21",
       "stop_price": 329.82,
       "stop_unlocked": false,
-      "high_since_entry": 360.6,
+      "high_since_entry": 364.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 32.54,
@@ -125,8 +125,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 359.05,
-      "unrealised_pct": 1.24
+      "current_price": 363.9,
+      "unrealised_pct": 2.61
     },
     {
       "symbol": "SUDARSCHEM",
@@ -154,45 +154,40 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1268.0,
-      "unrealised_pct": 0.19
+      "current_price": 1271.7,
+      "unrealised_pct": 0.48
     },
     {
-      "symbol": "CUPID",
+      "symbol": "ENTERO",
       "scanner": "VCP Breakout",
-      "entry_price": 285.11,
-      "entry_time": "09:27",
-      "entry_date": "2026-08-24",
-      "stop_price": 265.15,
+      "entry_price": 1764.7,
+      "entry_time": "11:25",
+      "entry_date": "2026-09-21",
+      "stop_price": 1641.17,
       "stop_unlocked": false,
-      "high_since_entry": 291.9,
-      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
+      "high_since_entry": 1775.0,
+      "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
-      "rs_composite": 81.33,
+      "rs_composite": 42.66,
       "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "capital_allocated": 189643,
-      "qty": 665,
-      "risk_inr": 13275,
+      "rs_stale": false,
+      "rs_stale_days": 0,
+      "universe_rs_tier": "HIGH",
+      "status": "open",
+      "capital_allocated": 193200,
+      "qty": 109,
+      "risk_inr": 13524,
       "risk_pct_applied": 1.0,
       "stop_pct": 7.0,
-      "capital_base_at_entry": 1327546,
+      "capital_base_at_entry": 1352394,
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 267.8,
-      "unrealised_pct": -6.07,
-      "exit_price": 265.15,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "09:27",
-      "exit_date": "2026-09-21",
-      "pnl_pct": -7.0,
-      "pnl_inr": -13275,
-      "hold_days": 28,
-      "capital_per_slot": 189643
+      "current_price": 1763.1,
+      "unrealised_pct": -0.09
     }
   ],
-  "last_updated": "2026-09-21 09:27 IST",
+  "last_updated": "2026-09-21 11:25 IST",
   "closed_today_map": {
     "2026-09-21": [
       "CUPID"
