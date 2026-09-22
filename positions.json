@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 430.45,
-      "unrealised_pct": 0.89,
+      "current_price": 425.85,
+      "unrealised_pct": -0.19,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2021.6,
-      "unrealised_pct": 11.17
+      "current_price": 2020.2,
+      "unrealised_pct": 11.09
     },
     {
       "symbol": "TFCILTD",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 143.07,
-      "unrealised_pct": 2.76
+      "current_price": 142.93,
+      "unrealised_pct": 2.66
     },
     {
       "symbol": "RAYMOND",
@@ -96,8 +96,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1133.0,
-      "unrealised_pct": 13.65
+      "current_price": 1132.5,
+      "unrealised_pct": 13.6
     },
     {
       "symbol": "QUESS",
@@ -107,7 +107,7 @@
       "entry_date": "2026-09-21",
       "stop_price": 329.82,
       "stop_unlocked": false,
-      "high_since_entry": 371.7,
+      "high_since_entry": 372.25,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 32.54,
@@ -125,8 +125,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 371.5,
-      "unrealised_pct": 4.75
+      "current_price": 364.4,
+      "unrealised_pct": 2.75
     },
     {
       "symbol": "SUDARSCHEM",
@@ -154,8 +154,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1247.1,
-      "unrealised_pct": -1.46
+      "current_price": 1238.5,
+      "unrealised_pct": -2.14
     },
     {
       "symbol": "ENTERO",
@@ -165,7 +165,7 @@
       "entry_date": "2026-09-21",
       "stop_price": 1641.17,
       "stop_unlocked": false,
-      "high_since_entry": 1858.0,
+      "high_since_entry": 1865.1,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 42.66,
@@ -183,11 +183,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1851.5,
-      "unrealised_pct": 4.92
+      "current_price": 1852.5,
+      "unrealised_pct": 4.98
     }
   ],
-  "last_updated": "2026-09-22 11:25 IST",
+  "last_updated": "2026-09-22 13:16 IST",
   "closed_today_map": {
     "2026-09-22": []
   }
