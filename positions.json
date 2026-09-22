@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 422.8,
-      "unrealised_pct": -0.9,
+      "current_price": 425.55,
+      "unrealised_pct": -0.26,
       "price_source": "live"
     },
     {
@@ -26,7 +26,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 1691.21,
       "stop_unlocked": true,
-      "high_since_entry": 2023.5,
+      "high_since_entry": 2032.8,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 37.83,
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2017.3,
-      "unrealised_pct": 10.93
+      "current_price": 2023.3,
+      "unrealised_pct": 11.26
     },
     {
       "symbol": "TFCILTD",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 140.24,
-      "unrealised_pct": 0.73
+      "current_price": 142.23,
+      "unrealised_pct": 2.15
     },
     {
       "symbol": "RAYMOND",
@@ -77,8 +77,8 @@
       "entry_time": "09:27",
       "entry_date": "2026-09-21",
       "stop_price": 927.16,
-      "stop_unlocked": false,
-      "high_since_entry": 1069.5,
+      "stop_unlocked": true,
+      "high_since_entry": 1193.4,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 71.86,
@@ -96,8 +96,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1061.8,
-      "unrealised_pct": 6.5
+      "current_price": 1145.7,
+      "unrealised_pct": 14.92
     },
     {
       "symbol": "QUESS",
@@ -125,8 +125,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 364.8,
-      "unrealised_pct": 2.86
+      "current_price": 362.2,
+      "unrealised_pct": 2.13
     },
     {
       "symbol": "SUDARSCHEM",
@@ -154,8 +154,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1255.8,
-      "unrealised_pct": -0.77
+      "current_price": 1265.6,
+      "unrealised_pct": -0.0
     },
     {
       "symbol": "ENTERO",
@@ -165,7 +165,7 @@
       "entry_date": "2026-09-21",
       "stop_price": 1641.17,
       "stop_unlocked": false,
-      "high_since_entry": 1798.3,
+      "high_since_entry": 1850.9,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 42.66,
@@ -183,14 +183,12 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1791.3,
-      "unrealised_pct": 1.51
+      "current_price": 1796.0,
+      "unrealised_pct": 1.77
     }
   ],
-  "last_updated": "2026-09-21 15:02 IST",
+  "last_updated": "2026-09-22 09:27 IST",
   "closed_today_map": {
-    "2026-09-21": [
-      "CUPID"
-    ]
+    "2026-09-22": []
   }
 }
