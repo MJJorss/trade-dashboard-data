@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 423.0,
-      "unrealised_pct": -0.86,
+      "current_price": 422.7,
+      "unrealised_pct": -0.93,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2018.3,
-      "unrealised_pct": 10.99
+      "current_price": 2025.5,
+      "unrealised_pct": 11.38
     },
     {
       "symbol": "TFCILTD",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 141.55,
-      "unrealised_pct": 1.67
+      "current_price": 142.46,
+      "unrealised_pct": 2.32
     },
     {
       "symbol": "QUESS",
@@ -96,8 +96,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 363.7,
-      "unrealised_pct": 2.55
+      "current_price": 360.05,
+      "unrealised_pct": 1.52
     },
     {
       "symbol": "SUDARSCHEM",
@@ -125,8 +125,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1252.3,
-      "unrealised_pct": -1.05
+      "current_price": 1249.7,
+      "unrealised_pct": -1.26
     },
     {
       "symbol": "ENTERO",
@@ -154,48 +154,40 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1831.5,
-      "unrealised_pct": 3.79
+      "current_price": 1859.0,
+      "unrealised_pct": 5.34
     },
     {
-      "symbol": "RAYMOND",
+      "symbol": "MOREPENLAB",
       "scanner": "VCP Breakout",
-      "entry_price": 996.95,
-      "entry_time": "09:27",
-      "entry_date": "2026-09-21",
-      "stop_price": 927.16,
-      "stop_unlocked": true,
-      "high_since_entry": 1193.4,
+      "entry_price": 122.44,
+      "entry_time": "13:16",
+      "entry_date": "2026-09-23",
+      "stop_price": 113.87,
+      "stop_unlocked": false,
+      "high_since_entry": 124.47,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
-      "rs_composite": 71.86,
+      "rs_composite": 69.97,
       "rs_benchmark": "Nifty 50",
       "rs_stale": false,
       "rs_stale_days": 0,
       "universe_rs_tier": "HIGH",
-      "status": "closed",
-      "capital_allocated": 146329,
-      "qty": 146,
-      "risk_inr": 10243,
-      "risk_pct_applied": 0.75,
+      "status": "open",
+      "capital_allocated": 195514,
+      "qty": 1596,
+      "risk_inr": 13686,
+      "risk_pct_applied": 1.0,
       "stop_pct": 7.0,
-      "capital_base_at_entry": 1365669,
-      "equity_curve_mult": 0.75,
+      "capital_base_at_entry": 1368563,
+      "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1124.2,
-      "unrealised_pct": 12.76,
-      "exit_price": 1107.1,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "11:25",
-      "exit_date": "2026-09-23",
-      "pnl_pct": 11.05,
-      "pnl_inr": 16169,
-      "hold_days": 2,
-      "capital_per_slot": 146329
+      "current_price": 122.2,
+      "unrealised_pct": -0.2
     }
   ],
-  "last_updated": "2026-09-23 11:25 IST",
+  "last_updated": "2026-09-23 13:16 IST",
   "closed_today_map": {
     "2026-09-23": [
       "RAYMOND"
