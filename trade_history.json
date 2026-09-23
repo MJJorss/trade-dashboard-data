@@ -1072,6 +1072,22 @@
       "capital_per_slot": 189643,
       "exit_reason": "Stop Loss -7% \ud83d\udd34",
       "month": "2026-09"
+    },
+    {
+      "symbol": "RAYMOND",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 996.95,
+      "exit_price": 1107.1,
+      "entry_date": "2026-09-21",
+      "exit_date": "2026-09-23",
+      "hold_days": 2,
+      "pnl_pct": 11.05,
+      "pnl_inr": 16169,
+      "capital_per_slot": 146329,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-09"
     }
   ]
 }
