@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 423.5,
-      "unrealised_pct": -0.74,
+      "current_price": 421.35,
+      "unrealised_pct": -1.24,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2048.0,
-      "unrealised_pct": 12.62
+      "current_price": 2043.6,
+      "unrealised_pct": 12.38
     },
     {
       "symbol": "TFCILTD",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 142.36,
-      "unrealised_pct": 2.25
+      "current_price": 143.28,
+      "unrealised_pct": 2.91
     },
     {
       "symbol": "QUESS",
@@ -96,8 +96,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 357.65,
-      "unrealised_pct": 0.85
+      "current_price": 360.25,
+      "unrealised_pct": 1.58
     },
     {
       "symbol": "SUDARSCHEM",
@@ -125,8 +125,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1244.3,
-      "unrealised_pct": -1.68
+      "current_price": 1242.1,
+      "unrealised_pct": -1.86
     },
     {
       "symbol": "ENTERO",
@@ -154,8 +154,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1835.4,
-      "unrealised_pct": 4.01
+      "current_price": 1864.1,
+      "unrealised_pct": 5.63
     },
     {
       "symbol": "MOREPENLAB",
@@ -183,11 +183,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 119.74,
-      "unrealised_pct": -2.21
+      "current_price": 118.86,
+      "unrealised_pct": -2.92
     }
   ],
-  "last_updated": "2026-09-24 11:25 IST",
+  "last_updated": "2026-09-24 13:16 IST",
   "closed_today_map": {
     "2026-09-24": []
   }
