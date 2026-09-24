@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 421.75,
-      "unrealised_pct": -1.15,
+      "current_price": 423.5,
+      "unrealised_pct": -0.74,
       "price_source": "live"
     },
     {
@@ -26,7 +26,7 @@
       "entry_date": "2026-07-31",
       "stop_price": 1691.21,
       "stop_unlocked": true,
-      "high_since_entry": 2050.8,
+      "high_since_entry": 2055.3,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 37.83,
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2046.0,
-      "unrealised_pct": 12.51
+      "current_price": 2048.0,
+      "unrealised_pct": 12.62
     },
     {
       "symbol": "TFCILTD",
@@ -67,8 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 141.94,
-      "unrealised_pct": 1.95
+      "current_price": 142.36,
+      "unrealised_pct": 2.25
     },
     {
       "symbol": "QUESS",
@@ -96,8 +96,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 355.5,
-      "unrealised_pct": 0.24
+      "current_price": 357.65,
+      "unrealised_pct": 0.85
     },
     {
       "symbol": "SUDARSCHEM",
@@ -125,8 +125,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1236.8,
-      "unrealised_pct": -2.28
+      "current_price": 1244.3,
+      "unrealised_pct": -1.68
     },
     {
       "symbol": "ENTERO",
@@ -136,7 +136,7 @@
       "entry_date": "2026-09-21",
       "stop_price": 1641.17,
       "stop_unlocked": false,
-      "high_since_entry": 1874.5,
+      "high_since_entry": 1875.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 42.66,
@@ -154,8 +154,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1860.9,
-      "unrealised_pct": 5.45
+      "current_price": 1835.4,
+      "unrealised_pct": 4.01
     },
     {
       "symbol": "MOREPENLAB",
@@ -183,11 +183,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 120.9,
-      "unrealised_pct": -1.26
+      "current_price": 119.74,
+      "unrealised_pct": -2.21
     }
   ],
-  "last_updated": "2026-09-24 09:27 IST",
+  "last_updated": "2026-09-24 11:25 IST",
   "closed_today_map": {
     "2026-09-24": []
   }
