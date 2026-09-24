@@ -76,6 +76,17 @@
       "si_index": "NIFTY MIDCAP 150",
       "entries_allowed": false,
       "liquidates": true
+    },
+    {
+      "date": "2026-09-24",
+      "ma_allowed": false,
+      "ma_status": "BELOW MA21",
+      "ma_index": "NIFTY MIDCAP 150",
+      "si_allowed": false,
+      "si_status": "BEARISH \u2014 black <= green",
+      "si_index": "NIFTY MIDCAP 150",
+      "entries_allowed": false,
+      "liquidates": true
     }
   ]
 }
