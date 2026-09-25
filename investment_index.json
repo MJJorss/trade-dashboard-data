@@ -1,20 +1,20 @@
 {
-  "generated_at": "25 Sep 2026 03:08 PM IST",
+  "generated_at": "25 Sep 2026 07:35 PM IST",
   "rebalance_date": "2026-09-25",
   "total_slots": 20,
   "filled_slots": 8,
   "total_deployed": 795072.0,
-  "total_pnl_inr": 25700.0,
-  "total_pnl_pct": 3.23,
+  "total_pnl_inr": 27150.0,
+  "total_pnl_pct": 3.41,
   "holdings": [
     {
       "symbol": "ANTELOPUS",
       "slot_rank": 1,
-      "composite_score": 88.1,
+      "composite_score": 88.2,
       "eps_seq": 450.71,
       "sales_seq": 158.82,
       "mcap_cr": 4440.83,
-      "rs_composite": 56.53,
+      "rs_composite": 58.46,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -24,25 +24,25 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 1251.0,
+      "cmp": 1261.7,
       "entry_price": 1109.65,
       "entry_date": "2026-09-18",
       "days_held": 7,
-      "pct_move": 12.74,
-      "dma21": 1067.11,
+      "pct_move": 13.7,
+      "dma21": 1068.09,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100137.0,
-      "pnl_inr": 12757.0
+      "pnl_inr": 13719.0
     },
     {
       "symbol": "SHUKRAPHAR",
       "slot_rank": 2,
-      "composite_score": 86.3,
+      "composite_score": 86.2,
       "eps_seq": 1359.22,
       "sales_seq": 336.36,
       "mcap_cr": 2461.86,
-      "rs_composite": 27.84,
+      "rs_composite": 27.8,
       "rs_tier": "HIGH",
       "rs_confidence": "partial",
       "rs_window_days": 20,
@@ -52,25 +52,25 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 55.91,
+      "cmp": 55.93,
       "entry_price": 56.19,
       "entry_date": "2026-09-18",
       "days_held": 7,
-      "pct_move": -0.5,
+      "pct_move": -0.46,
       "dma21": 52.41,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100137.0,
-      "pnl_inr": -501.0
+      "pnl_inr": -461.0
     },
     {
       "symbol": "HINDZINC",
       "slot_rank": 3,
-      "composite_score": 86.2,
+      "composite_score": 86.0,
       "eps_seq": 146.14,
       "sales_seq": 77.22,
       "mcap_cr": 249082.56,
-      "rs_composite": 8.03,
+      "rs_composite": 7.88,
       "rs_tier": "LOW",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -80,25 +80,25 @@
       "score_haircut_applied": false,
       "rs_label": "🔴 LOW RS",
       "q_pending": false,
-      "cmp": 590.6,
+      "cmp": 588.95,
       "entry_price": 596.0,
       "entry_date": "2026-09-18",
       "days_held": 7,
-      "pct_move": -0.91,
-      "dma21": 586.65,
+      "pct_move": -1.18,
+      "dma21": 586.5,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 97203.0,
-      "pnl_inr": -885.0
+      "pnl_inr": -1147.0
     },
     {
       "symbol": "SKYGOLD",
       "slot_rank": 4,
-      "composite_score": 85.3,
+      "composite_score": 85.2,
       "eps_seq": 136.94,
       "sales_seq": 77.93,
       "mcap_cr": 12300.12,
-      "rs_composite": 27.07,
+      "rs_composite": 27.27,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -108,16 +108,16 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 793.3,
+      "cmp": 793.55,
       "entry_price": 793.3,
       "entry_date": "2026-09-25",
       "days_held": 0,
-      "pct_move": 0.0,
-      "dma21": 792.47,
+      "pct_move": 0.03,
+      "dma21": 792.49,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 96707.0,
-      "pnl_inr": 0.0
+      "pnl_inr": 29.0
     },
     {
       "symbol": "GCSL",
@@ -126,7 +126,7 @@
       "eps_seq": 1111.69,
       "sales_seq": 70.7,
       "mcap_cr": 1618.99,
-      "rs_composite": 33.1,
+      "rs_composite": 33.59,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -136,25 +136,25 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 653.95,
+      "cmp": 653.45,
       "entry_price": 619.0,
       "entry_date": "2026-09-18",
       "days_held": 7,
-      "pct_move": 5.65,
-      "dma21": 600.68,
+      "pct_move": 5.57,
+      "dma21": 600.64,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100137.0,
-      "pnl_inr": 5658.0
+      "pnl_inr": 5578.0
     },
     {
       "symbol": "LAURUSLABS",
       "slot_rank": 6,
-      "composite_score": 82.8,
+      "composite_score": 82.9,
       "eps_seq": 125.49,
       "sales_seq": 29.1,
       "mcap_cr": 107308.71,
-      "rs_composite": 22.84,
+      "rs_composite": 23.63,
       "rs_tier": "HIGH",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -164,25 +164,25 @@
       "score_haircut_applied": false,
       "rs_label": "🟢 HIGH RS",
       "q_pending": false,
-      "cmp": 1995.9,
+      "cmp": 2007.0,
       "entry_price": 1850.6,
       "entry_date": "2026-08-07",
       "days_held": 49,
-      "pct_move": 7.85,
-      "dma21": 1943.98,
+      "pct_move": 8.45,
+      "dma21": 1944.99,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100000,
-      "pnl_inr": 7850.0
+      "pnl_inr": 8450.0
     },
     {
       "symbol": "SOTL",
       "slot_rank": 7,
-      "composite_score": 82.7,
+      "composite_score": 82.8,
       "eps_seq": 395.59,
       "sales_seq": 49.6,
       "mcap_cr": 4880.49,
-      "rs_composite": 20.86,
+      "rs_composite": 21.5,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -192,25 +192,25 @@
       "score_haircut_applied": false,
       "rs_label": "🟡 MID RS",
       "q_pending": false,
-      "cmp": 712.95,
+      "cmp": 713.2,
       "entry_price": 707.7,
       "entry_date": "2026-09-18",
       "days_held": 7,
-      "pct_move": 0.74,
-      "dma21": 707.57,
+      "pct_move": 0.78,
+      "dma21": 707.59,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100137.0,
-      "pnl_inr": 741.0
+      "pnl_inr": 781.0
     },
     {
       "symbol": "MCX",
       "slot_rank": 8,
-      "composite_score": 82.6,
+      "composite_score": 82.7,
       "eps_seq": 291.09,
       "sales_seq": 205.13,
       "mcap_cr": 72206.04,
-      "rs_composite": 14.68,
+      "rs_composite": 14.96,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -220,16 +220,16 @@
       "score_haircut_applied": true,
       "rs_label": "🟡 MID RS",
       "q_pending": false,
-      "cmp": 3320.8,
+      "cmp": 3324.9,
       "entry_price": 3318.2,
       "entry_date": "2026-08-28",
       "days_held": 28,
-      "pct_move": 0.08,
-      "dma21": 3258.6,
+      "pct_move": 0.2,
+      "dma21": 3258.97,
       "above_21dma": true,
       "dma_label": "🟢 Above 21 EMA",
       "capital_deployed": 100614.0,
-      "pnl_inr": 80.0
+      "pnl_inr": 201.0
     }
   ],
   "watchlist_next10": [
@@ -239,246 +239,134 @@
       "composite_score": 82.0,
       "eps_seq": 189.3,
       "sales_seq": 32.73,
-      "rs_composite": 11.66,
+      "rs_composite": 11.81,
       "rs_tier": "MID",
       "q_pending": false,
-      "cmp": 617.0,
+      "cmp": 616.95,
       "above_21dma": true,
-      "dma21": 616.78
+      "dma21": 616.77
     },
     {
       "symbol": "SBC",
       "slot_rank": 22,
-      "composite_score": 81.9,
+      "composite_score": 81.8,
       "eps_seq": 269.8,
       "sales_seq": 72.82,
-      "rs_composite": 26.68,
+      "rs_composite": 26.08,
       "rs_tier": "HIGH",
       "q_pending": false,
-      "cmp": 53.52,
+      "cmp": 53.02,
       "above_21dma": true,
-      "dma21": 47.22
-    },
-    {
-      "symbol": "NETWEB",
-      "slot_rank": 23,
-      "composite_score": 81.7,
-      "eps_seq": 179.92,
-      "sales_seq": 172.13,
-      "rs_composite": -1.11,
-      "rs_tier": "LOW",
-      "q_pending": false,
-      "cmp": 4553.5,
-      "above_21dma": false,
-      "dma21": 4838.85
+      "dma21": 47.18
     },
     {
       "symbol": "BHAGERIA",
-      "slot_rank": 24,
+      "slot_rank": 23,
       "composite_score": 81.6,
       "eps_seq": 199.75,
       "sales_seq": 79.76,
-      "rs_composite": 70.51,
+      "rs_composite": 72.64,
       "rs_tier": "HIGH",
       "q_pending": false,
-      "cmp": 391.1,
+      "cmp": 394.6,
       "above_21dma": true,
-      "dma21": 314.37
+      "dma21": 314.69
+    },
+    {
+      "symbol": "NETWEB",
+      "slot_rank": 24,
+      "composite_score": 81.4,
+      "eps_seq": 179.92,
+      "sales_seq": 172.13,
+      "rs_composite": -1.12,
+      "rs_tier": "LOW",
+      "q_pending": false,
+      "cmp": 4545.0,
+      "above_21dma": false,
+      "dma21": 4838.08
     },
     {
       "symbol": "RUBICON",
       "slot_rank": 25,
-      "composite_score": 80.9,
+      "composite_score": 80.8,
       "eps_seq": 95.8,
       "sales_seq": 51.59,
-      "rs_composite": 17.67,
+      "rs_composite": 17.24,
       "rs_tier": "MID",
       "q_pending": false,
-      "cmp": 1685.0,
+      "cmp": 1676.3,
       "above_21dma": false,
-      "dma21": 1739.15
+      "dma21": 1738.36
     },
     {
       "symbol": "SOLARINDS",
       "slot_rank": 26,
-      "composite_score": 80.9,
+      "composite_score": 80.8,
       "eps_seq": 92.66,
       "sales_seq": 70.26,
-      "rs_composite": 6.43,
+      "rs_composite": 6.85,
       "rs_tier": "LOW",
       "q_pending": false,
-      "cmp": 19690.0,
+      "cmp": 19745.0,
       "above_21dma": false,
-      "dma21": 20067.43
-    },
-    {
-      "symbol": "NAVINFLUOR",
-      "slot_rank": 27,
-      "composite_score": 80.7,
-      "eps_seq": 107.67,
-      "sales_seq": 44.07,
-      "rs_composite": 11.58,
-      "rs_tier": "MID",
-      "q_pending": false,
-      "cmp": 8592.5,
-      "above_21dma": true,
-      "dma21": 8450.97
-    },
-    {
-      "symbol": "NEULANDLAB",
-      "slot_rank": 28,
-      "composite_score": 80.5,
-      "eps_seq": 664.72,
-      "sales_seq": 136.4,
-      "rs_composite": 10.15,
-      "rs_tier": "LOW",
-      "q_pending": false,
-      "cmp": 21915.0,
-      "above_21dma": false,
-      "dma21": 22644.43
+      "dma21": 20072.43
     },
     {
       "symbol": "OIL",
-      "slot_rank": 29,
-      "composite_score": 80.5,
+      "slot_rank": 27,
+      "composite_score": 80.7,
       "eps_seq": 91.4,
       "sales_seq": 57.7,
-      "rs_composite": 10.36,
-      "rs_tier": "LOW",
+      "rs_composite": 11.05,
+      "rs_tier": "MID",
       "q_pending": false,
-      "cmp": 472.7,
+      "cmp": 475.15,
       "above_21dma": false,
-      "dma21": 479.19
+      "dma21": 479.41
+    },
+    {
+      "symbol": "NAVINFLUOR",
+      "slot_rank": 28,
+      "composite_score": 80.7,
+      "eps_seq": 107.67,
+      "sales_seq": 44.07,
+      "rs_composite": 11.64,
+      "rs_tier": "MID",
+      "q_pending": false,
+      "cmp": 8584.5,
+      "above_21dma": true,
+      "dma21": 8450.24
     },
     {
       "symbol": "PANAMAPET",
-      "slot_rank": 30,
-      "composite_score": 80.5,
+      "slot_rank": 29,
+      "composite_score": 80.6,
       "eps_seq": 624.8,
       "sales_seq": 150.3,
-      "rs_composite": 6.96,
+      "rs_composite": 7.46,
       "rs_tier": "LOW",
       "q_pending": false,
-      "cmp": 473.8,
+      "cmp": 473.4,
       "above_21dma": false,
-      "dma21": 476.67
+      "dma21": 476.63
+    },
+    {
+      "symbol": "NEULANDLAB",
+      "slot_rank": 30,
+      "composite_score": 80.4,
+      "eps_seq": 664.72,
+      "sales_seq": 136.4,
+      "rs_composite": 10.19,
+      "rs_tier": "LOW",
+      "q_pending": false,
+      "cmp": 21890.0,
+      "above_21dma": false,
+      "dma21": 22642.16
     }
   ],
   "this_rebalance": {
-    "entries": [
-      {
-        "symbol": "SKYGOLD",
-        "entry_price": 793.3,
-        "rank": 8,
-        "composite": 85.27,
-        "rs_tier": "HIGH",
-        "rs_confidence": "full",
-        "pool": "primary",
-        "capital_deployed": 96707.0
-      }
-    ],
-    "exits": [
-      {
-        "symbol": "GANDHAR",
-        "reason": "Below 21 EMA — technical exit",
-        "days_held": 56,
-        "rank": 10,
-        "cmp": 261.25,
-        "entry_price": 223.23,
-        "capital_deployed": 96707.0,
-        "score_breakdown": {
-          "composite": 83.79,
-          "eps_seq": 633.09,
-          "eps_pctile": 97.51,
-          "sales_seq": 91.81,
-          "sales_pctile": 93.83,
-          "rs_composite": 24.1,
-          "rs_tier": "HIGH",
-          "rs_pctile": 89.39,
-          "rs_confidence": "full",
-          "rs_reweighted": false,
-          "rs_benchmark_used": "NIFTYSMLCAP250.NS",
-          "rs_benchmark_fallback_depth": 0,
-          "mcap_cr": 2547.8,
-          "mcap_pctile": 21.76
-        }
-      },
-      {
-        "symbol": "DIACABS",
-        "reason": "Below 21 EMA — technical exit",
-        "days_held": 7,
-        "rank": 18,
-        "cmp": 357.0,
-        "entry_price": 368.0,
-        "capital_deployed": 100137.0,
-        "score_breakdown": {
-          "composite": 82.4,
-          "eps_seq": 638.19,
-          "eps_pctile": 97.64,
-          "sales_seq": 114.08,
-          "sales_pctile": 95.28,
-          "rs_composite": 51.54,
-          "rs_tier": "HIGH",
-          "rs_pctile": 98.41,
-          "rs_confidence": "full",
-          "rs_reweighted": false,
-          "rs_benchmark_used": "NIFTYMIDCAP150.NS",
-          "rs_benchmark_fallback_depth": 0,
-          "mcap_cr": 10870.36,
-          "mcap_pctile": 59.24
-        }
-      },
-      {
-        "symbol": "KMEW",
-        "reason": "Below 21 EMA — technical exit",
-        "days_held": 35,
-        "rank": 7,
-        "cmp": 2869.5,
-        "entry_price": 2725.0,
-        "capital_deployed": 96707.0,
-        "score_breakdown": {
-          "composite": 85.95,
-          "eps_seq": 447.74,
-          "eps_pctile": 96.46,
-          "sales_seq": 138.11,
-          "sales_pctile": 96.98,
-          "rs_composite": 13.32,
-          "rs_tier": "MID",
-          "rs_pctile": 79.18,
-          "rs_confidence": "full",
-          "rs_reweighted": false,
-          "rs_benchmark_used": "NIFTYSMLCAP250.NS",
-          "rs_benchmark_fallback_depth": 0,
-          "mcap_cr": 7282.62,
-          "mcap_pctile": 48.75
-        }
-      },
-      {
-        "symbol": "CGCL",
-        "reason": "Below 21 EMA — technical exit",
-        "days_held": 7,
-        "rank": 40,
-        "cmp": 253.7,
-        "entry_price": 271.35,
-        "capital_deployed": 100137.0,
-        "score_breakdown": {
-          "composite": 78.26,
-          "eps_seq": 102.05,
-          "eps_pctile": 80.71,
-          "sales_seq": 57.05,
-          "sales_pctile": 85.17,
-          "rs_composite": 7.39,
-          "rs_tier": "LOW",
-          "rs_pctile": 67.24,
-          "rs_confidence": "full",
-          "rs_reweighted": false,
-          "rs_benchmark_used": "NIFTYMIDCAP150.NS",
-          "rs_benchmark_fallback_depth": 0,
-          "mcap_cr": 24342.46,
-          "mcap_pctile": 76.41
-        }
-      }
-    ]
+    "entries": [],
+    "exits": []
   },
   "diagnostics": [
     {
@@ -489,8 +377,8 @@
       "rs_window_days": 60,
       "rs_benchmark_label": "MC150",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 480.67,
-      "cmp": 270.25,
+      "liquidity_cr": 482.59,
+      "cmp": 270.0,
       "flags": [
         "Entry skipped — below 21 EMA"
       ]
@@ -503,10 +391,10 @@
       "rs_window_days": 60,
       "rs_benchmark_label": "MC150",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 95.56,
-      "cmp": 281.75,
+      "liquidity_cr": 96.04,
+      "cmp": 282.45,
       "flags": [
-        "Entry skipped — extended move +12.0%"
+        "Entry skipped — extended move +12.3%"
       ]
     },
     {
@@ -531,39 +419,38 @@
       "rs_window_days": 20,
       "rs_benchmark_label": "SC250",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 15.73,
-      "cmp": 55.91,
+      "liquidity_cr": 15.84,
+      "cmp": 55.93,
       "flags": [
         "Held on partial RS window (20d)"
       ]
     },
     {
-      "symbol": "HINDZINC",
-      "rank": 6,
-      "rs_tier": "LOW",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "N50",
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 265.21,
-      "cmp": 590.6,
-      "flags": [
-        "Held despite LOW RS"
-      ]
-    },
-    {
       "symbol": "KMEW",
-      "rank": 7,
+      "rank": 6,
       "rs_tier": "MID",
       "rs_confidence": "full",
       "rs_window_days": 60,
       "rs_benchmark_label": "SC250",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 26.96,
-      "cmp": 2869.5,
+      "liquidity_cr": 27.07,
+      "cmp": 2865.1,
       "flags": [
-        "EMA exit",
         "Entry skipped — below 21 EMA"
+      ]
+    },
+    {
+      "symbol": "HINDZINC",
+      "rank": 7,
+      "rs_tier": "LOW",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "N50",
+      "rs_benchmark_fallback": false,
+      "liquidity_cr": 265.61,
+      "cmp": 588.95,
+      "flags": [
+        "Held despite LOW RS"
       ]
     },
     {
@@ -574,44 +461,15 @@
       "rs_window_days": 60,
       "rs_benchmark_label": "MC150",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 75.09,
+      "liquidity_cr": 76.14,
       "cmp": 6900.0,
       "flags": [
         "Entry skipped — below 21 EMA"
       ]
     },
     {
-      "symbol": "GANDHAR",
-      "rank": 10,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "SC250",
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 20.32,
-      "cmp": 261.25,
-      "flags": [
-        "EMA exit",
-        "Entry skipped — below 21 EMA"
-      ]
-    },
-    {
-      "symbol": "LLOYDSENGG",
-      "rank": 11,
-      "rs_tier": "MID",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC150",
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 76.65,
-      "cmp": 98.34,
-      "flags": [
-        "Entry skipped — extended move +19.3%"
-      ]
-    },
-    {
       "symbol": "GESHIP",
-      "rank": 12,
+      "rank": 10,
       "rs_tier": "LOW",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -624,6 +482,34 @@
       ]
     },
     {
+      "symbol": "GANDHAR",
+      "rank": 11,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "SC250",
+      "rs_benchmark_fallback": false,
+      "liquidity_cr": 20.36,
+      "cmp": 261.65,
+      "flags": [
+        "Entry skipped — below 21 EMA"
+      ]
+    },
+    {
+      "symbol": "LLOYDSENGG",
+      "rank": 12,
+      "rs_tier": "MID",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC150",
+      "rs_benchmark_fallback": false,
+      "liquidity_cr": 78.58,
+      "cmp": 98.56,
+      "flags": [
+        "Entry skipped — extended move +19.6%"
+      ]
+    },
+    {
       "symbol": "KENNAMET",
       "rank": 13,
       "rs_tier": "HIGH",
@@ -631,8 +517,8 @@
       "rs_window_days": 60,
       "rs_benchmark_label": "SC250",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 16.07,
-      "cmp": 4212.6,
+      "liquidity_cr": 16.16,
+      "cmp": 4207.2,
       "flags": [
         "Entry skipped — below 21 EMA"
       ]
@@ -645,32 +531,15 @@
       "rs_window_days": 60,
       "rs_benchmark_label": "N50",
       "rs_benchmark_fallback": false,
-      "liquidity_cr": 636.6,
-      "cmp": 3320.8,
+      "liquidity_cr": 639.16,
+      "cmp": 3324.9,
       "flags": [
         "Using previous-quarter fundamentals (not yet reported) — 10% score haircut applied"
       ]
     },
     {
-      "symbol": "DIACABS",
-      "rank": 18,
-      "rs_tier": "HIGH",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC150",
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 32.47,
-      "cmp": 357.0,
-      "flags": [
-        "Using previous-quarter fundamentals (not yet reported) — 10% score haircut applied",
-        "EMA exit",
-        "Using previous-quarter fundamentals (not yet reported) — 10% score haircut applied",
-        "Entry skipped — below 21 EMA"
-      ]
-    },
-    {
       "symbol": "NYKAA",
-      "rank": 19,
+      "rank": 18,
       "rs_tier": "LOW",
       "rs_confidence": "full",
       "rs_window_days": 60,
@@ -680,6 +549,21 @@
       "cmp": null,
       "flags": [
         "Entry blocked — RS LOW"
+      ]
+    },
+    {
+      "symbol": "DIACABS",
+      "rank": 19,
+      "rs_tier": "HIGH",
+      "rs_confidence": "full",
+      "rs_window_days": 60,
+      "rs_benchmark_label": "MC150",
+      "rs_benchmark_fallback": false,
+      "liquidity_cr": null,
+      "cmp": null,
+      "flags": [
+        "Using previous-quarter fundamentals (not yet reported) — 10% score haircut applied",
+        "Entry skipped — below 21 EMA"
       ]
     },
     {
@@ -695,23 +579,9 @@
       "flags": [
         "Entry blocked — RS LOW"
       ]
-    },
-    {
-      "symbol": "CGCL",
-      "rank": 40,
-      "rs_tier": "LOW",
-      "rs_confidence": "full",
-      "rs_window_days": 60,
-      "rs_benchmark_label": "MC150",
-      "rs_benchmark_fallback": false,
-      "liquidity_cr": 110.55,
-      "cmp": 253.7,
-      "flags": [
-        "EMA exit"
-      ]
     }
   ],
-  "top40_avg_composite_score": 82.5,
+  "top40_avg_composite_score": 82.48,
   "entry_pool_ceilings": {
     "primary": 15,
     "secondary": 20
