@@ -14,8 +14,8 @@
       "rs_composite": 21.47,
       "rs_benchmark": "Nifty 50",
       "status": "open",
-      "current_price": 422.85,
-      "unrealised_pct": -0.89,
+      "current_price": 418.3,
+      "unrealised_pct": -1.96,
       "price_source": "live"
     },
     {
@@ -41,8 +41,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1991.5,
-      "unrealised_pct": 9.51
+      "current_price": 1991.7,
+      "unrealised_pct": 9.52
     },
     {
       "symbol": "TFCILTD",
@@ -67,37 +67,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 139.05,
-      "unrealised_pct": -0.13
-    },
-    {
-      "symbol": "QUESS",
-      "scanner": "VCP Breakout",
-      "entry_price": 354.65,
-      "entry_time": "09:27",
-      "entry_date": "2026-09-21",
-      "stop_price": 329.82,
-      "stop_unlocked": false,
-      "high_since_entry": 372.25,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 32.54,
-      "rs_benchmark": "Nifty 50",
-      "rs_stale": false,
-      "rs_stale_days": 0,
-      "universe_rs_tier": "HIGH",
-      "status": "open",
-      "capital_allocated": 146329,
-      "qty": 412,
-      "risk_inr": 10243,
-      "risk_pct_applied": 0.75,
-      "stop_pct": 7.0,
-      "capital_base_at_entry": 1365669,
-      "equity_curve_mult": 0.75,
-      "drawdown_mult": 1.0,
-      "price_source": "live",
-      "current_price": 335.8,
-      "unrealised_pct": -5.32
+      "current_price": 137.64,
+      "unrealised_pct": -1.14
     },
     {
       "symbol": "SUDARSCHEM",
@@ -125,8 +96,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1220.7,
-      "unrealised_pct": -3.55
+      "current_price": 1214.2,
+      "unrealised_pct": -4.06
     },
     {
       "symbol": "ENTERO",
@@ -154,8 +125,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1832.8,
-      "unrealised_pct": 3.86
+      "current_price": 1819.8,
+      "unrealised_pct": 3.12
     },
     {
       "symbol": "MOREPENLAB",
@@ -183,12 +154,51 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 119.95,
-      "unrealised_pct": -2.03
+      "current_price": 118.75,
+      "unrealised_pct": -3.01
+    },
+    {
+      "symbol": "QUESS",
+      "scanner": "VCP Breakout",
+      "entry_price": 354.65,
+      "entry_time": "09:27",
+      "entry_date": "2026-09-21",
+      "stop_price": 329.82,
+      "stop_unlocked": false,
+      "high_since_entry": 372.25,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 32.54,
+      "rs_benchmark": "Nifty 50",
+      "rs_stale": false,
+      "rs_stale_days": 0,
+      "universe_rs_tier": "HIGH",
+      "status": "closed",
+      "capital_allocated": 146329,
+      "qty": 412,
+      "risk_inr": 10243,
+      "risk_pct_applied": 0.75,
+      "stop_pct": 7.0,
+      "capital_base_at_entry": 1365669,
+      "equity_curve_mult": 0.75,
+      "drawdown_mult": 1.0,
+      "price_source": "live",
+      "current_price": 335.8,
+      "unrealised_pct": -5.32,
+      "exit_price": 329.82,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "13:16",
+      "exit_date": "2026-09-25",
+      "pnl_pct": -7.0,
+      "pnl_inr": -10243,
+      "hold_days": 4,
+      "capital_per_slot": 146329
     }
   ],
-  "last_updated": "2026-09-25 11:26 IST",
+  "last_updated": "2026-09-25 13:16 IST",
   "closed_today_map": {
-    "2026-09-25": []
+    "2026-09-25": [
+      "QUESS"
+    ]
   }
 }
