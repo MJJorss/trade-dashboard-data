@@ -23,8 +23,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2006.1,
-      "unrealised_pct": 10.32
+      "current_price": 2010.6,
+      "unrealised_pct": 10.56
     },
     {
       "symbol": "TFCILTD",
@@ -49,8 +49,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 140.0,
-      "unrealised_pct": 0.55
+      "current_price": 140.14,
+      "unrealised_pct": 0.65
     },
     {
       "symbol": "SUDARSCHEM",
@@ -78,8 +78,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1199.3,
-      "unrealised_pct": -5.24
+      "current_price": 1204.5,
+      "unrealised_pct": -4.83
     },
     {
       "symbol": "ENTERO",
@@ -107,8 +107,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1768.1,
-      "unrealised_pct": 0.19
+      "current_price": 1749.6,
+      "unrealised_pct": -0.86
     },
     {
       "symbol": "MOREPENLAB",
@@ -136,37 +136,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 123.39,
-      "unrealised_pct": 0.78
-    },
-    {
-      "symbol": "SIS",
-      "scanner": "VCP Breakout",
-      "entry_price": 426.65,
-      "entry_time": "13:15",
-      "entry_date": "2026-07-06",
-      "stop_price": 396.78,
-      "stop_unlocked": false,
-      "high_since_entry": 445.35,
-      "conviction": "\ud83d\ude80\ud83d\ude80\ud83d\ude80 HIGH",
-      "rs_tier": "HIGH",
-      "rs_composite": 21.47,
-      "rs_benchmark": "Nifty 50",
-      "status": "closed",
-      "current_price": 415.7,
-      "unrealised_pct": -2.57,
-      "price_source": "live",
-      "exit_price": 396.78,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "11:25",
-      "exit_date": "2026-09-28",
-      "pnl_pct": -7.0,
-      "pnl_inr": -10000,
-      "hold_days": 84,
-      "capital_per_slot": 142857
+      "current_price": 122.58,
+      "unrealised_pct": 0.11
     }
   ],
-  "last_updated": "2026-09-28 11:25 IST",
+  "last_updated": "2026-09-28 13:16 IST",
   "closed_today_map": {
     "2026-09-28": [
       "SIS"
