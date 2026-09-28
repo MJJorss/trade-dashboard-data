@@ -1,92 +1,92 @@
 {
-  "updated": "2026-09-25T13:31:26.742915+05:30",
-  "sample_size": 1086,
+  "updated": "2026-09-28T14:22:55.248150+05:30",
+  "sample_size": 1114,
   "slices": {
     "h5": {
       "overall": {
-        "n": 455,
-        "win_rate_pct": 51.4,
-        "mean_excess_return_pct": 0.52,
-        "median_excess_return_pct": 0.13
+        "n": 477,
+        "win_rate_pct": 51.2,
+        "mean_excess_return_pct": 0.45,
+        "median_excess_return_pct": 0.09
       },
       "by_score_band": {
         "80-100": {
-          "n": 7,
-          "win_rate_pct": 71.4,
-          "mean_excess_return_pct": 1.46,
+          "n": 9,
+          "win_rate_pct": 66.7,
+          "mean_excess_return_pct": 1.17,
           "median_excess_return_pct": 2.46
         },
         "65-79": {
-          "n": 50,
-          "win_rate_pct": 64.0,
-          "mean_excess_return_pct": 2.73,
-          "median_excess_return_pct": 1.39
+          "n": 55,
+          "win_rate_pct": 60.0,
+          "mean_excess_return_pct": 2.21,
+          "median_excess_return_pct": 0.89
         },
         "40-64": {
-          "n": 398,
-          "win_rate_pct": 49.5,
-          "mean_excess_return_pct": 0.23,
-          "median_excess_return_pct": -0.06
+          "n": 413,
+          "win_rate_pct": 49.6,
+          "mean_excess_return_pct": 0.19,
+          "median_excess_return_pct": -0.05
         }
       },
       "by_materiality_source": {
         "PDF": {
-          "n": 39,
-          "win_rate_pct": 56.4,
-          "mean_excess_return_pct": 1.12,
-          "median_excess_return_pct": 0.71
+          "n": 49,
+          "win_rate_pct": 51.0,
+          "mean_excess_return_pct": 0.42,
+          "median_excess_return_pct": 0.07
         },
         "HEADLINE-ONLY": {
-          "n": 3,
+          "n": 4,
           "win_rate_pct": 0.0,
-          "mean_excess_return_pct": -2.65,
-          "median_excess_return_pct": -2.03
+          "mean_excess_return_pct": -3.31,
+          "median_excess_return_pct": -3.64
         }
       },
       "by_super_signal": {
         "super_signal": {
-          "n": 2,
-          "win_rate_pct": 100.0,
-          "mean_excess_return_pct": 7.96,
-          "median_excess_return_pct": 7.96
+          "n": 3,
+          "win_rate_pct": 66.7,
+          "mean_excess_return_pct": 4.48,
+          "median_excess_return_pct": 3.43
         },
         "not_super_signal": {
-          "n": 453,
-          "win_rate_pct": 51.2,
-          "mean_excess_return_pct": 0.49,
-          "median_excess_return_pct": 0.09
+          "n": 474,
+          "win_rate_pct": 51.1,
+          "mean_excess_return_pct": 0.42,
+          "median_excess_return_pct": 0.08
         }
       },
       "by_materiality_label": {
         "UNKNOWN": {
-          "n": 413,
-          "win_rate_pct": 51.3,
-          "mean_excess_return_pct": 0.49,
-          "median_excess_return_pct": 0.13
+          "n": 424,
+          "win_rate_pct": 51.7,
+          "mean_excess_return_pct": 0.48,
+          "median_excess_return_pct": 0.2
         },
         "SIGNIFICANT": {
-          "n": 2,
-          "win_rate_pct": 50.0,
-          "mean_excess_return_pct": 5.66,
-          "median_excess_return_pct": 5.66
+          "n": 4,
+          "win_rate_pct": 25.0,
+          "mean_excess_return_pct": -1.34,
+          "median_excess_return_pct": -4.72
         },
         "IMMATERIAL": {
-          "n": 18,
-          "win_rate_pct": 50.0,
-          "mean_excess_return_pct": 1.18,
-          "median_excess_return_pct": -0.11
+          "n": 19,
+          "win_rate_pct": 52.6,
+          "mean_excess_return_pct": 1.26,
+          "median_excess_return_pct": 0.07
         },
         "TRANSFORMATIVE": {
-          "n": 10,
-          "win_rate_pct": 50.0,
-          "mean_excess_return_pct": -0.06,
-          "median_excess_return_pct": 0.45
+          "n": 13,
+          "win_rate_pct": 38.5,
+          "mean_excess_return_pct": -0.54,
+          "median_excess_return_pct": -1.56
         },
         "MODERATE": {
-          "n": 7,
-          "win_rate_pct": 57.1,
-          "mean_excess_return_pct": -0.4,
-          "median_excess_return_pct": 0.17
+          "n": 12,
+          "win_rate_pct": 50.0,
+          "mean_excess_return_pct": -0.92,
+          "median_excess_return_pct": -0.93
         },
         "MAJOR": {
           "n": 5,
@@ -98,9 +98,9 @@
     },
     "h20": {
       "overall": {
-        "n": 385,
+        "n": 391,
         "win_rate_pct": 53.5,
-        "mean_excess_return_pct": 1.92,
+        "mean_excess_return_pct": 1.91,
         "median_excess_return_pct": 0.59
       },
       "by_score_band": {
@@ -114,7 +114,7 @@
           "median_excess_return_pct": 4.26
         },
         "40-64": {
-          "n": 339,
+          "n": 345,
           "win_rate_pct": 51.3,
           "mean_excess_return_pct": 1.37,
           "median_excess_return_pct": 0.35
@@ -122,7 +122,10 @@
       },
       "by_materiality_source": {
         "PDF": {
-          "n": 0
+          "n": 4,
+          "win_rate_pct": 25.0,
+          "mean_excess_return_pct": 0.8,
+          "median_excess_return_pct": -1.2
         },
         "HEADLINE-ONLY": {
           "n": 0
@@ -133,18 +136,36 @@
           "n": 0
         },
         "not_super_signal": {
-          "n": 385,
+          "n": 391,
           "win_rate_pct": 53.5,
-          "mean_excess_return_pct": 1.92,
+          "mean_excess_return_pct": 1.91,
           "median_excess_return_pct": 0.59
         }
       },
       "by_materiality_label": {
         "UNKNOWN": {
-          "n": 385,
-          "win_rate_pct": 53.5,
+          "n": 387,
+          "win_rate_pct": 53.7,
           "mean_excess_return_pct": 1.92,
-          "median_excess_return_pct": 0.59
+          "median_excess_return_pct": 0.65
+        },
+        "SIGNIFICANT": {
+          "n": 1,
+          "win_rate_pct": 0.0,
+          "mean_excess_return_pct": -1.46,
+          "median_excess_return_pct": -1.46
+        },
+        "IMMATERIAL": {
+          "n": 2,
+          "win_rate_pct": 50.0,
+          "mean_excess_return_pct": 4.23,
+          "median_excess_return_pct": 4.23
+        },
+        "TRANSFORMATIVE": {
+          "n": 1,
+          "win_rate_pct": 0.0,
+          "mean_excess_return_pct": -3.78,
+          "median_excess_return_pct": -3.78
         }
       }
     },
