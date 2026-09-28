@@ -1,4 +1,24 @@
 {
   "capital": 1350000,
-  "trades": []
+  "trades": [
+    {
+      "symbol": "GOLDBEES",
+      "scanner": "Defensive Sleeve",
+      "book": "sleeve",
+      "rs_tier": null,
+      "sector": null,
+      "entry_price": 123.74,
+      "exit_price": 121.18,
+      "entry_date": "2026-09-15",
+      "exit_date": "2026-09-28",
+      "hold_days": 13,
+      "shares": 954.5947,
+      "pnl_pct": -2.11,
+      "pnl_inr": -2492.75,
+      "costs_inr": 22.29,
+      "r_multiple": null,
+      "exit_reason": "Below 200-DMA",
+      "month": "2026-09"
+    }
+  ]
 }
