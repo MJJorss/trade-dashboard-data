@@ -23,8 +23,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1991.7,
-      "unrealised_pct": 9.52
+      "current_price": 2001.7,
+      "unrealised_pct": 10.07
     },
     {
       "symbol": "TFCILTD",
@@ -49,8 +49,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 139.0,
-      "unrealised_pct": -0.17
+      "current_price": 138.7,
+      "unrealised_pct": -0.38
     },
     {
       "symbol": "ENTERO",
@@ -78,8 +78,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1774.5,
-      "unrealised_pct": 0.56
+      "current_price": 1770.9,
+      "unrealised_pct": 0.35
     },
     {
       "symbol": "MOREPENLAB",
@@ -107,11 +107,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 119.01,
-      "unrealised_pct": -2.8
+      "current_price": 118.74,
+      "unrealised_pct": -3.02
     }
   ],
-  "last_updated": "2026-09-29 13:16 IST",
+  "last_updated": "2026-09-29 15:02 IST",
   "closed_today_map": {
     "2026-09-29": [
       "SUDARSCHEM"
