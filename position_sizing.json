@@ -5,8 +5,8 @@
   "equity_curve_tier": 1,
   "drawdown_multiplier": 1.0,
   "fast_trigger_breached": false,
-  "fast_trigger_5day_pct": -1.52,
-  "last_updated": "2026-10-01 13:16 IST",
+  "fast_trigger_5day_pct": -2.04,
+  "last_updated": "2026-10-01 15:02 IST",
   "positions": [
     {
       "symbol": "LAURUSLABS",
@@ -21,9 +21,9 @@
       "recommended_qty": 78,
       "actual_capital_deployed": 89100,
       "actual_qty": 48,
-      "current_ltp": 1971.8,
-      "unrealized_pnl": 7358,
-      "unrealized_pnl_pct": 8.43,
+      "current_ltp": 1974.0,
+      "unrealized_pnl": 7464,
+      "unrealized_pnl_pct": 8.55,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -40,9 +40,9 @@
       "recommended_qty": 1019,
       "actual_capital_deployed": 184500,
       "actual_qty": 1325,
-      "current_ltp": 138.89,
-      "unrealized_pnl": -451,
-      "unrealized_pnl_pct": -0.24,
+      "current_ltp": 138.11,
+      "unrealized_pnl": -1484,
+      "unrealized_pnl_pct": -0.8,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -59,9 +59,9 @@
       "recommended_qty": 1159,
       "actual_capital_deployed": 195514,
       "actual_qty": 1596,
-      "current_ltp": 133.08,
-      "unrealized_pnl": 16981,
-      "unrealized_pnl_pct": 8.69,
+      "current_ltp": 133.26,
+      "unrealized_pnl": 17269,
+      "unrealized_pnl_pct": 8.84,
       "price_source": "live",
       "status": "OPEN"
     }
