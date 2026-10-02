@@ -3,7 +3,7 @@
   "config_cell": "SLEEVED",
   "config_hash": "a16973bb977dcae1",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-10-02 10:40",
+  "last_run_ist": "2026-10-02 14:40",
   "as_of": "2026-10-01",
   "test_run": false,
   "frames_fetched": 120,
@@ -28,5 +28,5 @@
     "match": true,
     "date": "2026-10-01"
   },
-  "runtime_s": 46.1
+  "runtime_s": 47.7
 }
