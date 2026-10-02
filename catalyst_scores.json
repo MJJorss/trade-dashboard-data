@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-10-03T02:03:00",
+ "generated_at": "2026-10-03T02:17:57",
  "as_of": "2026-10-03",
  "as_of_month": "2026-10",
  "stale_after_days": 21,
@@ -16,7 +16,7 @@
   "unresolved": [
    "HEG"
   ],
-  "read_this_run": 111,
+  "read_this_run": 0,
   "stopped": null,
   "status_counts": {
    "no_disclosure": 94,
@@ -217,7 +217,7 @@
    ],
    "mcap_cr": 10217.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "presentation",
@@ -291,7 +291,7 @@
    ],
    "mcap_cr": 2308.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -352,7 +352,7 @@
    ],
    "mcap_cr": 3929.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "May 2026",
     "kind": "presentation",
@@ -398,7 +398,7 @@
    ],
    "mcap_cr": 1799.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -1631,7 +1631,7 @@
    ],
    "mcap_cr": 6957.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -2289,7 +2289,7 @@
    ],
    "mcap_cr": 1198.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -2578,7 +2578,7 @@
    ],
    "mcap_cr": 9451.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "May 2026",
     "kind": "transcript",
@@ -2652,7 +2652,7 @@
    ],
    "mcap_cr": 1317.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -3061,7 +3061,7 @@
    ],
    "mcap_cr": 3108.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -3148,7 +3148,7 @@
    ],
    "mcap_cr": 1086.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -3313,7 +3313,7 @@
    ],
    "mcap_cr": 127810.0,
    "docs_read": 0,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "status": "pending",
    "trigger_score": null
   },
@@ -3343,7 +3343,7 @@
    ],
    "mcap_cr": 1989.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -3631,7 +3631,7 @@
    ],
    "mcap_cr": 2820.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -4888,7 +4888,7 @@
    ],
    "mcap_cr": 6524.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -5037,7 +5037,7 @@
    ],
    "mcap_cr": 1158.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -5557,7 +5557,7 @@
    ],
    "mcap_cr": 6152.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jun 2026",
     "kind": "presentation",
@@ -5699,7 +5699,7 @@
    ],
    "mcap_cr": 8095.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -5859,7 +5859,7 @@
    ],
    "mcap_cr": 1927.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "presentation",
@@ -5914,7 +5914,7 @@
    ],
    "mcap_cr": 6618.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -6256,7 +6256,7 @@
    ],
    "mcap_cr": 2327.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "May 2026",
     "kind": "transcript",
@@ -6795,7 +6795,7 @@
    ],
    "mcap_cr": 9234.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -6871,7 +6871,7 @@
    ],
    "mcap_cr": 2046.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jun 2026",
     "kind": "transcript",
@@ -6951,7 +6951,7 @@
    ],
    "mcap_cr": 11263.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -7010,7 +7010,7 @@
    ],
    "mcap_cr": 10801.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -7726,7 +7726,7 @@
    ],
    "mcap_cr": 3027.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -8311,8 +8311,8 @@
    },
    "summary": "A record order book of INR17,333 crore (45% higher year-on-year) plus the new EHV switchgear unit and the 45,000 MVA transformer plant starting up in the coming months drive Power Systems growth, with Kavach approvals expected within weeks.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "governance flag in the latest call",
+   "trigger_score": 55,
+   "override": null,
    "visibility": 80,
    "credibility": 50,
    "credibility_grade": "U",
@@ -8600,8 +8600,8 @@
    },
    "summary": "Cipla expects its US business to reach a $1 billion annualised exit run rate by March 2027 on Ventolin, three respiratory launches and one peptide launch, which should lift EBITDA margin to its 18.5-20% FY27 guidance from 16.7% in Q1.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "trigger_score": 57,
+   "override": null,
    "visibility": 66,
    "credibility": 50,
    "credibility_grade": "U",
@@ -8668,7 +8668,7 @@
    ],
    "mcap_cr": 8580.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -8764,7 +8764,7 @@
    ],
    "mcap_cr": 4918.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -8849,7 +8849,7 @@
    ],
    "mcap_cr": 3732.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -9125,7 +9125,7 @@
    ],
    "mcap_cr": 7617.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -9228,8 +9228,8 @@
    },
    "summary": "Growth rests on the 750,000-tonne granulation plant due in Q4 FY27 (Mar 2027) and the newly commissioned PA-SA plants, but fertilizer margins hinge on a pending NBS subsidy revision and elevated sulphur prices.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "trigger_score": 45,
+   "override": null,
    "visibility": 42,
    "credibility": 50,
    "credibility_grade": "U",
@@ -9407,7 +9407,7 @@
    ],
    "mcap_cr": 2230.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -9615,7 +9615,7 @@
    ],
    "mcap_cr": 4596.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -9849,7 +9849,7 @@
    ],
    "mcap_cr": 12168.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -10010,7 +10010,7 @@
    ],
    "mcap_cr": 3239.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -10073,7 +10073,7 @@
    ],
    "mcap_cr": 6700.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -10369,7 +10369,7 @@
    ],
    "mcap_cr": 2651.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -10482,7 +10482,7 @@
    ],
    "mcap_cr": 17216.0,
    "docs_read": 0,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "status": "pending",
    "trigger_score": null
   },
@@ -11367,7 +11367,7 @@
    ],
    "mcap_cr": 12952.0,
    "docs_read": 0,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "status": "pending",
    "trigger_score": null
   },
@@ -11493,7 +11493,7 @@
    ],
    "mcap_cr": 5193.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -11756,7 +11756,7 @@
    ],
    "mcap_cr": 1971.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -12273,7 +12273,7 @@
    ],
    "mcap_cr": 6831.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "presentation",
@@ -12855,7 +12855,7 @@
    ],
    "mcap_cr": 4875.0,
    "docs_read": 0,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "status": "pending",
    "trigger_score": null
   },
@@ -12870,7 +12870,7 @@
    ],
    "mcap_cr": 2244.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -13028,7 +13028,7 @@
    ],
    "mcap_cr": 7516.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "presentation",
@@ -13297,7 +13297,7 @@
    ],
    "mcap_cr": 2561.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -13631,7 +13631,7 @@
    ],
    "mcap_cr": 2508.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -13967,7 +13967,7 @@
    ],
    "mcap_cr": 2619.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -14545,7 +14545,7 @@
    ],
    "mcap_cr": 7890.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -14714,7 +14714,7 @@
    ],
    "mcap_cr": 11037.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -15058,7 +15058,7 @@
    ],
    "mcap_cr": 7861.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -15447,7 +15447,7 @@
    ],
    "mcap_cr": 5484.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -15527,7 +15527,7 @@
    ],
    "mcap_cr": 1063.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -15688,7 +15688,7 @@
    ],
    "mcap_cr": 4728.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Sep 2026",
     "kind": "transcript",
@@ -16116,7 +16116,7 @@
    ],
    "mcap_cr": 3781.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -16650,7 +16650,7 @@
    ],
    "mcap_cr": 7428.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -17011,7 +17011,7 @@
    ],
    "mcap_cr": 1837.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -17315,7 +17315,7 @@
    ],
    "mcap_cr": 4965.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -17610,8 +17610,8 @@
    },
    "summary": "The main trigger is Fairfax's proposed INR2,000 crore preferential investment (to reach at least 51% stake), expected to complete after regulatory approvals in roughly 2 to 3 months, while operating revenue stayed flat at INR631 crores.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "trigger_score": 51,
+   "override": null,
    "visibility": 42,
    "credibility": 50,
    "credibility_grade": "U",
@@ -17668,7 +17668,7 @@
    ],
    "mcap_cr": 6639.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -18051,7 +18051,7 @@
    ],
    "mcap_cr": 7145.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -18380,7 +18380,7 @@
    ],
    "mcap_cr": 1421.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -18623,7 +18623,7 @@
    ],
    "mcap_cr": 1753.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -18723,7 +18723,7 @@
    ],
    "mcap_cr": 1481.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "May 2026",
     "kind": "presentation",
@@ -19678,7 +19678,7 @@
    ],
    "mcap_cr": 12218.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -19863,7 +19863,7 @@
    ],
    "mcap_cr": 6318.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -20361,7 +20361,7 @@
    ],
    "mcap_cr": 10450.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -20952,7 +20952,7 @@
    ],
    "mcap_cr": 2846.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Sep 2026",
     "kind": "presentation",
@@ -21197,7 +21197,7 @@
    ],
    "mcap_cr": 6176.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -21283,7 +21283,7 @@
    ],
    "mcap_cr": 2548.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "presentation",
@@ -21427,7 +21427,7 @@
    ],
    "mcap_cr": 2227.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -21618,7 +21618,7 @@
    ],
    "mcap_cr": 3810.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -22109,7 +22109,7 @@
    ],
    "mcap_cr": 4139.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -22171,7 +22171,7 @@
    ],
    "mcap_cr": 7016.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -22445,8 +22445,8 @@
    },
    "summary": "CDMO commercial ramp (INR835 crore, up 69%) plus Vizag 400 KL fermentation Phase 1 by end-2026 and Krka JV facilities from early 2027 drive growth, backed by INR2,000 crore FY27 capex.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "a promise slipped by 2+ quarters",
+   "trigger_score": 50,
+   "override": null,
    "visibility": 66,
    "credibility": 58,
    "credibility_grade": "B",
@@ -22643,7 +22643,7 @@
    ],
    "mcap_cr": 1095.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -24142,7 +24142,7 @@
    ],
    "mcap_cr": 5246.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -24705,7 +24705,7 @@
    ],
    "mcap_cr": 5131.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -24760,7 +24760,7 @@
    ],
    "mcap_cr": 1107.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -25020,8 +25020,8 @@
    },
    "summary": "MCX gave no numeric guidance, only qualitative expectations of continued strong FY27 momentum driven by new products (Silver 100 Grams, electricity futures, index relaunch, coal exchange), with no dated milestones.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "trigger_score": 26,
+   "override": null,
    "visibility": 9,
    "credibility": 60,
    "credibility_grade": "B",
@@ -25338,7 +25338,7 @@
    ],
    "mcap_cr": 10582.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -25644,7 +25644,7 @@
    ],
    "mcap_cr": 2226.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -25741,7 +25741,7 @@
    ],
    "mcap_cr": 2760.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -26205,8 +26205,8 @@
    },
    "summary": "Management aims to sustain double-digit e-commerce growth, with new triggers (TReDS, EPR exchange, travel portal) all awaiting regulatory approvals and TReDS targeted within FY27.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "trigger_score": 33,
+   "override": null,
    "visibility": 9,
    "credibility": 50,
    "credibility_grade": "U",
@@ -26569,7 +26569,7 @@
    ],
    "mcap_cr": 65880.0,
    "docs_read": 0,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "status": "pending",
    "trigger_score": null
   },
@@ -26792,7 +26792,7 @@
    ],
    "mcap_cr": 2716.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -27116,7 +27116,7 @@
    ],
    "mcap_cr": 7005.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -27513,7 +27513,7 @@
    ],
    "mcap_cr": 4853.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Sep 2026",
     "kind": "transcript",
@@ -28083,7 +28083,7 @@
    ],
    "mcap_cr": 2405.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "May 2026",
     "kind": "transcript",
@@ -28322,7 +28322,7 @@
    ],
    "mcap_cr": 6603.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -28635,7 +28635,7 @@
    ],
    "mcap_cr": 7616.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -29633,7 +29633,7 @@
    ],
    "mcap_cr": 4377.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -29850,7 +29850,7 @@
    ],
    "mcap_cr": 2260.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jun 2026",
     "kind": "presentation",
@@ -30141,7 +30141,7 @@
    ],
    "mcap_cr": 4806.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Sep 2026",
     "kind": "presentation",
@@ -30544,7 +30544,7 @@
    ],
    "mcap_cr": 1321.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -31112,7 +31112,7 @@
    ],
    "mcap_cr": 2399.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "presentation",
@@ -31158,7 +31158,7 @@
    ],
    "mcap_cr": 3897.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -31271,7 +31271,7 @@
    ],
    "mcap_cr": 9812.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jun 2026",
     "kind": "transcript",
@@ -32875,7 +32875,7 @@
    ],
    "mcap_cr": 4689.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -33242,7 +33242,7 @@
    ],
    "mcap_cr": 9086.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Mar 2026",
     "kind": "transcript",
@@ -33745,7 +33745,7 @@
    ],
    "mcap_cr": 9855.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -35010,7 +35010,7 @@
    ],
    "mcap_cr": 5761.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -35205,7 +35205,7 @@
    ],
    "mcap_cr": 4587.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -36190,10 +36190,10 @@
    },
    "summary": "Q1 FY27 revenue of INR2,013 crore (up 78%) is already at an annualised run rate near the INR8,100 crore FY27 target, which management holds until a possible revision after Diwali, with a longer-term target of INR18,000-19,000 crore by FY30.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "a promise slipped by 2+ quarters",
+   "trigger_score": 64,
+   "override": null,
    "visibility": 90,
-   "credibility": 10,
+   "credibility": 30,
    "credibility_grade": "C",
    "priced_in": 49,
    "fwd_pe": 31.7,
@@ -36260,6 +36260,12 @@
      "slip_months": 0
     },
     {
+     "text": "Reach exports at 15-20% of sales by March 2027",
+     "due": "2027-03",
+     "made": "2025-11",
+     "slip_months": 0
+    },
+    {
      "text": "Revenue of INR 8,100 crore in FY27 with about 750 kg average monthly volume",
      "due": "2027-03",
      "made": "2026-02",
@@ -36282,12 +36288,6 @@
      "due": "2027-03",
      "made": "2026-08",
      "slip_months": 0
-    },
-    {
-     "text": "Reach exports at 15-20% of sales by March 2027",
-     "due": "2030-03",
-     "made": "2025-11",
-     "slip_months": 36
     },
     {
      "text": "INR 945 crore PAT and net debt-free position by 2030",
@@ -36321,7 +36321,7 @@
     }
    ],
    "promises_met": 3,
-   "promises_slipped": 2,
+   "promises_slipped": 1,
    "flags": [
     {
      "type": "other",
@@ -36348,7 +36348,7 @@
    ],
    "mcap_cr": 1845.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Sep 2026",
     "kind": "transcript",
@@ -37120,7 +37120,7 @@
    ],
    "mcap_cr": 2427.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -37436,7 +37436,7 @@
    ],
    "mcap_cr": 75292.0,
    "docs_read": 0,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "status": "pending",
    "trigger_score": null
   },
@@ -38245,7 +38245,7 @@
    ],
    "mcap_cr": 3636.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -38319,7 +38319,7 @@
    ],
    "mcap_cr": 1207.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -38698,7 +38698,7 @@
    ],
    "mcap_cr": 1135.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -38912,7 +38912,7 @@
    ],
    "mcap_cr": 1788.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -39014,7 +39014,7 @@
    ],
    "mcap_cr": 4043.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -39290,7 +39290,7 @@
    ],
    "mcap_cr": 6562.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "May 2026",
     "kind": "transcript",
@@ -40559,8 +40559,8 @@
    },
    "summary": "Management raised FY27 guidance (advances growth 21-22%, deposits about 18%, total business about 20%, ROA over 2%, ROE 15%) after a record Q1 with 23% business growth, with MSME and non-gold retail expected to offset slowing gold loan growth through FY27.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "trigger_score": 66,
+   "override": null,
    "visibility": 61,
    "credibility": 50,
    "credibility_grade": "U",
@@ -40884,7 +40884,7 @@
    ],
    "mcap_cr": 7183.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -41285,7 +41285,7 @@
    ],
    "mcap_cr": 8476.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -41576,7 +41576,7 @@
    ],
    "mcap_cr": 11592.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -41699,7 +41699,7 @@
    ],
    "mcap_cr": 7830.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -41888,8 +41888,8 @@
    },
    "summary": "Management expects India volume growth of 20% plus to continue after June, helped by new capacity, the Twizza acquisition and the new Calpis dairy line, but gives no dated targets.",
    "status": "scored",
-   "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "trigger_score": 44,
+   "override": null,
    "visibility": 42,
    "credibility": 50,
    "credibility_grade": "U",
@@ -42065,7 +42065,7 @@
    ],
    "mcap_cr": 2245.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -42157,7 +42157,7 @@
    ],
    "mcap_cr": 7897.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "May 2026",
     "kind": "transcript",
@@ -42305,7 +42305,7 @@
    ],
    "mcap_cr": 1727.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "May 2026",
     "kind": "transcript",
@@ -42769,7 +42769,7 @@
    ],
    "mcap_cr": 10791.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -42981,7 +42981,7 @@
    ],
    "mcap_cr": 5068.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
@@ -43063,7 +43063,7 @@
    ],
    "mcap_cr": 3979.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Jul 2026",
     "kind": "transcript",
@@ -43591,7 +43591,7 @@
    ],
    "mcap_cr": 2275.0,
    "docs_read": 1,
-   "pending_docs": 1,
+   "pending_docs": 0,
    "latest_doc": {
     "date": "Aug 2026",
     "kind": "transcript",
