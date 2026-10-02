@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T14:41:05.783373",
+  "generated_at": "2026-10-02T10:37:35.887106",
   "scan_window_days": 365,
   "signals": [
     {
@@ -464,7 +464,7 @@
       "current_close": 31.75,
       "depth_pct": 29.59,
       "is_contracting": true,
-      "volume_ratio": 0.91,
+      "volume_ratio": 0.92,
       "post_listing_high": 45.09,
       "symbol": "BHARATCOAL",
       "company": "Bharat Coking Coal Limited",
@@ -578,7 +578,7 @@
       "current_close": 608.65,
       "depth_pct": 20.42,
       "is_contracting": true,
-      "volume_ratio": 2.25,
+      "volume_ratio": 2.26,
       "post_listing_high": 764.85,
       "symbol": "OMNI",
       "company": "Omnitech Engineering Limited",
@@ -662,7 +662,7 @@
       "current_close": 589.15,
       "depth_pct": 12.97,
       "is_contracting": true,
-      "volume_ratio": 1.14,
+      "volume_ratio": 1.15,
       "post_listing_high": 676.95,
       "symbol": "POWERICA",
       "company": "Powerica Limited",
@@ -830,7 +830,7 @@
       "current_close": 523.05,
       "depth_pct": 16.23,
       "is_contracting": true,
-      "volume_ratio": 0.65,
+      "volume_ratio": 0.66,
       "post_listing_high": 624.4,
       "symbol": "CMLL",
       "company": "Caliber Mining and Logistics Limited",
@@ -1109,8 +1109,8 @@
       "traded_value_cr": 66.26,
       "extended_move": false,
       "extended_move_pct": -3.91,
-      "lockup_risk": true,
-      "lockup_milestone_days": 30
+      "lockup_risk": false,
+      "lockup_milestone_days": null
     },
     {
       "status": "WATCHING",
@@ -1127,8 +1127,8 @@
       "traded_value_cr": 83.94,
       "extended_move": false,
       "extended_move_pct": 3.69,
-      "lockup_risk": true,
-      "lockup_milestone_days": 30
+      "lockup_risk": false,
+      "lockup_milestone_days": null
     },
     {
       "status": "WATCHING",
@@ -1190,7 +1190,7 @@
       "current_close": 1198.0,
       "depth_pct": 3.85,
       "is_contracting": true,
-      "volume_ratio": 2.58,
+      "volume_ratio": 2.59,
       "post_listing_high": 1246.0,
       "symbol": "SYMBIOTEC",
       "company": "Symbiotec Pharmalab Limited",
