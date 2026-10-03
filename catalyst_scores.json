@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-10-03T02:17:57",
+ "generated_at": "2026-10-03T12:38:34",
  "as_of": "2026-10-03",
  "as_of_month": "2026-10",
  "stale_after_days": 21,
@@ -57,6 +57,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -141,6 +144,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -237,6 +243,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -311,6 +320,9 @@
    "guidance_quote": "Our long-term philosophy remains the same, the Rule of 50, the sustained annual revenue growth above 30%, together with EBITDA margins of 20% or higher.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -372,6 +384,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -418,6 +433,9 @@
    "guidance_quote": "In that case, yes, that overall today's top line, if you consider, we would be able to achieve 30% growth.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -500,6 +518,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -570,6 +591,9 @@
    "guidance_quote": "CDMO, we have guided and we are continuing to hold on our guidance of 40-50% growth over last year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -704,6 +728,9 @@
    "guidance_quote": "Overall, we expect the top line to grow in line with the stated guidance of mid-teens. We will continue to invest behind our core brands, super-premium to luxury portfolio and organizational capabilities",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -820,6 +847,9 @@
    "guidance_quote": "We had mentioned in the last con call also that sometime for end of September, we would like to give a full year growth target with respect to our revenue. and we still maintain that.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -923,6 +953,9 @@
    "guidance_quote": "We are upgrading our BESS commissioning guidance from 10 gigawatt hour by calendar year 2027 to more than 10 gigawatt hour by fiscal year 2027, effectively bringing forward this milestone by nearly 3 quarters.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -1014,6 +1047,9 @@
    "guidance_quote": "I remain confident of delivering 25% revenue growth for the full year with stable margins.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -1127,6 +1163,9 @@
    "guidance_quote": "So is there any chance like would you want to revisit your EBITDA guidance, like which already is like INR25,000 to INR26,000? See, the point is, there are so much uncertainties because of geopolitical situation",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -1223,6 +1262,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -1327,6 +1369,9 @@
    "guidance_quote": "With strong business momentum, we remain well positioned to deliver revenue upwards of INR900 crores in financial year 27 while maintaining healthy high-teen EBITDA margins.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -1427,6 +1472,9 @@
    "guidance_quote": "We believe that year-on-year, we would always clock a worst- case scenario growth in the logistics volume of around 25%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -1530,6 +1578,9 @@
    "guidance_quote": "We like to at least grow in our volumes 25% year- on-year every year. That's our hope. That's how we work for.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -1651,6 +1702,9 @@
    "guidance_quote": "the target for the company overall is to achieve an EBITDA margin of 25% in the next few years, and we are right now on track to achieve that.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -1745,6 +1799,9 @@
    "guidance_quote": "Our core specialty and CRAMS plus CEM business is delivering 25% to 30% compounding growth you have come to expect.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -1841,6 +1898,9 @@
    "guidance_quote": "if the analysts are modeling us at 20% growth, they should derive confidence from the fact that 95% of business is actually growing at 25%+.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -1919,6 +1979,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -2012,6 +2075,9 @@
    "guidance_quote": "FY27 we are expec ng as even last earnings call and last mee ng also men oned that we are expec ng somewhere around between 350 to 400 CR.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -2138,6 +2204,9 @@
    "guidance_quote": "We remain focused on delivering our growth momentum of high teens for the whole year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -2206,6 +2275,9 @@
    "guidance_quote": "Zambia is something we expect in the H2 that we deliver for this fiscal, the $25 million, which will roughly translate to almost INR240-odd crores in our revenue.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -2309,6 +2381,9 @@
    "guidance_quote": "I can see a growth of approximately 12% to 15% coming in this financial year, which is neutralized to the material effect. So, this is not because of the inflation",
    "order_book_cr": 8450.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.38,
    "capacity": [
     {
@@ -2405,6 +2480,9 @@
    "guidance_quote": "We are guiding for revenue growth of 10% to 12% in FY '27 with growth skewed towards H2 FY '27. We also remain confident of sustaining EBITDA margins in the 30% to 32% range.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -2499,7 +2577,7 @@
    "summary": "India growth is guided at about 12% for FY27 with Trade Generics expected to recover in coming quarters, while Occlutech adds about INR400 crores of sales from mid-July 2026 and the Daman OAI and US CDMO losses weigh on the outlook.",
    "status": "scored",
    "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "override": "regulatory: Daman facility, which supplies about 45% of US revenue, received USFDA OAI status; managem",
    "visibility": 42,
    "credibility": 50,
    "credibility_grade": "U",
@@ -2510,6 +2588,9 @@
    "guidance_quote": "Round about what we told last time, but we could better that by, say, 100 basis points.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -2598,6 +2679,9 @@
    "guidance_quote": "We expect that the next year will be like a normal year, which is about 5% to 10% growth rate, but there is too much uncertainty in the future.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -2672,6 +2756,9 @@
    "guidance_quote": "So, we are expecting at least 15% to 20% growth in FY27",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -2771,6 +2858,9 @@
    "guidance_quote": "During the first quarter of FY27, we have achieved 24% of full year revenue guidance of INR1,415 crores and 25% of its full year PAT guidance of INR460 crores.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -2833,6 +2923,9 @@
    "guidance_quote": "Expected to reach 63 MW IT load capacity by the end of FY 27.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -2930,6 +3023,9 @@
    "guidance_quote": "Our guidance of reaching 2,500 boepd in FY'27 remains intact, as impact from Frac will be seen from Q2 onwards",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -3022,6 +3118,9 @@
    "guidance_quote": null,
    "order_book_cr": 10190.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.42,
    "capacity": [],
    "promises_open": [],
@@ -3081,6 +3180,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -3168,6 +3270,9 @@
    "guidance_quote": "we have estimated the current year production to be around 12,000 metric tons. We are working in that direction of around 12,000 metric tons for this year-end.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -3246,6 +3351,9 @@
    "guidance_quote": "we have been giving guidance earlier, we continue to stand by the same guidance as far as the growth is concerned. Somewhere in between 40% to 45% is the continued growth",
    "order_book_cr": 1704.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.67,
    "capacity": [
     {
@@ -3363,6 +3471,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -3426,6 +3537,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -3478,6 +3592,9 @@
    "guidance_quote": "Yes. So over the next 2 to 3 years can we achieve around 23%-24% in Gurgaon only? Yes. The answer is yes.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -3569,6 +3686,9 @@
    "guidance_quote": "we should be able to grow in the mid-teens rather than 10%. That is our ambition going forward.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -3651,6 +3771,9 @@
    "guidance_quote": "We continue to hold our guidance for the full year FY27. So we expect to reach a bookings growth of 35% to 40% over previous year, business development",
    "order_book_cr": 3825.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.9,
    "capacity": [],
    "promises_open": [
@@ -3742,6 +3865,9 @@
    "guidance_quote": "So reported revenues in Slide 15 of the deck, we have given an indication of how much we expect to report this year. And this year is expected around about INR2,000 crores of revenue.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -3828,6 +3954,9 @@
    "guidance_quote": "We are still garnering around the guidance of 18-20% of our PBDIT margins holds.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -3912,6 +4041,9 @@
    "guidance_quote": "We are confident that we will continue to grow not only in mid-teens, but we will be now growing for the full year in high teens.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -4013,6 +4145,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -4110,6 +4245,9 @@
    "guidance_quote": "we maintain that 40% CAGR growth year-on-year in the revenue terms. So last year was INR1,851, and we can put a 40% year-on-year growth on that number for this year.",
    "order_book_cr": 3116.63,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.56,
    "capacity": [
     {
@@ -4227,6 +4365,9 @@
    "guidance_quote": "We continue to reiterate our FY27 guidance to double-digit revenue growth, with EBITDA margins north of 21% and absolute EBITDA in excess of 8000, with potential upside driven by positive outperformance",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -4351,6 +4492,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -4427,6 +4571,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -4478,6 +4625,9 @@
    "guidance_quote": "we are revising our FY27 revenue growth guidance upward from 24 to 27% to 26 to 30%",
    "order_book_cr": 2208.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.25,
    "capacity": [
     {
@@ -4563,6 +4713,9 @@
    "guidance_quote": "But still, we can give you a fairly good guidance of 8% to 10% of margin.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -4656,6 +4809,9 @@
    "guidance_quote": "We are, we are committing back to our guidance that we had made originally at the, at the beginning of this financial year, which is of 1,377 crore revenue in FY27",
    "order_book_cr": 4557.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.88,
    "capacity": [
     {
@@ -4792,6 +4948,9 @@
    "guidance_quote": "We proudly reiterate our long-term annual revenue growth guidance of over 25%, while maintaining our stellar industry-leading profitability profile.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -4908,6 +5067,9 @@
    "guidance_quote": "our aspiration is to deliver consistent year-on-year double-digit growth, and hence that comment needs to be seen in that light, rather than as to a guidance of what the next quarter growth number would be.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -4967,6 +5129,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -5057,6 +5222,9 @@
    "guidance_quote": "So we can -- the growth rate is around 10% to 15% for the next this quarter, this year 2027.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -5165,6 +5333,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -5266,6 +5437,9 @@
    "guidance_quote": "Definitely, you have not heard fully. I said the situation goes like this. We will be definitely reaching INR3,000 crores in 2028.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -5398,6 +5572,9 @@
    "guidance_quote": "So I just had a clarification on the capex. If we look at the plan until 2030 to get INR23,000 crores of top line, what would the total capital expenditure be",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -5494,6 +5671,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -5577,6 +5757,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -5632,6 +5815,9 @@
    "guidance_quote": "As a matter of policy, as you know, we do not provide any forecast about the future business situation, and we do not comment on or give guidance on future results or business outlook.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -5719,6 +5905,9 @@
    "guidance_quote": "we don't give forward-looking guidance, right? So I'm not able to give what you're asking for. But we are reasonably optimistic.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -5795,6 +5984,9 @@
    "guidance_quote": "Revenue, we should do between INR7,800 crores to INR8,000 crores, which is a growth of 23% to 27%.",
    "order_book_cr": 8360.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.26,
    "capacity": [],
    "promises_open": [
@@ -5879,6 +6071,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -5934,6 +6129,9 @@
    "guidance_quote": "Percy, our full year projection continues that we are targeting to hit around mid-teens kind of growth. There is a seasonality also which makes a difference. So we still stick to our projections of mid-teens 17-19",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -6024,6 +6222,9 @@
    "guidance_quote": "What we are guiding for is the business as a whole, which is for Belrise as a whole, which is mid-teens revenue growth with stable EBITDA margins.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -6133,6 +6334,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -6200,6 +6404,9 @@
    "guidance_quote": "Business outlook for nancial year 27, double-digit revenue growth expected to sustain, supported by the full quarter impact of price increases in quarter two.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -6276,6 +6483,9 @@
    "guidance_quote": "So outlook will be same. We will continue to grow at 20% to 25% annually. We have set a vision of Vision 2030 where we want to double our sales, rather more than double our sales in next",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -6413,6 +6623,9 @@
    "guidance_quote": "So, because of the first two months, we were earlier predicting around 15%. Because of the loss of volume in the first two months, we are looking at slightly lower than 15%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -6532,6 +6745,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -6602,6 +6818,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -6672,6 +6891,9 @@
    "guidance_quote": "we are getting very good response from our organized retailers seeing good growth and maintaining 15% plus growth overall this year. That's what overall target is.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -6815,6 +7037,9 @@
    "guidance_quote": "our target is to grow 15% to 20% for the next 5 years. And if you see the first quarter numbers, we have surpassed that.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -6891,6 +7116,9 @@
    "guidance_quote": "as far as I understand the guidance of Rs. 3000 crores which was given in last con-call, we are intact on that. Am I right sir? You are right.",
    "order_book_cr": 1100.0,
    "order_book_from": "Jun 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.01,
    "capacity": [
     {
@@ -6971,6 +7199,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -7030,6 +7261,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -7146,6 +7380,9 @@
    "guidance_quote": "deliver the targets that we have set off for ourselves, which is essentially almost 30% or so SSSG over the next four years and along with distribution growth taking the overall revenue to around INR 12,000 crores number in the next four years.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -7238,6 +7475,9 @@
    "guidance_quote": "For FY27, excluding our investment businesses: we intend to cross of over INR4,700 crores of revenue, growing 42% year-on-year, EBITDA of over INR200 crores, growing by 65% year-on-year",
    "order_book_cr": 5200.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.47,
    "capacity": [],
    "promises_open": [
@@ -7339,6 +7579,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -7417,6 +7660,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -7494,6 +7740,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -7600,6 +7849,9 @@
    "guidance_quote": "Given our current order load and forecasts from customers, the growth could be 15% without the sales from Foskor and Awuko in both the periods.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -7684,6 +7936,9 @@
    "guidance_quote": "Part of this gives us the confidence on the guidance we gave in an earnings call earlier of achieving INR1,000 crores profit over the next 4 to 5 years.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -7746,6 +8001,9 @@
    "guidance_quote": "we continue to maintain our revenue guidance of 15% and the upper side of the 18% to 20% EBITDA margin.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -7854,6 +8112,9 @@
    "guidance_quote": "our direction on maintaining our EBITDA margin at 21% to 24%. These are the 2 parameters within which we run the business.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -7913,6 +8174,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -7972,6 +8236,9 @@
    "guidance_quote": "Revenue should be at least 25% more than this year. And order book this year, we have secured around INR19,000 crores, you can see more than that, maybe INR25,000 crores is our target.",
    "order_book_cr": 29000.0,
    "order_book_from": "May 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 2.84,
    "capacity": [],
    "promises_open": [
@@ -8050,6 +8317,9 @@
    "guidance_quote": "So we still maintain the similar trend of about 25% on the revenue growth for this year. And for next year also, that's the visibility that we see as of now.",
    "order_book_cr": 1800.0,
    "order_book_from": "Sep 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.7,
    "capacity": [
     {
@@ -8130,6 +8400,9 @@
    "guidance_quote": "Currently, we have stopped giving guidance. The reason we have stopped giving guidance is because the situation is very volatile.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -8217,6 +8490,9 @@
    "guidance_quote": "confident of revising our AUM target to INR65,000 crores by FY28 and consistent return on average equity of 19% to 21% and return on average asset about 4.2% to 4.7%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -8323,6 +8599,9 @@
    "guidance_quote": null,
    "order_book_cr": 17333.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.35,
    "capacity": [
     {
@@ -8417,6 +8696,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -8538,6 +8820,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -8612,6 +8897,9 @@
    "guidance_quote": "if you can comment on your earlier guidance for the EBITDA margins of 18.5% to 20% for FY27. Any change there, or it, again, remains broadly unchanged?",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -8688,6 +8976,9 @@
    "guidance_quote": "I told you in terms of revenue this year, the target is between INR250 crores to INR300 crores, okay? So that could be around 30% to 35% of overall revenue growth.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -8784,6 +9075,9 @@
    "guidance_quote": "Look this 25% growth guidance is basically based on we are building two more plants.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -8869,6 +9163,9 @@
    "guidance_quote": "So we are setting our full year services revenue goal at INR2,650 crores to INR2,750 crores against the INR2,700 crores to INR2,800 crores earlier.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -8965,6 +9262,9 @@
    "guidance_quote": "The outlook for FY27 that we had shared last quarter remains unchanged. We are confident of achieving an EBITDA margin of 20.5 to 21% on a consolidated basis.",
    "order_book_cr": 19624.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.08,
    "capacity": [],
    "promises_open": [
@@ -9061,6 +9361,9 @@
    "guidance_quote": "So, in terms of percentage, we will increase our revenue and PAT by, say, quarter-on-quarter 10% to 15%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -9145,6 +9448,9 @@
    "guidance_quote": "We expect a year of revenue and earnings growth driven by consumer preference for our cruise brand and expanding our new destinations.",
    "order_book_cr": 65.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -9240,6 +9546,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -9351,6 +9660,9 @@
    "guidance_quote": "our FY27 guidance remains unchanged. We continue to target 15% organic revenue growth and about 1.5% to 2% inorganic revenue growth resulted about 17% revenue growth and 20% PAT growth",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -9427,6 +9739,9 @@
    "guidance_quote": "The Company expects topline to grow by about 20% in FY26-27 on overall basis with commensurate increase in bottom-line. Further four new businesses are expected to grow about 60%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -9539,6 +9854,9 @@
    "guidance_quote": "FY 30, we'll touch the USD 100 million, whatever the first initial target. So we may see that increasing if new order wins are there with the same customers and similar product lines",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -9635,6 +9953,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -9690,6 +10011,9 @@
    "guidance_quote": "With respect to advances, we should be 2%-3% over and above the credit growth of the industry. Our focus on MSME will remain the same.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -9783,6 +10107,9 @@
    "guidance_quote": "we are confident of sustaining this growth trajectory and achieving our FY27 revenue target of Rs 600 Cr with net margins above 30%, as we continue to build a scalable and globally competitive business",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -9869,6 +10196,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -9951,6 +10281,9 @@
    "guidance_quote": "we had taken a target of a double-digit growth in the current year, and we maintain that we will have a double-digit growth in the current year revenue.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -10030,6 +10363,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -10093,6 +10429,9 @@
    "guidance_quote": "At the same time, let me reiterate that our guidance on our revenue of 30%-40% also remains on track. So, none of our guidance that we had in the last quarter has changed",
    "order_book_cr": 27691.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 3.17,
    "capacity": [
     {
@@ -10197,6 +10536,9 @@
    "guidance_quote": "We said, and it's not like a in the next 6 to 9 months. It is exactly in the year 2026-2027, 13.5. We also said in the year 2027-2028, 14.5.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -10302,6 +10644,9 @@
    "guidance_quote": null,
    "order_book_cr": 1000.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.07,
    "capacity": [
     {
@@ -10389,6 +10734,9 @@
    "guidance_quote": "On a volume basis, we have considered a growth of 15%. So most important, I will say, aspect of tracking the growth will be to track the volume growth.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -10517,6 +10865,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -10608,6 +10959,9 @@
    "guidance_quote": "on a stand-alone basis, we are not -- we are expecting growth of somewhere around 18% to 20% in this current financial year with a consolidated growth of more than 25%.",
    "order_book_cr": 3047.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 3.14,
    "capacity": [
     {
@@ -10707,6 +11061,9 @@
    "guidance_quote": "On an overall basis, considering overall things, we are confident of delivering another strong year of 25%-30% of growth.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -10771,6 +11128,9 @@
    "guidance_quote": "So, we are expecting to grow at around 20% in FY'27, '28 and continuously for next 3 years-4 years and we try to expect ourselves to double in next 3 years.",
    "order_book_cr": 209.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.48,
    "capacity": [
     {
@@ -10854,6 +11214,9 @@
    "guidance_quote": "our first order of business is to work out a roadmap to get to the first 1,000. And that is what we are engaged in.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -10948,6 +11311,9 @@
    "guidance_quote": "I would like to stick to my statement saying that we will show double-digit growth no matter what.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -11022,6 +11388,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -11123,6 +11492,9 @@
    "guidance_quote": "Internally, we are planning for approximately 10% volume growth, and that remains our broad target for both FY27 and FY28. Our key focus continues to be on driving sustainable volume growth across the business.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -11218,6 +11590,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -11273,6 +11648,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -11332,6 +11710,9 @@
    "guidance_quote": "we would like to revise our revenue guidance from earlier 25% to 30% and at the PAT level margin growth, we would like to increase it from 0.5% to 0.75% -1%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -11402,6 +11783,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -11513,6 +11897,9 @@
    "guidance_quote": "we have in the past also mentioned that, you know, we expect this business to stabilize at 40% or higher EBITDA margins.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -11597,6 +11984,9 @@
    "guidance_quote": "Given our strength of performance in Q1 and visibility we have, particularly on some of the order book on the ARV segment, etc., we think that in terms of the overall top line guidance, we're more comfortable being at the higher end of the guidance",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -11681,6 +12071,9 @@
    "guidance_quote": "So on an overall number, we can look at a good 18% to 20% kind of revenue growth. That should be very easily achievable. So that is what we have in mind.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -11776,6 +12169,9 @@
    "guidance_quote": "the whole year revenue, we are looking at the same at par revenue, which was in FY'2024-2025, that is of the order of Rs. 900 crores to Rs. 950 crores.",
    "order_book_cr": 2329.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 3.58,
    "capacity": [],
    "promises_open": [
@@ -11850,6 +12246,9 @@
    "guidance_quote": "in the last year, we were having total turnover of INR3,850 crores. This time, we are targeting at least 10% growth -- and we are keeping close watch on the progress of the projects.",
    "order_book_cr": 14424.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 3.72,
    "capacity": [],
    "promises_open": [
@@ -11931,6 +12330,9 @@
    "guidance_quote": "as known, we do not disclose numbers, forward guidance, so then here we cannot comment.",
    "order_book_cr": 18400.0,
    "order_book_from": "May 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.95,
    "capacity": [
     {
@@ -12019,6 +12421,9 @@
    "guidance_quote": "We remain firmly committed to our stated FY27 guidance of consolidated revenue growth of approximately 23% year-on-year, excluding any contribution from new acquisitions, alongside an EBITDA margin of 5%",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -12108,6 +12513,9 @@
    "guidance_quote": "ROA, we expect that it will be 2% by year-end. Okay. So, 2% of an ROA by FY27 end, right? Yes.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -12219,6 +12627,9 @@
    "guidance_quote": "we now have higher visibility on margins and we think at this point we're likely to end at the higher end of the range that we had guided earlier and hence, the communication.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -12293,6 +12704,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -12357,6 +12771,9 @@
    "guidance_quote": "you gave a guidance last quarter that of USD 100 million in FY27 and USD 200 million in FY28 from this segment",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -12445,6 +12862,9 @@
    "guidance_quote": "See, the top line guidance depends on the raw material prices. It's very difficult to -- and we have given it on a certain raw material prices. I can be more sure about my bottom line rather than the top line.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -12558,6 +12978,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -12665,6 +13088,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -12716,6 +13142,9 @@
    "guidance_quote": "While we did about INR1,500 crores in the first quarter, even assuming the same run rate for the next 3 quarters and adding a 10% on top of it because the next few quarters, obviously, the numbers will be higher.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -12809,7 +13238,7 @@
    "summary": "There is no growth trigger in this call, which covers only the Delhi High Court forensic audit order. The court set a roughly six-month audit timeline, and management said its capex, bed expansion and M&A plans are unaffected.",
    "status": "scored",
    "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "override": "regulatory: Delhi High Court ordered a forensic audit covering the erstwhile promoters' share dissipat",
    "visibility": 0,
    "credibility": 50,
    "credibility_grade": "U",
@@ -12820,6 +13249,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -12890,6 +13322,9 @@
    "guidance_quote": "This year, our target was somewhere around INR800 crores. I think we are in line to achieve that. We will cross that hopefully.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -12958,6 +13393,9 @@
    "guidance_quote": "So INR50,000 crores, we will be targeting in 2030. That is what our plan is. And when we look at it, Gabriel becomes definitely the key entity for bringing these growth opportunities.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -13048,6 +13486,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -13127,6 +13568,9 @@
    "guidance_quote": "20% to 25% guidance we always maintain, and we try to achieve that. So we are as of now quite sure we will be achieving or crossing that.",
    "order_book_cr": 110.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.34,
    "capacity": [
     {
@@ -13239,6 +13683,9 @@
    "guidance_quote": "we maintain our volume guidance at 6% to 8% for the full-year FY26-27, but I, however, increased the range of the EBITDA per metric ton guidance from the current INR 19,000 to INR 21,000 per metric ton to INR 24,000 to INR 25,000 per metric ton.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -13317,6 +13764,9 @@
    "guidance_quote": "We are hopeful of the margins remaining at this level or around this level. The current quarter looks good. And we are hopeful of it carrying forward at these levels for the whole year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -13388,6 +13838,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -13451,6 +13904,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -13533,6 +13989,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -13596,6 +14055,9 @@
    "guidance_quote": "We are not forecasting the market. We don't give earnings guidance either.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -13651,6 +14113,9 @@
    "guidance_quote": "So, the growth guidance is intact for FY27 of doubling, right? We are definitely on that track only.",
    "order_book_cr": 541.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.29,
    "capacity": [],
    "promises_open": [
@@ -13728,6 +14193,9 @@
    "guidance_quote": "While the current year, we still - - with the constant currency, we're still estimating - - we're not estimating, but probably 15% is clearly achievable.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -13824,6 +14292,9 @@
    "guidance_quote": "we expect our S&A ratios to normalize to historical as you move through the year and EBITDA margins to be roughly what we were at last year in 34% kind of range.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -13903,6 +14374,9 @@
    "guidance_quote": "I think on a full year basis, what we've guided to that 21%, 22% will clearly be there, right, on the overall margin of the company.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -13987,6 +14461,9 @@
    "guidance_quote": "Our guidance on margin per litre is about INR5 to INR7. We are firmly within that in Q1. Going forward, I'm expecting similar range-bound performance in this business.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -14071,6 +14548,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -14170,6 +14650,9 @@
    "guidance_quote": "We had given a guidance of roughly around mid-teens. So again, I said, a lot will depend on the assessment we can take on the Crop Care business impact towards the second half.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -14276,6 +14759,9 @@
    "guidance_quote": "We'll certainly exceed it on revenue growth pretty significantly. On EBITDA, we may exceed by a little bit the original number that we had set of double-digit EBITDA growth may go up a little bit.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -14349,6 +14835,9 @@
    "guidance_quote": "We maintain our guidance that it should be 15% to 20%.",
    "order_book_cr": 300.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.07,
    "capacity": [
     {
@@ -14565,6 +15054,9 @@
    "guidance_quote": "In terms of overall financial year outlook, we now are looking at an overall EBIT growth between 20 and 24% year on year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -14664,6 +15156,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -14734,6 +15229,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -14838,6 +15336,9 @@
    "guidance_quote": "in the Greaves.Next strategy, which we launched a few quarters ago, we called out that our aim is to grow on a 16% to 20% CAGR for the next few years. So we stick by that.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -14920,6 +15421,9 @@
    "guidance_quote": "We are confident to achieve the target of 10% volume growth in plywood and 25% to 30% volume growth in MDF segment for the full year",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -15032,6 +15536,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -15078,6 +15585,9 @@
    "guidance_quote": "quarter 1, we have been able to achieve 30% plus. But for the year, our guidance remains the same, around 15% to 20%.",
    "order_book_cr": 25300.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 2.75,
    "capacity": [],
    "promises_open": [
@@ -15179,6 +15689,9 @@
    "guidance_quote": "Accordingly, we reaffirm our guidance of achieving over INR2,500 crores in revenue for FY27 while maintaining EBITDA margin in the range of 25% plus/minus 2%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -15275,6 +15788,9 @@
    "guidance_quote": "15% to 20% is what we commit to you that would be a bare minimum.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -15377,6 +15893,9 @@
    "guidance_quote": "I think we stick to our guidance last time we gave around INR1,100 crores of profit from the gas trading business. That still remains.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -15467,6 +15986,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -15547,6 +16069,9 @@
    "guidance_quote": "Overall, our outlook for FY27 remains unchanged. We continue to expect consolidated revenues in the range of INR2,600 crores, and within this, we expect the ethanol business to contribute revenue",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -15632,6 +16157,9 @@
    "guidance_quote": "So Amit, we maintain our guidance of mid-20s EBITDA for the year. There is no reason that we should deviate from that right now.",
    "order_book_cr": 20930.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 3.12,
    "capacity": [
     {
@@ -15708,6 +16236,9 @@
    "guidance_quote": "This transaction between Happiest Minds and ITC Infotech significantly accelerates our vision of becoming USD1 billion revenue Company, moving our target which was for FY31 to FY28.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -15779,6 +16310,9 @@
    "guidance_quote": "We continue to expect the business to deliver high teen volume growth during the year while maintaining EBITDA margins broadly in line with FY26 levels, with potential for further improvement.",
    "order_book_cr": 950.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.58,
    "capacity": [
     {
@@ -15914,6 +16448,9 @@
    "guidance_quote": "Looking ahead, we are retaining our guidance of 1% to 4% and margin guidance of 17.5% to 18.5% for FY27. The guidance is organic growth guidance and does not include acquisitions including Jaspersoft.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -16006,6 +16543,9 @@
    "guidance_quote": "We don't hazard a guess on our growth numbers at all, ma'am.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -16074,6 +16614,9 @@
    "guidance_quote": "For FY27, our aspiration remains unchanged, to grow in line with or faster than the industry and to deliver VNB growth broadly in line with APE growth.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -16136,6 +16679,9 @@
    "guidance_quote": "we are aiming to grow in the mid- to high teens, so 16 to 17 percentage kind of growth is what we are aiming to deliver, which requires milk to grow at about 7% to 8%",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -16213,6 +16759,9 @@
    "guidance_quote": "we, to the best of our estimates, can raise our aspirations for FY27 to a revenue growth of 40% and above",
    "order_book_cr": 26665.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.45,
    "capacity": [
     {
@@ -16328,6 +16877,9 @@
    "guidance_quote": "We are accelerating our upstream expansion in both aluminum and copper while building a significantly strong downstream portfolio with the ambition of delivering a fourfold increase in EBITDA, downstream EBITDA by FY30.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -16440,6 +16992,9 @@
    "guidance_quote": "So roughly, we have given a guidance of 1.1 million tons for the year, right? And we have done 260 KT just now. So yes, now everything is back, and we will -- we won't have any further shutdown",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -16670,6 +17225,9 @@
    "guidance_quote": "we remain confident of delivering our FY '27 profit after tax guidance of INR200 crores to INR220 crores, representing the healthy growth of 34% to 48% over FY '26.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -16788,6 +17346,9 @@
    "guidance_quote": "We remain confident of delivering 25% AUM growth while maintaining our focus on profitability, portfolio quality and operating efficiency.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -16857,6 +17418,9 @@
    "guidance_quote": "we will continue to expand EBITDA margin by 100 basis points to 150 basis points each year to get to that 15% EBITDA margin in five years",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -16912,6 +17476,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -17031,6 +17598,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -17102,6 +17672,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -17153,6 +17726,9 @@
    "guidance_quote": "Our performance for Q1 is in line with our stated guidance for the year of INR5,500 crores with approximately 13% EBITDA margins.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -17245,6 +17821,9 @@
    "guidance_quote": "at least by this year, in fact, not just by the year ending, but hopefully for the year itself, we should be able to post 1% is our belief as far as our eyes can see. So that's a bit of an upgrade.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -17335,6 +17914,9 @@
    "guidance_quote": "I hope with that 18 percentage growth that we have shown in quarter 1, we are close to what we are saying that we will grow at 20%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -17419,6 +18001,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -17520,6 +18105,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -17622,6 +18210,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -17688,6 +18279,9 @@
    "guidance_quote": "As far as FY27 is concerned, we had indicated 400,000 tons, but we going to tone it down a little bit because while we were able to switch on all furnaces at KNR-2 in the month of March",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -17814,6 +18408,9 @@
    "guidance_quote": "Through the inflection point in Q3 FY27, the EBITDA in H2 FY27 will be back in the range that we have operated in the past, that is 19% to 20%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -17888,6 +18485,9 @@
    "guidance_quote": "we remain confident of delivering what we have promised and guided for, which is double-digit revenue growth with sustained margins, strong cash generation and improved quality of earnings.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -17989,6 +18589,9 @@
    "guidance_quote": "All of this naturally gives us a very encouraging outlook for FY27 and we expect to deliver an EBITDA in excess of INR500 crores.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -18071,6 +18674,9 @@
    "guidance_quote": "we are confident of catching up the growth in remaining 9 months and retaining our AUM growth guidance at 25% to 30% this year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -18164,6 +18770,9 @@
    "guidance_quote": "we will be at about Rs. 250 crores to Rs. 260 crores versus Rs. 215 crores of revenue last year, with a target EBITDA of 20%, which we are looking forward to.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -18303,6 +18912,9 @@
    "guidance_quote": "Sir, not at this stage. Maybe after if we are able to achieve our, overachieve our results this financial year, we may revise this. We don't want to overproject",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -18400,6 +19012,9 @@
    "guidance_quote": "we usually target a 24% EBITDA margin every year and we should be able to come back to that kind of a number that is the goal.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -18471,6 +19086,9 @@
    "guidance_quote": "provides further confidence in our ability to deliver on our guidance of 20% revenue growth and profitability outpace revenue for FY27.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -18554,6 +19172,9 @@
    "guidance_quote": "So growth-wise on revenue-wise, whatever guidance we have given as 18% to 20%, we are quite confident that we'll achieve these targets.",
    "order_book_cr": 1686.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.04,
    "capacity": [
     {
@@ -18643,6 +19264,9 @@
    "guidance_quote": "Difficult to give the number, but we should be positive and that positive impact should be visible from Q2 itself, I believe.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -18743,6 +19367,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -18790,6 +19417,9 @@
    "guidance_quote": "we would like to maintain the financial guidance in the similar line what we've given in the last call also, something around 15% to 20%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -18872,6 +19502,9 @@
    "guidance_quote": "overall growth percentage from 12% to 13% may become almost around 14% to 16% overall for the whole of the current financial year, yes.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -18954,6 +19587,9 @@
    "guidance_quote": "So, we expect this year to be around 35% overall growth in terms of revenue. And next year end when the project is operational, that is when the incremental revenue will start coming in.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -19046,6 +19682,9 @@
    "guidance_quote": "At least if I may not be -- I mean, will be challenging, but we definitely are looking at 20%, 25%. I don't want to promise 30% to 35%",
    "order_book_cr": 60.0,
    "order_book_from": "Jun 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.2,
    "capacity": [
     {
@@ -19139,6 +19778,9 @@
    "guidance_quote": "So, we continue to maintain our guidance that our objective will be to breach this 1.5x of our promise as compared to the Indian pharma industry.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -19211,6 +19853,9 @@
    "guidance_quote": "Target is to achieve Rs. 5,000 crores Revenue, New Markets (Indian After Market + Export) to be 40% of Revenue, deliver 40% ROCE and 50% Dividend payout, by FY 2029-30.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -19278,6 +19923,9 @@
    "guidance_quote": "We had given a sales outlook of Rs.875 crore with revenue within India of Rs.320 and outside India Rs.555 crore. As you can see from the order book and the revenue which we have realized in quarter one",
    "order_book_cr": 932.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.23,
    "capacity": [
     {
@@ -19398,6 +20046,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -19454,6 +20105,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -19509,6 +20163,9 @@
    "guidance_quote": "So, going forward, our target would be to get to an EBITDA margin level of about 14% to 15% with the higher share of value-added products that we are foraying into now.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -19605,6 +20262,9 @@
    "guidance_quote": "And we've guided earlier that you should target a blended EBITDA of 35%, I think you will be able to make a fairly accurate assessment of the way the revenue will shape up",
    "order_book_cr": 1310.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.29,
    "capacity": [
     {
@@ -19698,6 +20358,9 @@
    "guidance_quote": "So what we had guided at the end of quarter 4 was this book should see at least a 15% to 20% growth Y-o-Y. So I think we've almost done half of that growth",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -19772,6 +20435,9 @@
    "guidance_quote": "finally, I just want to finish with Page number 23 and reiterate our guidance of gross loan growth of 19% to 21%, a deposit growth of 23% to 25%, and a PAT of 80% plus for the year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -19883,6 +20549,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -19982,6 +20651,9 @@
    "guidance_quote": "we reaffirm our operating EBITDA guidance of approximately INR3,000 crores for FY27 and INR5,000 crores for FY28.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -20116,6 +20788,9 @@
    "guidance_quote": "Definitely, that remains intact. So, my H2 is usually stronger than H1, given that I do similar kind of volumes, actually higher kind of volumes than what you did, done in Q1.",
    "order_book_cr": 75.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.03,
    "capacity": [
     {
@@ -20208,6 +20883,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -20295,6 +20973,9 @@
    "guidance_quote": "as per our guidance and whatever internal charts we had made or structural changes we were planning to make which would get us to that target, we are on course of it",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -20381,6 +21062,9 @@
    "guidance_quote": "we would like to stick with the same guidance of INR750 crore to INR800 crore. Sequential growth will be there.",
    "order_book_cr": 1500.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.32,
    "capacity": [
     {
@@ -20497,6 +21181,9 @@
    "guidance_quote": "we are confident of achieving a double-digit growth with a 20% value growth.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -20584,6 +21271,9 @@
    "guidance_quote": "For the full year, we are even on a conservative basis, we hold to the PBT margin of the last financial year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -20704,6 +21394,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -20750,6 +21443,9 @@
    "guidance_quote": "I'm very confident that this year also, our endeavour is to maintain 13% to 14%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -20814,6 +21510,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -20861,6 +21560,9 @@
    "guidance_quote": "But in the medium and long term, both these businesses we believe they will grow at about 25% CAGR. The watch component business will probably grow a little bit less than that.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -20972,6 +21674,9 @@
    "guidance_quote": null,
    "order_book_cr": 3487.0,
    "order_book_from": "Sep 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 3.97,
    "capacity": [
     {
@@ -21035,6 +21740,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -21151,6 +21859,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -21217,6 +21928,9 @@
    "guidance_quote": "last quarter we had said our overall growth for the next 12 months will be upwards of 40%. Now simple mathematics will tell you that if we have already grown 13% in one quarter",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -21303,6 +22017,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -21355,6 +22072,16 @@
    "guidance_quote": "the guidance initially given was 30% to 40% year-on-year. We believe the order book is streaming up well, and there is a potential in northwards of 60% for the current year now.",
    "order_book_cr": 1300.0,
    "order_book_from": "Sep 2026",
+   "orders_since_call": [
+    {
+     "date": "2026-09-21",
+     "value_cr": 277.6,
+     "text": "We are please to inform you that KMEW has received a work order from Mumbai Port Authority for chartering of 60 Ton Bollard Pull Capacity New Battery operated E",
+     "link": "445679dc-f5a5-49bf-a8a4-4e4912a69994.pdf"
+    }
+   ],
+   "orders_since_call_cr": 277.6,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.02,
    "capacity": [
     {
@@ -21447,6 +22174,9 @@
    "guidance_quote": null,
    "order_book_cr": 130.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -21540,6 +22270,22 @@
    "guidance_quote": "we confirm our guidance of at least 15% growth on an annualized basis and our original guidance for a PBT margin improvement of over 75 basis points remains unchanged.",
    "order_book_cr": 66607.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [
+    {
+     "date": "2026-09-24",
+     "value_cr": 1948.2,
+     "text": "Bagging/Receiving of orders/contracts KPIL secures new orders worth Rs 2,025 crores across T&D, B&F, and Oil & Gas.",
+     "link": "https://nsearchives.nseindia.com/corporate/KALPATPOWR_24092026084832_SEIntimationPR24092026.pdf"
+    },
+    {
+     "date": "2026-09-28",
+     "value_cr": 4000.8,
+     "text": "Bagging/Receiving of orders/contracts KPIL secured a major EPC order for a gas pipeline project in UAE over ₹4,000 crore.",
+     "link": "https://nsearchives.nseindia.com/corporate/KALPATPOWR_28092026084735_SEIntimationPR28092026.pdf"
+    }
+   ],
+   "orders_since_call_cr": 5949.0,
+   "delivered_by_filing": [],
    "ob_to_rev": 2.43,
    "capacity": [
     {
@@ -21638,6 +22384,9 @@
    "guidance_quote": "Our total sales revenue expected in FY27 will be plus INR700 crores, and with EBITDA margins between 26% to 27%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -21761,6 +22510,9 @@
    "guidance_quote": "Total Investment for the above projects is Rs.1,225 Crores 2. Expected Turnover from the above projects is around Rs.2,000 Crores 3. Entire Capex will be met Through internal accruals",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -21882,6 +22634,9 @@
    "guidance_quote": "We hope that we will be able to achieve our target for this year, which comes to around 25% of last year's revenue. So, your figure of 30% 35%, we can say that we will be able",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -21970,6 +22725,9 @@
    "guidance_quote": "earlier guided for 80% utilization by FY28, which translates to INR2,000 crores in revenue. Is this guidance still intact or do you think you can achieve more revenue? Still same.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -22058,6 +22816,9 @@
    "guidance_quote": "Our goal is to have a double-digit growth. This is what we are aiming for. Of course, there are challenges on the way and nuclear is one.",
    "order_book_cr": 2744.5,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.01,
    "capacity": [
     {
@@ -22129,6 +22890,9 @@
    "guidance_quote": "Yes, we would still maintain that 18% to 20% going forward, 15% to 18%, that's what we said.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -22191,6 +22955,9 @@
    "guidance_quote": "We therefore believe that we should be able to sustain approximately INR75,000 per ton for FY27, though the actual performance will depend on the product mix, exports, and currency.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -22299,6 +23066,9 @@
    "guidance_quote": "we keep by and large, 15% growth in the business. As I was mentioning earlier, around 10% to 15% growth in liabilities and 15% to 20% growth in advances.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -22376,6 +23146,9 @@
    "guidance_quote": "looking at what how we have moved in first quarter, chances are we might be more towards mid-teens rather than early teens.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -22457,6 +23230,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -22663,6 +23439,9 @@
    "guidance_quote": "on the aspiration side, so we had said that on the revenue side, 15% to 20% growth and on the margin side, 18% to 20% is the goal.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -22792,6 +23571,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -22873,6 +23655,9 @@
    "guidance_quote": null,
    "order_book_cr": 8857.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.45,
    "capacity": [
     {
@@ -22951,6 +23736,9 @@
    "guidance_quote": "I want to be very clear that our guidance of 28% to 30% EBITDA margins on a full-year basis remains intact.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -23074,6 +23862,9 @@
    "guidance_quote": "In terms of our guidance for fiscal '27, that is 20% growth on last year's PAT of INR 34.3 billion and hence, approximately INR 41 billion of PAT.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -23170,6 +23961,9 @@
    "guidance_quote": "We remain committed to work on achieving the 2.8% RoA threshold in Q4FY27 as communicated earlier.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -23265,6 +24059,9 @@
    "guidance_quote": "So we are expecting that end of the year, for example, this organic business will be around INR70 crores to INR80 crores of EBITDA.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -23351,6 +24148,9 @@
    "guidance_quote": "So the foundation was 6% growth that we delivered in FY2026. That is a base foundation and our effort is to improve further on.",
    "order_book_cr": 14960.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.34,
    "capacity": [],
    "promises_open": [
@@ -23423,6 +24223,9 @@
    "guidance_quote": "we remain on track towards our aspiration of achieving a mid-16% EBIT margin on or before Q4 FY27.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -23509,6 +24312,9 @@
    "guidance_quote": "given a two-year horizon, FY 27 and FY 28, it is very safe to presume that we should be able to deliver a 20% CAGR.",
    "order_book_cr": 1600.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.31,
    "capacity": [
     {
@@ -23634,6 +24440,9 @@
    "guidance_quote": null,
    "order_book_cr": 10560.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.05,
    "capacity": [
     {
@@ -23746,6 +24555,9 @@
    "guidance_quote": "we had committed 28% to 30% growth but now look at our raw material situation is in our hand, man power is in our hand and the huge order book.",
    "order_book_cr": 456.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.37,
    "capacity": [
     {
@@ -23822,6 +24634,9 @@
    "guidance_quote": "we have been indicating that just as we turned gross margin positive in this business last year, we will seek to be EBITDA positive or EBITDA breakeven this year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -23896,6 +24711,9 @@
    "guidance_quote": null,
    "order_book_cr": 1709.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.37,
    "capacity": [
     {
@@ -23967,6 +24785,9 @@
    "guidance_quote": "we should be in a position to touch a number of about 150,000 tons for FY27. And with that, potentially, as said, the product pricing, one can assume that the potential revenue could be somewhere around INR1,300 crores",
    "order_book_cr": 450.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.5,
    "capacity": [
     {
@@ -24067,6 +24888,9 @@
    "guidance_quote": "you give a revenue guidance of INR5,000 crores. Again, can you reconcile that? Because unless we win a good amount of orders Dikshi Jain: fairly soon",
    "order_book_cr": 3600.0,
    "order_book_from": "Sep 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.93,
    "capacity": [
     {
@@ -24162,6 +24986,9 @@
    "guidance_quote": "we continue to maintain our guidance of delivering over 25% growth in profit after tax over FY26. We believe we are well positioned to deliver this",
    "order_book_cr": 9000.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 13.51,
    "capacity": [],
    "promises_open": [
@@ -24252,6 +25079,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -24360,6 +25190,9 @@
    "guidance_quote": "we would like to maintain the same guidance what we gave, the gross margins to be upward of 71% and the EBITDA guidance to be 25.5% to 26.5%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -24439,6 +25272,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -24546,6 +25382,9 @@
    "guidance_quote": "The strong start to this year has set us well to achieve our full year aspirations of delivering double-digit revenue growth to cross INR15,000 crores easily.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -24631,6 +25470,9 @@
    "guidance_quote": "No, I think we'll stick with that plan because of the volatility that you see, the geopolitical scenarios that you see prevailing, surrounding us and pretty much all countries.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -24725,6 +25567,9 @@
    "guidance_quote": "we remain committed to our guidance of growing anywhere between 20% to 25%, hopefully at the higher end of the spectrum, just doubling our AUM and profitability every 3 to 4 years",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -24780,6 +25625,9 @@
    "guidance_quote": "Matchmaking billing and revenue will have a double-digit growth, year-on-year basis in Quarter 2. Profit will also be triple digit in Quarter 2 as well.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -24848,6 +25696,9 @@
    "guidance_quote": null,
    "order_book_cr": 13500.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 67.54,
    "capacity": [
     {
@@ -24938,6 +25789,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25032,6 +25886,9 @@
    "guidance_quote": "So, we are expecting the growth momentum at the fundamental level to continue to be good. While the exceptional quarter on Q4 driven by many other factors holds the last year's numbers, we expect the numbers this year to be on a strong momentum as well.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -25096,6 +25953,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25190,6 +26050,9 @@
    "guidance_quote": "And we have told INR360 crore is a conservative number. But I don't want to comment more on the final number.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25275,6 +26138,9 @@
    "guidance_quote": "14%-15% guidance we suggested without any price increase, but we delivered 17% in the last quarter",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25358,6 +26224,9 @@
    "guidance_quote": "at an overall company level, our endeavor is to maintain EBITDA margin in the level range of INR8 to INR9 per SCM.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25432,6 +26301,9 @@
    "guidance_quote": "We did about INR1,600 crores last year. We can expect the same 18%-odd growth for this year also. So we should be looking at turnover in the region of around INR1,800 crores to INR1,900 crores.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25542,6 +26414,9 @@
    "guidance_quote": "management reiterates that the 20 25% growth refers to overall consolidated revenue growth, considering contributions from all existing as well as new business verticals, including Wire Rods, Poly Insulators, and LT Cables.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25664,6 +26539,9 @@
    "guidance_quote": "we are bullish that we may able to cross our projected INR42, INR43 EBITDA for the year marginally. Maybe we are now aiming at INR44, INR45 for the full year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25761,6 +26639,9 @@
    "guidance_quote": "For Q2 FY27, we expect revenue in the range of INR55 crores to INR60 crores, while for FY27, we remain confident of achieving our revenue guidance of approximately INR250 crores.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25850,6 +26731,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -25937,6 +26821,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -26031,6 +26918,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -26131,6 +27021,9 @@
    "guidance_quote": "We continue to expect the Company to comfortably cross INR 300 crores in EBITDA in FY'27. I would ask you to read that number the way we read it internally, as a floor",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -26217,6 +27110,9 @@
    "guidance_quote": "we have been saying for the past few investor calls that what we have been aiming at to sustain a double-digit growth.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -26284,6 +27180,9 @@
    "guidance_quote": "I would like to reiterate our confidence in achieving the guidance given earlier at 80% revenue growth for the current fiscal year with an EBITDA margin of 24% plus-minus 100 basis points",
    "order_book_cr": 5143.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.76,
    "capacity": [
     {
@@ -26416,6 +27315,9 @@
    "guidance_quote": "our minimum target for FY2026- 27 is approximately Rs 2,500 crore of AUM and Rs 80 to 90 crores of profitability at the PAT level.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -26534,6 +27436,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -26604,6 +27509,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -26701,6 +27609,9 @@
    "guidance_quote": "what we are talking about will be in the range of that 32%, 33%, plus/minus 1% here or there. So there will be a range. But I think it's fair to assume",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -26812,6 +27723,9 @@
    "guidance_quote": "Because Q1 is little nervous, I am giving guidance of 10%. But overall, if you ask me, we are quite positive about growing more than 10%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -26894,6 +27808,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -27001,6 +27918,9 @@
    "guidance_quote": "we are happy to improve our standalone guidance from INR 875 crore to INR 950 crore to INR 950 crore to INR 1,050 crore in the revised range.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -27136,6 +28056,9 @@
    "guidance_quote": "We continue to maintain our medium-term growth guidance of 15% to 20% over the next three to five years and remain focused on delivering sustainable and capital- efficient growth.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -27206,6 +28129,9 @@
    "guidance_quote": "We have always been saying that our margins will remain between 13% to 14%. And it will basically -- some basis point up and down is always possible because it cannot be controlled",
    "order_book_cr": 2506.93,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.93,
    "capacity": [],
    "promises_open": [],
@@ -27269,6 +28195,9 @@
    "guidance_quote": "we've always aspired to grow at about 20%, and we expect that FY27& FY28 also we expect to grow that way.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -27352,6 +28281,9 @@
    "guidance_quote": "as I said, our intention is to get to EBITDA margin level of between 15% and 18%. And we are fairly close to that at the current level.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -27454,6 +28386,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -27533,6 +28468,9 @@
    "guidance_quote": "Roughly the run rate, annualized run rate, should be around INR650-odd crores for '27, and you can see that doubling over the next four to five years.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -27614,6 +28552,9 @@
    "guidance_quote": "Which is why the guidance is being corrected based on the last 12- months average, which was 14.28%. Did that answer your question, ma'am?",
    "order_book_cr": 50.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.04,
    "capacity": [
     {
@@ -27687,6 +28628,9 @@
    "guidance_quote": "But still, you should assume that even if topline has come in at INR83 crore, then it will be in multiples of this, not less.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -27792,6 +28736,9 @@
    "guidance_quote": "Our target for the full year still remains at 20-22% of the opening assets.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -27894,6 +28841,9 @@
    "guidance_quote": "we still guide to what we shared in the Investor Day just a couple of weeks ago, which is 3 to 3.5x growth over a 4- to 5-year period, and we still retain that.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -27960,6 +28910,9 @@
    "guidance_quote": "we are looking at a trajectory of anywhere between 10% to 15% growth in our sales in the next one year. So, that's our near- term goal.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -28027,6 +28980,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -28103,6 +29059,9 @@
    "guidance_quote": "We'll happily do the same and so we commit of a similar guidance of 40%, 45% this year as well.",
    "order_book_cr": 1200.0,
    "order_book_from": "May 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.71,
    "capacity": [
     {
@@ -28207,6 +29166,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -28342,6 +29304,9 @@
    "guidance_quote": "So, historically we are growing in the range of around 35% to 40%. So, we are projecting in around that range",
    "order_book_cr": 3000.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 5.22,
    "capacity": [
     {
@@ -28418,6 +29383,9 @@
    "guidance_quote": "We should be able to try and double our revenues this year, and that's what we are currently embarked on. We're fairly confident that we'll be able to achieve a good run-rate this year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -28486,6 +29454,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -28566,6 +29537,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -28655,6 +29629,9 @@
    "guidance_quote": "We don't give forward-looking guidance as a business, but we are pretty much aligned to the way you are thinking.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -28714,6 +29691,9 @@
    "guidance_quote": "our annual outlook on EBITDA margin will still be within this 19% to 21%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -28788,6 +29768,9 @@
    "guidance_quote": "Yes, absolutely. So we last quarter showcased how we are going to do it and this quarter on a full year basis, we have reaffirmed the guidance, so we are sticking with the same guidance for the upcoming three fiscal years.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -28882,6 +29865,9 @@
    "guidance_quote": "we continue to say that we should have a sustainable EBITDA of Rs.5,000 per ton. I think that is the number we are looking at the end of this year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -28998,6 +29984,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -29068,6 +30057,9 @@
    "guidance_quote": "we are expecting a top line of Rs.2,080 crores and with EBITDA of Rs.530 crores and a PAT of Rs.360 crores.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -29189,6 +30181,9 @@
    "guidance_quote": null,
    "order_book_cr": 8800.0,
    "order_book_from": "May 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.79,
    "capacity": [],
    "promises_open": [
@@ -29247,6 +30242,9 @@
    "guidance_quote": "initially, at the beginning of this year, we had guided that we should be probably close to 8% kind of a margin for the whole year, at least at the operating level",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -29331,6 +30329,9 @@
    "guidance_quote": "our goal was to cross 6,000 crores by 2028. And as we said, like, we have been, like, you know our capacities and all have been made, so we can definitely achieve that.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -29423,6 +30424,9 @@
    "guidance_quote": "even at the beginning of the year before the Q1 results came out, we had guided to a mid-teens growth in renter income for both '27 and '28. I think we can continue to stay with that guidance",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -29536,6 +30540,9 @@
    "guidance_quote": "our range is known to you, which is 20% to 24%. And therefore, from this high, which you have seen in this quarter, could it moderate a little bit? It could moderate a little bit",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -29591,6 +30598,9 @@
    "guidance_quote": "We believe in the long term need to feed growing population",
    "order_book_cr": 10560.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.62,
    "capacity": [],
    "promises_open": [
@@ -29653,6 +30663,9 @@
    "guidance_quote": "So, at a 90,000 ton operating level, we should be looking at a Rs 2,500 crores turnover and an EBITDA margin of about 17%-17.2%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -29772,6 +30785,9 @@
    "guidance_quote": "Maintaining full year guidance of 18% to 20% overall book growth. Also maintaining growth guidance of 50% to 60% in Affordable loan book.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -29870,6 +30886,9 @@
    "guidance_quote": "Outlook: Highly Cautious: With continued economic uncertainty, evolving tariffs, and increasing price competition in the U.S we are preparing for prolonged headwinds and maintain a very cautious outlook.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -29918,7 +30937,7 @@
    "summary": "There is no growth trigger: a draft regulator paper due to apply from 1 April 2027 could cut general insurance revenue to one-third to 40% of current levels, and management says FY27 is unaffected, FY28 is uncertain and it hopes for no impact by FY29.",
    "status": "scored",
    "trigger_score": 0,
-   "override": "regulatory flag in the latest call",
+   "override": "regulatory: Draft regulator consultation paper proposes sharp commission cuts; general insurance reven",
    "visibility": 51,
    "credibility": 50,
    "credibility_grade": "U",
@@ -29929,6 +30948,9 @@
    "guidance_quote": "This is not going to have any short-term impact on FY27, because even in this paper, it said the implementation will happen on 1st of April, only.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -29988,6 +31010,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -30068,6 +31093,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -30161,6 +31189,9 @@
    "guidance_quote": "We expect FY27 revenue of Rs 1,550 1,650 crores, with EBITDA of Rs. 240-250 crores excluding price fluctuations due to geopolitical-led supply chain issues and forex gains/ losses if any.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -30248,6 +31279,9 @@
    "guidance_quote": "Yes. Like we mentioned, we are expecting a target of around INR600 crores turnover, which is a considerable increase in the previous year, 2 years, if you take it.",
    "order_book_cr": 1393.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 3.99,
    "capacity": [
     {
@@ -30347,6 +31381,9 @@
    "guidance_quote": "we have consistently, you know, informed that the margins of 29%, 30%, plus-minus 100, 150 basis points, we will be maintaining.",
    "order_book_cr": 15000.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.77,
    "capacity": [
     {
@@ -30462,6 +31499,9 @@
    "guidance_quote": "No change in guidance. Guidance do remain what we have said. We will achieve 5K, 1K in the promised time.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -30564,6 +31604,9 @@
    "guidance_quote": "Yes, they are confident of achieving between 15% to 20%. As I explained, that Q1 capacity utilization has always been healthy, so Q1 is slightly difficult.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -30678,6 +31721,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -30762,6 +31808,9 @@
    "guidance_quote": "Darshil, I think we have guided to 20% at this moment. We'll stick our guns to it. Maybe at Q3, we can look at revising, what we say, the numbers.",
    "order_book_cr": 1945.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.94,
    "capacity": [
     {
@@ -30880,6 +31929,9 @@
    "guidance_quote": "As far as our margin profile in Professional Staffing is concerned, you will see that last financial year we started the quarter at about 10% and we gradually towards the end of the year exited over 12%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -30959,6 +32011,9 @@
    "guidance_quote": "Looking ahead, we expect our P&A portfolio to deliver over 25% volume growth during FY27, supported by a robust innovation pipeline, expanding distribution and favorable industry trends.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -31045,6 +32100,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -31132,6 +32190,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -31178,6 +32239,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -31237,6 +32301,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -31291,6 +32358,9 @@
    "guidance_quote": "We now expect full-year revenue to come in at the upper end of the range we shared with you last quarter, around INR3,100 crores for FY27.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -31376,6 +32446,9 @@
    "guidance_quote": "So, we have done, 1,078 in, last year. This year, our target line would be at 1350, and, we could be working, towards this.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -31469,6 +32542,9 @@
    "guidance_quote": "So, we have committed 25% growth. We are a little bit ahead of what we have committed, but we expect to keep momentum, but I would still say that a 25% growth in aerospace is a good growth.",
    "order_book_cr": 5960.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 2.6,
    "capacity": [
     {
@@ -31558,6 +32634,9 @@
    "guidance_quote": "directionally, obviously, we will go up significantly because of equity, north of 40 basis points, 50 basis points improvement or 30 basis points, 40 basis points improvement should be expected at least in Q2.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -31637,6 +32716,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -31700,6 +32782,9 @@
    "guidance_quote": "we are looking to double our absolute EBITDA number.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -31812,6 +32897,9 @@
    "guidance_quote": "our expectation is to -- that bottom line should grow more than 30% for the year. Revenue growth may be muted because as stated earlier, we are exiting certain unprofitable lines of businesses.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -31906,6 +32994,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -32030,6 +33121,9 @@
    "guidance_quote": "we remain confident in the mid-teen revenue growth guidance that we have given for fiscal '27. This quarter's headline number does not fully reflect that trajectory for the reasons I have just walked through.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -32120,6 +33214,9 @@
    "guidance_quote": "we're looking at a very significant growth just like we grew last year 87%, we're looking at something similar this year.",
    "order_book_cr": 715.0,
    "order_book_from": "May 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.29,
    "capacity": [
     {
@@ -32201,6 +33298,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -32263,6 +33363,9 @@
    "guidance_quote": "for the last 4 years consistently, our domestic has grown at 12%, API has grown at 9% to 10% and international formulation 9% to 5%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -32347,6 +33450,9 @@
    "guidance_quote": "As I said, I have already indicated that Q1 we have grown by 60%. Q2 also similar trend will be there. The only correction will happen on the speed of the price increase.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -32419,6 +33525,9 @@
    "guidance_quote": "we continue to maintain our overall margin guidance of 10.5% by FY '28.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -32546,6 +33655,9 @@
    "guidance_quote": "earlier our guidance was 22% to 23% on EBITDA but now we are comfortable to revise this upwards for the whole of FY27 to 23%",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -32669,6 +33781,9 @@
    "guidance_quote": "Yes, we are maintaining the full year volume, and we'll be having a growth over last year by the year-end.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -32778,6 +33893,9 @@
    "guidance_quote": "I think we we've given a guidance of INR350 crores so next three quarters needs to be INR90 crores sort of run rate.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -32895,6 +34013,9 @@
    "guidance_quote": "we believe we will be very much comfortable achieving the EBITDA margin per ton in the range of INR7,500 to INR8,500, with again the revenue growth of 10% to 15% over the base of 2026",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -33008,6 +34129,9 @@
    "guidance_quote": "We are maintaining the guidance of EBITDA between about INR520 crores to INR540 crores.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -33085,6 +34209,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -33157,6 +34284,9 @@
    "guidance_quote": "FY '27 consolidated revenue of roughly Rs. 1,400 crores to Rs. 1,500 crores, EBITDA of 525 to 575 and a blended return on capital of 16.25 to 16.5.",
    "order_book_cr": 1250.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.06,
    "capacity": [
     {
@@ -33283,6 +34413,9 @@
    "guidance_quote": "I think if the business continues to grow the way that it is doing now, I think it is a good possibility that we should be looking at between high-teens to 20% as overall revenue.",
    "order_book_cr": 5750.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.53,
    "capacity": [
     {
@@ -33383,6 +34516,9 @@
    "guidance_quote": "Generally, we don't give any forward guidance. We have given the industry scenario and our project.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -33512,6 +34648,9 @@
    "guidance_quote": "If I have to look at on a full year basis, we maintain our guidance of the music vertical growing between 20% to 23% year-on-year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -33590,6 +34729,9 @@
    "guidance_quote": "Our guidance for FY27 is consolidated AUM growth of 20% to 25%, implying INR18,200 crores to INR18,900 crores by March '27.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -33689,6 +34831,9 @@
    "guidance_quote": "on an overall revenue basis be looking at somewhere somewhere between the, you know, that 20% to 30% kind of a number. It depends on a lot of factors",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -33765,6 +34910,9 @@
    "guidance_quote": "We close the quarter at 14.7% ROE and our guidance for the coming quarter remains unchanged on all fronts. No surprises there, birds on the badminton court notwithstanding.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -33853,6 +35001,9 @@
    "guidance_quote": "We expect asset growth to pick up from the second half of financial year 2027, given higher new acquisition from this quarter onwards and festive season in Q3.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -33927,6 +35078,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -33991,6 +35145,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -34071,6 +35228,9 @@
    "guidance_quote": "What I can see is that we are seeing the forward-looking 3 quarters, including the one which half of which has gone by is good for us.",
    "order_book_cr": 2100.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.72,
    "capacity": [
     {
@@ -34138,6 +35298,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -34219,6 +35382,9 @@
    "guidance_quote": "So generally, we always guide investors that we should track between 40% to 42% margins, and we should grow our revenues and business, which will help improve the bottom line going forward.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -34311,6 +35477,9 @@
    "guidance_quote": "some RM cost increase is likely and it will, you know, it is expected to put a mild pressure on EBITDA percentage. We don't expect this to be anything dramatic",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -34410,6 +35579,9 @@
    "guidance_quote": "we expect the revenue growth of approximately 30% to 40% and PAT growth for about 50% to 60% for FY27, with a similar growth trajectory expected to continue thereafter.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -34516,6 +35688,9 @@
    "guidance_quote": "This year we are already guided 1,450, INR1,200 crores SETL business and INR250 crores GScale and total consolidation it going to happen 1,450.",
    "order_book_cr": 1400.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.65,
    "capacity": [
     {
@@ -34611,6 +35786,9 @@
    "guidance_quote": "We are maintaining our guidance of 500 crores revenue and a 300-basis point margin increase.",
    "order_book_cr": 500.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.35,
    "capacity": [
     {
@@ -34727,6 +35905,9 @@
    "guidance_quote": "with more than 4 million tons in steel volume, the revenue could be like INR25,000 crores to INR35,000 crores by 2030 and with minimum INR1,000 crores EBITDA.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -34822,6 +36003,9 @@
    "guidance_quote": "We are now revising our FY27 revenue growth guidance from 27% to 30% that we had given earlier to 38% to 40%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -34912,6 +36096,9 @@
    "guidance_quote": "you're confident of 36 million, but even next year, you are quite confident of scaling? Yes. Short answer is yes.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -35030,6 +36217,9 @@
    "guidance_quote": "So, together these products create an integrated portfolio and with this complete package, our target is to reach INR5,000 crores by FY29.",
    "order_book_cr": 1000.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.34,
    "capacity": [
     {
@@ -35132,6 +36322,9 @@
    "guidance_quote": "we are sticking to the guidance of INR3,500 crores. This rights issue is basically to support the growth trajectory. It is because a new factory has come up",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -35225,6 +36418,9 @@
    "guidance_quote": "Subject to overall market condition, we remain confident of delivering around 20% growth during the current financial year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -35324,6 +36520,9 @@
    "guidance_quote": "So whilst we may not be able to provide you a specific number, what we can see from here on is that the growth trajectory looks very robust, with a faster-growing trajectory on profitability",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -35428,6 +36627,9 @@
    "guidance_quote": "But I am not guiding that. I'm still sticking to my guidance of 40 million tons.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -35555,6 +36757,9 @@
    "guidance_quote": "where I used to talk about Rs. 1,200 crores to Rs. 1,250 crores, today I am talking about Rs. 1,350 crores to Rs. 1,400 crores. Times look good.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -35632,6 +36837,9 @@
    "guidance_quote": "We remain committed to our guidance of delivering approximately 30% growth over the next two to three years.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -35718,6 +36926,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -35792,6 +37003,9 @@
    "guidance_quote": "Our earlier guidance of 18% will hold good unless after second quarter, we revise it.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -35902,6 +37116,9 @@
    "guidance_quote": "So more or less, we should consider that this year also, we will grow more than 20% in the terms of numbers.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -36009,6 +37226,9 @@
    "guidance_quote": null,
    "order_book_cr": 8000.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 9.29,
    "capacity": [
     {
@@ -36111,6 +37331,9 @@
    "guidance_quote": "we continue to expect SJS to outperform the underlying automotive industry by 1.5x to 2x in FY27",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -36202,6 +37425,9 @@
    "guidance_quote": "We remain firmly on track to achieve our aspiration of INR8,100 crores by FY27 and INR18,000 crores to INR19,000 crores by FY30.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -36368,6 +37594,9 @@
    "guidance_quote": "As a company, we don't give the revenue guidance on an -- overall basis. On a quarterly basis, we will have the -- we will have the earnings call",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -36455,6 +37684,9 @@
    "guidance_quote": "We reaffirm our guidance of 28% to 30% revenue growth, normalized EBITDA margins between 19% to 20%, and an operational footprint of over 13 million square foot by March 2027",
    "order_book_cr": 5400.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 2.75,
    "capacity": [
     {
@@ -36543,6 +37775,9 @@
    "guidance_quote": "we are growing at a CAGR of 20% year to year. And we will further grow better than this. We are quite hopeful in five years' time.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -36606,6 +37841,9 @@
    "guidance_quote": "CREATING INR 12,500 CR BUSINESS BY F31",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -36665,6 +37903,9 @@
    "guidance_quote": "we are guiding for 15% revenue growth while aiming to further improve upon our FY26 EBITDA margin of 20%",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -36765,6 +38006,9 @@
    "guidance_quote": "in this year, the Solar should be able to reach around INR14,000 crores. And even if I add 17%to, say, around 20% growth rate in the '27-'28, we should be doing INR16,500 crores.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -36851,6 +38095,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -36949,6 +38196,9 @@
    "guidance_quote": null,
    "order_book_cr": 24000.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.9,
    "capacity": [],
    "promises_open": [
@@ -37019,6 +38269,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -37074,6 +38327,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -37140,6 +38396,9 @@
    "guidance_quote": "we remain confident of achieving our previously stated consolidating revenue guidance of INR 2,000 crores for FY27",
    "order_book_cr": 570.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.36,
    "capacity": [
     {
@@ -37258,6 +38517,9 @@
    "guidance_quote": "Giving any guidance at this stage when the situation is very fluid is very difficult",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -37351,6 +38613,9 @@
    "guidance_quote": "So this year, last year, our top line was around INR2,500 crores. So this year, we are expecting somewhere around INR3,000 crores. So that's what 20% up.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -37472,6 +38737,9 @@
    "guidance_quote": "Looking ahead, we remain optimistic about our outlook for FY27, targeting a top line growth of 20% plus.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -37574,6 +38842,9 @@
    "guidance_quote": "We continue to maintain our guidance of 30-35% revenue CAGR over the next three years.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -37687,6 +38958,9 @@
    "guidance_quote": "We continue to remain committed to our aspiration of building a $375 million North America business by FY28. While there may be near-term volatility, the building blocks required to achieve this ambition are in place.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -37782,6 +39056,9 @@
    "guidance_quote": "as communicated to you in the previous quarter, we remain confident in our ability to sustain growth momentum, maintain healthy profitability and deliver long-term value creation, targeting a growth trajectory of approximately 20% CAGR over the coming years. And for FY27, we expect a growth of 25% compared to last financial year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -37877,6 +39154,9 @@
    "guidance_quote": "So that is for the full year, FY27, we are saying we'll double the volumes.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -37991,6 +39271,16 @@
    "guidance_quote": "Under Lakshya, we're targeting 20,000 crore revenue by FY29, while building STL into one of the largest global players for digital connectivity.",
    "order_book_cr": 17600.0,
    "order_book_from": "Sep 2026",
+   "orders_since_call": [
+    {
+     "date": "2026-10-01",
+     "value_cr": 10199.8,
+     "text": "Bagging/Receiving of orders/contracts Sterlite Technologies subsidiary won a Long-Term Supply Agreement worth ~$1.2 billion (~10,200 Cr).",
+     "link": "https://nsearchives.nseindia.com/corporate/STLTECH_01102026112437_SE_Intimation_Hyperscaler_Contract_Oct26_Signed.pdf"
+    }
+   ],
+   "orders_since_call_cr": 10199.8,
+   "delivered_by_filing": [],
    "ob_to_rev": 3.12,
    "capacity": [
     {
@@ -38077,6 +39367,9 @@
    "guidance_quote": "We believe that we will be able to grow at the same, CAGR that we were in the last 10 years. And it is not too surprising for us to grow at 15% plus, in the range of 15% to 20%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -38183,6 +39476,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -38265,6 +39561,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -38339,6 +39638,9 @@
    "guidance_quote": "Now, will I deliver double-digit growth, or will I do high single digits? That remains to be seen. But at least aspirationally, what we want to do is obviously much bigger for the shareholders.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -38411,6 +39713,9 @@
    "guidance_quote": "We feel very confident to deliver the numbers, which we had stated and we have given a turnover guidance of Eur 700 million and EBITDA of EUR 35 million for the acquired group",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -38485,6 +39790,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -38559,6 +39867,9 @@
    "guidance_quote": "I think with the festivals around and the indicative schedules of various customers, I think the run rate should be at this level.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -38656,6 +39967,9 @@
    "guidance_quote": "Think we should stick on to the high single-digit growth for the full year. Also, we should be a little mindful of the exchange-related impact that will come across all the line items in the P&L.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -38718,6 +40032,9 @@
    "guidance_quote": "we have an internal target to achieve INR1,000 crores of revenue by FY'28. The pace at which we are going as of now, we expect that the revenue or top line we will be closing somewhere in between the INR900 crores to INR1,000 crores mark.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -38821,6 +40138,9 @@
    "guidance_quote": "our trajectory towards the Rs. 1,000 crores revenue by FY '27 remains firmly on track, supported by a robust product pipeline and a sustained demand across key therapeutic segments including anesthetics, anti-diabetics, anti-anxiety, vitamins, and ADHD.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -38932,6 +40252,9 @@
    "guidance_quote": "So, we are expected to grow in the same around 20-odd percent quarterly growth for this financial year. It is what we feel will happen.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -39034,6 +40357,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -39112,6 +40438,9 @@
    "guidance_quote": "based on the strong performance of the 1st Quarter, we should exceed that guidance. So, that is the statement we made. We should exceed that guidance based on the 1st Quarter performance.",
    "order_book_cr": 6770.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.24,
    "capacity": [
     {
@@ -39222,6 +40551,9 @@
    "guidance_quote": "For FY27, we continue to continue to have a target group revenue target of about 18% to 20%, with margins being in the range of about 17-odd percent, a little bit maybe 17.5%",
    "order_book_cr": 500.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.55,
    "capacity": [
     {
@@ -39310,6 +40642,9 @@
    "guidance_quote": "we don't actually issue any forward-looking statements. So, I can't give specific percentage, but definitely, we would want to aspire for higher percentage growth.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -39383,6 +40718,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -39446,6 +40784,9 @@
    "guidance_quote": "To give guidance is challenging in the current environment, there are so many factors out of control. But generally speaking, it is looking quite positive from where we sit today",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -39530,6 +40871,9 @@
    "guidance_quote": "we revised our guidance for FY '27 at INR2,600 crores with a small chance that we may even cross this number.",
    "order_book_cr": 2208.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.04,
    "capacity": [
     {
@@ -39628,6 +40972,9 @@
    "guidance_quote": "we are well-positioned to deliver on our FY 27 ambition of achieving above average of the peer growth and an operating margin of 15%.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -39721,6 +41068,9 @@
    "guidance_quote": "So, we're maintaining our guidance of about 15% CAGR on the consumables. On the Molycop cross sell opportunities we, as I earlier mentioned, responded to a previous question.",
    "order_book_cr": 1230.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.4,
    "capacity": [
     {
@@ -39808,6 +41158,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -39893,6 +41246,9 @@
    "guidance_quote": "we remain very confident on delivering double-digit RevPAR growth and mid-to-high teens EBITDA growth for FY27.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -40009,6 +41365,9 @@
    "guidance_quote": "it's too early for me to revise guidance. If you look at Q1 FY26, we did roughly 180 crores. Q2 '26, we did 200 crores, right? So we are sitting on a very high base",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -40074,6 +41433,9 @@
    "guidance_quote": "We maintain our guidance for FY27 of achieving a high single-digit to low double- digit volume growth for the combined business. We are upgrading the guidance beyond FY27, including new launches planned from FY28 onwards.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -40171,6 +41533,9 @@
    "guidance_quote": "we have given guidance in the past that 15% is a sustainable margin, upwards of 15% and so therefore we are doing a little better than that and no change in our guidance on sustainable margins.",
    "order_book_cr": 20.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.01,
    "capacity": [
     {
@@ -40259,6 +41624,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -40360,6 +41728,9 @@
    "guidance_quote": "Saket, we continue to maintain a 20% revenue and PAT guidance.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -40434,6 +41805,9 @@
    "guidance_quote": "Defence vertical expected to generate annual revenues of approximately INR 2500 mn at full utilization, with revenue contribution beginning in FY27 and full-year impact visible from FY28 onwards.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -40512,6 +41886,9 @@
    "guidance_quote": "So given the circumstances, we will stick with our previous guidance. We are not changing it.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -40571,6 +41948,9 @@
    "guidance_quote": "Advances growth, we said 20%. I think we would be upgrading that again by another 2%, 21% to 22% is what we are hoping to end the year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -40666,6 +42046,9 @@
    "guidance_quote": "We believe for the full year FY27, double-digit revenue growth for JB's India Rx business should still be possible given the robust underlying trend seen in Q1 of an uninterrupted quarter",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -40744,6 +42127,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -40849,6 +42235,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -40904,6 +42293,9 @@
    "guidance_quote": "We don't want to give any forward guidance on that. We are confident of robust growth, but I think I would leave it at that at this point of time.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -40978,6 +42370,9 @@
    "guidance_quote": "overall, as a year, we should estimate an industry growth of double digit.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -41059,6 +42454,9 @@
    "guidance_quote": "we have an aspiration to grow our revenues by mid-teen growth this year. And quarter 1 has been absolutely spot on.",
    "order_book_cr": 7500.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.64,
    "capacity": [],
    "promises_open": [
@@ -41143,6 +42541,9 @@
    "guidance_quote": "our ambition is still to have double-digit revenue growth with the share growth and with strong momentum on premium, which we have done in the last 2 years.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -41213,6 +42614,9 @@
    "guidance_quote": "We remain on track to meet our FY27 guidance. The Ujjivan team is committed to delivering strong performance in FY27 and beyond with no change to the strategy previously outlined and communicated.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -41305,6 +42709,9 @@
    "guidance_quote": "close to around 34%-35% of margins is what we will be able to deliver for this financial year.",
    "order_book_cr": 280.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.98,
    "capacity": [
     {
@@ -41398,6 +42805,9 @@
    "guidance_quote": "our FY27 growth will be a couple of percentage points bigger than the growth that we had in FY26 on a year-on-year basis.",
    "order_book_cr": 225.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.18,
    "capacity": [
     {
@@ -41511,6 +42921,9 @@
    "guidance_quote": "we still maintain that we will be able to get to 10% to 12% growth of volume in this financial year. Now that the capacities are already in place and the inquiries are fairly strong",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -41596,6 +43009,9 @@
    "guidance_quote": "in the April month we gave a target that 8% to 10% increase on the FY25-26 number will be the target run rate number for this particular financial year.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -41668,6 +43084,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -41719,6 +43138,9 @@
    "guidance_quote": "So I think revenue guidance remains the same. It will be at least 50%. And the gross margins should be between 29% to 30%. And we will try to maintain the EBITDA margins even after opening so much new area.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -41818,6 +43240,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -41900,6 +43325,9 @@
    "guidance_quote": "Even post-June, we are looking at a 20% plus growth at least minimum.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -41971,6 +43399,9 @@
    "guidance_quote": "Also, are we maintaining the growth guidance for this year, which I believe was about 20%. So if you could just answer that first? Yes, the utilization level at welded is something around 60%",
    "order_book_cr": 600.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.5,
    "capacity": [
     {
@@ -42085,6 +43516,9 @@
    "guidance_quote": "we are guiding a revenue of approximately INR 670 crores with EBITDA of INR260 crores and PAT of INR144 crores compared to last year with INR482 crores of revenue",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -42177,6 +43611,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -42247,6 +43684,9 @@
    "guidance_quote": "we have always said we will grow by 15%. But obviously, this year, we have some price growth as well. So it can be higher.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
@@ -42325,6 +43765,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -42415,6 +43858,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -42495,6 +43941,9 @@
    "guidance_quote": "Vimta does not give any forward projections on its numbers, but I can confidently say that the company's growth rate is what we will try to maintain and even better it this year",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -42558,6 +44007,9 @@
    "guidance_quote": "If you take the Q1 average realization, realization it should be the same what you are saying is that same, it should be in the region of around INR850 crores to INR900 crores.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -42672,6 +44124,9 @@
    "guidance_quote": "We are not giving any guidance for the second quarter or the year as a whole. Of course, on a targeted level, we are looking at 20% EBITDA margin. That's our stated target for a very long",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -42789,6 +44244,9 @@
    "guidance_quote": "Q1 FY'27 shows continuity, sustained double-digit revenue growth, EBITDA margins around 20%-22% as indicated earlier, balance sheet now strongest ever in the history.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -42876,6 +44334,9 @@
    "guidance_quote": "Our expansion guidance for the year remains unchanged at 90+ as we continue expansion with a healthy store pipeline in place.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -42950,6 +44411,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [],
@@ -43001,6 +44465,9 @@
    "guidance_quote": "On a full year basis, we are expecting around 8% volume growth. And the realization, we have already did good work and these realization, there will be further improvement in the coming quarter",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -43083,6 +44550,9 @@
    "guidance_quote": "Today, our range is 8,000 to 11,000. But next year, we should be able to increase the range from 8,000 to 12,000. So, I can see profitability improving.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -43228,6 +44698,9 @@
    "guidance_quote": "See we have already guided for a 15% to 20% growth, Shubham, and we are confident of meeting that.",
    "order_book_cr": 19400.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 4.74,
    "capacity": [],
    "promises_open": [
@@ -43316,6 +44789,22 @@
    "guidance_quote": "We stand that we gave a guidance that, okay, guys, this year, our turnover is going to be like this and our EBITDA margin -- EBITDA is going to be like this.",
    "order_book_cr": 25750.0,
    "order_book_from": "Jul 2026",
+   "orders_since_call": [
+    {
+     "date": "2026-09-21",
+     "value_cr": 2129.4,
+     "text": "Large Order win announced by the Company associate Company viz East Pipes Integrated Company for Industry, KSA Associate company East Pipes wins Aramco steel pi",
+     "link": "7cff6433-218c-4654-b03d-f1e45a3c9b7a.pdf"
+    },
+    {
+     "date": "2026-09-25",
+     "value_cr": 4258.8,
+     "text": "Bagging/Receiving of orders/contracts Welspun Corp subsidiary secures largest-ever HFIW pipes order valued at approx. USD 412.5 million.",
+     "link": "https://nsearchives.nseindia.com/corporate/WELCORP_25092026082837_SEDisclosureUSOrdersigned.pdf"
+    }
+   ],
+   "orders_since_call_cr": 6388.2,
+   "delivered_by_filing": [],
    "ob_to_rev": 1.49,
    "capacity": [
     {
@@ -43409,6 +44898,16 @@
    "guidance_quote": "It will be more closer to 15% than 20% is what my estimate at this point in time is. It will all depend upon how things pan out and how the commodities availability",
    "order_book_cr": 18700.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [
+    {
+     "date": "2026-09-21",
+     "value_cr": 321.6,
+     "text": "Welspun Enterprisers has informed the exchange about receiving of Letter of Award by Welspun Michigan Engineers Limited, Material Subsidiary of the Company Wels",
+     "link": "9fb3dab1-3a38-4a20-845b-45514f633f92.pdf"
+    }
+   ],
+   "orders_since_call_cr": 321.6,
+   "delivered_by_filing": [],
    "ob_to_rev": 5.28,
    "capacity": [
     {
@@ -43513,6 +45012,9 @@
    "guidance_quote": "We remain confident of delivering double-digit revenue growth and EBITDA margins in the low teens for FY27 and remain well-positioned to capitalize on the opportunities ahead.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -43611,6 +45113,9 @@
    "guidance_quote": null,
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -43681,6 +45186,9 @@
    "guidance_quote": "However, this impact is expected to be transitory. Our cost structure, capacity, and market positioning remain fundamentally strong, and margins are expected to recover as the situation stabilizes and pricing adjusts.",
    "order_book_cr": 217.0,
    "order_book_from": "Aug 2026",
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": 0.36,
    "capacity": [
     {
@@ -43744,6 +45252,9 @@
    "guidance_quote": "I have mentioned repeatedly in last two, three days that globally we can expect a revenue overall about $1.5 billion to $2 billion.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -43845,6 +45356,9 @@
    "guidance_quote": "our company has revised our FY28 revenue target to more than Rs. 1,600 crores.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -43956,6 +45470,9 @@
    "guidance_quote": "I think we have said that last year, we grew 37% Y-o-Y. As you can clearly see this year, we will easily surpass that growth even the EBITDA is concerned.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [
     {
@@ -44068,6 +45585,9 @@
    "guidance_quote": "we continue to stay with the guidance that we will deliver strong double-digit growth for the year, starting with the first quarter.",
    "order_book_cr": null,
    "order_book_from": null,
+   "orders_since_call": [],
+   "orders_since_call_cr": null,
+   "delivered_by_filing": [],
    "ob_to_rev": null,
    "capacity": [],
    "promises_open": [
