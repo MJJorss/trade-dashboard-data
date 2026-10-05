@@ -23,8 +23,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1963.6,
-      "unrealised_pct": 7.98
+      "current_price": 1961.2,
+      "unrealised_pct": 7.85
     },
     {
       "symbol": "TFCILTD",
@@ -49,8 +49,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 139.86,
-      "unrealised_pct": 0.45
+      "current_price": 140.01,
+      "unrealised_pct": 0.56
     },
     {
       "symbol": "MOREPENLAB",
@@ -78,11 +78,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 133.08,
-      "unrealised_pct": 8.69
+      "current_price": 134.5,
+      "unrealised_pct": 9.85
     }
   ],
-  "last_updated": "2026-10-05 13:16 IST",
+  "last_updated": "2026-10-05 15:02 IST",
   "closed_today_map": {
     "2026-10-05": []
   }
