@@ -306,5 +306,38 @@
     "days_held": 7,
     "exit_reason": "Below 21 EMA — technical exit",
     "exit_date": "2026-09-25"
+  },
+  {
+    "symbol": "MCX",
+    "entry_price": 3318.2,
+    "exit_price": 3162.0,
+    "capital_deployed": 100614.0,
+    "pnl_pct": -4.71,
+    "pnl_inr": -4739.0,
+    "days_held": 38,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-05"
+  },
+  {
+    "symbol": "HINDZINC",
+    "entry_price": 596.0,
+    "exit_price": 561.6,
+    "capital_deployed": 97203.0,
+    "pnl_pct": -5.77,
+    "pnl_inr": -5609.0,
+    "days_held": 17,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-05"
+  },
+  {
+    "symbol": "SOTL",
+    "entry_price": 707.7,
+    "exit_price": 727.2,
+    "capital_deployed": 100137.0,
+    "pnl_pct": 2.76,
+    "pnl_inr": 2764.0,
+    "days_held": 17,
+    "exit_reason": "Score eviction — fell to rank #26 (beyond buffer #25)",
+    "exit_date": "2026-10-05"
   }
 ]
