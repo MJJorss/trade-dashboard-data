@@ -1,2480 +1,6 @@
 {
-  "generated_at": "2026-10-06T15:22:19.085795+05:30",
+  "generated_at": "2026-10-07T09:26:27.386188+05:30",
   "signals": [
-    {
-      "symbol": "KINGFA",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 3,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 6932.0,
-      "chg_pct": 3.94,
-      "vol_today": 536,
-      "vol_avg_3m": 15315,
-      "vol_ratio": 0.03,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "NEOGEN",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "11:01",
-      "appearances": 2,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 15.45,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 2429.2,
-      "chg_pct": 0.92,
-      "vol_today": 9966,
-      "vol_avg_3m": 192683,
-      "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "GALAXYSURF",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 3,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 2442.4,
-      "chg_pct": 2.76,
-      "vol_today": 13099,
-      "vol_avg_3m": 46778,
-      "vol_ratio": 0.28,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "FINCABLES",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 3,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 23.73,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 1474.0,
-      "chg_pct": 1.04,
-      "vol_today": 56758,
-      "vol_avg_3m": 1158099,
-      "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "MANINDS",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 3,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 55.72,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 922.05,
-      "chg_pct": 3.81,
-      "vol_today": 128047,
-      "vol_avg_3m": 1152428,
-      "vol_ratio": 0.11,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "TDPOWERSYS",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 3,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 16.39,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 816.0,
-      "chg_pct": 3.01,
-      "vol_today": 292946,
-      "vol_avg_3m": 2664226,
-      "vol_ratio": 0.11,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "INDGN",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 14.27,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 596.3,
-      "chg_pct": 0.47,
-      "vol_today": 50869,
-      "vol_avg_3m": 592589,
-      "vol_ratio": 0.09,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ICIL",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 3.0,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 473.15,
-      "chg_pct": 6.04,
-      "vol_today": 46955,
-      "vol_avg_3m": 978535,
-      "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SSWL",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 44.02,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 424.7,
-      "chg_pct": 3.45,
-      "vol_today": 215827,
-      "vol_avg_3m": 1836556,
-      "vol_ratio": 0.12,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "WELSPUNLIV",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 3,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 27.6,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 237.86,
-      "chg_pct": 3.3,
-      "vol_today": 418206,
-      "vol_avg_3m": 5413261,
-      "vol_ratio": 0.08,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "RAIN",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "09:26",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 15.16,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 212.63,
-      "chg_pct": 2.22,
-      "vol_today": 347580,
-      "vol_avg_3m": 5084167,
-      "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ROLEXRINGS",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 3,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 21.58,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 188.18,
-      "chg_pct": -0.84,
-      "vol_today": 238986,
-      "vol_avg_3m": 3581704,
-      "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "TFCILTD",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "11:01",
-      "appearances": 2,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 46.06,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 140.65,
-      "chg_pct": 0.72,
-      "vol_today": 523710,
-      "vol_avg_3m": 14255931,
-      "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "MOREPENLAB",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 3,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 70.89,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 143.96,
-      "chg_pct": 6.41,
-      "vol_today": 3324985,
-      "vol_avg_3m": 21014754,
-      "vol_ratio": 0.16,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "FCL",
-      "date": "2026-10-01",
-      "time": "09:26",
-      "first_seen": "09:26",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 41.02,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 59.2,
-      "chg_pct": 9.57,
-      "vol_today": 6411779,
-      "vol_avg_3m": 17459519,
-      "vol_ratio": 0.37,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "APARINDS",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "11:01",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 13.86,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 18016.0,
-      "chg_pct": 2.09,
-      "vol_today": 45876,
-      "vol_avg_3m": 145266,
-      "vol_ratio": 0.32,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "FINEORG",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "11:01",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": -2.46,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 5537.0,
-      "chg_pct": 7.91,
-      "vol_today": 5045,
-      "vol_avg_3m": 25120,
-      "vol_ratio": 0.2,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "KENNAMET",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 22.61,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 4268.6,
-      "chg_pct": -0.21,
-      "vol_today": 16857,
-      "vol_avg_3m": 42354,
-      "vol_ratio": 0.4,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "LAURUSLABS",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "11:01",
-      "appearances": 1,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 23.54,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 2050.0,
-      "chg_pct": 3.99,
-      "vol_today": 685625,
-      "vol_avg_3m": 2439160,
-      "vol_ratio": 0.28,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": 6
-    },
-    {
-      "symbol": "LALPATHLAB",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 11.51,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 1964.2,
-      "chg_pct": -2.04,
-      "vol_today": 171494,
-      "vol_avg_3m": 353400,
-      "vol_ratio": 0.49,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "EMCURE",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "11:01",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 4.79,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 1922.4,
-      "chg_pct": -0.76,
-      "vol_today": 16763,
-      "vol_avg_3m": 162224,
-      "vol_ratio": 0.1,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "RPEL",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 17.71,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 1835.6,
-      "chg_pct": 0.92,
-      "vol_today": 91851,
-      "vol_avg_3m": 98987,
-      "vol_ratio": 0.93,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "AEGISLOG",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 4.39,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 1395.9,
-      "chg_pct": 2.68,
-      "vol_today": 551072,
-      "vol_avg_3m": 1291874,
-      "vol_ratio": 0.43,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "AKUMS",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "11:01",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 20.58,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 814.65,
-      "chg_pct": 0.19,
-      "vol_today": 92695,
-      "vol_avg_3m": 361417,
-      "vol_ratio": 0.26,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ACMESOLAR",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "11:01",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 13.45,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 448.2,
-      "chg_pct": 4.81,
-      "vol_today": 590731,
-      "vol_avg_3m": 2235516,
-      "vol_ratio": 0.26,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "IOLCP",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 23.82,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 214.9,
-      "chg_pct": 4.47,
-      "vol_today": 1613764,
-      "vol_avg_3m": 5081711,
-      "vol_ratio": 0.32,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "MTARTECH",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": -5.08,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 7718.5,
-      "chg_pct": 0.84,
-      "vol_today": 169436,
-      "vol_avg_3m": 152809,
-      "vol_ratio": 1.11,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ENRIN",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 0.84,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 3307.5,
-      "chg_pct": -0.79,
-      "vol_today": 841844,
-      "vol_avg_3m": 522137,
-      "vol_ratio": 1.61,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "DPABHUSHAN",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 2174.0,
-      "chg_pct": 2.04,
-      "vol_today": 321950,
-      "vol_avg_3m": 116355,
-      "vol_ratio": 2.77,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "PIXTRANS",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1796.7,
-      "chg_pct": -0.7,
-      "vol_today": 806469,
-      "vol_avg_3m": 41550,
-      "vol_ratio": 19.41,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "VENUSREM",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1746.7,
-      "chg_pct": -2.78,
-      "vol_today": 63532,
-      "vol_avg_3m": 41066,
-      "vol_ratio": 1.55,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ATLANTAELE",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": -5.9,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1869.3,
-      "chg_pct": -0.72,
-      "vol_today": 187125,
-      "vol_avg_3m": 136891,
-      "vol_ratio": 1.37,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "STLTECH",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 37.42,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1016.7,
-      "chg_pct": 1.54,
-      "vol_today": 2046994,
-      "vol_avg_3m": 1983748,
-      "vol_ratio": 1.03,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "NINSYS",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 822.55,
-      "chg_pct": 2.22,
-      "vol_today": 8960,
-      "vol_avg_3m": 4498,
-      "vol_ratio": 1.99,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "HFCL",
-      "date": "2026-10-01",
-      "time": "11:01",
-      "first_seen": "11:01",
-      "last_seen": "15:21",
-      "appearances": 2,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": -3.57,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 262.78,
-      "chg_pct": 10.25,
-      "vol_today": 13847640,
-      "vol_avg_3m": 17390513,
-      "vol_ratio": 0.8,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "DYNAMATECH",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 21.55,
-      "cap": "default",
-      "scanners": [
-        "VCP",
-        "Mark"
-      ],
-      "price": 14279.0,
-      "chg_pct": 3.8,
-      "vol_today": 39888,
-      "vol_avg_3m": 18716,
-      "vol_ratio": 2.13,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SUDARSCHEM",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 20.85,
-      "cap": "default",
-      "scanners": [
-        "VCP",
-        "Mark"
-      ],
-      "price": 1238.6,
-      "chg_pct": -0.23,
-      "vol_today": 414501,
-      "vol_avg_3m": 403691,
-      "vol_ratio": 1.03,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "RPTECH",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 13.02,
-      "cap": "default",
-      "scanners": [
-        "VCP"
-      ],
-      "price": 958.25,
-      "chg_pct": 0.54,
-      "vol_today": 362973,
-      "vol_avg_3m": 537914,
-      "vol_ratio": 0.67,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "DIVISLAB",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 33.35,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 9550.0,
-      "chg_pct": 3.25,
-      "vol_today": 561843,
-      "vol_avg_3m": 495167,
-      "vol_ratio": 1.13,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SHRIPISTON",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 8.43,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 4405.0,
-      "chg_pct": 0.14,
-      "vol_today": 185235,
-      "vol_avg_3m": 69183,
-      "vol_ratio": 2.68,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SANSERA",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 35.56,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 4232.9,
-      "chg_pct": -1.02,
-      "vol_today": 431852,
-      "vol_avg_3m": 266249,
-      "vol_ratio": 1.62,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "PRIVISCL",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": -0.75,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 3504.9,
-      "chg_pct": -1.91,
-      "vol_today": 132898,
-      "vol_avg_3m": 78277,
-      "vol_ratio": 1.7,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "NGLFINE",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 3122.1,
-      "chg_pct": 4.48,
-      "vol_today": 14833,
-      "vol_avg_3m": 12471,
-      "vol_ratio": 1.19,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SWANDEF",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 2760.2,
-      "chg_pct": 1.55,
-      "vol_today": 22154,
-      "vol_avg_3m": 22098,
-      "vol_ratio": 1.0,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "AXISCADES",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 14.49,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 2288.5,
-      "chg_pct": 0.27,
-      "vol_today": 661343,
-      "vol_avg_3m": 207825,
-      "vol_ratio": 3.18,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "INOXINDIA",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 7.48,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 2077.3,
-      "chg_pct": -4.2,
-      "vol_today": 603898,
-      "vol_avg_3m": 351115,
-      "vol_ratio": 1.72,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "MACPOWER",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 2090.1,
-      "chg_pct": -3.26,
-      "vol_today": 93536,
-      "vol_avg_3m": 55513,
-      "vol_ratio": 1.68,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "THEJO",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 2098.9,
-      "chg_pct": 1.33,
-      "vol_today": 21672,
-      "vol_avg_3m": 9149,
-      "vol_ratio": 2.37,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "LUMAXTECH",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 22.12,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1856.9,
-      "chg_pct": -5.63,
-      "vol_today": 229184,
-      "vol_avg_3m": 246263,
-      "vol_ratio": 0.93,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "IPCALAB",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 12.36,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1945.5,
-      "chg_pct": -0.3,
-      "vol_today": 317086,
-      "vol_avg_3m": 385664,
-      "vol_ratio": 0.82,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "PHOENIXLTD",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 3.86,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1883.5,
-      "chg_pct": -2.66,
-      "vol_today": 549349,
-      "vol_avg_3m": 559560,
-      "vol_ratio": 0.98,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "MANORAMA",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 10.81,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1985.6,
-      "chg_pct": 5.6,
-      "vol_today": 467894,
-      "vol_avg_3m": 438689,
-      "vol_ratio": 1.07,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "COFORGE",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 15.05,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1849.7,
-      "chg_pct": -0.12,
-      "vol_today": 3408026,
-      "vol_avg_3m": 2661416,
-      "vol_ratio": 1.28,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "LGBBROSLTD",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1657.8,
-      "chg_pct": -3.11,
-      "vol_today": 49077,
-      "vol_avg_3m": 24834,
-      "vol_ratio": 1.98,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "TBOTEK",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 6.72,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1693.2,
-      "chg_pct": 1.3,
-      "vol_today": 295402,
-      "vol_avg_3m": 225923,
-      "vol_ratio": 1.31,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "AETHER",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 19.4,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1799.8,
-      "chg_pct": 8.36,
-      "vol_today": 358202,
-      "vol_avg_3m": 339762,
-      "vol_ratio": 1.05,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "AUROPHARMA",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 10.76,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1692.8,
-      "chg_pct": 0.95,
-      "vol_today": 1060993,
-      "vol_avg_3m": 871458,
-      "vol_ratio": 1.22,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SCHNEIDER",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": -10.0,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1274.0,
-      "chg_pct": 0.47,
-      "vol_today": 1383489,
-      "vol_avg_3m": 334083,
-      "vol_ratio": 4.14,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ACE",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 15.8,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1252.2,
-      "chg_pct": 2.01,
-      "vol_today": 457317,
-      "vol_avg_3m": 484527,
-      "vol_ratio": 0.94,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "INNOVACAP",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 28.58,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1141.8,
-      "chg_pct": -0.31,
-      "vol_today": 262739,
-      "vol_avg_3m": 93730,
-      "vol_ratio": 2.8,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "GALAPREC",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1161.0,
-      "chg_pct": 0.28,
-      "vol_today": 58869,
-      "vol_avg_3m": 48270,
-      "vol_ratio": 1.22,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ZYDUSLIFE",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 10.38,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1159.5,
-      "chg_pct": 1.2,
-      "vol_today": 2536955,
-      "vol_avg_3m": 1449754,
-      "vol_ratio": 1.75,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SIGMAADV",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 50.73,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1119.4,
-      "chg_pct": 3.95,
-      "vol_today": 534702,
-      "vol_avg_3m": 327013,
-      "vol_ratio": 1.64,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SHILPAMED",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 46.25,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1073.7,
-      "chg_pct": 4.12,
-      "vol_today": 1666027,
-      "vol_avg_3m": 1661368,
-      "vol_ratio": 1.0,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "MOTILALOFS",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 7.3,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 1081.15,
-      "chg_pct": 6.93,
-      "vol_today": 1604708,
-      "vol_avg_3m": 1136290,
-      "vol_ratio": 1.41,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "GANDHITUBE",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 981.5,
-      "chg_pct": 0.61,
-      "vol_today": 29097,
-      "vol_avg_3m": 13532,
-      "vol_ratio": 2.15,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "TMB",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 10.4,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 878.95,
-      "chg_pct": 0.79,
-      "vol_today": 190663,
-      "vol_avg_3m": 339653,
-      "vol_ratio": 0.56,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SKYGOLD",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 21.36,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 857.65,
-      "chg_pct": 3.84,
-      "vol_today": 1090360,
-      "vol_avg_3m": 1097702,
-      "vol_ratio": 0.99,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": 4
-    },
-    {
-      "symbol": "STOVEKRAFT",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 3.85,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 813.45,
-      "chg_pct": 0.87,
-      "vol_today": 137402,
-      "vol_avg_3m": 207778,
-      "vol_ratio": 0.66,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SONACOMS",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 14.97,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 820.0,
-      "chg_pct": 2.89,
-      "vol_today": 3488644,
-      "vol_avg_3m": 2412438,
-      "vol_ratio": 1.45,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SHREEJISPG",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 34.68,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 796.5,
-      "chg_pct": 2.14,
-      "vol_today": 994732,
-      "vol_avg_3m": 1027210,
-      "vol_ratio": 0.97,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SGMART",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 8.81,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 742.85,
-      "chg_pct": 0.7,
-      "vol_today": 303224,
-      "vol_avg_3m": 571462,
-      "vol_ratio": 0.53,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "RKFORGE",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 12.85,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 732.65,
-      "chg_pct": 5.35,
-      "vol_today": 843185,
-      "vol_avg_3m": 1422967,
-      "vol_ratio": 0.59,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SGIL",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 603.2,
-      "chg_pct": -1.73,
-      "vol_today": 18169,
-      "vol_avg_3m": 13132,
-      "vol_ratio": 1.38,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "RAMRAT",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 24.24,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 641.2,
-      "chg_pct": 0.94,
-      "vol_today": 971670,
-      "vol_avg_3m": 338537,
-      "vol_ratio": 2.87,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "JGCHEM",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 30.66,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 665.45,
-      "chg_pct": 9.15,
-      "vol_today": 757472,
-      "vol_avg_3m": 672298,
-      "vol_ratio": 1.13,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "NITINSPIN",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 616.35,
-      "chg_pct": 3.66,
-      "vol_today": 123473,
-      "vol_avg_3m": 174272,
-      "vol_ratio": 0.71,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "GOODLUCK",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 12.27,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 491.3,
-      "chg_pct": -1.61,
-      "vol_today": 687364,
-      "vol_avg_3m": 715035,
-      "vol_ratio": 0.96,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "DIFFNKG",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 454.1,
-      "chg_pct": 0.63,
-      "vol_today": 450639,
-      "vol_avg_3m": 343782,
-      "vol_ratio": 1.31,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "MMP",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 480.55,
-      "chg_pct": 6.88,
-      "vol_today": 107314,
-      "vol_avg_3m": 101004,
-      "vol_ratio": 1.06,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "BHEL",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 4.48,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 452.0,
-      "chg_pct": 5.36,
-      "vol_today": 12514099,
-      "vol_avg_3m": 9566450,
-      "vol_ratio": 1.31,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "GUFICBIO",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 427.8,
-      "chg_pct": 2.25,
-      "vol_today": 208880,
-      "vol_avg_3m": 113941,
-      "vol_ratio": 1.83,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "RBLBANK",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 13.32,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 414.5,
-      "chg_pct": -0.49,
-      "vol_today": 5341967,
-      "vol_avg_3m": 4466749,
-      "vol_ratio": 1.2,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "BHAGERIA",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 393.55,
-      "chg_pct": 3.01,
-      "vol_today": 312026,
-      "vol_avg_3m": 119683,
-      "vol_ratio": 2.61,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "STEELCAS",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 369.6,
-      "chg_pct": 3.69,
-      "vol_today": 341217,
-      "vol_avg_3m": 155428,
-      "vol_ratio": 2.2,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "RATNAVEER",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 2,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 58.49,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 335.25,
-      "chg_pct": -2.95,
-      "vol_today": 11364696,
-      "vol_avg_3m": 7556971,
-      "vol_ratio": 1.5,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "KTKBANK",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 18.08,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 324.25,
-      "chg_pct": -0.77,
-      "vol_today": 3164744,
-      "vol_avg_3m": 2599007,
-      "vol_ratio": 1.22,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ENGINERSIN",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "HIGH",
-      "rs_score": 33.09,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 313.3,
-      "chg_pct": 1.77,
-      "vol_today": 7674515,
-      "vol_avg_3m": 4382219,
-      "vol_ratio": 1.75,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "GREENPLY",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 315.3,
-      "chg_pct": 3.82,
-      "vol_today": 377424,
-      "vol_avg_3m": 214466,
-      "vol_ratio": 1.76,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ADFFOODS",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 293.1,
-      "chg_pct": 3.88,
-      "vol_today": 223066,
-      "vol_avg_3m": 157115,
-      "vol_ratio": 1.42,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "AYMSYNTEX",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 289.25,
-      "chg_pct": 3.32,
-      "vol_today": 151280,
-      "vol_avg_3m": 107807,
-      "vol_ratio": 1.4,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "BELRISE",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "LOW",
-      "rs_score": 5.98,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 236.81,
-      "chg_pct": 2.46,
-      "vol_today": 3588929,
-      "vol_avg_3m": 4201405,
-      "vol_ratio": 0.85,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "CUB",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 2.09,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 223.75,
-      "chg_pct": -1.71,
-      "vol_today": 4642261,
-      "vol_avg_3m": 2981999,
-      "vol_ratio": 1.56,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SHRINGARMS",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 223.32,
-      "chg_pct": 0.91,
-      "vol_today": 1047422,
-      "vol_avg_3m": 527554,
-      "vol_ratio": 1.99,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "KRISHANA",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 17.76,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 193.66,
-      "chg_pct": 4.91,
-      "vol_today": 1775896,
-      "vol_avg_3m": 1146197,
-      "vol_ratio": 1.55,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "MUKANDLTD",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 181.55,
-      "chg_pct": 5.15,
-      "vol_today": 814103,
-      "vol_avg_3m": 271262,
-      "vol_ratio": 3.0,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "JAYBARMARU",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 134.37,
-      "chg_pct": 2.73,
-      "vol_today": 682151,
-      "vol_avg_3m": 556416,
-      "vol_ratio": 1.23,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "MANAKCOAT",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 129.32,
-      "chg_pct": 2.5,
-      "vol_today": 524011,
-      "vol_avg_3m": 536734,
-      "vol_ratio": 0.98,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SMCGLOBAL",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 110.55,
-      "chg_pct": -3.45,
-      "vol_today": 8975573,
-      "vol_avg_3m": 2236274,
-      "vol_ratio": 4.01,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SALSTEEL",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 89.6,
-      "chg_pct": -9.42,
-      "vol_today": 1100848,
-      "vol_avg_3m": 491902,
-      "vol_ratio": 2.24,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "ONEPOINT",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 78.65,
-      "chg_pct": 0.41,
-      "vol_today": 5585220,
-      "vol_avg_3m": 1947252,
-      "vol_ratio": 2.87,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "SBC",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 3,
-      "tier_star": false,
-      "rs": "MID",
-      "rs_score": 26.72,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 61.7,
-      "chg_pct": -0.55,
-      "vol_today": 29564834,
-      "vol_avg_3m": 9727854,
-      "vol_ratio": 3.04,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
-      "mj_index_rank": null
-    },
-    {
-      "symbol": "KAMDHENU",
-      "date": "2026-10-01",
-      "time": "15:21",
-      "first_seen": "15:21",
-      "last_seen": "15:21",
-      "appearances": 1,
-      "tier": 4,
-      "tier_star": false,
-      "rs": "N/A",
-      "rs_score": null,
-      "cap": "default",
-      "scanners": [
-        "Mark"
-      ],
-      "price": 37.31,
-      "chg_pct": -0.74,
-      "vol_today": 1059701,
-      "vol_avg_3m": 902003,
-      "vol_ratio": 1.17,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
-      "mj_index_rank": null
-    },
     {
       "symbol": "DYNAMATECH",
       "date": "2026-10-02",
@@ -2496,8 +22,8 @@
       "vol_today": 49032,
       "vol_avg_3m": 18227,
       "vol_ratio": 2.69,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -2520,8 +46,8 @@
       "vol_today": 19393,
       "vol_avg_3m": 15494,
       "vol_ratio": 1.25,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -2544,8 +70,8 @@
       "vol_today": 24136,
       "vol_avg_3m": 25397,
       "vol_ratio": 0.95,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -2568,8 +94,8 @@
       "vol_today": 116894,
       "vol_avg_3m": 41152,
       "vol_ratio": 2.84,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -2593,8 +119,8 @@
       "vol_today": 216645,
       "vol_avg_3m": 48186,
       "vol_ratio": 4.5,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -2618,8 +144,8 @@
       "vol_today": 525994,
       "vol_avg_3m": 351011,
       "vol_ratio": 1.5,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -2643,8 +169,8 @@
       "vol_today": 153483,
       "vol_avg_3m": 99498,
       "vol_ratio": 1.54,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -2667,8 +193,8 @@
       "vol_today": 598654,
       "vol_avg_3m": 1158099,
       "vol_ratio": 0.52,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -2692,8 +218,8 @@
       "vol_today": 1061975,
       "vol_avg_3m": 1291874,
       "vol_ratio": 0.82,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -2717,8 +243,8 @@
       "vol_today": 406263,
       "vol_avg_3m": 403649,
       "vol_ratio": 1.01,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -2741,8 +267,8 @@
       "vol_today": 998005,
       "vol_avg_3m": 1152428,
       "vol_ratio": 0.87,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -2766,8 +292,8 @@
       "vol_today": 5370306,
       "vol_avg_3m": 2664226,
       "vol_ratio": 2.02,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -2790,8 +316,8 @@
       "vol_today": 296616,
       "vol_avg_3m": 847788,
       "vol_ratio": 0.35,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": 7
     },
     {
@@ -2815,8 +341,8 @@
       "vol_today": 22516675,
       "vol_avg_3m": 5414711,
       "vol_ratio": 4.16,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -2840,8 +366,8 @@
       "vol_today": 4041973,
       "vol_avg_3m": 5081711,
       "vol_ratio": 0.8,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -2865,8 +391,8 @@
       "vol_today": 1052365,
       "vol_avg_3m": 3622499,
       "vol_ratio": 0.29,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -2889,8 +415,8 @@
       "vol_today": 567310,
       "vol_avg_3m": 495167,
       "vol_ratio": 1.15,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -2913,8 +439,8 @@
       "vol_today": 283715,
       "vol_avg_3m": 151920,
       "vol_ratio": 1.87,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -2937,8 +463,8 @@
       "vol_today": 3797,
       "vol_avg_3m": 4688,
       "vol_ratio": 0.81,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -2961,8 +487,8 @@
       "vol_today": 186749,
       "vol_avg_3m": 69183,
       "vol_ratio": 2.7,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -2985,8 +511,8 @@
       "vol_today": 454154,
       "vol_avg_3m": 266249,
       "vol_ratio": 1.71,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -3009,8 +535,8 @@
       "vol_today": 102693,
       "vol_avg_3m": 78523,
       "vol_ratio": 1.31,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -3033,8 +559,8 @@
       "vol_today": 1649842,
       "vol_avg_3m": 522137,
       "vol_ratio": 3.16,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -3057,8 +583,8 @@
       "vol_today": 4054,
       "vol_avg_3m": 12456,
       "vol_ratio": 0.33,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3081,8 +607,8 @@
       "vol_today": 1334621,
       "vol_avg_3m": 729973,
       "vol_ratio": 1.83,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -3105,8 +631,8 @@
       "vol_today": 19651,
       "vol_avg_3m": 21928,
       "vol_ratio": 0.9,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3129,8 +655,8 @@
       "vol_today": 2309126,
       "vol_avg_3m": 2037242,
       "vol_ratio": 1.13,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -3153,8 +679,8 @@
       "vol_today": 681040,
       "vol_avg_3m": 207825,
       "vol_ratio": 3.28,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -3177,8 +703,8 @@
       "vol_today": 179897,
       "vol_avg_3m": 353876,
       "vol_ratio": 0.51,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3201,8 +727,8 @@
       "vol_today": 40395,
       "vol_avg_3m": 55756,
       "vol_ratio": 0.72,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3225,8 +751,8 @@
       "vol_today": 238440,
       "vol_avg_3m": 246263,
       "vol_ratio": 0.97,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3249,8 +775,8 @@
       "vol_today": 312460,
       "vol_avg_3m": 386845,
       "vol_ratio": 0.81,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3273,8 +799,8 @@
       "vol_today": 421345,
       "vol_avg_3m": 561789,
       "vol_ratio": 0.75,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3297,8 +823,8 @@
       "vol_today": 485712,
       "vol_avg_3m": 438689,
       "vol_ratio": 1.11,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -3321,8 +847,8 @@
       "vol_today": 869922,
       "vol_avg_3m": 104200,
       "vol_ratio": 8.35,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -3345,8 +871,8 @@
       "vol_today": 3419070,
       "vol_avg_3m": 2661416,
       "vol_ratio": 1.28,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -3369,8 +895,8 @@
       "vol_today": 4070,
       "vol_avg_3m": 41802,
       "vol_ratio": 0.1,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3393,8 +919,8 @@
       "vol_today": 28419,
       "vol_avg_3m": 40643,
       "vol_ratio": 0.7,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3417,8 +943,8 @@
       "vol_today": 345205,
       "vol_avg_3m": 136891,
       "vol_ratio": 2.52,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -3441,8 +967,8 @@
       "vol_today": 9738,
       "vol_avg_3m": 25078,
       "vol_ratio": 0.39,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3465,8 +991,8 @@
       "vol_today": 1138610,
       "vol_avg_3m": 867149,
       "vol_ratio": 1.31,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -3489,8 +1015,8 @@
       "vol_today": 446861,
       "vol_avg_3m": 224301,
       "vol_ratio": 1.99,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -3513,8 +1039,8 @@
       "vol_today": 292457,
       "vol_avg_3m": 340525,
       "vol_ratio": 0.86,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3537,8 +1063,8 @@
       "vol_today": 1444982,
       "vol_avg_3m": 334083,
       "vol_ratio": 4.33,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -3561,8 +1087,8 @@
       "vol_today": 343169,
       "vol_avg_3m": 486807,
       "vol_ratio": 0.7,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3585,8 +1111,8 @@
       "vol_today": 621573,
       "vol_avg_3m": 85217,
       "vol_ratio": 7.29,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -3609,8 +1135,8 @@
       "vol_today": 103371,
       "vol_avg_3m": 47381,
       "vol_ratio": 2.18,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -3633,8 +1159,8 @@
       "vol_today": 2547369,
       "vol_avg_3m": 1449754,
       "vol_ratio": 1.76,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -3657,8 +1183,8 @@
       "vol_today": 542861,
       "vol_avg_3m": 327013,
       "vol_ratio": 1.66,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -3681,8 +1207,8 @@
       "vol_today": 1687680,
       "vol_avg_3m": 1661368,
       "vol_ratio": 1.02,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -3705,8 +1231,8 @@
       "vol_today": 766759,
       "vol_avg_3m": 1142250,
       "vol_ratio": 0.67,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3729,8 +1255,8 @@
       "vol_today": 5516,
       "vol_avg_3m": 13837,
       "vol_ratio": 0.4,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3753,8 +1279,8 @@
       "vol_today": 5594054,
       "vol_avg_3m": 1983748,
       "vol_ratio": 2.82,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -3777,8 +1303,8 @@
       "vol_today": 119178,
       "vol_avg_3m": 343209,
       "vol_ratio": 0.35,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3801,8 +1327,8 @@
       "vol_today": 141001,
       "vol_avg_3m": 179448,
       "vol_ratio": 0.79,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3825,8 +1351,8 @@
       "vol_today": 1141277,
       "vol_avg_3m": 1097702,
       "vol_ratio": 1.04,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": 4
     },
     {
@@ -3849,8 +1375,8 @@
       "vol_today": 70280,
       "vol_avg_3m": 209996,
       "vol_ratio": 0.33,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3873,8 +1399,8 @@
       "vol_today": 3497748,
       "vol_avg_3m": 2412438,
       "vol_ratio": 1.45,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -3897,8 +1423,8 @@
       "vol_today": 15354,
       "vol_avg_3m": 4432,
       "vol_ratio": 3.46,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -3921,8 +1447,8 @@
       "vol_today": 735809,
       "vol_avg_3m": 463731,
       "vol_ratio": 1.59,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -3945,8 +1471,8 @@
       "vol_today": 359788,
       "vol_avg_3m": 1037975,
       "vol_ratio": 0.35,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3969,8 +1495,8 @@
       "vol_today": 435585,
       "vol_avg_3m": 577760,
       "vol_ratio": 0.75,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -3993,8 +1519,8 @@
       "vol_today": 125096,
       "vol_avg_3m": 578662,
       "vol_ratio": 0.22,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4017,8 +1543,8 @@
       "vol_today": 892168,
       "vol_avg_3m": 704124,
       "vol_ratio": 1.27,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4041,8 +1567,8 @@
       "vol_today": 529472,
       "vol_avg_3m": 1437379,
       "vol_ratio": 0.37,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4065,8 +1591,8 @@
       "vol_today": 1005993,
       "vol_avg_3m": 342131,
       "vol_ratio": 2.94,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -4089,8 +1615,8 @@
       "vol_today": 792128,
       "vol_avg_3m": 672298,
       "vol_ratio": 1.18,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4113,8 +1639,8 @@
       "vol_today": 720407,
       "vol_avg_3m": 715035,
       "vol_ratio": 1.01,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4137,8 +1663,8 @@
       "vol_today": 78332,
       "vol_avg_3m": 352063,
       "vol_ratio": 0.22,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4161,8 +1687,8 @@
       "vol_today": 139843,
       "vol_avg_3m": 101675,
       "vol_ratio": 1.38,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4185,8 +1711,8 @@
       "vol_today": 8153812,
       "vol_avg_3m": 9589234,
       "vol_ratio": 0.85,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4209,8 +1735,8 @@
       "vol_today": 150453,
       "vol_avg_3m": 110573,
       "vol_ratio": 1.36,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4233,8 +1759,8 @@
       "vol_today": 5387538,
       "vol_avg_3m": 4466749,
       "vol_ratio": 1.21,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4257,8 +1783,8 @@
       "vol_today": 3280912,
       "vol_avg_3m": 1836556,
       "vol_ratio": 1.79,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -4281,8 +1807,8 @@
       "vol_today": 364825,
       "vol_avg_3m": 114624,
       "vol_ratio": 3.18,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -4305,8 +1831,8 @@
       "vol_today": 169841,
       "vol_avg_3m": 155196,
       "vol_ratio": 1.09,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4329,8 +1855,8 @@
       "vol_today": 11559546,
       "vol_avg_3m": 7556971,
       "vol_ratio": 1.53,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -4353,8 +1879,8 @@
       "vol_today": 3306218,
       "vol_avg_3m": 2599007,
       "vol_ratio": 1.27,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4377,8 +1903,8 @@
       "vol_today": 7911815,
       "vol_avg_3m": 4382219,
       "vol_ratio": 1.81,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -4401,8 +1927,8 @@
       "vol_today": 859868,
       "vol_avg_3m": 204057,
       "vol_ratio": 4.21,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -4425,8 +1951,8 @@
       "vol_today": 266181,
       "vol_avg_3m": 157115,
       "vol_ratio": 1.69,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -4449,8 +1975,8 @@
       "vol_today": 44125,
       "vol_avg_3m": 108737,
       "vol_ratio": 0.41,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4473,8 +1999,8 @@
       "vol_today": 1339286,
       "vol_avg_3m": 2138859,
       "vol_ratio": 0.63,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4497,8 +2023,8 @@
       "vol_today": 23039457,
       "vol_avg_3m": 17390513,
       "vol_ratio": 1.32,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4521,8 +2047,8 @@
       "vol_today": 3756358,
       "vol_avg_3m": 4201405,
       "vol_ratio": 0.89,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4545,8 +2071,8 @@
       "vol_today": 417129,
       "vol_avg_3m": 1970096,
       "vol_ratio": 0.21,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4569,8 +2095,8 @@
       "vol_today": 4776469,
       "vol_avg_3m": 2981999,
       "vol_ratio": 1.6,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -4593,8 +2119,8 @@
       "vol_today": 1103142,
       "vol_avg_3m": 527554,
       "vol_ratio": 2.09,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -4617,8 +2143,8 @@
       "vol_today": 1098163,
       "vol_avg_3m": 1146972,
       "vol_ratio": 0.96,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4641,8 +2167,8 @@
       "vol_today": 858946,
       "vol_avg_3m": 271262,
       "vol_ratio": 3.17,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -4665,8 +2191,8 @@
       "vol_today": 37973409,
       "vol_avg_3m": 21014754,
       "vol_ratio": 1.81,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -4689,8 +2215,8 @@
       "vol_today": 660716,
       "vol_avg_3m": 554734,
       "vol_ratio": 1.19,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4713,8 +2239,8 @@
       "vol_today": 539492,
       "vol_avg_3m": 536734,
       "vol_ratio": 1.01,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -4737,8 +2263,8 @@
       "vol_today": 743884,
       "vol_avg_3m": 4827713,
       "vol_ratio": 0.15,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4761,8 +2287,8 @@
       "vol_today": 9500246,
       "vol_avg_3m": 2236274,
       "vol_ratio": 4.25,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -4785,8 +2311,8 @@
       "vol_today": 1173619,
       "vol_avg_3m": 487707,
       "vol_ratio": 2.41,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -4809,8 +2335,8 @@
       "vol_today": 6251994,
       "vol_avg_3m": 1947252,
       "vol_ratio": 3.21,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -4833,8 +2359,8 @@
       "vol_today": 35616365,
       "vol_avg_3m": 9310298,
       "vol_ratio": 3.83,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -4857,8 +2383,8 @@
       "vol_today": 33188098,
       "vol_avg_3m": 17459519,
       "vol_ratio": 1.9,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -4881,8 +2407,8 @@
       "vol_today": 554860,
       "vol_avg_3m": 897520,
       "vol_ratio": 0.62,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4905,8 +2431,8 @@
       "vol_today": 44387615,
       "vol_avg_3m": 14044245,
       "vol_ratio": 3.16,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -4929,8 +2455,8 @@
       "vol_today": 24024,
       "vol_avg_3m": 145681,
       "vol_ratio": 0.16,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4953,8 +2479,8 @@
       "vol_today": 3627,
       "vol_avg_3m": 19096,
       "vol_ratio": 0.19,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -4977,8 +2503,8 @@
       "vol_today": 1055,
       "vol_avg_3m": 15622,
       "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5001,8 +2527,8 @@
       "vol_today": 6744,
       "vol_avg_3m": 25561,
       "vol_ratio": 0.26,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5025,8 +2551,8 @@
       "vol_today": 6876,
       "vol_avg_3m": 78745,
       "vol_ratio": 0.09,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5049,8 +2575,8 @@
       "vol_today": 1839,
       "vol_avg_3m": 42836,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5073,8 +2599,8 @@
       "vol_today": 110954,
       "vol_avg_3m": 535453,
       "vol_ratio": 0.21,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5097,8 +2623,8 @@
       "vol_today": 5154,
       "vol_avg_3m": 115234,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5121,8 +2647,8 @@
       "vol_today": 244,
       "vol_avg_3m": 22121,
       "vol_ratio": 0.01,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5145,8 +2671,8 @@
       "vol_today": 11291,
       "vol_avg_3m": 194612,
       "vol_ratio": 0.06,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5169,8 +2695,8 @@
       "vol_today": 28189,
       "vol_avg_3m": 349708,
       "vol_ratio": 0.08,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5193,8 +2719,8 @@
       "vol_today": 11443,
       "vol_avg_3m": 384558,
       "vol_ratio": 0.03,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5217,8 +2743,8 @@
       "vol_today": 40688,
       "vol_avg_3m": 440731,
       "vol_ratio": 0.09,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5241,8 +2767,8 @@
       "vol_today": 10878,
       "vol_avg_3m": 101210,
       "vol_ratio": 0.11,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5265,8 +2791,8 @@
       "vol_today": 38645,
       "vol_avg_3m": 397266,
       "vol_ratio": 0.1,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5289,8 +2815,8 @@
       "vol_today": 65621,
       "vol_avg_3m": 1164635,
       "vol_ratio": 0.06,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5313,8 +2839,8 @@
       "vol_today": 11718,
       "vol_avg_3m": 266170,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5337,8 +2863,8 @@
       "vol_today": 18301,
       "vol_avg_3m": 335347,
       "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5361,8 +2887,8 @@
       "vol_today": 14959,
       "vol_avg_3m": 396685,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5385,8 +2911,8 @@
       "vol_today": 117704,
       "vol_avg_3m": 2548002,
       "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5409,8 +2935,8 @@
       "vol_today": 34436,
       "vol_avg_3m": 534744,
       "vol_ratio": 0.06,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5433,8 +2959,8 @@
       "vol_today": 78122,
       "vol_avg_3m": 1165210,
       "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5457,8 +2983,8 @@
       "vol_today": 27798,
       "vol_avg_3m": 340298,
       "vol_ratio": 0.08,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5481,8 +3007,8 @@
       "vol_today": 55839,
       "vol_avg_3m": 1106982,
       "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": 4
     },
     {
@@ -5505,8 +3031,8 @@
       "vol_today": 13357,
       "vol_avg_3m": 363315,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5529,8 +3055,8 @@
       "vol_today": 164013,
       "vol_avg_3m": 2240219,
       "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5553,8 +3079,8 @@
       "vol_today": 38604,
       "vol_avg_3m": 617405,
       "vol_ratio": 0.06,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5577,8 +3103,8 @@
       "vol_today": 53481,
       "vol_avg_3m": 1279791,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5601,8 +3127,8 @@
       "vol_today": 25848,
       "vol_avg_3m": 980881,
       "vol_ratio": 0.03,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5625,8 +3151,8 @@
       "vol_today": 39238,
       "vol_avg_3m": 956972,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5649,8 +3175,8 @@
       "vol_today": 801459,
       "vol_avg_3m": 6951128,
       "vol_ratio": 0.12,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5673,8 +3199,8 @@
       "vol_today": 208621,
       "vol_avg_3m": 1880617,
       "vol_ratio": 0.11,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5697,8 +3223,8 @@
       "vol_today": 750617,
       "vol_avg_3m": 5736805,
       "vol_ratio": 0.13,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5721,8 +3247,8 @@
       "vol_today": 104513,
       "vol_avg_3m": 2333184,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5745,8 +3271,8 @@
       "vol_today": 431616,
       "vol_avg_3m": 5105271,
       "vol_ratio": 0.08,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5769,8 +3295,8 @@
       "vol_today": 474861,
       "vol_avg_3m": 6511428,
       "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5793,8 +3319,8 @@
       "vol_today": 469044,
       "vol_avg_3m": 3656773,
       "vol_ratio": 0.13,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5817,8 +3343,8 @@
       "vol_today": 1553766,
       "vol_avg_3m": 14211938,
       "vol_ratio": 0.11,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5841,8 +3367,8 @@
       "vol_today": 1503251,
       "vol_avg_3m": 11562643,
       "vol_ratio": 0.13,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5865,8 +3391,8 @@
       "vol_today": 290734,
       "vol_avg_3m": 4252840,
       "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5889,8 +3415,8 @@
       "vol_today": 1331157,
       "vol_avg_3m": 9581093,
       "vol_ratio": 0.14,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5913,8 +3439,8 @@
       "vol_today": 150355,
       "vol_avg_3m": 104076,
       "vol_ratio": 1.44,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -5937,8 +3463,8 @@
       "vol_today": 300459,
       "vol_avg_3m": 128691,
       "vol_ratio": 2.33,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -5961,8 +3487,8 @@
       "vol_today": 134444,
       "vol_avg_3m": 166343,
       "vol_ratio": 0.81,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -5985,8 +3511,8 @@
       "vol_today": 542933,
       "vol_avg_3m": 330226,
       "vol_ratio": 1.64,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -6009,8 +3535,8 @@
       "vol_today": 9742,
       "vol_avg_3m": 4853,
       "vol_ratio": 2.01,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -6033,8 +3559,8 @@
       "vol_today": 7568171,
       "vol_avg_3m": 2685414,
       "vol_ratio": 2.82,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -6057,8 +3583,8 @@
       "vol_today": 1469684,
       "vol_avg_3m": 454994,
       "vol_ratio": 3.23,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -6081,8 +3607,8 @@
       "vol_today": 1131301,
       "vol_avg_3m": 355731,
       "vol_ratio": 3.18,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -6105,8 +3631,8 @@
       "vol_today": 3402627,
       "vol_avg_3m": 1393737,
       "vol_ratio": 2.44,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -6129,8 +3655,8 @@
       "vol_today": 1527080,
       "vol_avg_3m": 282698,
       "vol_ratio": 5.4,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -6153,8 +3679,8 @@
       "vol_today": 23564999,
       "vol_avg_3m": 4165116,
       "vol_ratio": 5.66,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -6177,8 +3703,8 @@
       "vol_today": 957259,
       "vol_avg_3m": 148036,
       "vol_ratio": 6.47,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -6202,8 +3728,8 @@
       "vol_today": 606100,
       "vol_avg_3m": 564712,
       "vol_ratio": 1.07,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": 8
     },
     {
@@ -6227,8 +3753,8 @@
       "vol_today": 2697659,
       "vol_avg_3m": 2106847,
       "vol_ratio": 1.28,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -6251,8 +3777,8 @@
       "vol_today": 39615,
       "vol_avg_3m": 76303,
       "vol_ratio": 0.52,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6275,8 +3801,8 @@
       "vol_today": 478621,
       "vol_avg_3m": 595515,
       "vol_ratio": 0.8,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6299,8 +3825,8 @@
       "vol_today": 816950,
       "vol_avg_3m": 364366,
       "vol_ratio": 2.24,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -6324,8 +3850,8 @@
       "vol_today": 23854388,
       "vol_avg_3m": 2209625,
       "vol_ratio": 10.8,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -6348,8 +3874,8 @@
       "vol_today": 12642514,
       "vol_avg_3m": 15705898,
       "vol_ratio": 0.8,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6372,8 +3898,8 @@
       "vol_today": 61201,
       "vol_avg_3m": 63515,
       "vol_ratio": 0.96,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6396,8 +3922,8 @@
       "vol_today": 76512,
       "vol_avg_3m": 60953,
       "vol_ratio": 1.26,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -6420,8 +3946,8 @@
       "vol_today": 362711,
       "vol_avg_3m": 140387,
       "vol_ratio": 2.58,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -6444,8 +3970,8 @@
       "vol_today": 3668517,
       "vol_avg_3m": 2691663,
       "vol_ratio": 1.36,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -6468,8 +3994,8 @@
       "vol_today": 942296,
       "vol_avg_3m": 876031,
       "vol_ratio": 1.08,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -6492,8 +4018,8 @@
       "vol_today": 432498,
       "vol_avg_3m": 351366,
       "vol_ratio": 1.23,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -6516,8 +4042,8 @@
       "vol_today": 59750,
       "vol_avg_3m": 14078,
       "vol_ratio": 4.24,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -6540,8 +4066,8 @@
       "vol_today": 198651,
       "vol_avg_3m": 164798,
       "vol_ratio": 1.21,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -6564,8 +4090,8 @@
       "vol_today": 3635691,
       "vol_avg_3m": 2031056,
       "vol_ratio": 1.79,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -6588,8 +4114,8 @@
       "vol_today": 566548,
       "vol_avg_3m": 893972,
       "vol_ratio": 0.63,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6612,8 +4138,8 @@
       "vol_today": 288256,
       "vol_avg_3m": 275433,
       "vol_ratio": 1.05,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -6636,8 +4162,8 @@
       "vol_today": 379879,
       "vol_avg_3m": 575267,
       "vol_ratio": 0.66,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6660,8 +4186,8 @@
       "vol_today": 232864,
       "vol_avg_3m": 222262,
       "vol_ratio": 1.05,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -6684,8 +4210,8 @@
       "vol_today": 78685,
       "vol_avg_3m": 81887,
       "vol_ratio": 0.96,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6708,8 +4234,8 @@
       "vol_today": 2317015,
       "vol_avg_3m": 1455066,
       "vol_ratio": 1.59,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -6732,8 +4258,8 @@
       "vol_today": 914212,
       "vol_avg_3m": 762740,
       "vol_ratio": 1.2,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -6756,8 +4282,8 @@
       "vol_today": 1021007,
       "vol_avg_3m": 584114,
       "vol_ratio": 1.75,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -6780,8 +4306,8 @@
       "vol_today": 8141035,
       "vol_avg_3m": 9561231,
       "vol_ratio": 0.85,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6804,8 +4330,8 @@
       "vol_today": 4223799,
       "vol_avg_3m": 4448283,
       "vol_ratio": 0.95,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6828,8 +4354,8 @@
       "vol_today": 2233411,
       "vol_avg_3m": 2293932,
       "vol_ratio": 0.97,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6852,8 +4378,8 @@
       "vol_today": 30636417,
       "vol_avg_3m": 31524433,
       "vol_ratio": 0.97,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6876,8 +4402,8 @@
       "vol_today": 209140,
       "vol_avg_3m": 87721,
       "vol_ratio": 2.38,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -6900,8 +4426,8 @@
       "vol_today": 133426,
       "vol_avg_3m": 156093,
       "vol_ratio": 0.85,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6924,8 +4450,8 @@
       "vol_today": 2126260,
       "vol_avg_3m": 1199121,
       "vol_ratio": 1.77,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -6948,8 +4474,8 @@
       "vol_today": 9478569,
       "vol_avg_3m": 17298657,
       "vol_ratio": 0.55,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6972,8 +4498,8 @@
       "vol_today": 982526,
       "vol_avg_3m": 1155464,
       "vol_ratio": 0.85,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -6996,8 +4522,8 @@
       "vol_today": 1021324,
       "vol_avg_3m": 894026,
       "vol_ratio": 1.14,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -7020,8 +4546,8 @@
       "vol_today": 83600925,
       "vol_avg_3m": 2383150,
       "vol_ratio": 35.08,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -7044,8 +4570,8 @@
       "vol_today": 622659,
       "vol_avg_3m": 363697,
       "vol_ratio": 1.71,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -7068,8 +4594,8 @@
       "vol_today": 10260292,
       "vol_avg_3m": 2035652,
       "vol_ratio": 5.04,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -7092,8 +4618,8 @@
       "vol_today": 16250497,
       "vol_avg_3m": 18328975,
       "vol_ratio": 0.89,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7116,8 +4642,8 @@
       "vol_today": 31034003,
       "vol_avg_3m": 10120022,
       "vol_ratio": 3.07,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -7140,8 +4666,8 @@
       "vol_today": 13123,
       "vol_avg_3m": 142719,
       "vol_ratio": 0.09,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7164,8 +4690,8 @@
       "vol_today": 444,
       "vol_avg_3m": 40048,
       "vol_ratio": 0.01,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7188,8 +4714,8 @@
       "vol_today": 3781,
       "vol_avg_3m": 195319,
       "vol_ratio": 0.02,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7212,8 +4738,8 @@
       "vol_today": 1077,
       "vol_avg_3m": 15491,
       "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7236,8 +4762,8 @@
       "vol_today": 1067,
       "vol_avg_3m": 25860,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7260,8 +4786,8 @@
       "vol_today": 18087,
       "vol_avg_3m": 533722,
       "vol_ratio": 0.03,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7284,8 +4810,8 @@
       "vol_today": 10088,
       "vol_avg_3m": 113300,
       "vol_ratio": 0.09,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": 4
     },
     {
@@ -7308,8 +4834,8 @@
       "vol_today": 51737,
       "vol_avg_3m": 567974,
       "vol_ratio": 0.09,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": 8
     },
     {
@@ -7332,8 +4858,8 @@
       "vol_today": 9933,
       "vol_avg_3m": 52016,
       "vol_ratio": 0.19,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7356,8 +4882,8 @@
       "vol_today": 42415,
       "vol_avg_3m": 440061,
       "vol_ratio": 0.1,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7380,8 +4906,8 @@
       "vol_today": 11982,
       "vol_avg_3m": 346479,
       "vol_ratio": 0.03,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7404,8 +4930,8 @@
       "vol_today": 12241,
       "vol_avg_3m": 388505,
       "vol_ratio": 0.03,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7428,8 +4954,8 @@
       "vol_today": 21836,
       "vol_avg_3m": 166254,
       "vol_ratio": 0.13,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7452,8 +4978,8 @@
       "vol_today": 26631,
       "vol_avg_3m": 1176505,
       "vol_ratio": 0.02,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7476,8 +5002,8 @@
       "vol_today": 24730,
       "vol_avg_3m": 183445,
       "vol_ratio": 0.13,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7500,8 +5026,8 @@
       "vol_today": 57630,
       "vol_avg_3m": 1171618,
       "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7524,8 +5050,8 @@
       "vol_today": 70641,
       "vol_avg_3m": 339221,
       "vol_ratio": 0.21,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7548,8 +5074,8 @@
       "vol_today": 11273,
       "vol_avg_3m": 269025,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7572,8 +5098,8 @@
       "vol_today": 3167,
       "vol_avg_3m": 398930,
       "vol_ratio": 0.01,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7596,8 +5122,8 @@
       "vol_today": 456,
       "vol_avg_3m": 76025,
       "vol_ratio": 0.01,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7620,8 +5146,8 @@
       "vol_today": 160549,
       "vol_avg_3m": 1140202,
       "vol_ratio": 0.14,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7644,8 +5170,8 @@
       "vol_today": 12939,
       "vol_avg_3m": 536355,
       "vol_ratio": 0.02,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7668,8 +5194,8 @@
       "vol_today": 11924,
       "vol_avg_3m": 338447,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7692,8 +5218,8 @@
       "vol_today": 584373,
       "vol_avg_3m": 1062412,
       "vol_ratio": 0.55,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": 6
     },
     {
@@ -7716,8 +5242,8 @@
       "vol_today": 534075,
       "vol_avg_3m": 2801897,
       "vol_ratio": 0.19,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7740,8 +5266,8 @@
       "vol_today": 89565,
       "vol_avg_3m": 2239596,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7764,8 +5290,8 @@
       "vol_today": 27699,
       "vol_avg_3m": 618284,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7788,8 +5314,8 @@
       "vol_today": 70995,
       "vol_avg_3m": 1289334,
       "vol_ratio": 0.06,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7812,8 +5338,8 @@
       "vol_today": 4292,
       "vol_avg_3m": 448022,
       "vol_ratio": 0.01,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7836,8 +5362,8 @@
       "vol_today": 117907,
       "vol_avg_3m": 908860,
       "vol_ratio": 0.13,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7860,8 +5386,8 @@
       "vol_today": 89466,
       "vol_avg_3m": 372227,
       "vol_ratio": 0.24,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7884,8 +5410,8 @@
       "vol_today": 79208,
       "vol_avg_3m": 992867,
       "vol_ratio": 0.08,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7908,8 +5434,8 @@
       "vol_today": 38552,
       "vol_avg_3m": 921934,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7932,8 +5458,8 @@
       "vol_today": 248869,
       "vol_avg_3m": 7025798,
       "vol_ratio": 0.04,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7956,8 +5482,8 @@
       "vol_today": 195590,
       "vol_avg_3m": 1895629,
       "vol_ratio": 0.1,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -7980,8 +5506,8 @@
       "vol_today": 2109308,
       "vol_avg_3m": 30122246,
       "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8004,8 +5530,8 @@
       "vol_today": 1051919,
       "vol_avg_3m": 5753195,
       "vol_ratio": 0.18,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8028,8 +5554,8 @@
       "vol_today": 111995,
       "vol_avg_3m": 2350952,
       "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8052,8 +5578,8 @@
       "vol_today": 342537,
       "vol_avg_3m": 3971717,
       "vol_ratio": 0.09,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8076,8 +5602,8 @@
       "vol_today": 533971,
       "vol_avg_3m": 6616020,
       "vol_ratio": 0.08,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8100,8 +5626,8 @@
       "vol_today": 125163,
       "vol_avg_3m": 3707911,
       "vol_ratio": 0.03,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8124,8 +5650,8 @@
       "vol_today": 1660214,
       "vol_avg_3m": 15725882,
       "vol_ratio": 0.11,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8148,8 +5674,8 @@
       "vol_today": 270829,
       "vol_avg_3m": 14067915,
       "vol_ratio": 0.02,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8172,8 +5698,8 @@
       "vol_today": 2170009,
       "vol_avg_3m": 11320934,
       "vol_ratio": 0.19,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": 7
     },
     {
@@ -8196,8 +5722,8 @@
       "vol_today": 741332,
       "vol_avg_3m": 4196921,
       "vol_ratio": 0.18,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8220,8 +5746,8 @@
       "vol_today": 8767,
       "vol_avg_3m": 19349,
       "vol_ratio": 0.45,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8244,8 +5770,8 @@
       "vol_today": 38940,
       "vol_avg_3m": 154489,
       "vol_ratio": 0.25,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8269,8 +5795,8 @@
       "vol_today": 62651,
       "vol_avg_3m": 178108,
       "vol_ratio": 0.35,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8293,8 +5819,8 @@
       "vol_today": 33794,
       "vol_avg_3m": 195048,
       "vol_ratio": 0.17,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8319,8 +5845,8 @@
       "vol_today": 1751314,
       "vol_avg_3m": 232080,
       "vol_ratio": 7.55,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -8344,8 +5870,8 @@
       "vol_today": 96770,
       "vol_avg_3m": 287895,
       "vol_ratio": 0.34,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8368,8 +5894,8 @@
       "vol_today": 969473,
       "vol_avg_3m": 2386004,
       "vol_ratio": 0.41,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": 10
     },
     {
@@ -8392,8 +5918,8 @@
       "vol_today": 25377,
       "vol_avg_3m": 101424,
       "vol_ratio": 0.25,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8416,8 +5942,8 @@
       "vol_today": 428135,
       "vol_avg_3m": 2099873,
       "vol_ratio": 0.2,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8440,8 +5966,8 @@
       "vol_today": 110214,
       "vol_avg_3m": 337769,
       "vol_ratio": 0.33,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8464,8 +5990,8 @@
       "vol_today": 164382,
       "vol_avg_3m": 863556,
       "vol_ratio": 0.19,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8489,8 +6015,8 @@
       "vol_today": 1372336,
       "vol_avg_3m": 1884986,
       "vol_ratio": 0.73,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8513,8 +6039,8 @@
       "vol_today": 45133,
       "vol_avg_3m": 588106,
       "vol_ratio": 0.08,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8537,8 +6063,8 @@
       "vol_today": 282504,
       "vol_avg_3m": 1181793,
       "vol_ratio": 0.24,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8561,8 +6087,8 @@
       "vol_today": 35001,
       "vol_avg_3m": 340314,
       "vol_ratio": 0.1,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8585,8 +6111,8 @@
       "vol_today": 93653,
       "vol_avg_3m": 379648,
       "vol_ratio": 0.25,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8609,8 +6135,8 @@
       "vol_today": 280201,
       "vol_avg_3m": 2208222,
       "vol_ratio": 0.13,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8633,8 +6159,8 @@
       "vol_today": 1044812,
       "vol_avg_3m": 4777912,
       "vol_ratio": 0.22,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8657,8 +6183,8 @@
       "vol_today": 8617065,
       "vol_avg_3m": 9257169,
       "vol_ratio": 0.93,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8682,8 +6208,8 @@
       "vol_today": 480974,
       "vol_avg_3m": 9566938,
       "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8706,8 +6232,8 @@
       "vol_today": 18983232,
       "vol_avg_3m": 17902311,
       "vol_ratio": 1.06,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -8730,8 +6256,8 @@
       "vol_today": 28802,
       "vol_avg_3m": 44227,
       "vol_ratio": 0.65,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8754,8 +6280,8 @@
       "vol_today": 1073763,
       "vol_avg_3m": 106247,
       "vol_ratio": 10.11,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -8778,8 +6304,8 @@
       "vol_today": 263697,
       "vol_avg_3m": 140034,
       "vol_ratio": 1.88,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -8802,8 +6328,8 @@
       "vol_today": 171189,
       "vol_avg_3m": 19604,
       "vol_ratio": 8.73,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -8826,8 +6352,8 @@
       "vol_today": 380311,
       "vol_avg_3m": 279293,
       "vol_ratio": 1.36,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -8850,8 +6376,8 @@
       "vol_today": 116188,
       "vol_avg_3m": 89477,
       "vol_ratio": 1.3,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -8874,8 +6400,8 @@
       "vol_today": 604037,
       "vol_avg_3m": 585976,
       "vol_ratio": 1.03,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -8898,8 +6424,8 @@
       "vol_today": 10378067,
       "vol_avg_3m": 9188306,
       "vol_ratio": 1.13,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -8922,8 +6448,8 @@
       "vol_today": 2244177,
       "vol_avg_3m": 1226751,
       "vol_ratio": 1.83,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -8946,8 +6472,8 @@
       "vol_today": 131265,
       "vol_avg_3m": 154000,
       "vol_ratio": 0.85,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -8970,8 +6496,8 @@
       "vol_today": 865293,
       "vol_avg_3m": 525127,
       "vol_ratio": 1.65,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -8994,8 +6520,8 @@
       "vol_today": 20477835,
       "vol_avg_3m": 2413668,
       "vol_ratio": 8.48,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -9018,8 +6544,8 @@
       "vol_today": 6798,
       "vol_avg_3m": 55963,
       "vol_ratio": 0.12,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9042,8 +6568,8 @@
       "vol_today": 4997,
       "vol_avg_3m": 11897,
       "vol_ratio": 0.42,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9066,8 +6592,8 @@
       "vol_today": 39755,
       "vol_avg_3m": 82359,
       "vol_ratio": 0.48,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9090,8 +6616,8 @@
       "vol_today": 86959,
       "vol_avg_3m": 565381,
       "vol_ratio": 0.15,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9114,8 +6640,8 @@
       "vol_today": 61356,
       "vol_avg_3m": 717098,
       "vol_ratio": 0.09,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9138,8 +6664,8 @@
       "vol_today": 22529,
       "vol_avg_3m": 481393,
       "vol_ratio": 0.05,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9162,8 +6688,8 @@
       "vol_today": 20359,
       "vol_avg_3m": 282994,
       "vol_ratio": 0.07,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9186,8 +6712,8 @@
       "vol_today": 329049,
       "vol_avg_3m": 888968,
       "vol_ratio": 0.37,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9210,8 +6736,8 @@
       "vol_today": 296359,
       "vol_avg_3m": 763744,
       "vol_ratio": 0.39,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9235,8 +6761,8 @@
       "vol_today": 174693,
       "vol_avg_3m": 177458,
       "vol_ratio": 0.98,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9259,8 +6785,8 @@
       "vol_today": 458837,
       "vol_avg_3m": 492611,
       "vol_ratio": 0.93,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9285,8 +6811,8 @@
       "vol_today": 89573,
       "vol_avg_3m": 64673,
       "vol_ratio": 1.39,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -9309,8 +6835,8 @@
       "vol_today": 16825,
       "vol_avg_3m": 42880,
       "vol_ratio": 0.39,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9333,8 +6859,8 @@
       "vol_today": 106644,
       "vol_avg_3m": 93736,
       "vol_ratio": 1.14,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -9358,8 +6884,8 @@
       "vol_today": 22925,
       "vol_avg_3m": 22199,
       "vol_ratio": 1.03,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -9383,8 +6909,8 @@
       "vol_today": 24044493,
       "vol_avg_3m": 1599593,
       "vol_ratio": 15.03,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -9407,8 +6933,8 @@
       "vol_today": 467635,
       "vol_avg_3m": 1416825,
       "vol_ratio": 0.33,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9431,8 +6957,8 @@
       "vol_today": 60726,
       "vol_avg_3m": 63531,
       "vol_ratio": 0.96,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9455,8 +6981,8 @@
       "vol_today": 919345,
       "vol_avg_3m": 839408,
       "vol_ratio": 1.1,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -9479,8 +7005,8 @@
       "vol_today": 628778,
       "vol_avg_3m": 327466,
       "vol_ratio": 1.92,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -9503,8 +7029,8 @@
       "vol_today": 415851,
       "vol_avg_3m": 234623,
       "vol_ratio": 1.77,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -9527,8 +7053,8 @@
       "vol_today": 19770,
       "vol_avg_3m": 27333,
       "vol_ratio": 0.72,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9551,8 +7077,8 @@
       "vol_today": 1306440,
       "vol_avg_3m": 717677,
       "vol_ratio": 1.82,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -9575,8 +7101,8 @@
       "vol_today": 134050,
       "vol_avg_3m": 78548,
       "vol_ratio": 1.71,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -9599,8 +7125,8 @@
       "vol_today": 505507,
       "vol_avg_3m": 143868,
       "vol_ratio": 3.51,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -9623,8 +7149,8 @@
       "vol_today": 38952,
       "vol_avg_3m": 61727,
       "vol_ratio": 0.63,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9647,8 +7173,8 @@
       "vol_today": 361903,
       "vol_avg_3m": 160508,
       "vol_ratio": 2.25,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -9671,8 +7197,8 @@
       "vol_today": 549900,
       "vol_avg_3m": 488533,
       "vol_ratio": 1.13,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -9695,8 +7221,8 @@
       "vol_today": 563154,
       "vol_avg_3m": 416044,
       "vol_ratio": 1.35,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -9719,8 +7245,8 @@
       "vol_today": 496711,
       "vol_avg_3m": 333890,
       "vol_ratio": 1.49,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -9743,8 +7269,8 @@
       "vol_today": 599617,
       "vol_avg_3m": 204494,
       "vol_ratio": 2.93,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -9767,8 +7293,8 @@
       "vol_today": 164934,
       "vol_avg_3m": 155783,
       "vol_ratio": 1.06,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -9791,8 +7317,8 @@
       "vol_today": 27489,
       "vol_avg_3m": 15045,
       "vol_ratio": 1.83,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -9815,8 +7341,8 @@
       "vol_today": 3321186,
       "vol_avg_3m": 2023072,
       "vol_ratio": 1.64,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -9839,8 +7365,8 @@
       "vol_today": 2503115,
       "vol_avg_3m": 2856458,
       "vol_ratio": 0.88,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9863,8 +7389,8 @@
       "vol_today": 59502,
       "vol_avg_3m": 37310,
       "vol_ratio": 1.59,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -9887,8 +7413,8 @@
       "vol_today": 10664851,
       "vol_avg_3m": 667641,
       "vol_ratio": 15.97,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -9911,8 +7437,8 @@
       "vol_today": 1080405,
       "vol_avg_3m": 474738,
       "vol_ratio": 2.28,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -9935,8 +7461,8 @@
       "vol_today": 153849,
       "vol_avg_3m": 203824,
       "vol_ratio": 0.75,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9959,8 +7485,8 @@
       "vol_today": 986445,
       "vol_avg_3m": 1037814,
       "vol_ratio": 0.95,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -9983,8 +7509,8 @@
       "vol_today": 96157,
       "vol_avg_3m": 119281,
       "vol_ratio": 0.81,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -10007,8 +7533,8 @@
       "vol_today": 172794,
       "vol_avg_3m": 108940,
       "vol_ratio": 1.59,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -10031,8 +7557,8 @@
       "vol_today": 401026,
       "vol_avg_3m": 217737,
       "vol_ratio": 1.84,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -10055,8 +7581,8 @@
       "vol_today": 957420,
       "vol_avg_3m": 1435982,
       "vol_ratio": 0.67,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -10079,8 +7605,8 @@
       "vol_today": 212206,
       "vol_avg_3m": 135300,
       "vol_ratio": 1.57,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -10103,8 +7629,8 @@
       "vol_today": 267734,
       "vol_avg_3m": 323475,
       "vol_ratio": 0.83,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -10127,8 +7653,8 @@
       "vol_today": 716186,
       "vol_avg_3m": 683700,
       "vol_ratio": 1.05,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -10151,8 +7677,8 @@
       "vol_today": 100035,
       "vol_avg_3m": 81748,
       "vol_ratio": 1.22,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -10175,8 +7701,8 @@
       "vol_today": 2219580,
       "vol_avg_3m": 742935,
       "vol_ratio": 2.99,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -10199,8 +7725,8 @@
       "vol_today": 502245,
       "vol_avg_3m": 500659,
       "vol_ratio": 1.0,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -10223,8 +7749,8 @@
       "vol_today": 18808,
       "vol_avg_3m": 1688,
       "vol_ratio": 11.14,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -10247,8 +7773,8 @@
       "vol_today": 2091413,
       "vol_avg_3m": 1743116,
       "vol_ratio": 1.2,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -10271,8 +7797,8 @@
       "vol_today": 449657,
       "vol_avg_3m": 258940,
       "vol_ratio": 1.74,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -10295,8 +7821,8 @@
       "vol_today": 348405,
       "vol_avg_3m": 126499,
       "vol_ratio": 2.75,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -10319,8 +7845,8 @@
       "vol_today": 1136911,
       "vol_avg_3m": 3563806,
       "vol_ratio": 0.32,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -10343,8 +7869,8 @@
       "vol_today": 26438830,
       "vol_avg_3m": 30368492,
       "vol_ratio": 0.87,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -10367,8 +7893,8 @@
       "vol_today": 3003620,
       "vol_avg_3m": 3282180,
       "vol_ratio": 0.92,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -10391,8 +7917,8 @@
       "vol_today": 181882,
       "vol_avg_3m": 90469,
       "vol_ratio": 2.01,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -10415,8 +7941,8 @@
       "vol_today": 5103549,
       "vol_avg_3m": 2501455,
       "vol_ratio": 2.04,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -10439,8 +7965,8 @@
       "vol_today": 202190,
       "vol_avg_3m": 117995,
       "vol_ratio": 1.71,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -10463,8 +7989,8 @@
       "vol_today": 4785194,
       "vol_avg_3m": 410872,
       "vol_ratio": 11.65,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -10487,8 +8013,8 @@
       "vol_today": 1672558,
       "vol_avg_3m": 1114930,
       "vol_ratio": 1.5,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -10511,8 +8037,8 @@
       "vol_today": 5625197,
       "vol_avg_3m": 2356235,
       "vol_ratio": 2.39,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -10535,8 +8061,8 @@
       "vol_today": 805462,
       "vol_avg_3m": 527850,
       "vol_ratio": 1.53,
-      "vol_label": "ELEVATED ⚡",
-      "vol_emoji": "⚡",
+      "vol_label": "ELEVATED \u26a1",
+      "vol_emoji": "\u26a1",
       "mj_index_rank": null
     },
     {
@@ -10559,8 +8085,8 @@
       "vol_today": 1545201,
       "vol_avg_3m": 4775053,
       "vol_ratio": 0.32,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -10583,8 +8109,8 @@
       "vol_today": 8977186,
       "vol_avg_3m": 1489629,
       "vol_ratio": 6.03,
-      "vol_label": "EXCEPTIONAL 💥",
-      "vol_emoji": "💥",
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
       "mj_index_rank": null
     },
     {
@@ -10607,8 +8133,8 @@
       "vol_today": 10033977,
       "vol_avg_3m": 4636567,
       "vol_ratio": 2.16,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -10631,8 +8157,8 @@
       "vol_today": 3559577,
       "vol_avg_3m": 2897265,
       "vol_ratio": 1.23,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
       "mj_index_rank": null
     },
     {
@@ -10655,8 +8181,8 @@
       "vol_today": 25458587,
       "vol_avg_3m": 10375840,
       "vol_ratio": 2.45,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -10679,8 +8205,8 @@
       "vol_today": 586496,
       "vol_avg_3m": 199057,
       "vol_ratio": 2.95,
-      "vol_label": "SURGE 🔥",
-      "vol_emoji": "🔥",
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
       "mj_index_rank": null
     },
     {
@@ -10703,8 +8229,8 @@
       "vol_today": 128279,
       "vol_avg_3m": 345441,
       "vol_ratio": 0.37,
-      "vol_label": "WEAK 💤",
-      "vol_emoji": "💤",
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     },
     {
@@ -10727,18 +8253,1126 @@
       "vol_today": 732150,
       "vol_avg_3m": 687973,
       "vol_ratio": 1.06,
-      "vol_label": "NORMAL 📊",
-      "vol_emoji": "📊",
+      "vol_label": "NORMAL \ud83d\udcca",
+      "vol_emoji": "\ud83d\udcca",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "APARINDS",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 26.1,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 18087.0,
+      "chg_pct": -0.08,
+      "vol_today": 10230,
+      "vol_avg_3m": 142719,
+      "vol_ratio": 0.07,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "DIVISLAB",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 28.78,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 9540.5,
+      "chg_pct": 3.75,
+      "vol_today": 18988,
+      "vol_avg_3m": 492611,
+      "vol_ratio": 0.04,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "NAVINFLUOR",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.9,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ],
+      "price": 8530.0,
+      "chg_pct": -0.07,
+      "vol_today": 7365,
+      "vol_avg_3m": 192376,
+      "vol_ratio": 0.04,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "GRWRHITECH",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 1.05,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 7014.0,
+      "chg_pct": 4.29,
+      "vol_today": 5687,
+      "vol_avg_3m": 64504,
+      "vol_ratio": 0.09,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "YASHO",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 23.7,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ],
+      "price": 4351.0,
+      "chg_pct": 7.62,
+      "vol_today": 4850,
+      "vol_avg_3m": 56049,
+      "vol_ratio": 0.09,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "KMEW",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 20.6,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 3206.4,
+      "chg_pct": 0.13,
+      "vol_today": 21274,
+      "vol_avg_3m": 116418,
+      "vol_ratio": 0.18,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": 4
+    },
+    {
+      "symbol": "GALAXYSURF",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 2465.0,
+      "chg_pct": 5.57,
+      "vol_today": 3527,
+      "vol_avg_3m": 52661,
+      "vol_ratio": 0.07,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "NOVARTIND",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 31.74,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 2055.2,
+      "chg_pct": 0.2,
+      "vol_today": 5314,
+      "vol_avg_3m": 106996,
+      "vol_ratio": 0.05,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "LAURUSLABS",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 28.53,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 2046.4,
+      "chg_pct": -0.18,
+      "vol_today": 141963,
+      "vol_avg_3m": 2388580,
+      "vol_ratio": 0.06,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": 10
+    },
+    {
+      "symbol": "MANORAMA",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 17.7,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1998.7,
+      "chg_pct": 2.77,
+      "vol_today": 11751,
+      "vol_avg_3m": 440061,
+      "vol_ratio": 0.03,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "IPCALAB",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 11.04,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1953.9,
+      "chg_pct": 0.43,
+      "vol_today": 4455,
+      "vol_avg_3m": 385816,
+      "vol_ratio": 0.01,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "RPEL",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 27.15,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1884.4,
+      "chg_pct": 3.24,
+      "vol_today": 55465,
+      "vol_avg_3m": 100264,
+      "vol_ratio": 0.55,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "AETHER",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 12.96,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1801.0,
+      "chg_pct": 0.07,
+      "vol_today": 55166,
+      "vol_avg_3m": 317312,
+      "vol_ratio": 0.17,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "PAYTM",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 27.06,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1728.0,
+      "chg_pct": 2.01,
+      "vol_today": 325908,
+      "vol_avg_3m": 4228609,
+      "vol_ratio": 0.08,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "KRN",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 8.8,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ],
+      "price": 1471.6,
+      "chg_pct": 5.67,
+      "vol_today": 86188,
+      "vol_avg_3m": 183445,
+      "vol_ratio": 0.47,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "FINCABLES",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 36.5,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1475.0,
+      "chg_pct": 0.52,
+      "vol_today": 29794,
+      "vol_avg_3m": 1180188,
+      "vol_ratio": 0.03,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "AEGISLOG",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 14.48,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1416.1,
+      "chg_pct": 1.45,
+      "vol_today": 119541,
+      "vol_avg_3m": 1129156,
+      "vol_ratio": 0.11,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "ADANIGREEN",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -3.56,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ],
+      "price": 1354.0,
+      "chg_pct": 5.45,
+      "vol_today": 1211629,
+      "vol_avg_3m": 1884986,
+      "vol_ratio": 0.64,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "PGIL",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 21.94,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1277.0,
+      "chg_pct": 0.81,
+      "vol_today": 8379,
+      "vol_avg_3m": 267752,
+      "vol_ratio": 0.03,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "HATSUN",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1167.0,
+      "chg_pct": 2.06,
+      "vol_today": 7106,
+      "vol_avg_3m": 76025,
+      "vol_ratio": 0.09,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "SBCL",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 34.22,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1100.0,
+      "chg_pct": 0.04,
+      "vol_today": 32235,
+      "vol_avg_3m": 568165,
+      "vol_ratio": 0.06,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "SHYAMMETL",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 8.58,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1063.4,
+      "chg_pct": 4.23,
+      "vol_today": 90110,
+      "vol_avg_3m": 557467,
+      "vol_ratio": 0.16,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "RPTECH",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 26.2,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 947.4,
+      "chg_pct": 0.42,
+      "vol_today": 26635,
+      "vol_avg_3m": 534167,
+      "vol_ratio": 0.05,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "SKYGOLD",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 27.62,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 873.2,
+      "chg_pct": 1.81,
+      "vol_today": 253329,
+      "vol_avg_3m": 1077797,
+      "vol_ratio": 0.24,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": 6
+    },
+    {
+      "symbol": "AKUMS",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 19.08,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 823.3,
+      "chg_pct": 2.74,
+      "vol_today": 37370,
+      "vol_avg_3m": 340314,
+      "vol_ratio": 0.11,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "ABDL",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 6.87,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 712.1,
+      "chg_pct": -0.36,
+      "vol_today": 24880,
+      "vol_avg_3m": 613895,
+      "vol_ratio": 0.04,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "E2E",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 46.74,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 723.3,
+      "chg_pct": 10.24,
+      "vol_today": 282161,
+      "vol_avg_3m": 1270171,
+      "vol_ratio": 0.22,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "ICIL",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 6.17,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 470.5,
+      "chg_pct": -0.56,
+      "vol_today": 55165,
+      "vol_avg_3m": 984976,
+      "vol_ratio": 0.06,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "SUNFLAG",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 461.45,
+      "chg_pct": 1.42,
+      "vol_today": 30763,
+      "vol_avg_3m": 372227,
+      "vol_ratio": 0.08,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "SSWL",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 45.53,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 430.25,
+      "chg_pct": 1.31,
+      "vol_today": 161414,
+      "vol_avg_3m": 1927870,
+      "vol_ratio": 0.08,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "CUPID",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 2,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 41.21,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 337.55,
+      "chg_pct": 4.12,
+      "vol_today": 6131836,
+      "vol_avg_3m": 28850959,
+      "vol_ratio": 0.21,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "WELSPUNLIV",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 37.45,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 242.26,
+      "chg_pct": 1.85,
+      "vol_today": 1181909,
+      "vol_avg_3m": 5805261,
+      "vol_ratio": 0.2,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "IOLCP",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "MID",
+      "rs_score": 21.13,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 222.98,
+      "chg_pct": 3.76,
+      "vol_today": 2211715,
+      "vol_avg_3m": 3904116,
+      "vol_ratio": 0.57,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "RAIN",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.3,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 213.55,
+      "chg_pct": 0.43,
+      "vol_today": 176835,
+      "vol_avg_3m": 4722808,
+      "vol_ratio": 0.04,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "EMIL",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 41.89,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 205.81,
+      "chg_pct": 0.35,
+      "vol_today": 629413,
+      "vol_avg_3m": 6616020,
+      "vol_ratio": 0.1,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "MRPL",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.93,
+      "cap": "default",
+      "scanners": [
+        "VCP",
+        "Jadhav"
+      ],
+      "price": 179.68,
+      "chg_pct": 2.84,
+      "vol_today": 2640252,
+      "vol_avg_3m": 15817393,
+      "vol_ratio": 0.17,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "TFCILTD",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "HIGH",
+      "rs_score": 50.59,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 146.25,
+      "chg_pct": 3.98,
+      "vol_today": 1845615,
+      "vol_avg_3m": 14054445,
+      "vol_ratio": 0.13,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "TVSSCS",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 131.13,
+      "chg_pct": 0.35,
+      "vol_today": 38247,
+      "vol_avg_3m": 1406349,
+      "vol_ratio": 0.03,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "RPSGVENT",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "price": 904.65,
+      "chg_pct": 8.48,
+      "vol_today": 55053,
+      "vol_avg_3m": 27465,
+      "vol_ratio": 2.0,
+      "vol_label": "SURGE \ud83d\udd25",
+      "vol_emoji": "\ud83d\udd25",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "NGLFINE",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ],
+      "price": 3136.2,
+      "chg_pct": 0.45,
+      "vol_today": 822,
+      "vol_avg_3m": 11938,
+      "vol_ratio": 0.07,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "PIXTRANS",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ],
+      "price": 1806.4,
+      "chg_pct": -1.52,
+      "vol_today": 2847,
+      "vol_avg_3m": 65374,
+      "vol_ratio": 0.04,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "STOVEKRAFT",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ],
+      "price": 815.45,
+      "chg_pct": 0.25,
+      "vol_today": 3276,
+      "vol_avg_3m": 200223,
+      "vol_ratio": 0.02,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "SGFIN",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": -4.38,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ],
+      "price": 662.85,
+      "chg_pct": -2.23,
+      "vol_today": 18565,
+      "vol_avg_3m": 497308,
+      "vol_ratio": 0.04,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "NITINSPIN",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ],
+      "price": 615.0,
+      "chg_pct": 1.69,
+      "vol_today": 3220,
+      "vol_avg_3m": 176670,
+      "vol_ratio": 0.02,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "PANAMAPET",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 12.66,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ],
+      "price": 503.3,
+      "chg_pct": -0.16,
+      "vol_today": 51432,
+      "vol_avg_3m": 562480,
+      "vol_ratio": 0.09,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "JAGSNPHARM",
+      "date": "2026-10-07",
+      "time": "09:26",
+      "first_seen": "09:26",
+      "last_seen": "09:26",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "Jadhav"
+      ],
+      "price": 240.8,
+      "chg_pct": 4.94,
+      "vol_today": 43077,
+      "vol_avg_3m": 481586,
+      "vol_ratio": 0.09,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": null
     }
   ],
   "breadth_mc100": {
-    "above_21ema": 26,
+    "above_21ema": 28,
     "total": 110,
-    "pct": 23.6,
-    "signal": "BEARISH",
-    "signal_emoji": "🔴",
-    "updated": "2026-10-06 15:21"
-  },
-  "price_updated_at": "2026-10-07 08:49 IST"
+    "pct": 25.5,
+    "signal": "CAUTION",
+    "signal_emoji": "\ud83d\udd34",
+    "updated": "2026-10-07 09:25"
+  }
 }
