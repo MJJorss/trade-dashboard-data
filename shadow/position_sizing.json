@@ -1,12 +1,12 @@
 {
-  "as_of": "2026-10-06",
-  "last_updated": "2026-10-06 15:30 IST",
-  "capital_base": 1350555.72,
-  "total_equity": 1350138.87,
+  "as_of": "2026-10-07",
+  "last_updated": "2026-10-07 15:30 IST",
+  "capital_base": 1350798.91,
+  "total_equity": 1351166.53,
   "starting_capital": 1350000,
   "effective_risk_pct": 1.4,
   "base_risk_pct": 1.4,
-  "next_trade_risk_inr": 18907.78,
+  "next_trade_risk_inr": 18911.18,
   "equity_curve_multiplier": 1.0,
   "equity_curve_tier": 0,
   "effective_tier": 0,
@@ -20,7 +20,7 @@
   "max_slots": 7,
   "gate": {
     "ma_status": "BELOW MA21",
-    "si_status": "BEARISH \u2014 green <= red",
+    "si_status": "BULLISH",
     "entries_allowed": false,
     "liquidates": true
   },
