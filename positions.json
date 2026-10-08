@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 196.0,
-      "unrealised_pct": -4.74
+      "current_price": 192.8,
+      "unrealised_pct": -6.29
     },
     {
       "symbol": "SUNFLAG",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 452.65,
-      "unrealised_pct": -2.18
+      "current_price": 450.7,
+      "unrealised_pct": -2.6
     },
     {
       "symbol": "FINCABLES",
@@ -84,48 +84,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1417.0,
-      "unrealised_pct": -3.92
-    },
-    {
-      "symbol": "WELSPUNLIV",
-      "scanner": "VCP Breakout",
-      "entry_price": 243.96,
-      "entry_time": "09:27",
-      "entry_date": "2026-10-07",
-      "stop_price": 226.88,
-      "stop_unlocked": false,
-      "high_since_entry": 245.5,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 39.79,
-      "rs_benchmark": "Nifty 50",
-      "rs_stale": false,
-      "rs_stale_days": 0,
-      "universe_rs_tier": "HIGH",
-      "status": "closed",
-      "capital_allocated": 141914,
-      "qty": 581,
-      "risk_inr": 9934,
-      "risk_pct_applied": 0.75,
-      "stop_pct": 7.0,
-      "capital_base_at_entry": 1324553,
-      "equity_curve_mult": 0.75,
-      "drawdown_mult": 1.0,
-      "price_source": "live",
-      "current_price": 228.17,
-      "unrealised_pct": -6.47,
-      "exit_price": 226.88,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "13:16",
-      "exit_date": "2026-10-08",
-      "pnl_pct": -7.0,
-      "pnl_inr": -9934,
-      "hold_days": 1,
-      "capital_per_slot": 141914
+      "current_price": 1405.9,
+      "unrealised_pct": -4.67
     }
   ],
-  "last_updated": "2026-10-08 13:16 IST",
+  "last_updated": "2026-10-08 15:02 IST",
   "closed_today_map": {
     "2026-10-08": [
       "LAURUSLABS",
