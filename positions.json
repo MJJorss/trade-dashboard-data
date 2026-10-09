@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 192.8,
-      "unrealised_pct": -6.29
+      "current_price": 193.49,
+      "unrealised_pct": -5.96
     },
     {
       "symbol": "SUNFLAG",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 450.7,
-      "unrealised_pct": -2.6
+      "current_price": 445.25,
+      "unrealised_pct": -3.78
     },
     {
       "symbol": "FINCABLES",
@@ -84,17 +84,12 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1405.9,
-      "unrealised_pct": -4.67
+      "current_price": 1388.7,
+      "unrealised_pct": -5.84
     }
   ],
-  "last_updated": "2026-10-08 15:02 IST",
+  "last_updated": "2026-10-09 09:27 IST",
   "closed_today_map": {
-    "2026-10-08": [
-      "LAURUSLABS",
-      "MOREPENLAB",
-      "TFCILTD",
-      "WELSPUNLIV"
-    ]
+    "2026-10-09": []
   }
 }

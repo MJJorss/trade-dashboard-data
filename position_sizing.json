@@ -5,8 +5,8 @@
   "equity_curve_tier": 1,
   "drawdown_multiplier": 1.0,
   "fast_trigger_breached": false,
-  "fast_trigger_5day_pct": -0.28,
-  "last_updated": "2026-10-08 15:02 IST",
+  "fast_trigger_5day_pct": -0.57,
+  "last_updated": "2026-10-09 09:27 IST",
   "positions": [
     {
       "symbol": "EMIL",
@@ -21,9 +21,9 @@
       "recommended_qty": 709,
       "actual_capital_deployed": 141914,
       "actual_qty": 689,
-      "current_ltp": 192.8,
-      "unrealized_pnl": -8923,
-      "unrealized_pnl_pct": -6.29,
+      "current_ltp": 193.49,
+      "unrealized_pnl": -8447,
+      "unrealized_pnl_pct": -5.96,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -40,9 +40,9 @@
       "recommended_qty": 315,
       "actual_capital_deployed": 141914,
       "actual_qty": 306,
-      "current_ltp": 450.7,
-      "unrealized_pnl": -3687,
-      "unrealized_pnl_pct": -2.6,
+      "current_ltp": 445.25,
+      "unrealized_pnl": -5355,
+      "unrealized_pnl_pct": -3.78,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -59,9 +59,9 @@
       "recommended_qty": 98,
       "actual_capital_deployed": 141914,
       "actual_qty": 96,
-      "current_ltp": 1405.9,
-      "unrealized_pnl": -6614,
-      "unrealized_pnl_pct": -4.67,
+      "current_ltp": 1388.7,
+      "unrealized_pnl": -8266,
+      "unrealized_pnl_pct": -5.84,
       "price_source": "live",
       "status": "OPEN"
     }
