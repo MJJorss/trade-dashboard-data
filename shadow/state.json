@@ -3,8 +3,8 @@
   "config_cell": "SLEEVED",
   "config_hash": "a16973bb977dcae1",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-10-08 15:46",
-  "as_of": "2026-10-08",
+  "last_run_ist": "2026-10-09 10:40",
+  "as_of": "2026-10-09",
   "test_run": false,
   "frames_fetched": 134,
   "frames_failed": {},
@@ -18,15 +18,15 @@
   },
   "restated": [],
   "equivalence": {
-    "shadow_si": "BEARISH",
+    "shadow_si": "BULLISH",
     "shadow_ma": "BELOW",
     "live_si": "BEARISH",
     "live_ma": null,
-    "live_run_at": "2026-10-08T09:32:16Z",
+    "live_run_at": "2026-10-09T03:57:12Z",
     "error": null,
     "compared": "SI",
-    "match": true,
-    "date": "2026-10-08"
+    "match": false,
+    "date": "2026-10-09"
   },
-  "runtime_s": 52.3
+  "runtime_s": 52.5
 }
