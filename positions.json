@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 193.78,
-      "unrealised_pct": -5.82
+      "current_price": 192.81,
+      "unrealised_pct": -6.29
     },
     {
       "symbol": "SUNFLAG",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 445.65,
-      "unrealised_pct": -3.7
+      "current_price": 442.7,
+      "unrealised_pct": -4.33
     },
     {
       "symbol": "FINCABLES",
@@ -84,37 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1394.3,
-      "unrealised_pct": -5.46
-    },
-    {
-      "symbol": "MOREPENLAB",
-      "scanner": "VCP Breakout",
-      "entry_price": 137.29,
-      "entry_time": "11:25",
-      "entry_date": "2026-10-09",
-      "stop_price": 127.68,
-      "stop_unlocked": false,
-      "high_since_entry": 141.96,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 86.58,
-      "rs_benchmark": "Nifty 50",
-      "rs_stale": false,
-      "rs_stale_days": 0,
-      "universe_rs_tier": "HIGH",
-      "status": "open",
-      "capital_allocated": 145971,
-      "qty": 1063,
-      "risk_inr": 10218,
-      "risk_pct_applied": 0.75,
-      "stop_pct": 7.0,
-      "capital_base_at_entry": 1362349,
-      "equity_curve_mult": 0.75,
-      "drawdown_mult": 1.0,
-      "price_source": "live",
-      "current_price": 131.53,
-      "unrealised_pct": -4.2
+      "current_price": 1392.8,
+      "unrealised_pct": -5.56
     },
     {
       "symbol": "TFCILTD",
@@ -142,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 146.6,
-      "unrealised_pct": -1.86
+      "current_price": 146.83,
+      "unrealised_pct": -1.71
     },
     {
       "symbol": "SKYGOLD",
@@ -153,7 +124,7 @@
       "entry_date": "2026-10-09",
       "stop_price": 832.58,
       "stop_unlocked": false,
-      "high_since_entry": 906.95,
+      "high_since_entry": 936.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 33.59,
@@ -171,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 899.5,
-      "unrealised_pct": 0.47
+      "current_price": 921.65,
+      "unrealised_pct": 2.95
     },
     {
       "symbol": "FCL",
@@ -200,12 +171,51 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 56.74,
-      "unrealised_pct": -1.37
+      "current_price": 57.38,
+      "unrealised_pct": -0.26
+    },
+    {
+      "symbol": "MOREPENLAB",
+      "scanner": "VCP Breakout",
+      "entry_price": 137.29,
+      "entry_time": "11:25",
+      "entry_date": "2026-10-09",
+      "stop_price": 127.68,
+      "stop_unlocked": false,
+      "high_since_entry": 141.96,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 86.58,
+      "rs_benchmark": "Nifty 50",
+      "rs_stale": false,
+      "rs_stale_days": 0,
+      "universe_rs_tier": "HIGH",
+      "status": "closed",
+      "capital_allocated": 145971,
+      "qty": 1063,
+      "risk_inr": 10218,
+      "risk_pct_applied": 0.75,
+      "stop_pct": 7.0,
+      "capital_base_at_entry": 1362349,
+      "equity_curve_mult": 0.75,
+      "drawdown_mult": 1.0,
+      "price_source": "live",
+      "current_price": 131.53,
+      "unrealised_pct": -4.2,
+      "exit_price": 127.68,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "15:02",
+      "exit_date": "2026-10-09",
+      "pnl_pct": -7.0,
+      "pnl_inr": -10218,
+      "hold_days": 0,
+      "capital_per_slot": 145971
     }
   ],
-  "last_updated": "2026-10-09 13:16 IST",
+  "last_updated": "2026-10-09 15:02 IST",
   "closed_today_map": {
-    "2026-10-09": []
+    "2026-10-09": [
+      "MOREPENLAB"
+    ]
   }
 }
