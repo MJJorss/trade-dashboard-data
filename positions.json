@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 445.55,
-      "unrealised_pct": -3.72
+      "current_price": 443.7,
+      "unrealised_pct": -4.12
     },
     {
       "symbol": "FINCABLES",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1417.9,
-      "unrealised_pct": -3.86
+      "current_price": 1432.2,
+      "unrealised_pct": -2.89
     },
     {
       "symbol": "TFCILTD",
@@ -66,7 +66,7 @@
       "entry_date": "2026-10-09",
       "stop_price": 138.92,
       "stop_unlocked": false,
-      "high_since_entry": 153.65,
+      "high_since_entry": 154.8,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 59.11,
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 152.37,
-      "unrealised_pct": 2.0
+      "current_price": 153.37,
+      "unrealised_pct": 2.67
     },
     {
       "symbol": "SKYGOLD",
@@ -95,7 +95,7 @@
       "entry_date": "2026-10-09",
       "stop_price": 832.58,
       "stop_unlocked": false,
-      "high_since_entry": 968.0,
+      "high_since_entry": 975.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 33.59,
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 968.0,
-      "unrealised_pct": 8.13
+      "current_price": 971.0,
+      "unrealised_pct": 8.46
     },
     {
       "symbol": "FCL",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 56.73,
-      "unrealised_pct": -1.39
+      "current_price": 56.22,
+      "unrealised_pct": -2.28
     },
     {
       "symbol": "RAYMOND",
@@ -171,48 +171,40 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1206.7,
-      "unrealised_pct": 0.07
+      "current_price": 1174.4,
+      "unrealised_pct": -2.61
     },
     {
-      "symbol": "EMIL",
+      "symbol": "WELCORP",
       "scanner": "VCP Breakout",
-      "entry_price": 205.75,
-      "entry_time": "09:27",
-      "entry_date": "2026-10-07",
-      "stop_price": 191.35,
+      "entry_price": 2766.2,
+      "entry_time": "11:25",
+      "entry_date": "2026-10-12",
+      "stop_price": 2572.57,
       "stop_unlocked": false,
-      "high_since_entry": 212.64,
+      "high_since_entry": 2769.6,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
-      "rs_composite": 43.72,
+      "rs_composite": 44.53,
       "rs_benchmark": "Nifty 50",
       "rs_stale": false,
       "rs_stale_days": 0,
       "universe_rs_tier": "HIGH",
-      "status": "closed",
-      "capital_allocated": 141914,
-      "qty": 689,
-      "risk_inr": 9934,
+      "status": "open",
+      "capital_allocated": 143800,
+      "qty": 51,
+      "risk_inr": 10066,
       "risk_pct_applied": 0.75,
       "stop_pct": 7.0,
-      "capital_base_at_entry": 1324553,
+      "capital_base_at_entry": 1342197,
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 192.81,
-      "unrealised_pct": -6.29,
-      "exit_price": 191.35,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "09:27",
-      "exit_date": "2026-10-12",
-      "pnl_pct": -7.0,
-      "pnl_inr": -9934,
-      "hold_days": 5,
-      "capital_per_slot": 141914
+      "current_price": 2768.0,
+      "unrealised_pct": 0.07
     }
   ],
-  "last_updated": "2026-10-12 09:27 IST",
+  "last_updated": "2026-10-12 11:25 IST",
   "closed_today_map": {
     "2026-10-12": [
       "EMIL"
