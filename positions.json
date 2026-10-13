@@ -1,35 +1,6 @@
 {
   "positions": [
     {
-      "symbol": "SUNFLAG",
-      "scanner": "VCP Breakout",
-      "entry_price": 462.75,
-      "entry_time": "09:27",
-      "entry_date": "2026-10-07",
-      "stop_price": 430.36,
-      "stop_unlocked": false,
-      "high_since_entry": 479.1,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 41.85,
-      "rs_benchmark": "Nifty 50",
-      "rs_stale": false,
-      "rs_stale_days": 0,
-      "universe_rs_tier": "N/A",
-      "status": "open",
-      "capital_allocated": 141914,
-      "qty": 306,
-      "risk_inr": 9934,
-      "risk_pct_applied": 0.75,
-      "stop_pct": 7.0,
-      "capital_base_at_entry": 1324553,
-      "equity_curve_mult": 0.75,
-      "drawdown_mult": 1.0,
-      "price_source": "live",
-      "current_price": 433.5,
-      "unrealised_pct": -6.32
-    },
-    {
       "symbol": "FINCABLES",
       "scanner": "VCP Breakout",
       "entry_price": 1474.8,
@@ -55,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1413.7,
-      "unrealised_pct": -4.14
+      "current_price": 1452.4,
+      "unrealised_pct": -1.52
     },
     {
       "symbol": "TFCILTD",
@@ -66,7 +37,7 @@
       "entry_date": "2026-10-09",
       "stop_price": 138.92,
       "stop_unlocked": false,
-      "high_since_entry": 154.8,
+      "high_since_entry": 157.79,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 59.11,
@@ -84,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 154.02,
-      "unrealised_pct": 3.11
+      "current_price": 157.43,
+      "unrealised_pct": 5.39
     },
     {
       "symbol": "SKYGOLD",
@@ -113,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 974.4,
-      "unrealised_pct": 8.84
+      "current_price": 953.15,
+      "unrealised_pct": 6.47
     },
     {
       "symbol": "FCL",
@@ -142,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 54.39,
-      "unrealised_pct": -5.46
+      "current_price": 54.78,
+      "unrealised_pct": -4.78
     },
     {
       "symbol": "RAYMOND",
@@ -171,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1134.0,
-      "unrealised_pct": -5.96
+      "current_price": 1129.0,
+      "unrealised_pct": -6.38
     },
     {
       "symbol": "WELCORP",
@@ -200,12 +171,51 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2705.9,
-      "unrealised_pct": -2.18
+      "current_price": 2703.9,
+      "unrealised_pct": -2.25
+    },
+    {
+      "symbol": "SUNFLAG",
+      "scanner": "VCP Breakout",
+      "entry_price": 462.75,
+      "entry_time": "09:27",
+      "entry_date": "2026-10-07",
+      "stop_price": 430.36,
+      "stop_unlocked": false,
+      "high_since_entry": 479.1,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 41.85,
+      "rs_benchmark": "Nifty 50",
+      "rs_stale": false,
+      "rs_stale_days": 0,
+      "universe_rs_tier": "N/A",
+      "status": "closed",
+      "capital_allocated": 141914,
+      "qty": 306,
+      "risk_inr": 9934,
+      "risk_pct_applied": 0.75,
+      "stop_pct": 7.0,
+      "capital_base_at_entry": 1324553,
+      "equity_curve_mult": 0.75,
+      "drawdown_mult": 1.0,
+      "price_source": "live",
+      "current_price": 433.5,
+      "unrealised_pct": -6.32,
+      "exit_price": 430.36,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "11:25",
+      "exit_date": "2026-10-13",
+      "pnl_pct": -7.0,
+      "pnl_inr": -9934,
+      "hold_days": 6,
+      "capital_per_slot": 141914
     }
   ],
-  "last_updated": "2026-10-13 09:27 IST",
+  "last_updated": "2026-10-13 11:25 IST",
   "closed_today_map": {
-    "2026-10-13": []
+    "2026-10-13": [
+      "SUNFLAG"
+    ]
   }
 }
