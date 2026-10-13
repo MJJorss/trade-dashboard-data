@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1456.4,
-      "unrealised_pct": -1.25
+      "current_price": 1472.5,
+      "unrealised_pct": -0.16
     },
     {
       "symbol": "TFCILTD",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 155.7,
-      "unrealised_pct": 4.23
+      "current_price": 159.25,
+      "unrealised_pct": 6.61
     },
     {
       "symbol": "SKYGOLD",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 971.1,
-      "unrealised_pct": 8.47
+      "current_price": 978.0,
+      "unrealised_pct": 9.24
     },
     {
       "symbol": "FCL",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 54.87,
-      "unrealised_pct": -4.62
+      "current_price": 55.67,
+      "unrealised_pct": -3.23
     },
     {
       "symbol": "WELCORP",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2673.5,
-      "unrealised_pct": -3.35
+      "current_price": 2738.0,
+      "unrealised_pct": -1.02
     },
     {
       "symbol": "RPEL",
@@ -153,7 +153,7 @@
       "entry_date": "2026-10-13",
       "stop_price": 1697.16,
       "stop_unlocked": false,
-      "high_since_entry": 1830.0,
+      "high_since_entry": 1848.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 31.87,
@@ -171,48 +171,40 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1828.0,
-      "unrealised_pct": 0.17
+      "current_price": 1846.8,
+      "unrealised_pct": 1.2
     },
     {
-      "symbol": "RAYMOND",
+      "symbol": "SMLMAH",
       "scanner": "VCP Breakout",
-      "entry_price": 1205.9,
-      "entry_time": "09:27",
-      "entry_date": "2026-10-12",
-      "stop_price": 1121.49,
+      "entry_price": 6136.5,
+      "entry_time": "15:02",
+      "entry_date": "2026-10-13",
+      "stop_price": 5706.95,
       "stop_unlocked": false,
-      "high_since_entry": 1217.9,
+      "high_since_entry": 6244.5,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
-      "rs_composite": 79.61,
+      "rs_composite": 34.43,
       "rs_benchmark": "Nifty 50",
       "rs_stale": false,
       "rs_stale_days": 0,
-      "universe_rs_tier": "HIGH",
-      "status": "closed",
-      "capital_allocated": 144871,
-      "qty": 120,
-      "risk_inr": 10141,
+      "universe_rs_tier": "MID",
+      "status": "open",
+      "capital_allocated": 141657,
+      "qty": 23,
+      "risk_inr": 9916,
       "risk_pct_applied": 0.75,
       "stop_pct": 7.0,
-      "capital_base_at_entry": 1352131,
+      "capital_base_at_entry": 1322122,
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1129.0,
-      "unrealised_pct": -6.38,
-      "exit_price": 1121.49,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "13:15",
-      "exit_date": "2026-10-13",
-      "pnl_pct": -7.0,
-      "pnl_inr": -10141,
-      "hold_days": 1,
-      "capital_per_slot": 144871
+      "current_price": 6139.0,
+      "unrealised_pct": 0.04
     }
   ],
-  "last_updated": "2026-10-13 13:15 IST",
+  "last_updated": "2026-10-13 15:02 IST",
   "closed_today_map": {
     "2026-10-13": [
       "RAYMOND",
