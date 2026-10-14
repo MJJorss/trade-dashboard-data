@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1462.4,
-      "unrealised_pct": -0.84
+      "current_price": 1446.5,
+      "unrealised_pct": -1.92
     },
     {
       "symbol": "TFCILTD",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 160.01,
-      "unrealised_pct": 7.12
+      "current_price": 157.64,
+      "unrealised_pct": 5.53
     },
     {
       "symbol": "FCL",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 58.08,
-      "unrealised_pct": 0.96
+      "current_price": 57.17,
+      "unrealised_pct": -0.63
     },
     {
       "symbol": "WELCORP",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2699.7,
-      "unrealised_pct": -2.4
+      "current_price": 2648.1,
+      "unrealised_pct": -4.27
     },
     {
       "symbol": "RPEL",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1917.6,
-      "unrealised_pct": 5.08
+      "current_price": 1877.0,
+      "unrealised_pct": 2.85
     },
     {
       "symbol": "SMLMAH",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 6181.0,
-      "unrealised_pct": 0.73
+      "current_price": 6150.0,
+      "unrealised_pct": 0.22
     },
     {
       "symbol": "CUPID",
@@ -200,11 +200,11 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 357.15,
-      "unrealised_pct": -0.17
+      "current_price": 356.25,
+      "unrealised_pct": -0.42
     }
   ],
-  "last_updated": "2026-10-14 11:25 IST",
+  "last_updated": "2026-10-14 13:15 IST",
   "closed_today_map": {
     "2026-10-14": [
       "SKYGOLD"
