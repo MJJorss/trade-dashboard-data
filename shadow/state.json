@@ -3,10 +3,10 @@
   "config_cell": "SLEEVED",
   "config_hash": "c2dd1429ac837826",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-10-15 14:40",
+  "last_run_ist": "2026-10-15 15:46",
   "as_of": "2026-10-15",
   "test_run": false,
-  "frames_fetched": 212,
+  "frames_fetched": 213,
   "frames_failed": {},
   "signals_unlabelled": 87,
   "decay": {
@@ -24,19 +24,19 @@
   "equivalence": {
     "shadow_si": "BULLISH",
     "shadow_ma": "BELOW",
-    "live_si": "BULLISH",
+    "live_si": "BEARISH",
     "live_ma": null,
-    "live_run_at": "2026-10-15T07:45:33Z",
+    "live_run_at": "2026-10-15T09:32:16Z",
     "error": null,
     "compared": "SI",
-    "match": true,
+    "match": false,
     "date": "2026-10-15"
   },
-  "runtime_s": 86.3,
+  "runtime_s": 87.7,
   "research_config_hash": "5dd2cfcc8b0459b1",
   "mode": "decide",
-  "decided_at_ist": "14:42",
-  "late_run": false,
+  "decided_at_ist": "15:47",
+  "late_run": true,
   "config_changes": [
     {
       "from": "2026-09-15",
