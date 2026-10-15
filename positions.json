@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1423.6,
-      "unrealised_pct": -3.47
+      "current_price": 1412.1,
+      "unrealised_pct": -4.25
     },
     {
       "symbol": "TFCILTD",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 159.84,
-      "unrealised_pct": 7.0
+      "current_price": 158.15,
+      "unrealised_pct": 5.87
     },
     {
       "symbol": "FCL",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 57.98,
-      "unrealised_pct": 0.78
+      "current_price": 58.16,
+      "unrealised_pct": 1.1
     },
     {
       "symbol": "RPEL",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1791.6,
-      "unrealised_pct": -1.82
+      "current_price": 1776.9,
+      "unrealised_pct": -2.63
     },
     {
       "symbol": "SMLMAH",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 6044.0,
-      "unrealised_pct": -1.51
+      "current_price": 6025.5,
+      "unrealised_pct": -1.81
     },
     {
       "symbol": "CUPID",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 356.15,
-      "unrealised_pct": -0.45
+      "current_price": 350.6,
+      "unrealised_pct": -2.0
     },
     {
       "symbol": "SBC",
@@ -200,11 +200,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 64.66,
-      "unrealised_pct": 0.06
+      "current_price": 64.77,
+      "unrealised_pct": 0.23
     }
   ],
-  "last_updated": "2026-10-15 11:25 IST",
+  "last_updated": "2026-10-15 13:15 IST",
   "closed_today_map": {
     "2026-10-15": [
       "WELCORP"
