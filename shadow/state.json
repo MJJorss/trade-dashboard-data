@@ -1,14 +1,14 @@
 {
   "start_date": "2026-09-15",
   "config_cell": "SLEEVED",
-  "config_hash": "a16973bb977dcae1",
+  "config_hash": "c2dd1429ac837826",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-10-15 10:40",
+  "last_run_ist": "2026-10-15 14:40",
   "as_of": "2026-10-15",
   "test_run": false,
-  "frames_fetched": 198,
+  "frames_fetched": 212,
   "frames_failed": {},
-  "signals_unlabelled": 81,
+  "signals_unlabelled": 87,
   "decay": {
     "n_closed": 0,
     "window": 60,
@@ -16,17 +16,40 @@
     "state": "NORMAL",
     "note": "0/60 closed trades"
   },
-  "restated": [],
+  "restated": [
+    "Rule change from 2026-09-15: Idle cash earns LIQUIDBEES' actual daily change instead of a flat 5.5% a year (both books)",
+    "Rule change from 2026-09-15: Stock trades pay the buy side's statutory charges as well as the sell side's",
+    "Rule change from 2026-10-16: Decisions only at the 2:40 pm run, on the price at the time of the run; the 10:40 am run no longer decides (it records the last decision day's closes and values the book); signals are the live VCP clause posted at the run, saved per day"
+  ],
   "equivalence": {
     "shadow_si": "BULLISH",
     "shadow_ma": "BELOW",
     "live_si": "BULLISH",
     "live_ma": null,
-    "live_run_at": "2026-10-15T03:57:11Z",
+    "live_run_at": "2026-10-15T07:45:33Z",
     "error": null,
     "compared": "SI",
     "match": true,
     "date": "2026-10-15"
   },
-  "runtime_s": 74.0
+  "runtime_s": 86.3,
+  "research_config_hash": "5dd2cfcc8b0459b1",
+  "mode": "decide",
+  "decided_at_ist": "14:42",
+  "late_run": false,
+  "config_changes": [
+    {
+      "from": "2026-09-15",
+      "change": "Idle cash earns LIQUIDBEES' actual daily change instead of a flat 5.5% a year (both books)"
+    },
+    {
+      "from": "2026-09-15",
+      "change": "Stock trades pay the buy side's statutory charges as well as the sell side's"
+    },
+    {
+      "from": "2026-10-16",
+      "change": "Decisions only at the 2:40 pm run, on the price at the time of the run; the 10:40 am run no longer decides (it records the last decision day's closes and values the book); signals are the live VCP clause posted at the run, saved per day"
+    }
+  ],
+  "replay_restatements": []
 }
