@@ -1296,6 +1296,22 @@
       "capital_per_slot": 145971,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-10"
+    },
+    {
+      "symbol": "WELCORP",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 2766.2,
+      "exit_price": 2572.57,
+      "entry_date": "2026-10-12",
+      "exit_date": "2026-10-15",
+      "hold_days": 3,
+      "pnl_pct": -7.0,
+      "pnl_inr": -10066,
+      "capital_per_slot": 143800,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "month": "2026-10"
     }
   ]
 }
