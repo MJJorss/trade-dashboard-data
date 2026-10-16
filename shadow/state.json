@@ -34,7 +34,7 @@
   },
   "runtime_s": 87.7,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "decide",
+  "mode": "update",
   "decided_at_ist": "15:47",
   "late_run": true,
   "config_changes": [
@@ -51,5 +51,6 @@
       "change": "Decisions only at the 2:40 pm run, on the price at the time of the run; the 10:40 am run no longer decides (it records the last decision day's closes and values the book); signals are the live VCP clause posted at the run, saved per day"
     }
   ],
-  "replay_restatements": []
+  "replay_restatements": [],
+  "last_update_ist": "2026-10-16 10:40"
 }
