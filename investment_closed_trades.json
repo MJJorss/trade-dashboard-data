@@ -339,5 +339,82 @@
     "days_held": 17,
     "exit_reason": "Score eviction — fell to rank #26 (beyond buffer #25)",
     "exit_date": "2026-10-05"
+  },
+  {
+    "symbol": "RRKABEL",
+    "entry_price": 2650.0,
+    "exit_price": 2563.7,
+    "capital_deployed": 97072.0,
+    "pnl_pct": -3.26,
+    "pnl_inr": -3165.0,
+    "days_held": 11,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-16"
+  },
+  {
+    "symbol": "ANTELOPUS",
+    "entry_price": 1109.65,
+    "exit_price": 1028.1,
+    "capital_deployed": 100137.0,
+    "pnl_pct": -7.35,
+    "pnl_inr": -7360.0,
+    "days_held": 28,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-16"
+  },
+  {
+    "symbol": "GCSL",
+    "entry_price": 619.0,
+    "exit_price": 738.0,
+    "capital_deployed": 100137.0,
+    "pnl_pct": 19.22,
+    "pnl_inr": 19246.0,
+    "days_held": 28,
+    "exit_reason": "Score eviction — fell to rank #75 (beyond buffer #25)",
+    "exit_date": "2026-10-16"
+  },
+  {
+    "symbol": "GESHIP",
+    "entry_price": 1559.0,
+    "exit_price": 1491.6,
+    "capital_deployed": 97072.0,
+    "pnl_pct": -4.32,
+    "pnl_inr": -4194.0,
+    "days_held": 11,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-16"
+  },
+  {
+    "symbol": "MTARTECH",
+    "entry_price": 7854.5,
+    "exit_price": 6980.5,
+    "capital_deployed": 97624.0,
+    "pnl_pct": -11.13,
+    "pnl_inr": -10866.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-16"
+  },
+  {
+    "symbol": "PANAMAPET",
+    "entry_price": 499.25,
+    "exit_price": 490.5,
+    "capital_deployed": 97624.0,
+    "pnl_pct": -1.75,
+    "pnl_inr": -1708.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-16"
+  },
+  {
+    "symbol": "SOTL",
+    "entry_price": 764.05,
+    "exit_price": 721.5,
+    "capital_deployed": 97624.0,
+    "pnl_pct": -5.57,
+    "pnl_inr": -5438.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-16"
   }
 ]
