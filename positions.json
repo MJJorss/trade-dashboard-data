@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1404.9,
-      "unrealised_pct": -4.74
+      "current_price": 1402.5,
+      "unrealised_pct": -4.9
     },
     {
       "symbol": "TFCILTD",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 158.01,
-      "unrealised_pct": 5.78
+      "current_price": 158.36,
+      "unrealised_pct": 6.01
     },
     {
       "symbol": "FCL",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 58.09,
-      "unrealised_pct": 0.97
+      "current_price": 58.8,
+      "unrealised_pct": 2.21
     },
     {
       "symbol": "RPEL",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1742.6,
-      "unrealised_pct": -4.51
+      "current_price": 1745.6,
+      "unrealised_pct": -4.35
     },
     {
       "symbol": "SMLMAH",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 6053.0,
-      "unrealised_pct": -1.36
+      "current_price": 6122.5,
+      "unrealised_pct": -0.23
     },
     {
       "symbol": "CUPID",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 352.25,
-      "unrealised_pct": -1.54
+      "current_price": 352.0,
+      "unrealised_pct": -1.61
     },
     {
       "symbol": "SBC",
@@ -200,14 +200,12 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 64.35,
-      "unrealised_pct": -0.42
+      "current_price": 64.47,
+      "unrealised_pct": -0.23
     }
   ],
-  "last_updated": "2026-10-15 15:02 IST",
+  "last_updated": "2026-10-16 09:27 IST",
   "closed_today_map": {
-    "2026-10-15": [
-      "WELCORP"
-    ]
+    "2026-10-16": []
   }
 }
