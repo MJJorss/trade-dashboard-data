@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1402.5,
-      "unrealised_pct": -4.9
+      "current_price": 1389.6,
+      "unrealised_pct": -5.78
     },
     {
       "symbol": "TFCILTD",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 158.36,
-      "unrealised_pct": 6.01
+      "current_price": 156.72,
+      "unrealised_pct": 4.91
     },
     {
       "symbol": "FCL",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 58.8,
-      "unrealised_pct": 2.21
+      "current_price": 57.9,
+      "unrealised_pct": 0.64
     },
     {
       "symbol": "RPEL",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1745.6,
-      "unrealised_pct": -4.35
+      "current_price": 1789.8,
+      "unrealised_pct": -1.92
     },
     {
       "symbol": "SMLMAH",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 6122.5,
-      "unrealised_pct": -0.23
+      "current_price": 6114.5,
+      "unrealised_pct": -0.36
     },
     {
       "symbol": "CUPID",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 352.0,
-      "unrealised_pct": -1.61
+      "current_price": 350.25,
+      "unrealised_pct": -2.1
     },
     {
       "symbol": "SBC",
@@ -200,11 +200,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 64.47,
-      "unrealised_pct": -0.23
+      "current_price": 63.37,
+      "unrealised_pct": -1.93
     }
   ],
-  "last_updated": "2026-10-16 09:27 IST",
+  "last_updated": "2026-10-16 11:25 IST",
   "closed_today_map": {
     "2026-10-16": []
   }
