@@ -3,12 +3,12 @@
   "config_cell": "SLEEVED",
   "config_hash": "c2dd1429ac837826",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-10-15 15:46",
-  "as_of": "2026-10-15",
+  "last_run_ist": "2026-10-16 14:40",
+  "as_of": "2026-10-16",
   "test_run": false,
-  "frames_fetched": 213,
+  "frames_fetched": 237,
   "frames_failed": {},
-  "signals_unlabelled": 87,
+  "signals_unlabelled": 106,
   "decay": {
     "n_closed": 0,
     "window": 60,
@@ -22,21 +22,21 @@
     "Rule change from 2026-10-16: Decisions only at the 2:40 pm run, on the price at the time of the run; the 10:40 am run no longer decides (it records the last decision day's closes and values the book); signals are the live VCP clause posted at the run, saved per day"
   ],
   "equivalence": {
-    "shadow_si": "BULLISH",
+    "shadow_si": "BEARISH",
     "shadow_ma": "BELOW",
     "live_si": "BEARISH",
     "live_ma": null,
-    "live_run_at": "2026-10-15T09:32:16Z",
+    "live_run_at": "2026-10-16T07:45:35Z",
     "error": null,
     "compared": "SI",
-    "match": false,
-    "date": "2026-10-15"
+    "match": true,
+    "date": "2026-10-16"
   },
-  "runtime_s": 87.7,
+  "runtime_s": 99.3,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "update",
-  "decided_at_ist": "15:47",
-  "late_run": true,
+  "mode": "decide",
+  "decided_at_ist": "14:42",
+  "late_run": false,
   "config_changes": [
     {
       "from": "2026-09-15",
