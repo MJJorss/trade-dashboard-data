@@ -1328,6 +1328,22 @@
       "capital_per_slot": 141914,
       "exit_reason": "Stop Loss -7% \ud83d\udd34",
       "month": "2026-10"
+    },
+    {
+      "symbol": "RPEL",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 1824.9,
+      "exit_price": 1697.16,
+      "entry_date": "2026-10-13",
+      "exit_date": "2026-10-19",
+      "hold_days": 6,
+      "pnl_pct": -7.0,
+      "pnl_inr": -9992,
+      "capital_per_slot": 142743,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "month": "2026-10"
     }
   ]
 }
