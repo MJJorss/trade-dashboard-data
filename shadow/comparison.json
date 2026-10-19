@@ -802,15 +802,15 @@
   },
   "trueup": {
     "latest": {
-      "date": "2026-10-15",
-      "trued_up_at_ist": "2026-10-16 10:40",
+      "date": "2026-10-16",
+      "trued_up_at_ist": "2026-10-19 10:40",
       "decided_at_ist": "15:47",
       "rows": [],
       "average_gap_pct": null,
       "average_absolute_gap_pct": null,
       "note": "Records only \u2014 the official close changes no decision."
     },
-    "days": 1,
+    "days": 2,
     "average_gap_pct_all": null,
     "average_absolute_gap_pct_all": null
   },
@@ -826,5 +826,18 @@
     },
     "buy_hold_base_price": 231.67,
     "swing_cash": 1111111.51
+  },
+  "morning": {
+    "marked_at_ist": "2026-10-19 10:40",
+    "decisions_from": "2026-10-16",
+    "swing": 1340060.35,
+    "swing_return_pct": -0.74,
+    "blend": 1340207.63,
+    "blend_return_pct": -0.73,
+    "buy_hold": 1307694.13,
+    "buy_hold_return_pct": -3.13,
+    "live_return_pct": -6.33,
+    "positions": [],
+    "note": "Marked at the morning price; no decision is made at this run."
   }
 }
