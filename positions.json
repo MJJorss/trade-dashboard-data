@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 157.66,
-      "unrealised_pct": 5.54
+      "current_price": 156.26,
+      "unrealised_pct": 4.61
     },
     {
       "symbol": "FCL",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 56.07,
-      "unrealised_pct": -2.54
+      "current_price": 55.81,
+      "unrealised_pct": -2.99
     },
     {
       "symbol": "SMLMAH",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 6179.0,
-      "unrealised_pct": 0.69
+      "current_price": 6141.5,
+      "unrealised_pct": 0.08
     },
     {
       "symbol": "CUPID",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 341.4,
-      "unrealised_pct": -4.57
+      "current_price": 336.85,
+      "unrealised_pct": -5.84
     },
     {
       "symbol": "SBC",
@@ -142,11 +142,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 65.22,
-      "unrealised_pct": 0.93
+      "current_price": 64.47,
+      "unrealised_pct": -0.23
     }
   ],
-  "last_updated": "2026-10-19 13:15 IST",
+  "last_updated": "2026-10-19 15:02 IST",
   "closed_today_map": {
     "2026-10-19": [
       "RPEL"
