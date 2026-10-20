@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:53:27.364743",
+  "generated_at": "2026-10-20T09:32:48.305346",
   "scan_window_days": 365,
   "signals": [
     {
@@ -542,7 +542,7 @@
       "current_close": 196.82,
       "depth_pct": 30.04,
       "is_contracting": true,
-      "volume_ratio": 0.76,
+      "volume_ratio": 0.77,
       "post_listing_high": 281.32,
       "symbol": "CMPDI",
       "company": "Central Mine Planning & Design Institute Limited",
