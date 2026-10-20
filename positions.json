@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 156.26,
-      "unrealised_pct": 4.61
+      "current_price": 155.69,
+      "unrealised_pct": 4.22
     },
     {
       "symbol": "FCL",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 6141.5,
-      "unrealised_pct": 0.08
+      "current_price": 6112.0,
+      "unrealised_pct": -0.4
     },
     {
       "symbol": "CUPID",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 336.85,
-      "unrealised_pct": -5.84
+      "current_price": 336.3,
+      "unrealised_pct": -6.0
     },
     {
       "symbol": "SBC",
@@ -142,14 +142,12 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 64.47,
-      "unrealised_pct": -0.23
+      "current_price": 64.5,
+      "unrealised_pct": -0.19
     }
   ],
-  "last_updated": "2026-10-19 15:02 IST",
+  "last_updated": "2026-10-20 09:27 IST",
   "closed_today_map": {
-    "2026-10-19": [
-      "RPEL"
-    ]
+    "2026-10-20": []
   }
 }

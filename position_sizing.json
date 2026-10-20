@@ -5,8 +5,8 @@
   "equity_curve_tier": 1,
   "drawdown_multiplier": 1.0,
   "fast_trigger_breached": false,
-  "fast_trigger_5day_pct": -2.35,
-  "last_updated": "2026-10-19 15:02 IST",
+  "fast_trigger_5day_pct": -2.78,
+  "last_updated": "2026-10-20 09:27 IST",
   "positions": [
     {
       "symbol": "TFCILTD",
@@ -21,9 +21,9 @@
       "recommended_qty": 935,
       "actual_capital_deployed": 145971,
       "actual_qty": 977,
-      "current_ltp": 156.26,
-      "unrealized_pnl": 6722,
-      "unrealized_pnl_pct": 4.61,
+      "current_ltp": 155.69,
+      "unrealized_pnl": 6165,
+      "unrealized_pnl_pct": 4.22,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -59,9 +59,9 @@
       "recommended_qty": 22,
       "actual_capital_deployed": 141657,
       "actual_qty": 23,
-      "current_ltp": 6141.5,
-      "unrealized_pnl": 115,
-      "unrealized_pnl_pct": 0.08,
+      "current_ltp": 6112.0,
+      "unrealized_pnl": -564,
+      "unrealized_pnl_pct": -0.4,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -78,9 +78,9 @@
       "recommended_qty": 390,
       "actual_capital_deployed": 95343,
       "actual_qty": 266,
-      "current_ltp": 336.85,
-      "unrealized_pnl": -5559,
-      "unrealized_pnl_pct": -5.84,
+      "current_ltp": 336.3,
+      "unrealized_pnl": -5706,
+      "unrealized_pnl_pct": -6.0,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -97,9 +97,9 @@
       "recommended_qty": 2166,
       "actual_capital_deployed": 142132,
       "actual_qty": 2199,
-      "current_ltp": 64.47,
-      "unrealized_pnl": -330,
-      "unrealized_pnl_pct": -0.23,
+      "current_ltp": 64.5,
+      "unrealized_pnl": -264,
+      "unrealized_pnl_pct": -0.19,
       "price_source": "live",
       "status": "OPEN"
     }
