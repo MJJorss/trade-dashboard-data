@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 155.69,
-      "unrealised_pct": 4.22
+      "current_price": 156.18,
+      "unrealised_pct": 4.55
     },
     {
       "symbol": "FCL",
@@ -146,7 +146,7 @@
       "unrealised_pct": -0.19
     }
   ],
-  "last_updated": "2026-10-20 13:16 IST",
+  "last_updated": "2026-10-20 15:02 IST",
   "closed_today_map": {
     "2026-10-20": []
   }
