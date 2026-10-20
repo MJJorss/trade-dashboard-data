@@ -5,8 +5,8 @@
   "equity_curve_tier": 1,
   "drawdown_multiplier": 1.0,
   "fast_trigger_breached": false,
-  "fast_trigger_5day_pct": -2.78,
-  "last_updated": "2026-10-20 09:27 IST",
+  "fast_trigger_5day_pct": -3.03,
+  "last_updated": "2026-10-20 11:25 IST",
   "positions": [
     {
       "symbol": "TFCILTD",
