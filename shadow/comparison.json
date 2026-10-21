@@ -1,25 +1,25 @@
 {
-  "generated_at_ist": "2026-10-19 15:46",
-  "as_of": "2026-10-19",
+  "generated_at_ist": "2026-10-21 14:40",
+  "as_of": "2026-10-21",
   "start_date": "2026-09-15",
-  "late_run": true,
+  "late_run": false,
   "labels": {
     "book_b": "backfilled to 15 Sep",
     "invested": "stocks plus sleeve, as % of the book"
   },
   "status": {
-    "date": "2026-10-19",
+    "date": "2026-10-21",
     "gate_entries_allowed": false,
     "gate_above_21_day_average": false,
     "gate_super_indicator_bullish": false,
-    "gate_distance_pct": -2.41,
+    "gate_distance_pct": -3.88,
     "size_level_tier": 0,
     "size_level": "full size (the book's equity is above its 20-day average)",
     "five_day_breaker_active": false,
     "high_water_mark_cut_active": false,
-    "run_started_ist": "2026-10-19 15:46",
-    "decided_at_ist": "15:47",
-    "late_run": true,
+    "run_started_ist": "2026-10-21 14:40",
+    "decided_at_ist": "14:42",
+    "late_run": false,
     "signal_snapshot": "saved"
   },
   "daily": [
@@ -334,30 +334,43 @@
       "gate_super_indicator_bullish": false,
       "gate_entries_allowed": false,
       "late_run": true
+    },
+    {
+      "date": "2026-10-21",
+      "book_a": 1337949.22,
+      "book_b": 1338084.49,
+      "book_b_v3_half": 668974.61,
+      "book_b_etf_half": 669109.88,
+      "buy_hold": 1273021.97,
+      "live_pct": -8.98,
+      "gate_above_21_day_average": false,
+      "gate_super_indicator_bullish": false,
+      "gate_entries_allowed": false,
+      "late_run": false
     }
   ],
   "summary": {
     "book_a": {
-      "return_pct": -0.77,
-      "max_drawdown_pct": -0.98,
-      "current_drawdown_pct": -0.94,
-      "invested_pct": 17.1
+      "return_pct": -0.89,
+      "max_drawdown_pct": -1.06,
+      "current_drawdown_pct": -1.06,
+      "invested_pct": 17.0
     },
     "book_b": {
-      "return_pct": -0.76,
-      "max_drawdown_pct": -0.98,
-      "current_drawdown_pct": -0.95,
-      "invested_pct": 17.1
+      "return_pct": -0.88,
+      "max_drawdown_pct": -1.07,
+      "current_drawdown_pct": -1.07,
+      "invested_pct": 17.0
     },
     "live": {
-      "return_pct": -6.92,
-      "max_drawdown_pct": -6.92,
-      "current_drawdown_pct": -6.92
+      "return_pct": -8.98,
+      "max_drawdown_pct": -8.98,
+      "current_drawdown_pct": -8.98
     },
     "buy_hold": {
-      "return_pct": -4.31,
-      "max_drawdown_pct": -6.82,
-      "current_drawdown_pct": -6.61,
+      "return_pct": -5.7,
+      "max_drawdown_pct": -7.96,
+      "current_drawdown_pct": -7.96,
       "invested_pct": 100.0
     }
   },
@@ -370,7 +383,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -0.32,
+        "return_pct": -0.44,
         "partial": true
       }
     ],
@@ -382,7 +395,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -0.32,
+        "return_pct": -0.44,
         "partial": true
       }
     ],
@@ -394,7 +407,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -3.66,
+        "return_pct": -5.79,
         "partial": true
       }
     ],
@@ -406,7 +419,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -2.36,
+        "return_pct": -3.78,
         "partial": true
       }
     ]
@@ -425,96 +438,36 @@
     }
   },
   "book_b_breakdown": {
-    "v3_half": 669794.82,
+    "v3_half": 668974.61,
     "v3_scale_of_book_a": 0.5,
-    "etf_half": 669925.98,
+    "etf_half": 669109.88,
     "etf_half_holding": "sleeve",
     "etf_half_holdings_at_6_75_lakh_scale": {
       "GILT5YBEES": {
         "units": 895.5053,
-        "value": 58467.54
+        "value": 58360.08
       },
       "MON100": {
         "units": 181.6632,
-        "value": 56618.98
+        "value": 55905.04
       }
     },
     "rebalance_rule": "both halves back to 50/50 on the first trading day of each January"
   },
   "decisions": {
-    "date": "2026-10-19",
-    "signals": 26,
+    "date": "2026-10-21",
+    "signals": 5,
     "buys": [],
     "sells": [],
     "sleeve": [],
     "book_b_fund_half": null,
     "skipped": [
       {
-        "symbol": "ACUTAAS",
+        "symbol": "ANANDRATHI",
         "reason": "Market gate off"
       },
       {
-        "symbol": "ADANIPORTS",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "CARTRADE",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "CEIGALL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "CRAFTSMAN",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "DCBBANK",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "FEDERALBNK",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "GABRIEL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "GANDHAR",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "GODREJAGRO",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "HFCL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "INDNIPPON",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "KARURVYSYA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "LAURUSLABS",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "MUFIN",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "PREMEXPLN",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "PTCIL",
+        "symbol": "BBOX",
         "reason": "Market gate off"
       },
       {
@@ -522,35 +475,11 @@
         "reason": "Market gate off"
       },
       {
-        "symbol": "RATNAVEER",
+        "symbol": "SKYGOLD",
         "reason": "Market gate off"
       },
       {
-        "symbol": "SAREGAMA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SBC",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "TFCILTD",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "THELEELA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "TIPSMUSIC",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "VENKEYS",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "VINDHYATEL",
+        "symbol": "TATVA",
         "reason": "Market gate off"
       }
     ]
@@ -561,12 +490,6 @@
       {
         "symbol": "CUPID",
         "live_entry": "2026-10-14",
-        "live_entry_time": "11:25",
-        "reason": "Live has no 21-day market gate; the shadow's gate was off that day"
-      },
-      {
-        "symbol": "FCL",
-        "live_entry": "2026-10-09",
         "live_entry_time": "11:25",
         "reason": "Live has no 21-day market gate; the shadow's gate was off that day"
       },
@@ -606,29 +529,16 @@
     "average_absolute_gap_pct_all": null
   },
   "marks_basis": {
-    "decided_on": "2026-10-19",
+    "decided_on": "2026-10-21",
     "v3_scale": 0.5000000000000001,
-    "etf_half_actual": 669925.9822745201,
-    "etf_sim_value": 669717.3778247298,
-    "etf_sim_cash": 554630.8626118444,
+    "etf_half_actual": 669109.8774156311,
+    "etf_sim_value": 668901.5270881014,
+    "etf_sim_cash": 554636.4089759341,
     "etf_holdings_units": {
       "GILT5YBEES": 895.5052568981985,
       "MON100": 181.66322389065962
     },
     "buy_hold_base_price": 231.67,
-    "swing_cash": 1111111.51
-  },
-  "morning": {
-    "marked_at_ist": "2026-10-21 10:40",
-    "decisions_from": "2026-10-19",
-    "swing": 1339755.86,
-    "swing_return_pct": -0.76,
-    "blend": 1339891.12,
-    "blend_return_pct": -0.75,
-    "buy_hold": 1285375.75,
-    "buy_hold_return_pct": -4.79,
-    "live_return_pct": -6.98,
-    "positions": [],
-    "note": "Marked at the morning price; no decision is made at this run."
+    "swing_cash": 1111089.29
   }
 }
