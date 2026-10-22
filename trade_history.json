@@ -1376,6 +1376,22 @@
       "capital_per_slot": 95343,
       "exit_reason": "Stop Loss -7% \ud83d\udd34",
       "month": "2026-10"
+    },
+    {
+      "symbol": "SMLMAH",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 6136.5,
+      "exit_price": 5052.5,
+      "entry_date": "2026-10-13",
+      "exit_date": "2026-10-22",
+      "hold_days": 9,
+      "pnl_pct": -17.66,
+      "pnl_inr": -25017,
+      "capital_per_slot": 141657,
+      "exit_reason": "Stop Loss (gap down) \ud83d\udd34",
+      "month": "2026-10"
     }
   ]
 }
