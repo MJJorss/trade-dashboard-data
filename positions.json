@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 144.49,
-      "unrealised_pct": -3.27
+      "current_price": 147.05,
+      "unrealised_pct": -1.56
     },
     {
       "symbol": "SBC",
@@ -55,51 +55,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 62.65,
-      "unrealised_pct": -3.05
-    },
-    {
-      "symbol": "SMLMAH",
-      "scanner": "VCP Breakout",
-      "entry_price": 6136.5,
-      "entry_time": "15:02",
-      "entry_date": "2026-10-13",
-      "stop_price": 5706.95,
-      "stop_unlocked": false,
-      "high_since_entry": 6339.5,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 34.43,
-      "rs_benchmark": "Nifty 50",
-      "rs_stale": false,
-      "rs_stale_days": 0,
-      "universe_rs_tier": "MID",
-      "status": "closed",
-      "capital_allocated": 141657,
-      "qty": 23,
-      "risk_inr": 9916,
-      "risk_pct_applied": 0.75,
-      "stop_pct": 7.0,
-      "capital_base_at_entry": 1322122,
-      "equity_curve_mult": 0.75,
-      "drawdown_mult": 1.0,
-      "price_source": "live",
-      "current_price": 5501.0,
-      "unrealised_pct": -10.36,
-      "exit_price": 5052.5,
-      "exit_reason": "Stop Loss (gap down) \ud83d\udd34",
-      "exit_time": "09:27",
-      "exit_date": "2026-10-22",
-      "pnl_pct": -17.66,
-      "pnl_inr": -25017,
-      "hold_days": 9,
-      "capital_per_slot": 141657,
-      "exit_signal_date": "2026-10-21",
-      "exit_signal_price": 5501.0,
-      "exit_blocked_runs": 3
+      "current_price": 62.33,
+      "unrealised_pct": -3.54
     }
   ],
-  "last_updated": "2026-10-22 09:27 IST",
+  "last_updated": "2026-10-22 11:25 IST",
   "closed_today_map": {
     "2026-10-22": [
       "SMLMAH"
