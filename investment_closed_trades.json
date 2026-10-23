@@ -416,5 +416,93 @@
     "days_held": 7,
     "exit_reason": "Below 21 EMA — technical exit",
     "exit_date": "2026-10-16"
+  },
+  {
+    "symbol": "SHADOWFAX",
+    "entry_price": 289.15,
+    "exit_price": 264.6,
+    "capital_deployed": 97072.0,
+    "pnl_pct": -8.49,
+    "pnl_inr": -8241.0,
+    "days_held": 18,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-23"
+  },
+  {
+    "symbol": "KMEW",
+    "entry_price": 2992.5,
+    "exit_price": 3060.8,
+    "capital_deployed": 97072.0,
+    "pnl_pct": 2.28,
+    "pnl_inr": 2213.0,
+    "days_held": 18,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-23"
+  },
+  {
+    "symbol": "LLOYDSENGG",
+    "entry_price": 102.48,
+    "exit_price": 83.93,
+    "capital_deployed": 97072.0,
+    "pnl_pct": -18.1,
+    "pnl_inr": -17570.0,
+    "days_held": 18,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-23"
+  },
+  {
+    "symbol": "SHUKRAPHAR",
+    "entry_price": 56.19,
+    "exit_price": 55.38,
+    "capital_deployed": 100137.0,
+    "pnl_pct": -1.44,
+    "pnl_inr": -1442.0,
+    "days_held": 35,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-23"
+  },
+  {
+    "symbol": "LAURUSLABS",
+    "entry_price": 1850.6,
+    "exit_price": 1940.5,
+    "capital_deployed": 98283.0,
+    "pnl_pct": 4.86,
+    "pnl_inr": 4777.0,
+    "days_held": 77,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-23"
+  },
+  {
+    "symbol": "HFCL",
+    "entry_price": 253.15,
+    "exit_price": 238.98,
+    "capital_deployed": 98412.0,
+    "pnl_pct": -5.6,
+    "pnl_inr": -5511.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-23"
+  },
+  {
+    "symbol": "CUPID",
+    "entry_price": 349.65,
+    "exit_price": 305.75,
+    "capital_deployed": 98412.0,
+    "pnl_pct": -12.56,
+    "pnl_inr": -12361.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-23"
+  },
+  {
+    "symbol": "LLOYDSME",
+    "entry_price": 1854.5,
+    "exit_price": 1757.9,
+    "capital_deployed": 98412.0,
+    "pnl_pct": -5.21,
+    "pnl_inr": -5127.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-10-23"
   }
 ]
