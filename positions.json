@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 148.74,
-      "unrealised_pct": -0.43
+      "current_price": 148.67,
+      "unrealised_pct": -0.48
     },
     {
       "symbol": "SBC",
@@ -55,11 +55,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 61.48,
-      "unrealised_pct": -4.86
+      "current_price": 61.14,
+      "unrealised_pct": -5.39
     }
   ],
-  "last_updated": "2026-10-23 09:27 IST",
+  "last_updated": "2026-10-23 11:25 IST",
   "closed_today_map": {
     "2026-10-23": []
   }
