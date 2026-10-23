@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T09:25:56.345405+05:30",
+  "generated_at": "2026-10-23T11:01:35.691969+05:30",
   "signals": [
     {
       "symbol": "DYNAMATECH",
@@ -6297,8 +6297,8 @@
       "date": "2026-10-23",
       "time": "09:25",
       "first_seen": "09:25",
-      "last_seen": "09:25",
-      "appearances": 1,
+      "last_seen": "11:01",
+      "appearances": 2,
       "tier": 4,
       "tier_star": false,
       "rs": "MID",
@@ -6307,8 +6307,8 @@
       "scanners": [
         "VCP"
       ],
-      "price": 2225.8,
-      "chg_pct": 1.17,
+      "price": 2231.5,
+      "chg_pct": 1.43,
       "vol_today": 71926,
       "vol_avg_3m": 324001,
       "vol_ratio": 0.22,
@@ -6321,8 +6321,8 @@
       "date": "2026-10-23",
       "time": "09:25",
       "first_seen": "09:25",
-      "last_seen": "09:25",
-      "appearances": 1,
+      "last_seen": "11:01",
+      "appearances": 2,
       "tier": 3,
       "tier_star": false,
       "rs": "HIGH",
@@ -6331,8 +6331,8 @@
       "scanners": [
         "VCP"
       ],
-      "price": 1973.4,
-      "chg_pct": 3.38,
+      "price": 1923.6,
+      "chg_pct": 0.78,
       "vol_today": 586049,
       "vol_avg_3m": 2708050,
       "vol_ratio": 0.22,
@@ -6387,14 +6387,86 @@
       "vol_label": "WEAK \ud83d\udca4",
       "vol_emoji": "\ud83d\udca4",
       "mj_index_rank": 9
+    },
+    {
+      "symbol": "CHENNPETRO",
+      "date": "2026-10-23",
+      "time": "11:01",
+      "first_seen": "11:01",
+      "last_seen": "11:01",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 8.72,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1492.3,
+      "chg_pct": 2.66,
+      "vol_today": 2032040,
+      "vol_avg_3m": 2561556,
+      "vol_ratio": 0.79,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "ANTELOPUS",
+      "date": "2026-10-23",
+      "time": "11:01",
+      "first_seen": "11:01",
+      "last_seen": "11:01",
+      "appearances": 1,
+      "tier": 3,
+      "tier_star": false,
+      "rs": "LOW",
+      "rs_score": 5.37,
+      "cap": "default",
+      "scanners": [
+        "VCP"
+      ],
+      "price": 1047.2,
+      "chg_pct": 4.13,
+      "vol_today": 416200,
+      "vol_avg_3m": 1593330,
+      "vol_ratio": 0.26,
+      "vol_label": "WEAK \ud83d\udca4",
+      "vol_emoji": "\ud83d\udca4",
+      "mj_index_rank": null
+    },
+    {
+      "symbol": "JINDALPOLY",
+      "date": "2026-10-23",
+      "time": "11:01",
+      "first_seen": "11:01",
+      "last_seen": "11:01",
+      "appearances": 1,
+      "tier": 4,
+      "tier_star": false,
+      "rs": "N/A",
+      "rs_score": null,
+      "cap": "default",
+      "scanners": [
+        "Mark"
+      ],
+      "price": 707.0,
+      "chg_pct": 5.7,
+      "vol_today": 1843002,
+      "vol_avg_3m": 45749,
+      "vol_ratio": 40.29,
+      "vol_label": "EXCEPTIONAL \ud83d\udca5",
+      "vol_emoji": "\ud83d\udca5",
+      "mj_index_rank": null
     }
   ],
   "breadth_mc100": {
-    "above_21ema": 14,
+    "above_21ema": 9,
     "total": 110,
-    "pct": 12.7,
-    "signal": "BEARISH",
-    "signal_emoji": "\ud83d\udd34",
-    "updated": "2026-10-23 09:25"
+    "pct": 8.2,
+    "signal": "EXTREME FEAR",
+    "signal_emoji": "\ud83d\udfe3",
+    "updated": "2026-10-23 11:01"
   }
 }
