@@ -1,8 +1,8 @@
 {
-  "generated_at_ist": "2026-10-23 14:40",
+  "generated_at_ist": "2026-10-23 15:46",
   "as_of": "2026-10-23",
   "start_date": "2026-09-15",
-  "late_run": false,
+  "late_run": true,
   "labels": {
     "book_b": "backfilled to 15 Sep",
     "invested": "stocks plus sleeve, as % of the book"
@@ -12,14 +12,14 @@
     "gate_entries_allowed": false,
     "gate_above_21_day_average": false,
     "gate_super_indicator_bullish": false,
-    "gate_distance_pct": -5.82,
+    "gate_distance_pct": -5.34,
     "size_level_tier": 0,
     "size_level": "full size (the book's equity is above its 20-day average)",
     "five_day_breaker_active": false,
     "high_water_mark_cut_active": false,
-    "run_started_ist": "2026-10-23 14:40",
-    "decided_at_ist": "14:42",
-    "late_run": false,
+    "run_started_ist": "2026-10-23 15:46",
+    "decided_at_ist": "15:47",
+    "late_run": true,
     "signal_snapshot": "saved"
   },
   "daily": [
@@ -363,40 +363,40 @@
     },
     {
       "date": "2026-10-23",
-      "book_a": 1330807.74,
-      "book_b": 1330786.83,
-      "book_b_v3_half": 665403.87,
-      "book_b_etf_half": 665382.96,
-      "buy_hold": 1237708.81,
-      "live_pct": -10.46,
+      "book_a": 1331574.81,
+      "book_b": 1331561.08,
+      "book_b_v3_half": 665787.41,
+      "book_b_etf_half": 665773.67,
+      "buy_hold": 1255773.3,
+      "live_pct": -10.36,
       "gate_above_21_day_average": false,
       "gate_super_indicator_bullish": false,
       "gate_entries_allowed": false,
-      "late_run": false
+      "late_run": true
     }
   ],
   "summary": {
     "book_a": {
-      "return_pct": -1.42,
-      "max_drawdown_pct": -1.59,
-      "current_drawdown_pct": -1.59,
+      "return_pct": -1.36,
+      "max_drawdown_pct": -1.54,
+      "current_drawdown_pct": -1.54,
       "invested_pct": 8.8
     },
     "book_b": {
-      "return_pct": -1.42,
-      "max_drawdown_pct": -1.61,
-      "current_drawdown_pct": -1.61,
+      "return_pct": -1.37,
+      "max_drawdown_pct": -1.55,
+      "current_drawdown_pct": -1.55,
       "invested_pct": 8.8
     },
     "live": {
-      "return_pct": -10.46,
-      "max_drawdown_pct": -10.46,
-      "current_drawdown_pct": -10.46
+      "return_pct": -10.36,
+      "max_drawdown_pct": -10.36,
+      "current_drawdown_pct": -10.36
     },
     "buy_hold": {
-      "return_pct": -8.32,
-      "max_drawdown_pct": -10.52,
-      "current_drawdown_pct": -10.52,
+      "return_pct": -6.98,
+      "max_drawdown_pct": -9.21,
+      "current_drawdown_pct": -9.21,
       "invested_pct": 100.0
     }
   },
@@ -409,7 +409,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -0.97,
+        "return_pct": -0.91,
         "partial": true
       }
     ],
@@ -421,7 +421,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -0.98,
+        "return_pct": -0.93,
         "partial": true
       }
     ],
@@ -433,7 +433,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -7.33,
+        "return_pct": -7.22,
         "partial": true
       }
     ],
@@ -445,7 +445,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -6.45,
+        "return_pct": -5.08,
         "partial": true
       }
     ]
@@ -464,21 +464,21 @@
     }
   },
   "book_b_breakdown": {
-    "v3_half": 665403.87,
+    "v3_half": 665787.41,
     "v3_scale_of_book_a": 0.5,
-    "etf_half": 665382.96,
+    "etf_half": 665773.67,
     "etf_half_holding": "sleeve",
     "etf_half_holdings_at_6_75_lakh_scale": {
       "GILT5YBEES": {
-        "units": 892.9406,
-        "value": 58210.8
+        "units": 893.8768,
+        "value": 58245.01
       }
     },
     "rebalance_rule": "both halves back to 50/50 on the first trading day of each January"
   },
   "decisions": {
     "date": "2026-10-23",
-    "signals": 7,
+    "signals": 8,
     "buys": [],
     "sells": [],
     "sleeve": [
@@ -486,7 +486,7 @@
         "symbol": "MON100",
         "side": "sell",
         "units": 356.9264,
-        "price": 287.3124
+        "price": 289.6101
       }
     ],
     "book_b_fund_half": null,
@@ -501,6 +501,10 @@
       },
       {
         "symbol": "GRWRHITECH",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "IPCALAB",
         "reason": "Market gate off"
       },
       {
@@ -556,13 +560,13 @@
   "marks_basis": {
     "decided_on": "2026-10-23",
     "v3_scale": 0.5000000000000001,
-    "etf_half_actual": 665382.9613890582,
-    "etf_sim_value": 665175.7715647598,
-    "etf_sim_cash": 606964.9715197948,
+    "etf_half_actual": 665773.6736330631,
+    "etf_sim_value": 665566.3621470963,
+    "etf_sim_cash": 607321.3530796227,
     "etf_holdings_units": {
-      "GILT5YBEES": 892.9406357564808
+      "GILT5YBEES": 893.8767505751016
     },
     "buy_hold_base_price": 231.67,
-    "swing_cash": 1213627.95
+    "swing_cash": 1214448.03
   }
 }

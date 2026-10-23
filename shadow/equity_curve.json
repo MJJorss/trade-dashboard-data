@@ -600,10 +600,10 @@
     },
     {
       "timestamp": "2026-10-23T15:30:00+05:30",
-      "capital_base": 1331774.95,
-      "realized_pnl": -18225.05,
-      "unrealized_pnl": -1091.68,
-      "total_equity": 1330683.27,
+      "capital_base": 1332595.03,
+      "realized_pnl": -17404.97,
+      "unrealized_pnl": -1145.54,
+      "total_equity": 1331449.49,
       "open_positions": 0,
       "actual_heat_inr": 0.0,
       "actual_heat_pct": 0.0,
@@ -616,7 +616,7 @@
       "drawdown_pct_from_peak": 0.0,
       "drawdown_multiplier": 1.0,
       "account_high_water_mark": 1352350.27,
-      "account_drawdown_pct": 1.6,
+      "account_drawdown_pct": 1.55,
       "fast_trigger_breached": false,
       "fast_trigger_5day_pct": 0.0,
       "effective_risk_pct": 1.4
