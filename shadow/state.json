@@ -34,7 +34,7 @@
   },
   "runtime_s": 101.9,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "decide",
+  "mode": "update",
   "decided_at_ist": "15:47",
   "late_run": true,
   "config_changes": [
@@ -52,5 +52,5 @@
     }
   ],
   "replay_restatements": [],
-  "last_update_ist": "2026-10-23 10:40"
+  "last_update_ist": "2026-10-26 10:40"
 }

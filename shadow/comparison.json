@@ -545,17 +545,26 @@
   },
   "trueup": {
     "latest": {
-      "date": "2026-10-22",
-      "trued_up_at_ist": "2026-10-23 10:40",
+      "date": "2026-10-23",
+      "trued_up_at_ist": "2026-10-26 10:40",
       "decided_at_ist": "15:47",
-      "rows": [],
-      "average_gap_pct": null,
-      "average_absolute_gap_pct": null,
+      "rows": [
+        {
+          "side": "sleeve sell",
+          "symbol": "MON100",
+          "run_price": 289.6101,
+          "official_close": 288.26,
+          "gap_pct": -0.466,
+          "quantity": 356.9264
+        }
+      ],
+      "average_gap_pct": -0.466,
+      "average_absolute_gap_pct": 0.466,
       "note": "Records only \u2014 the official close changes no decision."
     },
-    "days": 5,
-    "average_gap_pct_all": null,
-    "average_absolute_gap_pct_all": null
+    "days": 6,
+    "average_gap_pct_all": -0.466,
+    "average_absolute_gap_pct_all": 0.466
   },
   "marks_basis": {
     "decided_on": "2026-10-23",
@@ -568,5 +577,22 @@
     },
     "buy_hold_base_price": 231.67,
     "swing_cash": 1214448.03
+  },
+  "morning": {
+    "marked_at_ist": "2026-10-26 10:40",
+    "decisions_from": "2026-10-23",
+    "swing": 1331395.61,
+    "swing_return_pct": -1.38,
+    "blend": 1331444.66,
+    "blend_return_pct": -1.37,
+    "book_c": null,
+    "book_c_return_pct": null,
+    "book_d": null,
+    "book_d_return_pct": null,
+    "buy_hold": 1246333.15,
+    "buy_hold_return_pct": -7.68,
+    "live_return_pct": -10.35,
+    "positions": [],
+    "note": "Marked at the morning price; no decision is made at this run."
   }
 }
