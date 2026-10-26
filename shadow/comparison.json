@@ -1,25 +1,31 @@
 {
-  "generated_at_ist": "2026-10-23 15:46",
-  "as_of": "2026-10-23",
+  "generated_at_ist": "2026-10-26 14:40",
+  "as_of": "2026-10-26",
   "start_date": "2026-09-15",
-  "late_run": true,
+  "late_run": false,
   "labels": {
     "book_b": "backfilled to 15 Sep",
-    "invested": "stocks plus sleeve, as % of the book"
+    "book_c": "backfilled to 15 Sep",
+    "book_d": "backfilled to 15 Sep",
+    "invested": "stocks plus sleeve, as % of the book",
+    "names": {
+      "book_c": "Book C \u2014 30% Swing, 70% fund",
+      "book_d": "Book D \u2014 fund only"
+    }
   },
   "status": {
-    "date": "2026-10-23",
+    "date": "2026-10-26",
     "gate_entries_allowed": false,
     "gate_above_21_day_average": false,
     "gate_super_indicator_bullish": false,
-    "gate_distance_pct": -5.34,
+    "gate_distance_pct": -4.21,
     "size_level_tier": 0,
     "size_level": "full size (the book's equity is above its 20-day average)",
     "five_day_breaker_active": false,
     "high_water_mark_cut_active": false,
-    "run_started_ist": "2026-10-23 15:46",
-    "decided_at_ist": "15:47",
-    "late_run": true,
+    "run_started_ist": "2026-10-26 14:40",
+    "decided_at_ist": "14:42",
+    "late_run": false,
     "signal_snapshot": "saved"
   },
   "daily": [
@@ -29,6 +35,10 @@
       "book_b": 1350000.0,
       "book_b_v3_half": 675000.0,
       "book_b_etf_half": 675000.0,
+      "book_c": 1350000.0,
+      "book_c_v3_part": 405000.0,
+      "book_c_etf_part": 945000.0,
+      "book_d": 1350000.0,
       "buy_hold": 1350000.0,
       "live_pct": 0.0,
       "gate_above_21_day_average": false,
@@ -39,9 +49,13 @@
     {
       "date": "2026-09-16",
       "book_a": 1349473.16,
-      "book_b": 1349683.16,
+      "book_b": 1349735.05,
       "book_b_v3_half": 674736.58,
-      "book_b_etf_half": 674946.58,
+      "book_b_etf_half": 674998.47,
+      "book_c": 1349839.81,
+      "book_c_v3_part": 404841.95,
+      "book_c_etf_part": 944997.86,
+      "book_d": 1349996.95,
       "buy_hold": 1351922.99,
       "live_pct": -2.07,
       "gate_above_21_day_average": false,
@@ -51,10 +65,14 @@
     },
     {
       "date": "2026-09-17",
-      "book_a": 1347591.58,
-      "book_b": 1347801.47,
-      "book_b_v3_half": 673795.79,
-      "book_b_etf_half": 674005.68,
+      "book_a": 1347695.33,
+      "book_b": 1347971.28,
+      "book_b_v3_half": 673847.67,
+      "book_b_etf_half": 674123.62,
+      "book_c": 1348081.67,
+      "book_c_v3_part": 404308.6,
+      "book_c_etf_part": 943773.07,
+      "book_d": 1348247.24,
       "buy_hold": 1360255.97,
       "live_pct": -2.28,
       "gate_above_21_day_average": false,
@@ -64,10 +82,14 @@
     },
     {
       "date": "2026-09-18",
-      "book_a": 1352350.27,
-      "book_b": 1352560.45,
-      "book_b_v3_half": 676175.14,
-      "book_b_etf_half": 676385.31,
+      "book_a": 1352586.05,
+      "book_b": 1352984.99,
+      "book_b_v3_half": 676293.03,
+      "book_b_etf_half": 676691.96,
+      "book_c": 1353144.56,
+      "book_c_v3_part": 405775.81,
+      "book_c_etf_part": 947368.75,
+      "book_d": 1353383.93,
       "buy_hold": 1378262.18,
       "live_pct": -2.57,
       "gate_above_21_day_average": false,
@@ -77,10 +99,14 @@
     },
     {
       "date": "2026-09-21",
-      "book_a": 1351521.29,
-      "book_b": 1351736.4,
-      "book_b_v3_half": 675760.64,
-      "book_b_etf_half": 675975.75,
+      "book_a": 1352134.29,
+      "book_b": 1352405.9,
+      "book_b_v3_half": 676067.15,
+      "book_b_etf_half": 676338.75,
+      "book_c": 1352514.54,
+      "book_c_v3_part": 405640.29,
+      "book_c_etf_part": 946874.25,
+      "book_d": 1352677.5,
       "buy_hold": 1378203.91,
       "live_pct": -1.46,
       "gate_above_21_day_average": false,
@@ -90,10 +116,14 @@
     },
     {
       "date": "2026-09-22",
-      "book_a": 1349242.63,
-      "book_b": 1349452.62,
-      "book_b_v3_half": 674621.31,
-      "book_b_etf_half": 674831.3,
+      "book_a": 1349968.25,
+      "book_b": 1350244.48,
+      "book_b_v3_half": 674984.12,
+      "book_b_etf_half": 675260.35,
+      "book_c": 1350354.97,
+      "book_c_v3_part": 404990.47,
+      "book_c_etf_part": 945364.49,
+      "book_d": 1350520.7,
       "buy_hold": 1376455.73,
       "live_pct": -0.82,
       "gate_above_21_day_average": false,
@@ -103,10 +133,14 @@
     },
     {
       "date": "2026-09-23",
-      "book_a": 1350082.08,
-      "book_b": 1350292.12,
-      "book_b_v3_half": 675041.04,
-      "book_b_etf_half": 675251.08,
+      "book_a": 1350939.73,
+      "book_b": 1351211.32,
+      "book_b_v3_half": 675469.87,
+      "book_b_etf_half": 675741.46,
+      "book_c": 1351319.96,
+      "book_c_v3_part": 405281.92,
+      "book_c_etf_part": 946038.04,
+      "book_d": 1351482.92,
       "buy_hold": 1383157.08,
       "live_pct": -0.74,
       "gate_above_21_day_average": false,
@@ -116,10 +150,14 @@
     },
     {
       "date": "2026-09-24",
-      "book_a": 1346832.88,
-      "book_b": 1347037.74,
-      "book_b_v3_half": 673416.44,
-      "book_b_etf_half": 673621.3,
+      "book_a": 1347813.12,
+      "book_b": 1348084.55,
+      "book_b_v3_half": 673906.56,
+      "book_b_etf_half": 674177.99,
+      "book_c": 1348193.12,
+      "book_c_v3_part": 404343.94,
+      "book_c_etf_part": 943849.18,
+      "book_d": 1348355.97,
       "buy_hold": 1357866.79,
       "live_pct": -1.53,
       "gate_above_21_day_average": false,
@@ -129,10 +167,14 @@
     },
     {
       "date": "2026-09-25",
-      "book_a": 1348478.52,
-      "book_b": 1348688.46,
-      "book_b_v3_half": 674239.26,
-      "book_b_etf_half": 674449.2,
+      "book_a": 1349591.32,
+      "book_b": 1349985.54,
+      "book_b_v3_half": 674795.66,
+      "book_b_etf_half": 675189.88,
+      "book_c": 1350143.22,
+      "book_c_v3_part": 404877.4,
+      "book_c_etf_part": 945265.83,
+      "book_d": 1350379.75,
       "buy_hold": 1346795.01,
       "live_pct": -2.75,
       "gate_above_21_day_average": false,
@@ -142,10 +184,14 @@
     },
     {
       "date": "2026-09-28",
-      "book_a": 1344792.49,
-      "book_b": 1344904.66,
-      "book_b_v3_half": 672396.24,
-      "book_b_etf_half": 672508.42,
+      "book_a": 1346273.09,
+      "book_b": 1346446.96,
+      "book_b_v3_half": 673136.55,
+      "book_b_etf_half": 673310.42,
+      "book_c": 1346516.51,
+      "book_c_v3_part": 403881.93,
+      "book_c_etf_part": 942634.58,
+      "book_d": 1346620.83,
       "buy_hold": 1332052.06,
       "live_pct": -3.34,
       "gate_above_21_day_average": false,
@@ -155,10 +201,14 @@
     },
     {
       "date": "2026-09-29",
-      "book_a": 1343309.91,
-      "book_b": 1343482.68,
-      "book_b_v3_half": 671654.95,
-      "book_b_etf_half": 671827.73,
+      "book_a": 1344913.08,
+      "book_b": 1345148.2,
+      "book_b_v3_half": 672456.54,
+      "book_b_etf_half": 672691.66,
+      "book_c": 1345242.25,
+      "book_c_v3_part": 403473.92,
+      "book_c_etf_part": 941768.33,
+      "book_d": 1345383.33,
       "buy_hold": 1325001.08,
       "live_pct": -4.07,
       "gate_above_21_day_average": false,
@@ -168,10 +218,14 @@
     },
     {
       "date": "2026-09-30",
-      "book_a": 1343835.0,
-      "book_b": 1344006.91,
-      "book_b_v3_half": 671917.5,
-      "book_b_etf_half": 672089.41,
+      "book_a": 1345563.86,
+      "book_b": 1345809.14,
+      "book_b_v3_half": 672781.93,
+      "book_b_etf_half": 673027.21,
+      "book_c": 1345907.25,
+      "book_c_v3_part": 403669.16,
+      "book_c_etf_part": 942238.09,
+      "book_d": 1346054.42,
       "buy_hold": 1323019.81,
       "live_pct": -3.39,
       "gate_above_21_day_average": false,
@@ -181,10 +235,14 @@
     },
     {
       "date": "2026-10-01",
-      "book_a": 1343862.89,
-      "book_b": 1344030.61,
-      "book_b_v3_half": 671931.44,
-      "book_b_etf_half": 672099.16,
+      "book_a": 1345739.08,
+      "book_b": 1346195.79,
+      "book_b_v3_half": 672869.54,
+      "book_b_etf_half": 673326.25,
+      "book_c": 1346378.47,
+      "book_c_v3_part": 403721.72,
+      "book_c_etf_part": 942656.75,
+      "book_d": 1346652.49,
       "buy_hold": 1308335.13,
       "live_pct": -3.58,
       "gate_above_21_day_average": false,
@@ -194,10 +252,14 @@
     },
     {
       "date": "2026-10-05",
-      "book_a": 1345060.67,
-      "book_b": 1345246.81,
-      "book_b_v3_half": 672530.33,
-      "book_b_etf_half": 672716.48,
+      "book_a": 1347516.22,
+      "book_b": 1347770.71,
+      "book_b_v3_half": 673758.11,
+      "book_b_etf_half": 674012.6,
+      "book_c": 1347872.5,
+      "book_c_v3_part": 404254.87,
+      "book_c_etf_part": 943617.63,
+      "book_d": 1348025.19,
       "buy_hold": 1310666.03,
       "live_pct": -3.31,
       "gate_above_21_day_average": false,
@@ -207,10 +269,14 @@
     },
     {
       "date": "2026-10-06",
-      "book_a": 1346712.25,
-      "book_b": 1346915.12,
-      "book_b_v3_half": 673356.12,
-      "book_b_etf_half": 673558.99,
+      "book_a": 1349304.55,
+      "book_b": 1349581.95,
+      "book_b_v3_half": 674652.28,
+      "book_b_etf_half": 674929.67,
+      "book_c": 1349692.9,
+      "book_c_v3_part": 404791.37,
+      "book_c_etf_part": 944901.54,
+      "book_d": 1349859.34,
       "buy_hold": 1325816.89,
       "live_pct": -2.0,
       "gate_above_21_day_average": false,
@@ -220,10 +286,14 @@
     },
     {
       "date": "2026-10-07",
-      "book_a": 1347294.04,
-      "book_b": 1347507.76,
-      "book_b_v3_half": 673647.02,
-      "book_b_etf_half": 673860.74,
+      "book_a": 1350033.66,
+      "book_b": 1350316.61,
+      "book_b_v3_half": 675016.83,
+      "book_b_etf_half": 675299.78,
+      "book_c": 1350429.79,
+      "book_c_v3_part": 405010.1,
+      "book_c_etf_part": 945419.69,
+      "book_d": 1350599.56,
       "buy_hold": 1318999.01,
       "live_pct": -0.36,
       "gate_above_21_day_average": false,
@@ -233,10 +303,14 @@
     },
     {
       "date": "2026-10-08",
-      "book_a": 1344695.14,
-      "book_b": 1344880.97,
-      "book_b_v3_half": 672347.57,
-      "book_b_etf_half": 672533.4,
+      "book_a": 1347570.98,
+      "book_b": 1347819.39,
+      "book_b_v3_half": 673785.49,
+      "book_b_etf_half": 674033.9,
+      "book_c": 1347918.76,
+      "book_c_v3_part": 404271.29,
+      "book_c_etf_part": 943647.46,
+      "book_d": 1348067.8,
       "buy_hold": 1288813.83,
       "live_pct": -3.93,
       "gate_above_21_day_average": false,
@@ -246,10 +320,14 @@
     },
     {
       "date": "2026-10-09",
-      "book_a": 1344599.65,
-      "book_b": 1344777.58,
-      "book_b_v3_half": 672299.82,
-      "book_b_etf_half": 672477.76,
+      "book_a": 1347601.76,
+      "book_b": 1348010.55,
+      "book_b_v3_half": 673800.88,
+      "book_b_etf_half": 674209.67,
+      "book_c": 1348174.07,
+      "book_c_v3_part": 404280.53,
+      "book_c_etf_part": 943893.54,
+      "book_d": 1348419.35,
       "buy_hold": 1303673.33,
       "live_pct": -4.83,
       "gate_above_21_day_average": false,
@@ -259,10 +337,14 @@
     },
     {
       "date": "2026-10-12",
-      "book_a": 1344151.0,
-      "book_b": 1344334.0,
-      "book_b_v3_half": 672075.5,
-      "book_b_etf_half": 672258.5,
+      "book_a": 1347616.74,
+      "book_b": 1347872.07,
+      "book_b_v3_half": 673808.37,
+      "book_b_etf_half": 674063.7,
+      "book_c": 1347974.21,
+      "book_c_v3_part": 404285.02,
+      "book_c_etf_part": 943689.19,
+      "book_d": 1348127.41,
       "buy_hold": 1303789.87,
       "live_pct": -4.26,
       "gate_above_21_day_average": false,
@@ -272,10 +354,14 @@
     },
     {
       "date": "2026-10-13",
-      "book_a": 1343881.16,
-      "book_b": 1344059.3,
-      "book_b_v3_half": 671940.58,
-      "book_b_etf_half": 672118.72,
+      "book_a": 1347494.18,
+      "book_b": 1347744.41,
+      "book_b_v3_half": 673747.09,
+      "book_b_etf_half": 673997.32,
+      "book_c": 1347844.5,
+      "book_c_v3_part": 404248.25,
+      "book_c_etf_part": 943596.25,
+      "book_d": 1347994.64,
       "buy_hold": 1318474.55,
       "live_pct": -4.11,
       "gate_above_21_day_average": false,
@@ -285,10 +371,14 @@
     },
     {
       "date": "2026-10-14",
-      "book_a": 1343195.32,
-      "book_b": 1343373.67,
-      "book_b_v3_half": 671597.66,
-      "book_b_etf_half": 671776.01,
+      "book_a": 1346955.66,
+      "book_b": 1347200.03,
+      "book_b_v3_half": 673477.83,
+      "book_b_etf_half": 673722.2,
+      "book_c": 1347297.78,
+      "book_c_v3_part": 404086.7,
+      "book_c_etf_part": 943211.08,
+      "book_d": 1347444.4,
       "buy_hold": 1316784.65,
       "live_pct": -3.63,
       "gate_above_21_day_average": false,
@@ -298,10 +388,14 @@
     },
     {
       "date": "2026-10-15",
-      "book_a": 1339153.78,
-      "book_b": 1339297.72,
-      "book_b_v3_half": 669576.89,
-      "book_b_etf_half": 669720.83,
+      "book_a": 1343050.34,
+      "book_b": 1343263.0,
+      "book_b_v3_half": 671525.17,
+      "book_b_etf_half": 671737.83,
+      "book_c": 1343348.06,
+      "book_c_v3_part": 402915.1,
+      "book_c_etf_part": 940432.96,
+      "book_d": 1343475.66,
       "buy_hold": 1315094.75,
       "live_pct": -5.77,
       "gate_above_21_day_average": false,
@@ -311,10 +405,14 @@
     },
     {
       "date": "2026-10-16",
-      "book_a": 1341835.79,
-      "book_b": 1341996.71,
-      "book_b_v3_half": 670917.9,
-      "book_b_etf_half": 671078.81,
+      "book_a": 1345879.09,
+      "book_b": 1346278.66,
+      "book_b_v3_half": 672939.55,
+      "book_b_etf_half": 673339.11,
+      "book_c": 1346438.48,
+      "book_c_v3_part": 403763.73,
+      "book_c_etf_part": 942674.76,
+      "book_d": 1346678.22,
       "buy_hold": 1313696.21,
       "live_pct": -6.02,
       "gate_above_21_day_average": false,
@@ -324,10 +422,14 @@
     },
     {
       "date": "2026-10-19",
-      "book_a": 1339589.63,
-      "book_b": 1339720.8,
-      "book_b_v3_half": 669794.82,
-      "book_b_etf_half": 669925.98,
+      "book_a": 1344116.99,
+      "book_b": 1344412.13,
+      "book_b_v3_half": 672058.5,
+      "book_b_etf_half": 672353.64,
+      "book_c": 1344530.19,
+      "book_c_v3_part": 403235.1,
+      "book_c_etf_part": 941295.09,
+      "book_d": 1344707.27,
       "buy_hold": 1291785.73,
       "live_pct": -6.92,
       "gate_above_21_day_average": false,
@@ -337,10 +439,14 @@
     },
     {
       "date": "2026-10-21",
-      "book_a": 1337966.62,
-      "book_b": 1338102.79,
-      "book_b_v3_half": 668983.31,
-      "book_b_etf_half": 669119.48,
+      "book_a": 1342831.81,
+      "book_b": 1343040.58,
+      "book_b_v3_half": 671415.91,
+      "book_b_etf_half": 671624.68,
+      "book_c": 1343124.09,
+      "book_c_v3_part": 402849.54,
+      "book_c_etf_part": 940274.55,
+      "book_d": 1343249.35,
       "buy_hold": 1287823.2,
       "live_pct": -9.22,
       "gate_above_21_day_average": false,
@@ -350,10 +456,14 @@
     },
     {
       "date": "2026-10-22",
-      "book_a": 1335294.75,
-      "book_b": 1335399.04,
-      "book_b_v3_half": 667647.38,
-      "book_b_etf_half": 667751.66,
+      "book_a": 1340317.16,
+      "book_b": 1340492.62,
+      "book_b_v3_half": 670158.58,
+      "book_b_etf_half": 670334.04,
+      "book_c": 1340562.81,
+      "book_c_v3_part": 402095.15,
+      "book_c_etf_part": 938467.66,
+      "book_d": 1340668.09,
       "buy_hold": 1265679.63,
       "live_pct": -9.97,
       "gate_above_21_day_average": false,
@@ -363,40 +473,73 @@
     },
     {
       "date": "2026-10-23",
-      "book_a": 1331574.81,
-      "book_b": 1331561.08,
-      "book_b_v3_half": 665787.41,
-      "book_b_etf_half": 665773.67,
+      "book_a": 1336755.07,
+      "book_b": 1336996.05,
+      "book_b_v3_half": 668377.54,
+      "book_b_etf_half": 668618.51,
+      "book_c": 1337092.44,
+      "book_c_v3_part": 401026.52,
+      "book_c_etf_part": 936065.91,
+      "book_d": 1337237.02,
       "buy_hold": 1255773.3,
       "live_pct": -10.36,
       "gate_above_21_day_average": false,
       "gate_super_indicator_bullish": false,
       "gate_entries_allowed": false,
       "late_run": true
+    },
+    {
+      "date": "2026-10-26",
+      "book_a": 1337045.08,
+      "book_b": 1337199.65,
+      "book_b_v3_half": 668522.54,
+      "book_b_etf_half": 668677.11,
+      "book_c": 1337261.47,
+      "book_c_v3_part": 401113.52,
+      "book_c_etf_part": 936147.95,
+      "book_d": 1337354.21,
+      "buy_hold": 1251344.58,
+      "live_pct": -9.55,
+      "gate_above_21_day_average": false,
+      "gate_super_indicator_bullish": false,
+      "gate_entries_allowed": false,
+      "late_run": false
     }
   ],
   "summary": {
     "book_a": {
-      "return_pct": -1.36,
-      "max_drawdown_pct": -1.54,
-      "current_drawdown_pct": -1.54,
-      "invested_pct": 8.8
+      "return_pct": -0.96,
+      "max_drawdown_pct": -1.17,
+      "current_drawdown_pct": -1.15,
+      "invested_pct": 8.7
     },
     "book_b": {
-      "return_pct": -1.37,
-      "max_drawdown_pct": -1.55,
-      "current_drawdown_pct": -1.55,
-      "invested_pct": 8.8
+      "return_pct": -0.95,
+      "max_drawdown_pct": -1.18,
+      "current_drawdown_pct": -1.17,
+      "invested_pct": 8.7
     },
     "live": {
-      "return_pct": -10.36,
+      "return_pct": -9.55,
       "max_drawdown_pct": -10.36,
-      "current_drawdown_pct": -10.36
+      "current_drawdown_pct": -9.55
+    },
+    "book_c": {
+      "return_pct": -0.94,
+      "max_drawdown_pct": -1.19,
+      "current_drawdown_pct": -1.17,
+      "invested_pct": 8.7
+    },
+    "book_d": {
+      "return_pct": -0.94,
+      "max_drawdown_pct": -1.19,
+      "current_drawdown_pct": -1.18,
+      "invested_pct": 8.7
     },
     "buy_hold": {
-      "return_pct": -6.98,
-      "max_drawdown_pct": -9.21,
-      "current_drawdown_pct": -9.21,
+      "return_pct": -7.31,
+      "max_drawdown_pct": -9.53,
+      "current_drawdown_pct": -9.53,
       "invested_pct": 100.0
     }
   },
@@ -404,24 +547,48 @@
     "book_a": [
       {
         "month": "2026-09",
-        "return_pct": -0.46,
+        "return_pct": -0.33,
         "partial": true
       },
       {
         "month": "2026-10",
-        "return_pct": -0.91,
+        "return_pct": -0.63,
         "partial": true
       }
     ],
     "book_b": [
       {
         "month": "2026-09",
-        "return_pct": -0.44,
+        "return_pct": -0.31,
         "partial": true
       },
       {
         "month": "2026-10",
-        "return_pct": -0.93,
+        "return_pct": -0.64,
+        "partial": true
+      }
+    ],
+    "book_c": [
+      {
+        "month": "2026-09",
+        "return_pct": -0.3,
+        "partial": true
+      },
+      {
+        "month": "2026-10",
+        "return_pct": -0.64,
+        "partial": true
+      }
+    ],
+    "book_d": [
+      {
+        "month": "2026-09",
+        "return_pct": -0.29,
+        "partial": true
+      },
+      {
+        "month": "2026-10",
+        "return_pct": -0.65,
         "partial": true
       }
     ],
@@ -433,7 +600,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -7.22,
+        "return_pct": -6.38,
         "partial": true
       }
     ],
@@ -445,7 +612,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -5.08,
+        "return_pct": -5.42,
         "partial": true
       }
     ]
@@ -461,38 +628,77 @@
       "median_month_pct": 1.1,
       "worst_month_pct": -5.21,
       "max_drawdown_pct": -8.46
+    },
+    "book_c": {
+      "median_month_pct": 0.85,
+      "worst_month_pct": -4.54,
+      "max_drawdown_pct": -8.38,
+      "period": "Jan 2020 to Sep 2026, full months (research, LOCKED_FIGURES_v2 inputs, before tax)"
+    },
+    "book_d": {
+      "median_month_pct": 0.64,
+      "worst_month_pct": -4.39,
+      "max_drawdown_pct": -11.09,
+      "period": "Jan 2020 to Sep 2026, full months (research, LOCKED_FIGURES_v2 inputs, before tax)"
     }
   },
   "book_b_breakdown": {
-    "v3_half": 665787.41,
+    "v3_half": 668522.54,
     "v3_scale_of_book_a": 0.5,
-    "etf_half": 665773.67,
+    "etf_half": 668677.11,
     "etf_half_holding": "sleeve",
     "etf_half_holdings_at_6_75_lakh_scale": {
       "GILT5YBEES": {
-        "units": 893.8768,
-        "value": 58245.01
+        "units": 897.6702,
+        "value": 58447.31
       }
     },
     "rebalance_rule": "both halves back to 50/50 on the first trading day of each January"
   },
+  "book_cd_breakdown": {
+    "book_c": {
+      "v3_part": 401113.52,
+      "etf_part": 936147.95,
+      "v3_scale_of_book_a": 0.3,
+      "target_weights": {
+        "swing": 0.3,
+        "fund": 0.7
+      },
+      "rebalance_rule": "back to 30% Swing and 70% fund on the first trading day of each January"
+    },
+    "book_d": {
+      "etf_part": 1337354.21,
+      "target_weights": {
+        "swing": 0.0,
+        "fund": 1.0
+      },
+      "rebalance_rule": "all in the fund half; nothing to rebalance"
+    },
+    "etf_half_holding": "sleeve",
+    "source": "computed from Swing and the fund half, the same series as Blend \u2014 no extra engine run"
+  },
   "decisions": {
-    "date": "2026-10-23",
-    "signals": 8,
+    "date": "2026-10-26",
+    "signals": 27,
     "buys": [],
     "sells": [],
-    "sleeve": [
-      {
-        "symbol": "MON100",
-        "side": "sell",
-        "units": 356.9264,
-        "price": 289.6101
-      }
-    ],
+    "sleeve": [],
     "book_b_fund_half": null,
     "skipped": [
       {
+        "symbol": "ACUTAAS",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "ANANDRATHI",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "APOLLO",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "CCAVENUE",
         "reason": "Market gate off"
       },
       {
@@ -500,15 +706,43 @@
         "reason": "Market gate off"
       },
       {
+        "symbol": "COFORGE",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "EBGNG",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ETERNAL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "FEDERALBNK",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GANDHAR",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "GRWRHITECH",
         "reason": "Market gate off"
       },
       {
-        "symbol": "IPCALAB",
+        "symbol": "INDGN",
         "reason": "Market gate off"
       },
       {
-        "symbol": "KOLTEPATIL",
+        "symbol": "INDHOTEL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "KMEW",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "LAURUSLABS",
         "reason": "Market gate off"
       },
       {
@@ -516,11 +750,47 @@
         "reason": "Market gate off"
       },
       {
+        "symbol": "ORIENTHOT",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PVRINOX",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "RATNAVEER",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SANSERA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SBC",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "SGMART",
         "reason": "Market gate off"
       },
       {
-        "symbol": "SKYGOLD",
+        "symbol": "SHREEJISPG",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SOUTHBANK",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TFCILTD",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TIPSMUSIC",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ZYDUSLIFE",
         "reason": "Market gate off"
       }
     ]
@@ -567,32 +837,18 @@
     "average_absolute_gap_pct_all": 0.466
   },
   "marks_basis": {
-    "decided_on": "2026-10-23",
-    "v3_scale": 0.5000000000000001,
-    "etf_half_actual": 665773.6736330631,
-    "etf_sim_value": 665566.3621470963,
-    "etf_sim_cash": 607321.3530796227,
+    "decided_on": "2026-10-26",
+    "v3_scale": 0.5000000000000002,
+    "etf_half_actual": 668677.106689104,
+    "etf_sim_value": 668468.8911195945,
+    "etf_sim_cash": 610021.5851304256,
     "etf_holdings_units": {
-      "GILT5YBEES": 893.8767505751016
+      "GILT5YBEES": 897.6701887447224
     },
+    "book_c_v3_scale": 0.30000000000000016,
+    "book_c_etf_actual": 936147.9493647453,
+    "book_d_etf_actual": 1337354.213378208,
     "buy_hold_base_price": 231.67,
-    "swing_cash": 1214448.03
-  },
-  "morning": {
-    "marked_at_ist": "2026-10-26 10:40",
-    "decisions_from": "2026-10-23",
-    "swing": 1331395.61,
-    "swing_return_pct": -1.38,
-    "blend": 1331444.66,
-    "blend_return_pct": -1.37,
-    "book_c": null,
-    "book_c_return_pct": null,
-    "book_d": null,
-    "book_d_return_pct": null,
-    "buy_hold": 1246333.15,
-    "buy_hold_return_pct": -7.68,
-    "live_return_pct": -10.35,
-    "positions": [],
-    "note": "Marked at the morning price; no decision is made at this run."
+    "swing_cash": 1220133.4
   }
 }
