@@ -1,6 +1,6 @@
 {
-  "generated_at_ist": "2026-10-26 14:40",
-  "as_of": "2026-10-26",
+  "generated_at_ist": "2026-10-27 14:40",
+  "as_of": "2026-10-27",
   "start_date": "2026-09-15",
   "late_run": false,
   "labels": {
@@ -14,16 +14,16 @@
     }
   },
   "status": {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "gate_entries_allowed": false,
     "gate_above_21_day_average": false,
     "gate_super_indicator_bullish": false,
-    "gate_distance_pct": -4.21,
+    "gate_distance_pct": -2.82,
     "size_level_tier": 0,
     "size_level": "full size (the book's equity is above its 20-day average)",
     "five_day_breaker_active": false,
     "high_water_mark_cut_active": false,
-    "run_started_ist": "2026-10-26 14:40",
+    "run_started_ist": "2026-10-27 14:40",
     "decided_at_ist": "14:42",
     "late_run": false,
     "signal_snapshot": "saved"
@@ -499,7 +499,24 @@
       "book_c_etf_part": 936147.95,
       "book_d": 1337354.21,
       "buy_hold": 1251344.58,
-      "live_pct": -9.55,
+      "live_pct": -9.49,
+      "gate_above_21_day_average": false,
+      "gate_super_indicator_bullish": false,
+      "gate_entries_allowed": false,
+      "late_run": false
+    },
+    {
+      "date": "2026-10-27",
+      "book_a": 1337467.44,
+      "book_b": 1337599.08,
+      "book_b_v3_half": 668733.72,
+      "book_b_etf_half": 668865.36,
+      "book_c": 1337651.73,
+      "book_c_v3_part": 401240.23,
+      "book_c_etf_part": 936411.5,
+      "book_d": 1337730.71,
+      "buy_hold": 1266029.27,
+      "live_pct": -9.0,
       "gate_above_21_day_average": false,
       "gate_super_indicator_bullish": false,
       "gate_entries_allowed": false,
@@ -508,38 +525,38 @@
   ],
   "summary": {
     "book_a": {
-      "return_pct": -0.96,
+      "return_pct": -0.93,
       "max_drawdown_pct": -1.17,
-      "current_drawdown_pct": -1.15,
-      "invested_pct": 8.7
+      "current_drawdown_pct": -1.12,
+      "invested_pct": 8.8
     },
     "book_b": {
-      "return_pct": -0.95,
+      "return_pct": -0.92,
       "max_drawdown_pct": -1.18,
-      "current_drawdown_pct": -1.17,
-      "invested_pct": 8.7
+      "current_drawdown_pct": -1.14,
+      "invested_pct": 8.8
     },
     "live": {
-      "return_pct": -9.55,
+      "return_pct": -9.0,
       "max_drawdown_pct": -10.36,
-      "current_drawdown_pct": -9.55
+      "current_drawdown_pct": -9.0
     },
     "book_c": {
-      "return_pct": -0.94,
+      "return_pct": -0.91,
       "max_drawdown_pct": -1.19,
-      "current_drawdown_pct": -1.17,
-      "invested_pct": 8.7
+      "current_drawdown_pct": -1.14,
+      "invested_pct": 8.8
     },
     "book_d": {
-      "return_pct": -0.94,
+      "return_pct": -0.91,
       "max_drawdown_pct": -1.19,
-      "current_drawdown_pct": -1.18,
-      "invested_pct": 8.7
+      "current_drawdown_pct": -1.16,
+      "invested_pct": 8.8
     },
     "buy_hold": {
-      "return_pct": -7.31,
+      "return_pct": -6.22,
       "max_drawdown_pct": -9.53,
-      "current_drawdown_pct": -9.53,
+      "current_drawdown_pct": -8.47,
       "invested_pct": 100.0
     }
   },
@@ -552,7 +569,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -0.63,
+        "return_pct": -0.6,
         "partial": true
       }
     ],
@@ -564,7 +581,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -0.64,
+        "return_pct": -0.61,
         "partial": true
       }
     ],
@@ -576,7 +593,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -0.64,
+        "return_pct": -0.61,
         "partial": true
       }
     ],
@@ -588,7 +605,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -0.65,
+        "return_pct": -0.62,
         "partial": true
       }
     ],
@@ -600,7 +617,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -6.38,
+        "return_pct": -5.81,
         "partial": true
       }
     ],
@@ -612,7 +629,7 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -5.42,
+        "return_pct": -4.31,
         "partial": true
       }
     ]
@@ -643,22 +660,22 @@
     }
   },
   "book_b_breakdown": {
-    "v3_half": 668522.54,
+    "v3_half": 668733.72,
     "v3_scale_of_book_a": 0.5,
-    "etf_half": 668677.11,
+    "etf_half": 668865.36,
     "etf_half_holding": "sleeve",
     "etf_half_holdings_at_6_75_lakh_scale": {
       "GILT5YBEES": {
         "units": 897.6702,
-        "value": 58447.31
+        "value": 58555.03
       }
     },
     "rebalance_rule": "both halves back to 50/50 on the first trading day of each January"
   },
   "book_cd_breakdown": {
     "book_c": {
-      "v3_part": 401113.52,
-      "etf_part": 936147.95,
+      "v3_part": 401240.23,
+      "etf_part": 936411.5,
       "v3_scale_of_book_a": 0.3,
       "target_weights": {
         "swing": 0.3,
@@ -667,7 +684,7 @@
       "rebalance_rule": "back to 30% Swing and 70% fund on the first trading day of each January"
     },
     "book_d": {
-      "etf_part": 1337354.21,
+      "etf_part": 1337730.71,
       "target_weights": {
         "swing": 0.0,
         "fund": 1.0
@@ -678,15 +695,15 @@
     "source": "computed from Swing and the fund half, the same series as Blend \u2014 no extra engine run"
   },
   "decisions": {
-    "date": "2026-10-26",
-    "signals": 27,
+    "date": "2026-10-27",
+    "signals": 54,
     "buys": [],
     "sells": [],
     "sleeve": [],
     "book_b_fund_half": null,
     "skipped": [
       {
-        "symbol": "ACUTAAS",
+        "symbol": "AARTIPHARM",
         "reason": "Market gate off"
       },
       {
@@ -702,11 +719,23 @@
         "reason": "Market gate off"
       },
       {
+        "symbol": "CENTUM",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "CHENNPETRO",
         "reason": "Market gate off"
       },
       {
-        "symbol": "COFORGE",
+        "symbol": "CPPLUS",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "CRAFTSMAN",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "DIVISLAB",
         "reason": "Market gate off"
       },
       {
@@ -722,7 +751,19 @@
         "reason": "Market gate off"
       },
       {
+        "symbol": "GABRIEL",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "GANDHAR",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GLAND",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GNA",
         "reason": "Market gate off"
       },
       {
@@ -730,15 +771,23 @@
         "reason": "Market gate off"
       },
       {
-        "symbol": "INDGN",
-        "reason": "Market gate off"
-      },
-      {
         "symbol": "INDHOTEL",
         "reason": "Market gate off"
       },
       {
-        "symbol": "KMEW",
+        "symbol": "IPCALAB",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "KARURVYSYA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "KINGFA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "KRISHANA",
         "reason": "Market gate off"
       },
       {
@@ -746,11 +795,31 @@
         "reason": "Market gate off"
       },
       {
-        "symbol": "MOREPENLAB",
+        "symbol": "LOTUSDEV",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "MBAPL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "NYKAA",
         "reason": "Market gate off"
       },
       {
         "symbol": "ORIENTHOT",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PANAMAPET",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PCJEWELLER",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PRIVISCL",
         "reason": "Market gate off"
       },
       {
@@ -762,7 +831,19 @@
         "reason": "Market gate off"
       },
       {
+        "symbol": "RPGLIFE",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SAMBHV",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "SANSERA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SAREGAMA",
         "reason": "Market gate off"
       },
       {
@@ -770,11 +851,15 @@
         "reason": "Market gate off"
       },
       {
-        "symbol": "SGMART",
+        "symbol": "SHREEJISPG",
         "reason": "Market gate off"
       },
       {
-        "symbol": "SHREEJISPG",
+        "symbol": "SHYAMMETL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SMSPHARMA",
         "reason": "Market gate off"
       },
       {
@@ -782,11 +867,51 @@
         "reason": "Market gate off"
       },
       {
+        "symbol": "SPECTRUM",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "STAR",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "STEELCAS",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "STLTECH",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "STOVEKRAFT",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SUNFLAG",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "TFCILTD",
         "reason": "Market gate off"
       },
       {
+        "symbol": "THELEELA",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "TIPSMUSIC",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "UNIMECH",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "WELSPUNLIV",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "WSTCSTPAPR",
         "reason": "Market gate off"
       },
       {
@@ -828,35 +953,18 @@
     "average_absolute_gap_pct_all": 0.466
   },
   "marks_basis": {
-    "decided_on": "2026-10-26",
+    "decided_on": "2026-10-27",
     "v3_scale": 0.5000000000000002,
-    "etf_half_actual": 668677.106689104,
-    "etf_sim_value": 668468.8911195945,
-    "etf_sim_cash": 610021.5851304256,
+    "etf_half_actual": 668865.3559283515,
+    "etf_sim_value": 668657.0817409797,
+    "etf_sim_cash": 610102.0553291615,
     "etf_holdings_units": {
       "GILT5YBEES": 897.6701887447224
     },
-    "book_c_v3_scale": 0.30000000000000016,
-    "book_c_etf_actual": 936147.9493647453,
-    "book_d_etf_actual": 1337354.213378208,
+    "book_c_v3_scale": 0.3000000000000002,
+    "book_c_etf_actual": 936411.498299692,
+    "book_d_etf_actual": 1337730.711856703,
     "buy_hold_base_price": 231.67,
-    "swing_cash": 1220133.4
-  },
-  "morning": {
-    "marked_at_ist": "2026-10-27 10:40",
-    "decisions_from": "2026-10-26",
-    "swing": 1337368.28,
-    "swing_return_pct": -0.94,
-    "blend": 1337522.88,
-    "blend_return_pct": -0.92,
-    "book_c": 1337584.72,
-    "book_c_return_pct": -0.92,
-    "book_d": 1337677.48,
-    "book_d_return_pct": -0.91,
-    "buy_hold": 1266145.81,
-    "buy_hold_return_pct": -6.21,
-    "live_return_pct": -9.2,
-    "positions": [],
-    "note": "Marked at the morning price; no decision is made at this run."
+    "swing_cash": 1220340.29
   }
 }
