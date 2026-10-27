@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 155.52,
-      "unrealised_pct": 4.11
+      "current_price": 155.8,
+      "unrealised_pct": 4.3
     },
     {
       "symbol": "SBC",
@@ -37,7 +37,7 @@
       "entry_date": "2026-10-15",
       "stop_price": 60.1,
       "stop_unlocked": false,
-      "high_since_entry": 66.35,
+      "high_since_entry": 67.1,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 49.7,
@@ -55,11 +55,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 64.9,
-      "unrealised_pct": 0.43
+      "current_price": 66.29,
+      "unrealised_pct": 2.58
     }
   ],
-  "last_updated": "2026-10-27 09:27 IST",
+  "last_updated": "2026-10-27 11:25 IST",
   "closed_today_map": {
     "2026-10-27": []
   }
