@@ -38,6 +38,25 @@
       "r_multiple": null,
       "exit_reason": "Below 200-DMA",
       "month": "2026-10"
+    },
+    {
+      "symbol": "MON100",
+      "scanner": "Defensive Sleeve",
+      "book": "sleeve",
+      "rs_tier": null,
+      "sector": null,
+      "entry_price": 295.73,
+      "exit_price": 288.3,
+      "entry_date": "2026-10-28",
+      "exit_date": "2026-10-29",
+      "hold_days": 1,
+      "shares": 395.8075,
+      "pnl_pct": -2.55,
+      "pnl_inr": -2982.52,
+      "costs_inr": 22.24,
+      "r_multiple": null,
+      "exit_reason": "Below 200-DMA",
+      "month": "2026-10"
     }
   ]
 }
