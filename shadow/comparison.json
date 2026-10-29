@@ -996,7 +996,7 @@
   "trueup": {
     "latest": {
       "date": "2026-10-28",
-      "trued_up_at_ist": "2026-10-29 10:41",
+      "trued_up_at_ist": "2026-10-29 15:46",
       "decided_at_ist": "14:42",
       "rows": [
         {
@@ -1030,5 +1030,22 @@
     "book_d_etf_actual": 1335285.659311329,
     "buy_hold_base_price": 231.67,
     "swing_cash": 1217691.18
+  },
+  "morning": {
+    "marked_at_ist": "2026-10-29 15:46",
+    "decisions_from": "2026-10-29",
+    "swing": 1335105.62,
+    "swing_return_pct": -1.1,
+    "blend": 1335204.58,
+    "blend_return_pct": -1.1,
+    "book_c": 1335244.16,
+    "book_c_return_pct": -1.09,
+    "book_d": 1335303.53,
+    "book_d_return_pct": -1.09,
+    "buy_hold": 1295107.26,
+    "buy_hold_return_pct": -4.07,
+    "live_return_pct": -8.34,
+    "positions": [],
+    "note": "Marked at the morning price; no decision is made at this run."
   }
 }
