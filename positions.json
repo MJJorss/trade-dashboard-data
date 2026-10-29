@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 159.32,
-      "unrealised_pct": 6.65
+      "current_price": 159.5,
+      "unrealised_pct": 6.77
     },
     {
       "symbol": "SBC",
@@ -55,37 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 65.41,
-      "unrealised_pct": 1.22
-    },
-    {
-      "symbol": "WELCORP",
-      "scanner": "VCP Breakout",
-      "entry_price": 2608.9,
-      "entry_time": "11:25",
-      "entry_date": "2026-10-28",
-      "stop_price": 2426.28,
-      "stop_unlocked": false,
-      "high_since_entry": 2621.9,
-      "conviction": "\ud83d\udcca STANDARD",
-      "rs_tier": "HIGH",
-      "rs_composite": 35.63,
-      "rs_benchmark": "Nifty 50",
-      "rs_stale": false,
-      "rs_stale_days": 0,
-      "universe_rs_tier": "HIGH",
-      "status": "open",
-      "capital_allocated": 90200,
-      "qty": 34,
-      "risk_inr": 6314,
-      "risk_pct_applied": 0.5,
-      "stop_pct": 7.0,
-      "capital_base_at_entry": 1262833,
-      "equity_curve_mult": 0.5,
-      "drawdown_mult": 1.0,
-      "price_source": "live",
-      "current_price": 2561.4,
-      "unrealised_pct": -1.82
+      "current_price": 66.65,
+      "unrealised_pct": 3.14
     },
     {
       "symbol": "THELEELA",
@@ -95,7 +66,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 556.23,
       "stop_unlocked": false,
-      "high_since_entry": 638.4,
+      "high_since_entry": 641.95,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 24.99,
@@ -113,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 630.65,
-      "unrealised_pct": 5.44
+      "current_price": 640.65,
+      "unrealised_pct": 7.11
     },
     {
       "symbol": "ORIENTHOT",
@@ -142,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 160.34,
-      "unrealised_pct": 0.83
+      "current_price": 160.59,
+      "unrealised_pct": 0.99
     },
     {
       "symbol": "KARURVYSYA",
@@ -153,7 +124,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 328.89,
       "stop_unlocked": false,
-      "high_since_entry": 359.6,
+      "high_since_entry": 360.05,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "LOW",
       "rs_composite": 10.6,
@@ -171,8 +142,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 359.05,
-      "unrealised_pct": 1.53
+      "current_price": 356.75,
+      "unrealised_pct": 0.88
     },
     {
       "symbol": "NYKAA",
@@ -182,7 +153,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 317.73,
       "stop_unlocked": false,
-      "high_since_entry": 351.7,
+      "high_since_entry": 352.75,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "LOW",
       "rs_composite": 8.05,
@@ -200,12 +171,51 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 350.95,
-      "unrealised_pct": 2.72
+      "current_price": 351.25,
+      "unrealised_pct": 2.81
+    },
+    {
+      "symbol": "WELCORP",
+      "scanner": "VCP Breakout",
+      "entry_price": 2608.9,
+      "entry_time": "11:25",
+      "entry_date": "2026-10-28",
+      "stop_price": 2426.28,
+      "stop_unlocked": false,
+      "high_since_entry": 2621.9,
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "rs_composite": 35.63,
+      "rs_benchmark": "Nifty 50",
+      "rs_stale": false,
+      "rs_stale_days": 0,
+      "universe_rs_tier": "HIGH",
+      "status": "closed",
+      "capital_allocated": 90200,
+      "qty": 34,
+      "risk_inr": 6314,
+      "risk_pct_applied": 0.5,
+      "stop_pct": 7.0,
+      "capital_base_at_entry": 1262833,
+      "equity_curve_mult": 0.5,
+      "drawdown_mult": 1.0,
+      "price_source": "live",
+      "current_price": 2561.4,
+      "unrealised_pct": -1.82,
+      "exit_price": 2426.28,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "exit_time": "15:02",
+      "exit_date": "2026-10-29",
+      "pnl_pct": -7.0,
+      "pnl_inr": -6314,
+      "hold_days": 1,
+      "capital_per_slot": 90200
     }
   ],
-  "last_updated": "2026-10-29 13:16 IST",
+  "last_updated": "2026-10-29 15:02 IST",
   "closed_today_map": {
-    "2026-10-29": []
+    "2026-10-29": [
+      "WELCORP"
+    ]
   }
 }
