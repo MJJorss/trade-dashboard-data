@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 159.5,
-      "unrealised_pct": 6.77
+      "current_price": 160.5,
+      "unrealised_pct": 7.44
     },
     {
       "symbol": "SBC",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 66.65,
-      "unrealised_pct": 3.14
+      "current_price": 66.69,
+      "unrealised_pct": 3.2
     },
     {
       "symbol": "THELEELA",
@@ -66,7 +66,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 556.23,
       "stop_unlocked": false,
-      "high_since_entry": 641.95,
+      "high_since_entry": 649.6,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 24.99,
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 640.65,
-      "unrealised_pct": 7.11
+      "current_price": 637.6,
+      "unrealised_pct": 6.6
     },
     {
       "symbol": "ORIENTHOT",
@@ -95,7 +95,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 147.89,
       "stop_unlocked": false,
-      "high_since_entry": 161.28,
+      "high_since_entry": 161.9,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 23.53,
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 160.59,
-      "unrealised_pct": 0.99
+      "current_price": 160.84,
+      "unrealised_pct": 1.14
     },
     {
       "symbol": "KARURVYSYA",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 356.75,
-      "unrealised_pct": 0.88
+      "current_price": 356.05,
+      "unrealised_pct": 0.68
     },
     {
       "symbol": "NYKAA",
@@ -153,7 +153,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 317.73,
       "stop_unlocked": false,
-      "high_since_entry": 352.75,
+      "high_since_entry": 354.5,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "LOW",
       "rs_composite": 8.05,
@@ -171,51 +171,41 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 351.25,
-      "unrealised_pct": 2.81
+      "current_price": 349.4,
+      "unrealised_pct": 2.27
     },
     {
-      "symbol": "WELCORP",
+      "symbol": "CUPID",
       "scanner": "VCP Breakout",
-      "entry_price": 2608.9,
-      "entry_time": "11:25",
-      "entry_date": "2026-10-28",
-      "stop_price": 2426.28,
+      "entry_price": 325.2,
+      "entry_time": "09:27",
+      "entry_date": "2026-10-30",
+      "stop_price": 302.44,
       "stop_unlocked": false,
-      "high_since_entry": 2621.9,
-      "conviction": "\ud83d\udcca STANDARD",
+      "high_since_entry": 328.25,
+      "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
-      "rs_composite": 35.63,
+      "rs_composite": 26.64,
       "rs_benchmark": "Nifty 50",
       "rs_stale": false,
       "rs_stale_days": 0,
       "universe_rs_tier": "HIGH",
-      "status": "closed",
-      "capital_allocated": 90200,
-      "qty": 34,
-      "risk_inr": 6314,
+      "status": "open",
+      "capital_allocated": 89757,
+      "qty": 276,
+      "risk_inr": 6283,
       "risk_pct_applied": 0.5,
       "stop_pct": 7.0,
-      "capital_base_at_entry": 1262833,
+      "capital_base_at_entry": 1256519,
       "equity_curve_mult": 0.5,
-      "drawdown_mult": 1.0,
+      "drawdown_mult": 0.5,
       "price_source": "live",
-      "current_price": 2561.4,
-      "unrealised_pct": -1.82,
-      "exit_price": 2426.28,
-      "exit_reason": "Stop Loss -7% \ud83d\udd34",
-      "exit_time": "15:02",
-      "exit_date": "2026-10-29",
-      "pnl_pct": -7.0,
-      "pnl_inr": -6314,
-      "hold_days": 1,
-      "capital_per_slot": 90200
+      "current_price": 323.55,
+      "unrealised_pct": -0.51
     }
   ],
-  "last_updated": "2026-10-29 15:02 IST",
+  "last_updated": "2026-10-30 09:27 IST",
   "closed_today_map": {
-    "2026-10-29": [
-      "WELCORP"
-    ]
+    "2026-10-30": []
   }
 }
