@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T15:52:53.190741",
+  "generated_at": "2026-10-31T18:29:31.802724",
   "scan_window_days": 365,
   "universe_source": "NSE",
-  "note": "Screen only: these rules failed the 2021-26 backtest (532 trades, 20-session median 2.7% behind Nifty 500). Telegram alerts are off.",
+  "note": "Screen only: these rules failed the 2021-26 backtest (526 trades, 20-session median 2.7% behind Nifty 500). Telegram alerts are off.",
   "signals": [
     {
       "status": "NO_BASE",
@@ -1650,13 +1650,26 @@
       "lockup_milestone_days": null
     },
     {
+      "status": "NO_BASE",
+      "reason": "23.4% below base high (watch within 5%)",
+      "base_high": 830.0,
+      "base_low": 631.45,
+      "base_width_pct": 23.92,
+      "gap_to_base_pct": 23.43,
+      "current_close": 635.5,
+      "depth_pct": 28.43,
+      "volume_ratio": 0.38,
+      "post_listing_high": 888.0,
+      "adj_issue_price": 424.0,
       "symbol": "SSRETAIL",
       "company": "SS Retail Limited",
-      "status": "ILLIQUID",
-      "traded_value_cr": 0,
-      "reason": "Traded value \u20b90 Cr (min \u20b910 Cr)",
       "listing_date": "2026-09-23",
-      "issue_price": 424.0
+      "issue_price": 424.0,
+      "traded_value_cr": 401.82,
+      "extended_move": false,
+      "extended_move_pct": -2.19,
+      "lockup_risk": false,
+      "lockup_milestone_days": null
     },
     {
       "status": "NO_BASE",
@@ -1681,13 +1694,26 @@
       "lockup_milestone_days": 30
     },
     {
+      "status": "NO_BASE",
+      "reason": "Below issue price (\u20b9362.0)",
+      "base_high": 353.35,
+      "base_low": 266.95,
+      "base_width_pct": 24.45,
+      "gap_to_base_pct": 18.04,
+      "current_close": 289.6,
+      "depth_pct": 22.31,
+      "volume_ratio": 0.48,
+      "post_listing_high": 372.75,
+      "adj_issue_price": 362.0,
       "symbol": "ELEVATE",
       "company": "Elevate Campuses Limited",
-      "status": "ILLIQUID",
-      "traded_value_cr": 0,
-      "reason": "Traded value \u20b90 Cr (min \u20b910 Cr)",
       "listing_date": "2026-09-30",
-      "issue_price": 362.0
+      "issue_price": 362.0,
+      "traded_value_cr": 124.83,
+      "extended_move": false,
+      "extended_move_pct": 1.94,
+      "lockup_risk": true,
+      "lockup_milestone_days": 30
     },
     {
       "status": "NO_BASE",
@@ -1712,13 +1738,26 @@
       "lockup_milestone_days": 30
     },
     {
+      "status": "NO_BASE",
+      "reason": "Below issue price (\u20b9405.0)",
+      "base_high": 430.0,
+      "base_low": 359.55,
+      "base_width_pct": 16.38,
+      "gap_to_base_pct": 13.72,
+      "current_close": 371.0,
+      "depth_pct": 21.06,
+      "volume_ratio": 0.32,
+      "post_listing_high": 470.0,
+      "adj_issue_price": 405.0,
       "symbol": "AONESTEELS",
       "company": "A-One Steels India Limited",
-      "status": "ILLIQUID",
-      "traded_value_cr": 0,
-      "reason": "Traded value \u20b90 Cr (min \u20b910 Cr)",
       "listing_date": "2026-10-01",
-      "issue_price": 405.0
+      "issue_price": 405.0,
+      "traded_value_cr": 47.18,
+      "extended_move": false,
+      "extended_move_pct": 0.43,
+      "lockup_risk": true,
+      "lockup_milestone_days": 30
     },
     {
       "status": "NO_BASE",
@@ -1743,13 +1782,26 @@
       "lockup_milestone_days": 30
     },
     {
+      "status": "NO_BASE",
+      "reason": "Base too wide: 42.8% (max 25%)",
+      "base_high": 33.27,
+      "base_low": 19.02,
+      "base_width_pct": 42.83,
+      "gap_to_base_pct": 46.08,
+      "current_close": 17.94,
+      "depth_pct": 46.08,
+      "volume_ratio": 1.87,
+      "post_listing_high": 33.27,
+      "adj_issue_price": 32.0,
       "symbol": "ACEVECTOR",
       "company": "AceVector Limited",
-      "status": "ILLIQUID",
-      "traded_value_cr": 0,
-      "reason": "Traded value \u20b90 Cr (min \u20b910 Cr)",
       "listing_date": "2026-10-05",
-      "issue_price": 32.0
+      "issue_price": 32.0,
+      "traded_value_cr": 72.23,
+      "extended_move": false,
+      "extended_move_pct": -13.29,
+      "lockup_risk": true,
+      "lockup_milestone_days": 30
     },
     {
       "status": "NO_BASE",
@@ -1774,22 +1826,48 @@
       "lockup_milestone_days": 30
     },
     {
+      "status": "NO_BASE",
+      "reason": "Base too wide: 27.6% (max 25%)",
+      "base_high": 133.33,
+      "base_low": 96.5,
+      "base_width_pct": 27.62,
+      "gap_to_base_pct": 25.83,
+      "current_close": 98.89,
+      "depth_pct": 30.75,
+      "volume_ratio": 0.38,
+      "post_listing_high": 142.81,
+      "adj_issue_price": 139.0,
       "symbol": "GERMAN",
       "company": "German Green Steel and Power Limited",
-      "status": "ILLIQUID",
-      "traded_value_cr": 0,
-      "reason": "Traded value \u20b90 Cr (min \u20b910 Cr)",
       "listing_date": "2026-10-05",
-      "issue_price": 139.0
+      "issue_price": 139.0,
+      "traded_value_cr": 65.82,
+      "extended_move": false,
+      "extended_move_pct": -1.98,
+      "lockup_risk": true,
+      "lockup_milestone_days": 30
     },
     {
+      "status": "NO_BASE",
+      "reason": "20.3% below base high (watch within 5%)",
+      "base_high": 431.85,
+      "base_low": 332.7,
+      "base_width_pct": 22.96,
+      "gap_to_base_pct": 20.26,
+      "current_close": 344.35,
+      "depth_pct": 25.92,
+      "volume_ratio": 0.72,
+      "post_listing_high": 464.85,
+      "adj_issue_price": 272.0,
       "symbol": "ORIENTCABL",
       "company": "Orient Cables (India) Limited",
-      "status": "ILLIQUID",
-      "traded_value_cr": 0,
-      "reason": "Traded value \u20b90 Cr (min \u20b910 Cr)",
       "listing_date": "2026-10-05",
-      "issue_price": 272.0
+      "issue_price": 272.0,
+      "traded_value_cr": 141.84,
+      "extended_move": false,
+      "extended_move_pct": 0.89,
+      "lockup_risk": true,
+      "lockup_milestone_days": 30
     }
   ]
 }
