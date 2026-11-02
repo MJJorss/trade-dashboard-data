@@ -1,6 +1,6 @@
 {
-  "generated_at_ist": "2026-10-30 14:40",
-  "as_of": "2026-10-30",
+  "generated_at_ist": "2026-11-02 14:41",
+  "as_of": "2026-11-02",
   "start_date": "2026-09-15",
   "late_run": false,
   "labels": {
@@ -14,16 +14,16 @@
     }
   },
   "status": {
-    "date": "2026-10-30",
+    "date": "2026-11-02",
     "gate_entries_allowed": false,
     "gate_above_21_day_average": false,
     "gate_super_indicator_bullish": true,
-    "gate_distance_pct": -1.59,
+    "gate_distance_pct": -0.65,
     "size_level_tier": 0,
     "size_level": "full size (the book's equity is above its 20-day average)",
     "five_day_breaker_active": false,
     "high_water_mark_cut_active": false,
-    "run_started_ist": "2026-10-30 14:40",
+    "run_started_ist": "2026-11-02 14:41",
     "decided_at_ist": "14:42",
     "late_run": false,
     "signal_snapshot": "saved"
@@ -567,7 +567,24 @@
       "book_c_etf_part": 935135.58,
       "book_d": 1335907.97,
       "buy_hold": 1274653.6,
-      "live_pct": -8.49,
+      "live_pct": -8.74,
+      "gate_above_21_day_average": false,
+      "gate_super_indicator_bullish": true,
+      "gate_entries_allowed": false,
+      "late_run": false
+    },
+    {
+      "date": "2026-11-02",
+      "book_a": 1335879.12,
+      "book_b": 1335959.2,
+      "book_b_v3_half": 667939.56,
+      "book_b_etf_half": 668019.64,
+      "book_c": 1335991.23,
+      "book_c_v3_part": 400763.74,
+      "book_c_etf_part": 935227.5,
+      "book_d": 1336039.28,
+      "buy_hold": 1284676.48,
+      "live_pct": -8.09,
       "gate_above_21_day_average": false,
       "gate_super_indicator_bullish": true,
       "gate_entries_allowed": false,
@@ -576,38 +593,38 @@
   ],
   "summary": {
     "book_a": {
-      "return_pct": -1.09,
+      "return_pct": -1.05,
       "max_drawdown_pct": -1.28,
-      "current_drawdown_pct": -1.27,
+      "current_drawdown_pct": -1.24,
       "invested_pct": 8.8
     },
     "book_b": {
-      "return_pct": -1.06,
+      "return_pct": -1.04,
       "max_drawdown_pct": -1.31,
-      "current_drawdown_pct": -1.28,
+      "current_drawdown_pct": -1.26,
       "invested_pct": 8.8
     },
     "live": {
-      "return_pct": -8.49,
+      "return_pct": -8.09,
       "max_drawdown_pct": -10.36,
-      "current_drawdown_pct": -8.49
+      "current_drawdown_pct": -8.09
     },
     "book_c": {
-      "return_pct": -1.06,
+      "return_pct": -1.04,
       "max_drawdown_pct": -1.32,
-      "current_drawdown_pct": -1.29,
+      "current_drawdown_pct": -1.27,
       "invested_pct": 8.8
     },
     "book_d": {
-      "return_pct": -1.04,
+      "return_pct": -1.03,
       "max_drawdown_pct": -1.34,
-      "current_drawdown_pct": -1.29,
+      "current_drawdown_pct": -1.28,
       "invested_pct": 8.8
     },
     "buy_hold": {
-      "return_pct": -5.58,
+      "return_pct": -4.84,
       "max_drawdown_pct": -9.53,
-      "current_drawdown_pct": -7.84,
+      "current_drawdown_pct": -7.12,
       "invested_pct": 100.0
     }
   },
@@ -621,6 +638,11 @@
       {
         "month": "2026-10",
         "return_pct": -0.76,
+        "partial": false
+      },
+      {
+        "month": "2026-11",
+        "return_pct": 0.04,
         "partial": true
       }
     ],
@@ -633,6 +655,11 @@
       {
         "month": "2026-10",
         "return_pct": -0.76,
+        "partial": false
+      },
+      {
+        "month": "2026-11",
+        "return_pct": 0.02,
         "partial": true
       }
     ],
@@ -645,6 +672,11 @@
       {
         "month": "2026-10",
         "return_pct": -0.76,
+        "partial": false
+      },
+      {
+        "month": "2026-11",
+        "return_pct": 0.02,
         "partial": true
       }
     ],
@@ -657,6 +689,11 @@
       {
         "month": "2026-10",
         "return_pct": -0.75,
+        "partial": false
+      },
+      {
+        "month": "2026-11",
+        "return_pct": 0.01,
         "partial": true
       }
     ],
@@ -668,7 +705,12 @@
       },
       {
         "month": "2026-10",
-        "return_pct": -5.28,
+        "return_pct": -5.55,
+        "partial": false
+      },
+      {
+        "month": "2026-11",
+        "return_pct": 0.72,
         "partial": true
       }
     ],
@@ -681,6 +723,11 @@
       {
         "month": "2026-10",
         "return_pct": -3.66,
+        "partial": false
+      },
+      {
+        "month": "2026-11",
+        "return_pct": 0.79,
         "partial": true
       }
     ]
@@ -711,22 +758,22 @@
     }
   },
   "book_b_breakdown": {
-    "v3_half": 667673.3,
+    "v3_half": 667939.56,
     "v3_scale_of_book_a": 0.5,
-    "etf_half": 667953.99,
+    "etf_half": 668019.64,
     "etf_half_holding": "sleeve",
     "etf_half_holdings_at_6_75_lakh_scale": {
       "GILT5YBEES": {
         "units": 893.376,
-        "value": 58444.65
+        "value": 58435.72
       }
     },
     "rebalance_rule": "both halves back to 50/50 on the first trading day of each January"
   },
   "book_cd_breakdown": {
     "book_c": {
-      "v3_part": 400603.98,
-      "etf_part": 935135.58,
+      "v3_part": 400763.74,
+      "etf_part": 935227.5,
       "v3_scale_of_book_a": 0.3,
       "target_weights": {
         "swing": 0.3,
@@ -735,7 +782,7 @@
       "rebalance_rule": "back to 30% Swing and 70% fund on the first trading day of each January"
     },
     "book_d": {
-      "etf_part": 1335907.97,
+      "etf_part": 1336039.28,
       "target_weights": {
         "swing": 0.0,
         "fund": 1.0
@@ -746,19 +793,47 @@
     "source": "computed from Swing and the fund half, the same series as Blend \u2014 no extra engine run"
   },
   "decisions": {
-    "date": "2026-10-30",
-    "signals": 21,
+    "date": "2026-11-02",
+    "signals": 59,
     "buys": [],
     "sells": [],
     "sleeve": [],
     "book_b_fund_half": null,
     "skipped": [
       {
-        "symbol": "AJANTPHARM",
+        "symbol": "AARTIPHARM",
         "reason": "Market gate off"
       },
       {
-        "symbol": "AUROPHARMA",
+        "symbol": "ACMESOLAR",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ALIVUS",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ANANDRATHI",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ATHERENERG",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "BOSCHLTD",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "CCAVENUE",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "CEMPRO",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "CENTUM",
         "reason": "Market gate off"
       },
       {
@@ -782,7 +857,31 @@
         "reason": "Market gate off"
       },
       {
-        "symbol": "GLAND",
+        "symbol": "GABRIEL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GESHIP",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GLENMARK",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GRINDWELL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ICIL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "IIFLCAPS",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "INDGN",
         "reason": "Market gate off"
       },
       {
@@ -790,11 +889,55 @@
         "reason": "Market gate off"
       },
       {
+        "symbol": "IPCALAB",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "KMEW",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "KOLTEPATIL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "KPRMILL",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "LLOYDSME",
         "reason": "Market gate off"
       },
       {
-        "symbol": "MANKIND",
+        "symbol": "LOTUSDEV",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "LUMAXTECH",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "MAHLOG",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "MUFIN",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "NAZARA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "NITINSPIN",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "NUVAMA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "NYKAA",
         "reason": "Market gate off"
       },
       {
@@ -806,6 +949,22 @@
         "reason": "Market gate off"
       },
       {
+        "symbol": "PGIL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PHOENIXLTD",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PRINCEPIPE",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PTCIL",
+        "reason": "Market gate off"
+      },
+      {
         "symbol": "PVRINOX",
         "reason": "Market gate off"
       },
@@ -814,11 +973,23 @@
         "reason": "Market gate off"
       },
       {
-        "symbol": "SAILIFE",
+        "symbol": "SAMBHV",
         "reason": "Market gate off"
       },
       {
-        "symbol": "SHAILY",
+        "symbol": "SANATHAN",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SANGAMIND",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SETL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SGMART",
         "reason": "Market gate off"
       },
       {
@@ -826,11 +997,39 @@
         "reason": "Market gate off"
       },
       {
-        "symbol": "TASTYBITE",
+        "symbol": "SHYAMMETL",
         "reason": "Market gate off"
       },
       {
-        "symbol": "WELSPUNLIV",
+        "symbol": "SIGMAADV",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SONACOMS",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SPECTRUM",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SSWL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "STEELCAS",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TFCILTD",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TIPSMUSIC",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TVSMOTOR",
         "reason": "Market gate off"
       },
       {
@@ -902,174 +1101,18 @@
     "average_absolute_gap_pct_all": 0.243
   },
   "marks_basis": {
-    "decided_on": "2026-10-30",
+    "decided_on": "2026-11-02",
     "v3_scale": 0.5000000000000002,
-    "etf_half_actual": 667953.9872073857,
-    "etf_sim_value": 667745.9968059479,
-    "etf_sim_cash": 609301.3421322514,
+    "etf_half_actual": 668019.6412480541,
+    "etf_sim_value": 667811.6304029772,
+    "etf_sim_cash": 609375.9094887845,
     "etf_holdings_units": {
       "GILT5YBEES": 893.3759503775067
     },
     "book_c_v3_scale": 0.30000000000000016,
-    "book_c_etf_actual": 935135.5820903396,
-    "book_d_etf_actual": 1335907.9744147714,
+    "book_c_etf_actual": 935227.4977472754,
+    "book_d_etf_actual": 1336039.2824961082,
     "buy_hold_base_price": 231.67,
-    "swing_cash": 1217878.28
-  },
-  "morning": {
-    "marked_at_ist": "2026-11-02 10:40",
-    "decisions_from": "2026-10-30",
-    "swing": 1335346.59,
-    "swing_return_pct": -1.09,
-    "blend": 1335627.28,
-    "blend_return_pct": -1.06,
-    "book_c": 1335739.56,
-    "book_c_return_pct": -1.06,
-    "book_d": 1335907.97,
-    "book_d_return_pct": -1.04,
-    "buy_hold": 1285084.39,
-    "buy_hold_return_pct": -4.81,
-    "live_return_pct": -8.41,
-    "positions": [],
-    "note": "Marked at the morning price; no decision is made at this run."
-  },
-  "signal_drift": {
-    "days": 11,
-    "first_day": "2026-10-15",
-    "last_day": "2026-10-30",
-    "decide_signals": 366,
-    "kept": 314,
-    "dropped_by_close": 52,
-    "added_by_close": 68,
-    "dropped_pct_of_decide": 14.2,
-    "added_pct_of_close": 17.8,
-    "bought": 0,
-    "bought_but_dropped_by_close": {
-      "buys": 0,
-      "completed_20d": 0,
-      "average_20d_return_pct": null,
-      "average_return_to_date_pct": null,
-      "symbols": []
-    },
-    "bought_and_kept": {
-      "buys": 0,
-      "completed_20d": 0,
-      "average_20d_return_pct": null,
-      "average_return_to_date_pct": null,
-      "symbols": []
-    },
-    "per_day": [
-      {
-        "date": "2026-10-15",
-        "decide": 29,
-        "close": 28,
-        "kept": 22,
-        "dropped": 7,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-16",
-        "decide": 78,
-        "close": 78,
-        "kept": 69,
-        "dropped": 9,
-        "added": 9,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-19",
-        "decide": 32,
-        "close": 28,
-        "kept": 25,
-        "dropped": 7,
-        "added": 3,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-21",
-        "decide": 5,
-        "close": 7,
-        "kept": 4,
-        "dropped": 1,
-        "added": 3,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-22",
-        "decide": 16,
-        "close": 19,
-        "kept": 15,
-        "dropped": 1,
-        "added": 4,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-23",
-        "decide": 7,
-        "close": 8,
-        "kept": 7,
-        "dropped": 0,
-        "added": 1,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-26",
-        "decide": 27,
-        "close": 29,
-        "kept": 23,
-        "dropped": 4,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-27",
-        "decide": 54,
-        "close": 62,
-        "kept": 50,
-        "dropped": 4,
-        "added": 12,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-28",
-        "decide": 47,
-        "close": 51,
-        "kept": 41,
-        "dropped": 6,
-        "added": 10,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-29",
-        "decide": 50,
-        "close": 46,
-        "kept": 40,
-        "dropped": 10,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-30",
-        "decide": 21,
-        "close": 26,
-        "kept": 18,
-        "dropped": 3,
-        "added": 8,
-        "bought": 0,
-        "bought_dropped": 0
-      }
-    ],
-    "note": "Close list = the live VCP clause re-run at the next 10:40 update on the decide day's settled bars. Market cap and quarterly profit in the clause are read as of the re-run. Records only \u2014 the close list changes no decision."
+    "swing_cash": 1218428.76
   }
 }
