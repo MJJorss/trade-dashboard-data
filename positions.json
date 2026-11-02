@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 159.14,
-      "unrealised_pct": 6.53
+      "current_price": 157.85,
+      "unrealised_pct": 5.67
     },
     {
       "symbol": "SBC",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 65.55,
-      "unrealised_pct": 1.44
+      "current_price": 65.61,
+      "unrealised_pct": 1.53
     },
     {
       "symbol": "THELEELA",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 670.7,
-      "unrealised_pct": 12.14
+      "current_price": 671.9,
+      "unrealised_pct": 12.34
     },
     {
       "symbol": "ORIENTHOT",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 162.77,
-      "unrealised_pct": 2.36
+      "current_price": 163.35,
+      "unrealised_pct": 2.72
     },
     {
       "symbol": "KARURVYSYA",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 342.85,
-      "unrealised_pct": -3.05
+      "current_price": 343.35,
+      "unrealised_pct": -2.91
     },
     {
       "symbol": "NYKAA",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 351.85,
-      "unrealised_pct": 2.99
+      "current_price": 352.5,
+      "unrealised_pct": 3.18
     },
     {
       "symbol": "CUPID",
@@ -182,7 +182,7 @@
       "entry_date": "2026-10-30",
       "stop_price": 302.44,
       "stop_unlocked": false,
-      "high_since_entry": 340.75,
+      "high_since_entry": 341.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 26.64,
@@ -204,7 +204,7 @@
       "unrealised_pct": 4.35
     }
   ],
-  "last_updated": "2026-11-02 13:16 IST",
+  "last_updated": "2026-11-02 15:02 IST",
   "closed_today_map": {
     "2026-11-02": []
   }
