@@ -889,24 +889,15 @@
   },
   "trueup": {
     "latest": {
-      "date": "2026-10-29",
-      "trued_up_at_ist": "2026-10-30 15:46",
+      "date": "2026-10-30",
+      "trued_up_at_ist": "2026-11-02 10:40",
       "decided_at_ist": "14:42",
-      "rows": [
-        {
-          "side": "sleeve sell",
-          "symbol": "MON100",
-          "run_price": 288.3014,
-          "official_close": 288.7,
-          "gap_pct": 0.138,
-          "quantity": 395.8075
-        }
-      ],
-      "average_gap_pct": 0.138,
-      "average_absolute_gap_pct": 0.138,
+      "rows": [],
+      "average_gap_pct": null,
+      "average_absolute_gap_pct": null,
       "note": "Records only \u2014 the official close changes no decision."
     },
-    "days": 10,
+    "days": 11,
     "average_gap_pct_all": -0.151,
     "average_absolute_gap_pct_all": 0.243
   },
@@ -926,20 +917,159 @@
     "swing_cash": 1217878.28
   },
   "morning": {
-    "marked_at_ist": "2026-10-30 15:46",
+    "marked_at_ist": "2026-11-02 10:40",
     "decisions_from": "2026-10-30",
-    "swing": 1335400.46,
-    "swing_return_pct": -1.08,
-    "blend": 1335681.03,
+    "swing": 1335346.59,
+    "swing_return_pct": -1.09,
+    "blend": 1335627.28,
     "blend_return_pct": -1.06,
-    "book_c": 1335793.25,
-    "book_c_return_pct": -1.05,
-    "book_d": 1335961.59,
+    "book_c": 1335739.56,
+    "book_c_return_pct": -1.06,
+    "book_d": 1335907.97,
     "book_d_return_pct": -1.04,
-    "buy_hold": 1275003.24,
-    "buy_hold_return_pct": -5.56,
-    "live_return_pct": -8.74,
+    "buy_hold": 1285084.39,
+    "buy_hold_return_pct": -4.81,
+    "live_return_pct": -8.41,
     "positions": [],
     "note": "Marked at the morning price; no decision is made at this run."
+  },
+  "signal_drift": {
+    "days": 11,
+    "first_day": "2026-10-15",
+    "last_day": "2026-10-30",
+    "decide_signals": 366,
+    "kept": 314,
+    "dropped_by_close": 52,
+    "added_by_close": 68,
+    "dropped_pct_of_decide": 14.2,
+    "added_pct_of_close": 17.8,
+    "bought": 0,
+    "bought_but_dropped_by_close": {
+      "buys": 0,
+      "completed_20d": 0,
+      "average_20d_return_pct": null,
+      "average_return_to_date_pct": null,
+      "symbols": []
+    },
+    "bought_and_kept": {
+      "buys": 0,
+      "completed_20d": 0,
+      "average_20d_return_pct": null,
+      "average_return_to_date_pct": null,
+      "symbols": []
+    },
+    "per_day": [
+      {
+        "date": "2026-10-15",
+        "decide": 29,
+        "close": 28,
+        "kept": 22,
+        "dropped": 7,
+        "added": 6,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-16",
+        "decide": 78,
+        "close": 78,
+        "kept": 69,
+        "dropped": 9,
+        "added": 9,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-19",
+        "decide": 32,
+        "close": 28,
+        "kept": 25,
+        "dropped": 7,
+        "added": 3,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-21",
+        "decide": 5,
+        "close": 7,
+        "kept": 4,
+        "dropped": 1,
+        "added": 3,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-22",
+        "decide": 16,
+        "close": 19,
+        "kept": 15,
+        "dropped": 1,
+        "added": 4,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-23",
+        "decide": 7,
+        "close": 8,
+        "kept": 7,
+        "dropped": 0,
+        "added": 1,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-26",
+        "decide": 27,
+        "close": 29,
+        "kept": 23,
+        "dropped": 4,
+        "added": 6,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-27",
+        "decide": 54,
+        "close": 62,
+        "kept": 50,
+        "dropped": 4,
+        "added": 12,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-28",
+        "decide": 47,
+        "close": 51,
+        "kept": 41,
+        "dropped": 6,
+        "added": 10,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-29",
+        "decide": 50,
+        "close": 46,
+        "kept": 40,
+        "dropped": 10,
+        "added": 6,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-30",
+        "decide": 21,
+        "close": 26,
+        "kept": 18,
+        "dropped": 3,
+        "added": 8,
+        "bought": 0,
+        "bought_dropped": 0
+      }
+    ],
+    "note": "Close list = the live VCP clause re-run at the next 10:40 update on the decide day's settled bars. Market cap and quarterly profit in the clause are read as of the re-run. Records only \u2014 the close list changes no decision."
   }
 }
