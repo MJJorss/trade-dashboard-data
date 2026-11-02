@@ -504,5 +504,38 @@
     "days_held": 7,
     "exit_reason": "Below 21 EMA — technical exit",
     "exit_date": "2026-10-23"
+  },
+  {
+    "symbol": "SKYGOLD",
+    "entry_price": 793.3,
+    "exit_price": 873.05,
+    "capital_deployed": 96707.0,
+    "pnl_pct": 10.05,
+    "pnl_inr": 9719.0,
+    "days_held": 38,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-11-02"
+  },
+  {
+    "symbol": "GANDHAR",
+    "entry_price": 299.35,
+    "exit_price": 257.8,
+    "capital_deployed": 97624.0,
+    "pnl_pct": -13.88,
+    "pnl_inr": -13550.0,
+    "days_held": 24,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-11-02"
+  },
+  {
+    "symbol": "OMNI",
+    "entry_price": 632.25,
+    "exit_price": 685.9,
+    "capital_deployed": 98283.0,
+    "pnl_pct": 8.49,
+    "pnl_inr": 8344.0,
+    "days_held": 10,
+    "exit_reason": "Score eviction — fell to rank #30 (beyond buffer #25)",
+    "exit_date": "2026-11-02"
   }
 ]
