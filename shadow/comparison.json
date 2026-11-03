@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "2026-11-03 14:40",
+  "generated_at_ist": "2026-11-03 15:12",
   "as_of": "2026-11-03",
   "start_date": "2026-09-15",
   "late_run": false,
@@ -23,10 +23,10 @@
     "size_level": "full size (the book's equity is above its 20-day average)",
     "five_day_breaker_active": false,
     "high_water_mark_cut_active": false,
-    "run_started_ist": "2026-11-03 14:40",
-    "decided_at_ist": "14:42",
+    "run_started_ist": "2026-11-03 15:12",
+    "decided_at_ist": "14:41",
     "late_run": false,
-    "signal_snapshot": "saved"
+    "signal_snapshot": "reused (taken at 14:41, redecide)"
   },
   "daily": [
     {
@@ -601,7 +601,7 @@
       "book_c_etf_part": 934406.63,
       "book_d": 1334866.62,
       "buy_hold": 1296389.26,
-      "live_pct": -7.89,
+      "live_pct": -7.94,
       "gate_above_21_day_average": true,
       "gate_super_indicator_bullish": true,
       "gate_entries_allowed": true,
@@ -613,18 +613,18 @@
       "return_pct": -1.01,
       "max_drawdown_pct": -1.28,
       "current_drawdown_pct": -1.2,
-      "invested_pct": 87.0
+      "invested_pct": 86.9
     },
     "book_b": {
       "return_pct": -1.06,
       "max_drawdown_pct": -1.31,
       "current_drawdown_pct": -1.28,
-      "invested_pct": 93.5
+      "invested_pct": 93.4
     },
     "live": {
-      "return_pct": -7.89,
+      "return_pct": -7.94,
       "max_drawdown_pct": -10.36,
-      "current_drawdown_pct": -7.89
+      "current_drawdown_pct": -7.94
     },
     "book_c": {
       "return_pct": -1.09,
@@ -727,7 +727,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 0.94,
+        "return_pct": 0.88,
         "partial": true
       }
     ],
@@ -814,28 +814,12 @@
     "signals": 62,
     "buys": [
       {
-        "symbol": "PVRINOX",
-        "shares": 1,
-        "price": 1531.53,
-        "stop": 1430.44,
-        "risk_inr": 101.09,
-        "rank": 6
-      },
-      {
         "symbol": "SBC",
         "shares": 4450,
         "price": 67.29,
         "stop": 63.04,
         "risk_inr": 18899.59,
         "rank": 2
-      },
-      {
-        "symbol": "SETL",
-        "shares": 2,
-        "price": 406.51,
-        "stop": 367.04,
-        "risk_inr": 78.94,
-        "rank": 7
       },
       {
         "symbol": "SMSPHARMA",
@@ -1025,128 +1009,138 @@
         "rank": null
       },
       {
+        "symbol": "PVRINOX",
+        "reason": "Position too small to size",
+        "rank": 6
+      },
+      {
+        "symbol": "SETL",
+        "reason": "Position too small to size",
+        "rank": 7
+      },
+      {
         "symbol": "OPTIEMUS",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 8
       },
       {
         "symbol": "TIPSMUSIC",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 9
       },
       {
         "symbol": "RPEL",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 10
       },
       {
         "symbol": "KMEW",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 11
       },
       {
         "symbol": "AARTIPHARM",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 12
       },
       {
         "symbol": "LUMAXTECH",
-        "reason": "Ranked below available slots",
+        "reason": "Sector limit reached (2 already held)",
         "rank": 13
       },
       {
         "symbol": "MARINE",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 14
       },
       {
         "symbol": "CHENNPETRO",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 15
       },
       {
         "symbol": "CEIGALL",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 16
       },
       {
         "symbol": "GLAND",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 17
       },
       {
         "symbol": "SAILIFE",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 18
       },
       {
         "symbol": "KPRMILL",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 19
       },
       {
         "symbol": "SOLARINDS",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 20
       },
       {
         "symbol": "CENTUM",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 21
       },
       {
         "symbol": "SATIN",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 22
       },
       {
         "symbol": "PHOENIXLTD",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 23
       },
       {
         "symbol": "METROPOLIS",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 24
       },
       {
         "symbol": "SANSERA",
-        "reason": "Ranked below available slots",
+        "reason": "Sector limit reached (2 already held)",
         "rank": 25
       },
       {
         "symbol": "AUROPHARMA",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 26
       },
       {
         "symbol": "LGEINDIA",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 27
       },
       {
         "symbol": "HAL",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 28
       },
       {
         "symbol": "TVSMOTOR",
-        "reason": "Ranked below available slots",
+        "reason": "Sector limit reached (2 already held)",
         "rank": 29
       },
       {
         "symbol": "NAVINFLUOR",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 30
       },
       {
         "symbol": "LALPATHLAB",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 31
       },
       {
         "symbol": "CCAVENUE",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 32
       }
     ]
@@ -1180,25 +1174,9 @@
         "live_entry": "2026-10-28",
         "live_entry_time": "11:25",
         "reason": "Live has no 21-day market gate; the shadow's gate was off that day"
-      },
-      {
-        "symbol": "THELEELA",
-        "live_entry": "2026-10-28",
-        "live_entry_time": "11:25",
-        "reason": "Live has no 21-day market gate; the shadow's gate was off that day"
       }
     ],
     "shadow_only": [
-      {
-        "symbol": "PVRINOX",
-        "shadow_entry": "2026-11-03",
-        "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
-      },
-      {
-        "symbol": "SETL",
-        "shadow_entry": "2026-11-03",
-        "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
-      },
       {
         "symbol": "SMSPHARMA",
         "shadow_entry": "2026-11-03",
@@ -1243,6 +1221,6 @@
     "book_c_etf_actual": 934406.6345028128,
     "book_d_etf_actual": 1334866.6207183045,
     "buy_hold_base_price": 231.67,
-    "swing_cash": 173053.19
+    "swing_cash": 175397.73
   }
 }

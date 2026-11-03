@@ -1,9 +1,9 @@
 {
   "start_date": "2026-09-15",
   "config_cell": "SLEEVED",
-  "config_hash": "c68c821bf06bd9f9",
+  "config_hash": "b5f18574be9045ab",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-11-03 14:40",
+  "last_run_ist": "2026-11-03 15:12",
   "as_of": "2026-11-03",
   "test_run": false,
   "frames_fetched": 276,
@@ -20,23 +20,26 @@
     "Rule change from 2026-09-15: Idle cash earns LIQUIDBEES' actual daily change instead of a flat 5.5% a year (both books)",
     "Rule change from 2026-09-15: Idle cash earns LIQGRWBEES' daily change (the growth units of the same Nippon 1D Rate liquid fund): LIQUIDBEES' price is pinned at Rs 1,000, so cash had been earning ~0% (both books; changed 24 Oct 2026)",
     "Rule change from 2026-09-15: Stock trades pay the buy side's statutory charges as well as the sell side's",
-    "Rule change from 2026-10-16: Decisions only at the 2:40 pm run, on the price at the time of the run; the 10:40 am run no longer decides (it records the last decision day's closes and values the book); signals are the live VCP clause posted at the run, saved per day"
+    "Rule change from 2026-10-16: Decisions only at the 2:40 pm run, on the price at the time of the run; the 10:40 am run no longer decides (it records the last decision day's closes and values the book); signals are the live VCP clause posted at the run, saved per day",
+    "Rule change from 2026-09-15: Minimum position size: an entry is skipped when the 7% heat cap leaves less than half of its full 1.40% risk, instead of buying a 1-2 share position (changed 3 Nov 2026)",
+    "entry PVRINOX 2026-11-03 x1 no longer made",
+    "entry SETL 2026-11-03 x2 no longer made"
   ],
   "equivalence": {
     "shadow_si": "BULLISH",
     "shadow_ma": "ABOVE",
     "live_si": "BULLISH",
     "live_ma": null,
-    "live_run_at": "2026-11-03T07:45:38Z",
+    "live_run_at": "2026-11-03T09:32:19Z",
     "error": null,
     "compared": "SI",
     "match": true,
     "date": "2026-11-03"
   },
-  "runtime_s": 123.0,
+  "runtime_s": 119.3,
   "research_config_hash": "5dd2cfcc8b0459b1",
   "mode": "decide",
-  "decided_at_ist": "14:42",
+  "decided_at_ist": "14:41",
   "late_run": false,
   "config_changes": [
     {
@@ -54,8 +57,15 @@
     {
       "from": "2026-10-16",
       "change": "Decisions only at the 2:40 pm run, on the price at the time of the run; the 10:40 am run no longer decides (it records the last decision day's closes and values the book); signals are the live VCP clause posted at the run, saved per day"
+    },
+    {
+      "from": "2026-09-15",
+      "change": "Minimum position size: an entry is skipped when the 7% heat cap leaves less than half of its full 1.40% risk, instead of buying a 1-2 share position (changed 3 Nov 2026)"
     }
   ],
-  "replay_restatements": [],
+  "replay_restatements": [
+    "entry PVRINOX 2026-11-03 x1 no longer made",
+    "entry SETL 2026-11-03 x2 no longer made"
+  ],
   "last_update_ist": "2026-11-03 10:41"
 }

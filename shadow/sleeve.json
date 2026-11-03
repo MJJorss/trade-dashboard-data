@@ -5,14 +5,14 @@
   "trend_ma": 200,
   "menu_size": 4,
   "legs_on_trend": 1,
-  "nav_inr": 1335360.76,
+  "nav_inr": 1335363.1,
   "sleeve_value_inr": 117827.43,
   "sleeve_pct_of_nav": 8.82,
   "sleeve_realised_inr": -20398.6,
   "sleeve_unrealised_inr": -319.57,
-  "equity_deployed_inr": 1044480.14,
-  "equity_pct_of_nav": 78.22,
-  "cash_inr": 173053.19,
+  "equity_deployed_inr": 1042137.94,
+  "equity_pct_of_nav": 78.04,
+  "cash_inr": 175397.73,
   "book_base_inr": 1350000.0,
   "risk_state_scope": "book",
   "legs": [
@@ -85,5 +85,5 @@
       "action": "cash (below its own trend line)"
     }
   ],
-  "config_hash": "c68c821bf06bd9f9"
+  "config_hash": "b5f18574be9045ab"
 }
