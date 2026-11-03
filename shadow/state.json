@@ -38,7 +38,7 @@
   },
   "runtime_s": 119.3,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "decide",
+  "mode": "update",
   "decided_at_ist": "14:41",
   "late_run": false,
   "config_changes": [
@@ -67,5 +67,5 @@
     "entry PVRINOX 2026-11-03 x1 no longer made",
     "entry SETL 2026-11-03 x2 no longer made"
   ],
-  "last_update_ist": "2026-11-03 10:41"
+  "last_update_ist": "2026-11-03 15:46"
 }
