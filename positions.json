@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 161.45,
-      "unrealised_pct": 8.08
+      "current_price": 161.43,
+      "unrealised_pct": 8.07
     },
     {
       "symbol": "SBC",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 67.61,
-      "unrealised_pct": 4.63
+      "current_price": 67.3,
+      "unrealised_pct": 4.15
     },
     {
       "symbol": "ORIENTHOT",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 167.38,
-      "unrealised_pct": 5.26
+      "current_price": 167.13,
+      "unrealised_pct": 5.1
     },
     {
       "symbol": "KARURVYSYA",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 344.65,
-      "unrealised_pct": -2.54
+      "current_price": 344.0,
+      "unrealised_pct": -2.73
     },
     {
       "symbol": "NYKAA",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 349.9,
-      "unrealised_pct": 2.41
+      "current_price": 353.15,
+      "unrealised_pct": 3.37
     },
     {
       "symbol": "CUPID",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 0.5,
       "price_source": "live",
-      "current_price": 331.8,
-      "unrealised_pct": 2.03
+      "current_price": 335.2,
+      "unrealised_pct": 3.08
     },
     {
       "symbol": "RATNAVEER",
@@ -200,11 +200,11 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 380.8,
-      "unrealised_pct": -0.74
+      "current_price": 380.85,
+      "unrealised_pct": -0.73
     }
   ],
-  "last_updated": "2026-11-04 13:16 IST",
+  "last_updated": "2026-11-04 15:02 IST",
   "closed_today_map": {
     "2026-11-04": []
   }
