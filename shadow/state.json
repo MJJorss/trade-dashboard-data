@@ -3,12 +3,12 @@
   "config_cell": "SLEEVED",
   "config_hash": "b5f18574be9045ab",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-11-04 14:41",
-  "as_of": "2026-11-04",
+  "last_run_ist": "2026-11-05 14:40",
+  "as_of": "2026-11-05",
   "test_run": false,
-  "frames_fetched": 288,
+  "frames_fetched": 303,
   "frames_failed": {},
-  "signals_unlabelled": 186,
+  "signals_unlabelled": 195,
   "decay": {
     "n_closed": 0,
     "window": 60,
@@ -28,16 +28,16 @@
     "shadow_ma": "ABOVE",
     "live_si": "BULLISH",
     "live_ma": null,
-    "live_run_at": "2026-11-04T07:45:38Z",
+    "live_run_at": "2026-11-05T07:45:32Z",
     "error": null,
     "compared": "SI",
     "match": true,
-    "date": "2026-11-04"
+    "date": "2026-11-05"
   },
-  "runtime_s": 118.3,
+  "runtime_s": 130.4,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "update",
-  "decided_at_ist": "14:42",
+  "mode": "decide",
+  "decided_at_ist": "14:43",
   "late_run": false,
   "config_changes": [
     {
