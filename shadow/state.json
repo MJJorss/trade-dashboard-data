@@ -3,40 +3,43 @@
   "config_cell": "SLEEVED",
   "config_hash": "b5f18574be9045ab",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-11-05 14:40",
-  "as_of": "2026-11-05",
+  "last_run_ist": "2026-11-06 14:40",
+  "as_of": "2026-11-06",
   "test_run": false,
-  "frames_fetched": 303,
+  "frames_fetched": 304,
   "frames_failed": {},
-  "signals_unlabelled": 195,
+  "signals_unlabelled": 199,
   "decay": {
-    "n_closed": 0,
+    "n_closed": 1,
     "window": 60,
     "rolling_R": null,
+    "mean_R_all": -4.02,
     "state": "NORMAL",
-    "note": "0/60 closed trades"
+    "note": "1/60 closed trades \u2014 not enough yet"
   },
   "restated": [
     "Rule change from 2026-09-15: Idle cash earns LIQUIDBEES' actual daily change instead of a flat 5.5% a year (both books)",
     "Rule change from 2026-09-15: Idle cash earns LIQGRWBEES' daily change (the growth units of the same Nippon 1D Rate liquid fund): LIQUIDBEES' price is pinned at Rs 1,000, so cash had been earning ~0% (both books; changed 24 Oct 2026)",
     "Rule change from 2026-09-15: Stock trades pay the buy side's statutory charges as well as the sell side's",
     "Rule change from 2026-10-16: Decisions only at the 2:40 pm run, on the price at the time of the run; the 10:40 am run no longer decides (it records the last decision day's closes and values the book); signals are the live VCP clause posted at the run, saved per day",
-    "Rule change from 2026-09-15: Minimum position size: an entry is skipped when the 7% heat cap leaves less than half of its full 1.40% risk, instead of buying a 1-2 share position (changed 3 Nov 2026)"
+    "Rule change from 2026-09-15: Minimum position size: an entry is skipped when the 7% heat cap leaves less than half of its full 1.40% risk, instead of buying a 1-2 share position (changed 3 Nov 2026)",
+    "entry SMSPHARMA 2026-11-03 x387 no longer made",
+    "entry KMEW 2026-11-03 x29 now made"
   ],
   "equivalence": {
     "shadow_si": "BULLISH",
     "shadow_ma": "ABOVE",
     "live_si": "BULLISH",
     "live_ma": null,
-    "live_run_at": "2026-11-05T07:45:32Z",
+    "live_run_at": "2026-11-06T07:45:32Z",
     "error": null,
     "compared": "SI",
     "match": true,
-    "date": "2026-11-05"
+    "date": "2026-11-06"
   },
-  "runtime_s": 130.4,
+  "runtime_s": 135.0,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "update",
+  "mode": "decide",
   "decided_at_ist": "14:43",
   "late_run": false,
   "config_changes": [
@@ -61,6 +64,9 @@
       "change": "Minimum position size: an entry is skipped when the 7% heat cap leaves less than half of its full 1.40% risk, instead of buying a 1-2 share position (changed 3 Nov 2026)"
     }
   ],
-  "replay_restatements": [],
+  "replay_restatements": [
+    "entry SMSPHARMA 2026-11-03 x387 no longer made",
+    "entry KMEW 2026-11-03 x29 now made"
+  ],
   "last_update_ist": "2026-11-06 10:41"
 }
