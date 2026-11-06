@@ -1258,7 +1258,7 @@
   "trueup": {
     "latest": {
       "date": "2026-11-05",
-      "trued_up_at_ist": "2026-11-06 09:55",
+      "trued_up_at_ist": "2026-11-06 10:41",
       "decided_at_ist": "14:43",
       "rows": [
         {
@@ -1294,59 +1294,59 @@
     "swing_cash": 102034.81
   },
   "morning": {
-    "marked_at_ist": "2026-11-06 09:55",
+    "marked_at_ist": "2026-11-06 10:41",
     "decisions_from": "2026-11-05",
-    "swing": 1338033.02,
-    "swing_return_pct": -0.89,
-    "blend": 1356430.52,
-    "blend_return_pct": 0.48,
-    "book_c": 1363789.52,
-    "book_c_return_pct": 1.02,
-    "book_d": 1374828.02,
-    "book_d_return_pct": 1.84,
-    "buy_hold": 1335198.77,
-    "buy_hold_return_pct": -1.1,
+    "swing": 1327982.22,
+    "swing_return_pct": -1.63,
+    "blend": 1349635.05,
+    "blend_return_pct": -0.03,
+    "book_c": 1358296.19,
+    "book_c_return_pct": 0.61,
+    "book_d": 1371287.89,
+    "book_d_return_pct": 1.58,
+    "buy_hold": 1331760.69,
+    "buy_hold_return_pct": -1.35,
     "live_return_pct": -7.66,
     "positions": [
       {
         "symbol": "SBC",
         "shares": 4450,
         "entry_price": 67.29,
-        "price_now": 67.28,
+        "price_now": 67.16,
         "price_is_today": true,
-        "unrealised_pct": -0.01
+        "unrealised_pct": -0.19
       },
       {
         "symbol": "SMSPHARMA",
         "shares": 387,
         "entry_price": 516.82,
-        "price_now": 509.75,
+        "price_now": 499.15,
         "price_is_today": true,
-        "unrealised_pct": -1.37
+        "unrealised_pct": -3.42
       },
       {
         "symbol": "SSWL",
         "shares": 292,
         "entry_price": 522.67,
-        "price_now": 528.05,
+        "price_now": 521.55,
         "price_is_today": true,
-        "unrealised_pct": 1.03
+        "unrealised_pct": -0.21
       },
       {
         "symbol": "TFCILTD",
         "shares": 1582,
         "entry_price": 160.48,
-        "price_now": 159.45,
+        "price_now": 159.5,
         "price_is_today": true,
-        "unrealised_pct": -0.64
+        "unrealised_pct": -0.61
       },
       {
         "symbol": "WHEELS",
         "shares": 62,
         "entry_price": 2213.61,
-        "price_now": 2316.1,
+        "price_now": 2274.9,
         "price_is_today": true,
-        "unrealised_pct": 4.63
+        "unrealised_pct": 2.77
       }
     ],
     "note": "Marked at the morning price; no decision is made at this run."
