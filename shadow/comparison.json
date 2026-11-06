@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "2026-11-06 14:40",
+  "generated_at_ist": "2026-11-06 16:51",
   "as_of": "2026-11-06",
   "start_date": "2026-09-15",
   "late_run": false,
@@ -19,14 +19,14 @@
     "gate_above_21_day_average": true,
     "gate_super_indicator_bullish": true,
     "gate_distance_pct": 3.46,
-    "size_level_tier": 3,
-    "size_level": "quarter size (the book's equity is more than 6% below its 20-day average); the 5-day loss limit has cut the size",
-    "five_day_breaker_active": true,
+    "size_level_tier": 0,
+    "size_level": "full size (the book's equity is above its 20-day average)",
+    "five_day_breaker_active": false,
     "high_water_mark_cut_active": false,
-    "run_started_ist": "2026-11-06 14:40",
-    "decided_at_ist": "14:43",
+    "run_started_ist": "2026-11-06 16:51",
+    "decided_at_ist": "14:40",
     "late_run": false,
-    "signal_snapshot": "saved"
+    "signal_snapshot": "reused (taken at 14:40, redecide)"
   },
   "daily": [
     {
@@ -609,12 +609,12 @@
     },
     {
       "date": "2026-11-04",
-      "book_a": 1352704.0,
-      "book_b": 1354645.69,
-      "book_b_v3_half": 676352.0,
+      "book_a": 1352000.01,
+      "book_b": 1354293.69,
+      "book_b_v3_half": 676000.01,
       "book_b_etf_half": 678293.69,
-      "book_c": 1355422.37,
-      "book_c_v3_part": 405811.2,
+      "book_c": 1355211.17,
+      "book_c_v3_part": 405600.0,
       "book_c_etf_part": 949611.17,
       "book_d": 1356587.38,
       "buy_hold": 1317483.92,
@@ -626,12 +626,12 @@
     },
     {
       "date": "2026-11-05",
-      "book_a": 1348330.12,
-      "book_b": 1367219.27,
-      "book_b_v3_half": 674165.06,
+      "book_a": 1350833.28,
+      "book_b": 1368470.85,
+      "book_b_v3_half": 675416.64,
       "book_b_etf_half": 693054.21,
-      "book_c": 1374774.92,
-      "book_c_v3_part": 404499.04,
+      "book_c": 1375525.87,
+      "book_c_v3_part": 405249.98,
       "book_c_etf_part": 970275.89,
       "book_d": 1386108.41,
       "buy_hold": 1346154.01,
@@ -643,16 +643,16 @@
     },
     {
       "date": "2026-11-06",
-      "book_a": 1271675.29,
-      "book_b": 1324391.69,
-      "book_b_v3_half": 635837.65,
+      "book_a": 1339888.92,
+      "book_b": 1358498.51,
+      "book_b_v3_half": 669944.46,
       "book_b_etf_half": 688554.05,
-      "book_c": 1345478.25,
-      "book_c_v3_part": 381502.59,
+      "book_c": 1365942.34,
+      "book_c_v3_part": 401966.68,
       "book_c_etf_part": 963975.67,
       "book_d": 1377108.1,
       "buy_hold": 1337413.13,
-      "live_pct": -6.89,
+      "live_pct": -6.75,
       "gate_above_21_day_average": true,
       "gate_super_indicator_bullish": true,
       "gate_entries_allowed": true,
@@ -661,27 +661,27 @@
   ],
   "summary": {
     "book_a": {
-      "return_pct": -5.8,
-      "max_drawdown_pct": -5.99,
-      "current_drawdown_pct": -5.99,
-      "invested_pct": 89.3
+      "return_pct": -0.75,
+      "max_drawdown_pct": -1.28,
+      "current_drawdown_pct": -0.94,
+      "invested_pct": 87.1
     },
     "book_b": {
-      "return_pct": -1.9,
-      "max_drawdown_pct": -3.13,
-      "current_drawdown_pct": -3.13,
-      "invested_pct": 94.9
+      "return_pct": 0.63,
+      "max_drawdown_pct": -1.31,
+      "current_drawdown_pct": -0.73,
+      "invested_pct": 93.6
     },
     "live": {
-      "return_pct": -6.89,
+      "return_pct": -6.75,
       "max_drawdown_pct": -10.36,
-      "current_drawdown_pct": -6.89
+      "current_drawdown_pct": -6.75
     },
     "book_c": {
-      "return_pct": -0.33,
-      "max_drawdown_pct": -2.13,
-      "current_drawdown_pct": -2.13,
-      "invested_pct": 97.0
+      "return_pct": 1.18,
+      "max_drawdown_pct": -1.32,
+      "current_drawdown_pct": -0.7,
+      "invested_pct": 96.2
     },
     "book_d": {
       "return_pct": 2.01,
@@ -710,7 +710,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": -4.77,
+        "return_pct": 0.34,
         "partial": true
       }
     ],
@@ -727,7 +727,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": -0.84,
+        "return_pct": 1.71,
         "partial": true
       }
     ],
@@ -744,7 +744,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 0.73,
+        "return_pct": 2.26,
         "partial": true
       }
     ],
@@ -778,7 +778,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 2.03,
+        "return_pct": 2.19,
         "partial": true
       }
     ],
@@ -826,7 +826,7 @@
     }
   },
   "book_b_breakdown": {
-    "v3_half": 635837.65,
+    "v3_half": 669944.46,
     "v3_scale_of_book_a": 0.5,
     "etf_half": 688554.05,
     "etf_half_holding": "MID150BEES",
@@ -840,7 +840,7 @@
   },
   "book_cd_breakdown": {
     "book_c": {
-      "v3_part": 381502.59,
+      "v3_part": 401966.68,
       "etf_part": 963975.67,
       "v3_scale_of_book_a": 0.3,
       "target_weights": {
@@ -863,47 +863,13 @@
   "decisions": {
     "date": "2026-11-06",
     "signals": 50,
-    "buys": [
-      {
-        "symbol": "RPEL",
-        "shares": 23,
-        "price": 1781.38,
-        "stop": 1593.21,
-        "risk_inr": 4328.0,
-        "rank": 3
-      },
-      {
-        "symbol": "SHREEJISPG",
-        "shares": 69,
-        "price": 886.64,
-        "stop": 822.09,
-        "risk_inr": 4453.47,
-        "rank": 1
-      },
-      {
-        "symbol": "SOUTHBANK",
-        "shares": 1002,
-        "price": 57.47,
-        "stop": 53.02,
-        "risk_inr": 4460.49,
-        "rank": 2
-      }
-    ],
-    "sells": [
-      {
-        "symbol": "KMEW",
-        "shares": 29,
-        "price": 640.36,
-        "reason": "the price opened below the stop loss",
-        "pnl_inr": -75341.83,
-        "pnl_pct": -80.19
-      }
-    ],
+    "buys": [],
+    "sells": [],
     "sleeve": [
       {
         "symbol": "MON100",
         "side": "sell",
-        "units": 328.0808,
+        "units": 241.0423,
         "price": 292.1875
       }
     ],
@@ -1040,108 +1006,123 @@
         "rank": null
       },
       {
+        "symbol": "SHREEJISPG",
+        "reason": "Position too small to size",
+        "rank": 1
+      },
+      {
+        "symbol": "SOUTHBANK",
+        "reason": "Position too small to size",
+        "rank": 2
+      },
+      {
+        "symbol": "RPEL",
+        "reason": "Position too small to size",
+        "rank": 3
+      },
+      {
         "symbol": "THELEELA",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 4
       },
       {
         "symbol": "SHYAMMETL",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 5
       },
       {
         "symbol": "GOODLUCK",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 6
       },
       {
         "symbol": "MBAPL",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 7
       },
       {
         "symbol": "TIPSMUSIC",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 8
       },
       {
         "symbol": "ACUTAAS",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 9
       },
       {
         "symbol": "MANORAMA",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 10
       },
       {
         "symbol": "ABDL",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 11
       },
       {
         "symbol": "PGIL",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 12
       },
       {
         "symbol": "MCX",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 13
       },
       {
         "symbol": "MAHABANK",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 14
       },
       {
         "symbol": "NYKAA",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 15
       },
       {
         "symbol": "GLAND",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 16
       },
       {
         "symbol": "MANKIND",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 17
       },
       {
         "symbol": "MAHLOG",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 18
       },
       {
         "symbol": "AARTIDRUGS",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 19
       },
       {
         "symbol": "ZYDUSLIFE",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 20
       },
       {
         "symbol": "ABCAPITAL",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 21
       },
       {
         "symbol": "APOLLOHOSP",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 22
       },
       {
         "symbol": "MEDANTA",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 23
       },
       {
         "symbol": "FEDERALBNK",
-        "reason": "Ranked below available slots",
+        "reason": "Position too small to size",
         "rank": 24
       }
     ]
@@ -1180,23 +1161,13 @@
         "symbol": "THELEELA",
         "live_entry": "2026-11-06",
         "live_entry_time": "13:15",
-        "reason": "Shadow skipped it: ranked below available slots"
+        "reason": "Shadow skipped it: position too small to size"
       }
     ],
     "shadow_only": [
       {
-        "symbol": "RPEL",
-        "shadow_entry": "2026-11-06",
-        "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
-      },
-      {
-        "symbol": "SHREEJISPG",
-        "shadow_entry": "2026-11-06",
-        "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
-      },
-      {
-        "symbol": "SOUTHBANK",
-        "shadow_entry": "2026-11-06",
+        "symbol": "SMSPHARMA",
+        "shadow_entry": "2026-11-03",
         "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
       },
       {
@@ -1243,269 +1214,10 @@
     "etf_holdings_units": {
       "ETF": 2999.1705941849395
     },
-    "book_c_v3_scale": 0.3000000000000002,
+    "book_c_v3_scale": 0.3000000000000001,
     "book_c_etf_actual": 963975.6672123907,
     "book_d_etf_actual": 1377108.0960177013,
     "buy_hold_base_price": 231.67,
-    "swing_cash": 136295.41
-  },
-  "morning": {
-    "marked_at_ist": "2026-11-06 15:46",
-    "decisions_from": "2026-11-06",
-    "swing": 1276106.85,
-    "swing_return_pct": -5.47,
-    "blend": 1328977.56,
-    "blend_return_pct": -1.56,
-    "book_c": 1350125.84,
-    "book_c_return_pct": 0.01,
-    "book_d": 1381848.26,
-    "book_d_return_pct": 2.36,
-    "buy_hold": 1342016.66,
-    "buy_hold_return_pct": -0.59,
-    "live_return_pct": -6.75,
-    "positions": [
-      {
-        "symbol": "RPEL",
-        "shares": 23,
-        "entry_price": 1781.38,
-        "price_now": 1784.2,
-        "price_is_today": true,
-        "unrealised_pct": 0.16
-      },
-      {
-        "symbol": "SBC",
-        "shares": 4450,
-        "entry_price": 67.29,
-        "price_now": 68.55,
-        "price_is_today": true,
-        "unrealised_pct": 1.87
-      },
-      {
-        "symbol": "SHREEJISPG",
-        "shares": 69,
-        "entry_price": 886.64,
-        "price_now": 886.0,
-        "price_is_today": true,
-        "unrealised_pct": -0.07
-      },
-      {
-        "symbol": "SOUTHBANK",
-        "shares": 1002,
-        "entry_price": 57.47,
-        "price_now": 57.59,
-        "price_is_today": true,
-        "unrealised_pct": 0.21
-      },
-      {
-        "symbol": "SSWL",
-        "shares": 292,
-        "entry_price": 522.67,
-        "price_now": 538.9,
-        "price_is_today": true,
-        "unrealised_pct": 3.11
-      },
-      {
-        "symbol": "TFCILTD",
-        "shares": 1582,
-        "entry_price": 160.48,
-        "price_now": 160.99,
-        "price_is_today": true,
-        "unrealised_pct": 0.32
-      },
-      {
-        "symbol": "WHEELS",
-        "shares": 62,
-        "entry_price": 2213.61,
-        "price_now": 2326.8,
-        "price_is_today": true,
-        "unrealised_pct": 5.11
-      }
-    ],
-    "note": "Marked at the morning price; no decision is made at this run."
-  },
-  "signal_drift": {
-    "days": 15,
-    "first_day": "2026-10-15",
-    "last_day": "2026-11-05",
-    "decide_signals": 656,
-    "kept": 577,
-    "dropped_by_close": 79,
-    "added_by_close": 114,
-    "dropped_pct_of_decide": 12.0,
-    "added_pct_of_close": 16.5,
-    "bought": 5,
-    "bought_but_dropped_by_close": {
-      "buys": 0,
-      "completed_20d": 0,
-      "average_20d_return_pct": null,
-      "average_return_to_date_pct": null,
-      "symbols": []
-    },
-    "bought_and_kept": {
-      "buys": 5,
-      "completed_20d": 0,
-      "average_20d_return_pct": null,
-      "average_return_to_date_pct": 2.0,
-      "symbols": [
-        "SBC (2026-11-03)",
-        "SMSPHARMA (2026-11-03)",
-        "SSWL (2026-11-03)",
-        "TFCILTD (2026-11-03)",
-        "WHEELS (2026-11-03)"
-      ]
-    },
-    "per_day": [
-      {
-        "date": "2026-10-15",
-        "decide": 29,
-        "close": 28,
-        "kept": 22,
-        "dropped": 7,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-16",
-        "decide": 78,
-        "close": 78,
-        "kept": 69,
-        "dropped": 9,
-        "added": 9,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-19",
-        "decide": 32,
-        "close": 28,
-        "kept": 25,
-        "dropped": 7,
-        "added": 3,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-21",
-        "decide": 5,
-        "close": 7,
-        "kept": 4,
-        "dropped": 1,
-        "added": 3,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-22",
-        "decide": 16,
-        "close": 19,
-        "kept": 15,
-        "dropped": 1,
-        "added": 4,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-23",
-        "decide": 7,
-        "close": 8,
-        "kept": 7,
-        "dropped": 0,
-        "added": 1,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-26",
-        "decide": 27,
-        "close": 29,
-        "kept": 23,
-        "dropped": 4,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-27",
-        "decide": 54,
-        "close": 62,
-        "kept": 50,
-        "dropped": 4,
-        "added": 12,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-28",
-        "decide": 47,
-        "close": 51,
-        "kept": 41,
-        "dropped": 6,
-        "added": 10,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-29",
-        "decide": 50,
-        "close": 46,
-        "kept": 40,
-        "dropped": 10,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-30",
-        "decide": 21,
-        "close": 26,
-        "kept": 18,
-        "dropped": 3,
-        "added": 8,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-02",
-        "decide": 59,
-        "close": 61,
-        "kept": 52,
-        "dropped": 7,
-        "added": 9,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-03",
-        "decide": 62,
-        "close": 67,
-        "kept": 56,
-        "dropped": 6,
-        "added": 11,
-        "bought": 5,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-04",
-        "decide": 101,
-        "close": 113,
-        "kept": 99,
-        "dropped": 2,
-        "added": 14,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-05",
-        "decide": 68,
-        "close": 68,
-        "kept": 56,
-        "dropped": 12,
-        "added": 12,
-        "bought": 0,
-        "bought_dropped": 0
-      }
-    ],
-    "note": "Close list = the live VCP clause re-run at the next 10:40 update on the decide day's settled bars. Market cap and quarterly profit in the clause are read as of the re-run. Records only \u2014 the close list changes no decision."
+    "swing_cash": 172470.16
   }
 }
