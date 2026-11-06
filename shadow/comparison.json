@@ -1214,7 +1214,7 @@
   "trueup": {
     "latest": {
       "date": "2026-11-05",
-      "trued_up_at_ist": "2026-11-06 10:41",
+      "trued_up_at_ist": "2026-11-06 15:46",
       "decided_at_ist": "14:43",
       "rows": [
         {
@@ -1248,5 +1248,264 @@
     "book_d_etf_actual": 1377108.0960177013,
     "buy_hold_base_price": 231.67,
     "swing_cash": 136295.41
+  },
+  "morning": {
+    "marked_at_ist": "2026-11-06 15:46",
+    "decisions_from": "2026-11-06",
+    "swing": 1276106.85,
+    "swing_return_pct": -5.47,
+    "blend": 1328977.56,
+    "blend_return_pct": -1.56,
+    "book_c": 1350125.84,
+    "book_c_return_pct": 0.01,
+    "book_d": 1381848.26,
+    "book_d_return_pct": 2.36,
+    "buy_hold": 1342016.66,
+    "buy_hold_return_pct": -0.59,
+    "live_return_pct": -6.75,
+    "positions": [
+      {
+        "symbol": "RPEL",
+        "shares": 23,
+        "entry_price": 1781.38,
+        "price_now": 1784.2,
+        "price_is_today": true,
+        "unrealised_pct": 0.16
+      },
+      {
+        "symbol": "SBC",
+        "shares": 4450,
+        "entry_price": 67.29,
+        "price_now": 68.55,
+        "price_is_today": true,
+        "unrealised_pct": 1.87
+      },
+      {
+        "symbol": "SHREEJISPG",
+        "shares": 69,
+        "entry_price": 886.64,
+        "price_now": 886.0,
+        "price_is_today": true,
+        "unrealised_pct": -0.07
+      },
+      {
+        "symbol": "SOUTHBANK",
+        "shares": 1002,
+        "entry_price": 57.47,
+        "price_now": 57.59,
+        "price_is_today": true,
+        "unrealised_pct": 0.21
+      },
+      {
+        "symbol": "SSWL",
+        "shares": 292,
+        "entry_price": 522.67,
+        "price_now": 538.9,
+        "price_is_today": true,
+        "unrealised_pct": 3.11
+      },
+      {
+        "symbol": "TFCILTD",
+        "shares": 1582,
+        "entry_price": 160.48,
+        "price_now": 160.99,
+        "price_is_today": true,
+        "unrealised_pct": 0.32
+      },
+      {
+        "symbol": "WHEELS",
+        "shares": 62,
+        "entry_price": 2213.61,
+        "price_now": 2326.8,
+        "price_is_today": true,
+        "unrealised_pct": 5.11
+      }
+    ],
+    "note": "Marked at the morning price; no decision is made at this run."
+  },
+  "signal_drift": {
+    "days": 15,
+    "first_day": "2026-10-15",
+    "last_day": "2026-11-05",
+    "decide_signals": 656,
+    "kept": 577,
+    "dropped_by_close": 79,
+    "added_by_close": 114,
+    "dropped_pct_of_decide": 12.0,
+    "added_pct_of_close": 16.5,
+    "bought": 5,
+    "bought_but_dropped_by_close": {
+      "buys": 0,
+      "completed_20d": 0,
+      "average_20d_return_pct": null,
+      "average_return_to_date_pct": null,
+      "symbols": []
+    },
+    "bought_and_kept": {
+      "buys": 5,
+      "completed_20d": 0,
+      "average_20d_return_pct": null,
+      "average_return_to_date_pct": 2.0,
+      "symbols": [
+        "SBC (2026-11-03)",
+        "SMSPHARMA (2026-11-03)",
+        "SSWL (2026-11-03)",
+        "TFCILTD (2026-11-03)",
+        "WHEELS (2026-11-03)"
+      ]
+    },
+    "per_day": [
+      {
+        "date": "2026-10-15",
+        "decide": 29,
+        "close": 28,
+        "kept": 22,
+        "dropped": 7,
+        "added": 6,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-16",
+        "decide": 78,
+        "close": 78,
+        "kept": 69,
+        "dropped": 9,
+        "added": 9,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-19",
+        "decide": 32,
+        "close": 28,
+        "kept": 25,
+        "dropped": 7,
+        "added": 3,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-21",
+        "decide": 5,
+        "close": 7,
+        "kept": 4,
+        "dropped": 1,
+        "added": 3,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-22",
+        "decide": 16,
+        "close": 19,
+        "kept": 15,
+        "dropped": 1,
+        "added": 4,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-23",
+        "decide": 7,
+        "close": 8,
+        "kept": 7,
+        "dropped": 0,
+        "added": 1,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-26",
+        "decide": 27,
+        "close": 29,
+        "kept": 23,
+        "dropped": 4,
+        "added": 6,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-27",
+        "decide": 54,
+        "close": 62,
+        "kept": 50,
+        "dropped": 4,
+        "added": 12,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-28",
+        "decide": 47,
+        "close": 51,
+        "kept": 41,
+        "dropped": 6,
+        "added": 10,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-29",
+        "decide": 50,
+        "close": 46,
+        "kept": 40,
+        "dropped": 10,
+        "added": 6,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-10-30",
+        "decide": 21,
+        "close": 26,
+        "kept": 18,
+        "dropped": 3,
+        "added": 8,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-11-02",
+        "decide": 59,
+        "close": 61,
+        "kept": 52,
+        "dropped": 7,
+        "added": 9,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-11-03",
+        "decide": 62,
+        "close": 67,
+        "kept": 56,
+        "dropped": 6,
+        "added": 11,
+        "bought": 5,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-11-04",
+        "decide": 101,
+        "close": 113,
+        "kept": 99,
+        "dropped": 2,
+        "added": 14,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-11-05",
+        "decide": 68,
+        "close": 68,
+        "kept": 56,
+        "dropped": 12,
+        "added": 12,
+        "bought": 0,
+        "bought_dropped": 0
+      }
+    ],
+    "note": "Close list = the live VCP clause re-run at the next 10:40 update on the decide day's settled bars. Market cap and quarterly profit in the clause are read as of the re-run. Records only \u2014 the close list changes no decision."
   }
 }

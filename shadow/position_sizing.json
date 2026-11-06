@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-06",
-  "last_updated": "2026-11-06 15:30 IST",
+  "last_updated": "2026-11-06 15:46 IST (morning mark \u2014 decisions from 2026-11-06)",
   "capital_base": 1261657.49,
   "total_equity": 1271398.19,
   "starting_capital": 1350000,
@@ -43,11 +43,11 @@
       "high_since_entry": 1779.6,
       "risk_inr": 4328.0,
       "risk_pct_of_nav": 0.343,
-      "current_ltp": 1779.6,
-      "unrealized_pnl": -40.93,
-      "unrealized_pnl_pct": -0.1,
+      "current_ltp": 1784.2,
+      "unrealized_pnl": 64.86,
+      "unrealized_pnl_pct": 0.16,
       "days_held": 0,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     },
     {
@@ -68,11 +68,11 @@
       "high_since_entry": 69.37,
       "risk_inr": 18899.59,
       "risk_pct_of_nav": 1.498,
-      "current_ltp": 68.9,
-      "unrealized_pnl": 7176.87,
-      "unrealized_pnl_pct": 2.4,
+      "current_ltp": 68.55,
+      "unrealized_pnl": 5607.0,
+      "unrealized_pnl_pct": 1.87,
       "days_held": 3,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     },
     {
@@ -93,11 +93,11 @@
       "high_since_entry": 885.75,
       "risk_inr": 4453.47,
       "risk_pct_of_nav": 0.353,
-      "current_ltp": 885.75,
-      "unrealized_pnl": -61.12,
-      "unrealized_pnl_pct": -0.1,
+      "current_ltp": 886.0,
+      "unrealized_pnl": -44.16,
+      "unrealized_pnl_pct": -0.07,
       "days_held": 0,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     },
     {
@@ -118,11 +118,11 @@
       "high_since_entry": 57.41,
       "risk_inr": 4460.49,
       "risk_pct_of_nav": 0.354,
-      "current_ltp": 57.41,
-      "unrealized_pnl": -57.52,
-      "unrealized_pnl_pct": -0.1,
+      "current_ltp": 57.59,
+      "unrealized_pnl": 120.24,
+      "unrealized_pnl_pct": 0.21,
       "days_held": 0,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     },
     {
@@ -143,11 +143,11 @@
       "high_since_entry": 547.8,
       "risk_inr": 18896.68,
       "risk_pct_of_nav": 1.498,
-      "current_ltp": 528.45,
-      "unrealized_pnl": 1687.13,
-      "unrealized_pnl_pct": 1.11,
+      "current_ltp": 538.9,
+      "unrealized_pnl": 4739.16,
+      "unrealized_pnl_pct": 3.11,
       "days_held": 3,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     },
     {
@@ -168,11 +168,11 @@
       "high_since_entry": 162.0,
       "risk_inr": 18894.4,
       "risk_pct_of_nav": 1.498,
-      "current_ltp": 159.51,
-      "unrealized_pnl": -1535.05,
-      "unrealized_pnl_pct": -0.6,
+      "current_ltp": 160.99,
+      "unrealized_pnl": 806.82,
+      "unrealized_pnl_pct": 0.32,
       "days_held": 3,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     },
     {
@@ -193,11 +193,11 @@
       "high_since_entry": 2473.0,
       "risk_inr": 18749.82,
       "risk_pct_of_nav": 1.486,
-      "current_ltp": 2315.0,
-      "unrealized_pnl": 6286.09,
-      "unrealized_pnl_pct": 4.58,
+      "current_ltp": 2326.8,
+      "unrealized_pnl": 7017.78,
+      "unrealized_pnl_pct": 5.11,
       "days_held": 3,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     }
   ]

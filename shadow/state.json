@@ -39,7 +39,7 @@
   },
   "runtime_s": 135.0,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "decide",
+  "mode": "update",
   "decided_at_ist": "14:43",
   "late_run": false,
   "config_changes": [
@@ -68,5 +68,5 @@
     "entry SMSPHARMA 2026-11-03 x387 no longer made",
     "entry KMEW 2026-11-03 x29 now made"
   ],
-  "last_update_ist": "2026-11-06 10:41"
+  "last_update_ist": "2026-11-06 15:46"
 }
