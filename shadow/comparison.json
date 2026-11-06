@@ -1257,17 +1257,26 @@
   },
   "trueup": {
     "latest": {
-      "date": "2026-11-04",
-      "trued_up_at_ist": "2026-11-05 15:46",
-      "decided_at_ist": "14:42",
-      "rows": [],
-      "average_gap_pct": null,
-      "average_absolute_gap_pct": null,
+      "date": "2026-11-05",
+      "trued_up_at_ist": "2026-11-06 09:55",
+      "decided_at_ist": "14:43",
+      "rows": [
+        {
+          "side": "sleeve buy",
+          "symbol": "MON100",
+          "run_price": 305.2049,
+          "official_close": 304.09,
+          "gap_pct": -0.365,
+          "quantity": 241.0423
+        }
+      ],
+      "average_gap_pct": -0.365,
+      "average_absolute_gap_pct": 0.365,
       "note": "Records only \u2014 the official close changes no decision."
     },
-    "days": 14,
-    "average_gap_pct_all": -0.137,
-    "average_absolute_gap_pct_all": 0.731
+    "days": 15,
+    "average_gap_pct_all": -0.16,
+    "average_absolute_gap_pct_all": 0.694
   },
   "marks_basis": {
     "decided_on": "2026-11-05",
@@ -1285,73 +1294,73 @@
     "swing_cash": 102034.81
   },
   "morning": {
-    "marked_at_ist": "2026-11-05 15:46",
+    "marked_at_ist": "2026-11-06 09:55",
     "decisions_from": "2026-11-05",
-    "swing": 1351268.33,
-    "swing_return_pct": 0.09,
-    "blend": 1370728.44,
-    "blend_return_pct": 1.54,
-    "book_c": 1378512.49,
-    "book_c_return_pct": 2.11,
-    "book_d": 1390188.55,
-    "book_d_return_pct": 2.98,
-    "buy_hold": 1350116.55,
-    "buy_hold_return_pct": 0.01,
-    "live_return_pct": -7.26,
+    "swing": 1338033.02,
+    "swing_return_pct": -0.89,
+    "blend": 1356430.52,
+    "blend_return_pct": 0.48,
+    "book_c": 1363789.52,
+    "book_c_return_pct": 1.02,
+    "book_d": 1374828.02,
+    "book_d_return_pct": 1.84,
+    "buy_hold": 1335198.77,
+    "buy_hold_return_pct": -1.1,
+    "live_return_pct": -7.66,
     "positions": [
       {
         "symbol": "SBC",
         "shares": 4450,
         "entry_price": 67.29,
-        "price_now": 67.0,
+        "price_now": 67.28,
         "price_is_today": true,
-        "unrealised_pct": -0.43
+        "unrealised_pct": -0.01
       },
       {
         "symbol": "SMSPHARMA",
         "shares": 387,
         "entry_price": 516.82,
-        "price_now": 518.0,
+        "price_now": 509.75,
         "price_is_today": true,
-        "unrealised_pct": 0.23
+        "unrealised_pct": -1.37
       },
       {
         "symbol": "SSWL",
         "shares": 292,
         "entry_price": 522.67,
-        "price_now": 531.95,
+        "price_now": 528.05,
         "price_is_today": true,
-        "unrealised_pct": 1.78
+        "unrealised_pct": 1.03
       },
       {
         "symbol": "TFCILTD",
         "shares": 1582,
         "entry_price": 160.48,
-        "price_now": 160.72,
+        "price_now": 159.45,
         "price_is_today": true,
-        "unrealised_pct": 0.15
+        "unrealised_pct": -0.64
       },
       {
         "symbol": "WHEELS",
         "shares": 62,
         "entry_price": 2213.61,
-        "price_now": 2401.0,
+        "price_now": 2316.1,
         "price_is_today": true,
-        "unrealised_pct": 8.47
+        "unrealised_pct": 4.63
       }
     ],
     "note": "Marked at the morning price; no decision is made at this run."
   },
   "signal_drift": {
-    "days": 14,
+    "days": 15,
     "first_day": "2026-10-15",
-    "last_day": "2026-11-04",
-    "decide_signals": 588,
-    "kept": 521,
-    "dropped_by_close": 67,
-    "added_by_close": 102,
-    "dropped_pct_of_decide": 11.4,
-    "added_pct_of_close": 16.4,
+    "last_day": "2026-11-05",
+    "decide_signals": 656,
+    "kept": 577,
+    "dropped_by_close": 79,
+    "added_by_close": 114,
+    "dropped_pct_of_decide": 12.0,
+    "added_pct_of_close": 16.5,
     "bought": 5,
     "bought_but_dropped_by_close": {
       "buys": 0,
@@ -1364,7 +1373,7 @@
       "buys": 5,
       "completed_20d": 0,
       "average_20d_return_pct": null,
-      "average_return_to_date_pct": 2.35,
+      "average_return_to_date_pct": 2.0,
       "symbols": [
         "SBC (2026-11-03)",
         "SMSPHARMA (2026-11-03)",
@@ -1511,6 +1520,16 @@
         "kept": 99,
         "dropped": 2,
         "added": 14,
+        "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-11-05",
+        "decide": 68,
+        "close": 68,
+        "kept": 56,
+        "dropped": 12,
+        "added": 12,
         "bought": 0,
         "bought_dropped": 0
       }
