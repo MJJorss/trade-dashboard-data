@@ -537,5 +537,49 @@
     "days_held": 10,
     "exit_reason": "Score eviction — fell to rank #30 (beyond buffer #25)",
     "exit_date": "2026-11-02"
+  },
+  {
+    "symbol": "DEEPAKNTR",
+    "entry_price": 1535.7,
+    "exit_price": 1530.2,
+    "capital_deployed": 93760.0,
+    "pnl_pct": -0.36,
+    "pnl_inr": -338.0,
+    "days_held": 4,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-11-06"
+  },
+  {
+    "symbol": "KMEW",
+    "entry_price": 3214.3,
+    "exit_price": 628.9,
+    "capital_deployed": 93760.0,
+    "pnl_pct": -80.43,
+    "pnl_inr": -75411.0,
+    "days_held": 4,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-11-06"
+  },
+  {
+    "symbol": "TARIL",
+    "entry_price": 310.0,
+    "exit_price": 307.55,
+    "capital_deployed": 93760.0,
+    "pnl_pct": -0.79,
+    "pnl_inr": -741.0,
+    "days_held": 4,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-11-06"
+  },
+  {
+    "symbol": "COFORGE",
+    "entry_price": 2090.6,
+    "exit_price": 2063.4,
+    "capital_deployed": 93760.0,
+    "pnl_pct": -1.3,
+    "pnl_inr": -1219.0,
+    "days_held": 4,
+    "exit_reason": "Score eviction — fell to rank #40 (beyond buffer #25)",
+    "exit_date": "2026-11-06"
   }
 ]
