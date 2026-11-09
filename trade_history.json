@@ -1424,6 +1424,22 @@
       "capital_per_slot": 90200,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-11"
+    },
+    {
+      "symbol": "ORIENTHOT",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 159.02,
+      "exit_price": 173.78,
+      "entry_date": "2026-10-28",
+      "exit_date": "2026-11-09",
+      "hold_days": 12,
+      "pnl_pct": 9.28,
+      "pnl_inr": 8371,
+      "capital_per_slot": 90200,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-11"
     }
   ]
 }
