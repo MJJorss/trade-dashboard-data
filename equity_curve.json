@@ -6693,6 +6693,28 @@
       "fast_trigger_breached": false,
       "fast_trigger_5day_pct": 1.77,
       "effective_risk_pct": 0.75
+    },
+    {
+      "timestamp": "2026-11-09T15:02:42.349525+05:30",
+      "capital_base": 1273351,
+      "realized_pnl": 273351,
+      "unrealized_pnl": 32815,
+      "total_equity": 1306166,
+      "open_positions": 7,
+      "actual_heat_inr": 58101,
+      "actual_heat_pct": 4.56,
+      "recommended_heat_inr": 66851,
+      "recommended_heat_pct": 5.25,
+      "heat_cap_pct": 7.0,
+      "equity_curve_ma20": 1280529,
+      "equity_curve_multiplier": 0.75,
+      "equity_curve_tier": 1,
+      "high_water_mark": 1372283,
+      "drawdown_pct_from_peak": 7.21,
+      "drawdown_multiplier": 1.0,
+      "fast_trigger_breached": false,
+      "fast_trigger_5day_pct": 1.63,
+      "effective_risk_pct": 0.75
     }
   ],
   "risk_state": {
