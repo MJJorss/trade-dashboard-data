@@ -7,8 +7,8 @@
       "entry_time": "11:25",
       "entry_date": "2026-10-09",
       "stop_price": 138.92,
-      "stop_unlocked": false,
-      "high_since_entry": 162.0,
+      "stop_unlocked": true,
+      "high_since_entry": 172.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 59.11,
@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 159.5,
-      "unrealised_pct": 6.77
+      "current_price": 171.89,
+      "unrealised_pct": 15.07
     },
     {
       "symbol": "SBC",
@@ -37,7 +37,7 @@
       "entry_date": "2026-10-15",
       "stop_price": 60.1,
       "stop_unlocked": false,
-      "high_since_entry": 69.37,
+      "high_since_entry": 70.08,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 49.7,
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 68.91,
-      "unrealised_pct": 6.64
+      "current_price": 69.28,
+      "unrealised_pct": 7.21
     },
     {
       "symbol": "ORIENTHOT",
@@ -66,7 +66,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 147.89,
       "stop_unlocked": true,
-      "high_since_entry": 177.0,
+      "high_since_entry": 177.69,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 23.53,
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 175.7,
-      "unrealised_pct": 10.49
+      "current_price": 176.95,
+      "unrealised_pct": 11.28
     },
     {
       "symbol": "KARURVYSYA",
@@ -95,7 +95,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 328.89,
       "stop_unlocked": false,
-      "high_since_entry": 371.6,
+      "high_since_entry": 374.6,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "LOW",
       "rs_composite": 10.6,
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 370.1,
-      "unrealised_pct": 4.65
+      "current_price": 369.9,
+      "unrealised_pct": 4.59
     },
     {
       "symbol": "NYKAA",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 351.6,
-      "unrealised_pct": 2.91
+      "current_price": 350.3,
+      "unrealised_pct": 2.53
     },
     {
       "symbol": "CUPID",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 0.5,
       "price_source": "live",
-      "current_price": 338.45,
-      "unrealised_pct": 4.07
+      "current_price": 342.0,
+      "unrealised_pct": 5.17
     },
     {
       "symbol": "THELEELA",
@@ -200,14 +200,12 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 689.5,
-      "unrealised_pct": -0.36
+      "current_price": 663.8,
+      "unrealised_pct": -4.08
     }
   ],
-  "last_updated": "2026-11-06 15:02 IST",
+  "last_updated": "2026-11-09 09:27 IST",
   "closed_today_map": {
-    "2026-11-06": [
-      "RATNAVEER"
-    ]
+    "2026-11-09": []
   }
 }
