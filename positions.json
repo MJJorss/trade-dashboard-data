@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 171.89,
-      "unrealised_pct": 15.07
+      "current_price": 170.39,
+      "unrealised_pct": 14.06
     },
     {
       "symbol": "SBC",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 69.28,
-      "unrealised_pct": 7.21
+      "current_price": 68.39,
+      "unrealised_pct": 5.83
     },
     {
       "symbol": "ORIENTHOT",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 176.95,
-      "unrealised_pct": 11.28
+      "current_price": 176.13,
+      "unrealised_pct": 10.76
     },
     {
       "symbol": "KARURVYSYA",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 369.9,
-      "unrealised_pct": 4.59
+      "current_price": 370.85,
+      "unrealised_pct": 4.86
     },
     {
       "symbol": "NYKAA",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 350.3,
-      "unrealised_pct": 2.53
+      "current_price": 349.3,
+      "unrealised_pct": 2.24
     },
     {
       "symbol": "CUPID",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 0.5,
       "price_source": "live",
-      "current_price": 342.0,
-      "unrealised_pct": 5.17
+      "current_price": 344.1,
+      "unrealised_pct": 5.81
     },
     {
       "symbol": "THELEELA",
@@ -200,11 +200,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 663.8,
-      "unrealised_pct": -4.08
+      "current_price": 652.9,
+      "unrealised_pct": -5.65
     }
   ],
-  "last_updated": "2026-11-09 09:27 IST",
+  "last_updated": "2026-11-09 11:25 IST",
   "closed_today_map": {
     "2026-11-09": []
   }
