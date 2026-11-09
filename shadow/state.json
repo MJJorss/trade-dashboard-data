@@ -42,7 +42,7 @@
   },
   "runtime_s": 125.3,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "decide",
+  "mode": "update",
   "decided_at_ist": "14:40",
   "late_run": false,
   "config_changes": [
@@ -75,5 +75,5 @@
     "entry SMSPHARMA 2026-11-03 x387 now made",
     "exit KMEW 2026-11-06 (Stop Loss (gap down)) no longer made"
   ],
-  "last_update_ist": "2026-11-06 15:46"
+  "last_update_ist": "2026-11-09 10:41"
 }
