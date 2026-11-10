@@ -1,5 +1,5 @@
 {
-  "generated_at_ist": "2026-11-10 14:40",
+  "generated_at_ist": "2026-11-10 15:46",
   "as_of": "2026-11-09",
   "start_date": "2026-09-15",
   "late_run": false,
@@ -26,8 +26,8 @@
     "gate_mode_today": "close",
     "gate_last_decision": null,
     "gate_settled_last_run": [],
-    "run_started_ist": "2026-11-10 14:40",
-    "decided_at_ist": "14:42",
+    "run_started_ist": "2026-11-10 15:46",
+    "decided_at_ist": "15:48",
     "late_run": false,
     "signal_snapshot": "not saved (no session today)"
   },

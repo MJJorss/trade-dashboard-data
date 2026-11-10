@@ -3,12 +3,12 @@
   "config_cell": "SLEEVED",
   "config_hash": "b5f18574be9045ab",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-11-10 14:40",
+  "last_run_ist": "2026-11-10 15:46",
   "as_of": "2026-11-09",
   "test_run": false,
-  "frames_fetched": 317,
+  "frames_fetched": 321,
   "frames_failed": {},
-  "signals_unlabelled": 222,
+  "signals_unlabelled": 234,
   "decay": {
     "n_closed": 0,
     "window": 60,
@@ -34,10 +34,10 @@
     "match": true,
     "date": "2026-11-09"
   },
-  "runtime_s": 128.1,
+  "runtime_s": 136.8,
   "research_config_hash": "5dd2cfcc8b0459b1",
   "mode": "decide",
-  "decided_at_ist": "14:42",
+  "decided_at_ist": "15:48",
   "late_run": false,
   "config_changes": [
     {
