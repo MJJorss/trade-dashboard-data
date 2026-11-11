@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 168.32,
-      "unrealised_pct": 12.68
+      "current_price": 168.4,
+      "unrealised_pct": 12.73
     },
     {
       "symbol": "SBC",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 68.85,
-      "unrealised_pct": 6.55
+      "current_price": 68.9,
+      "unrealised_pct": 6.62
     },
     {
       "symbol": "KARURVYSYA",
@@ -66,7 +66,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 328.89,
       "stop_unlocked": false,
-      "high_since_entry": 384.2,
+      "high_since_entry": 386.2,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "LOW",
       "rs_composite": 10.6,
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 382.4,
-      "unrealised_pct": 8.13
+      "current_price": 384.3,
+      "unrealised_pct": 8.67
     },
     {
       "symbol": "NYKAA",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 353.85,
-      "unrealised_pct": 3.57
+      "current_price": 353.2,
+      "unrealised_pct": 3.38
     },
     {
       "symbol": "CUPID",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 0.5,
       "price_source": "live",
-      "current_price": 347.5,
-      "unrealised_pct": 6.86
+      "current_price": 348.35,
+      "unrealised_pct": 7.12
     },
     {
       "symbol": "THELEELA",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 652.05,
-      "unrealised_pct": -5.77
+      "current_price": 648.4,
+      "unrealised_pct": -6.3
     },
     {
       "symbol": "TBZ",
@@ -182,7 +182,7 @@
       "entry_date": "2026-11-09",
       "stop_price": 590.55,
       "stop_unlocked": false,
-      "high_since_entry": 655.0,
+      "high_since_entry": 660.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 98.06,
@@ -200,11 +200,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 649.0,
-      "unrealised_pct": 2.2
+      "current_price": 660.0,
+      "unrealised_pct": 3.94
     }
   ],
-  "last_updated": "2026-11-11 11:25 IST",
+  "last_updated": "2026-11-11 13:16 IST",
   "closed_today_map": {
     "2026-11-11": []
   }
