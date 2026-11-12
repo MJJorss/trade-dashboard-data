@@ -66,7 +66,7 @@
         "VCP"
       ],
       "price": 2343.4,
-      "chg_pct": 1.49,
+      "chg_pct": -1.18,
       "vol_today": 584,
       "vol_avg_3m": 5896,
       "vol_ratio": 0.1,
@@ -90,7 +90,7 @@
         "VCP"
       ],
       "price": 2385.0,
-      "chg_pct": 0.63,
+      "chg_pct": 0.48,
       "vol_today": 24425,
       "vol_avg_3m": 355167,
       "vol_ratio": 0.07,
@@ -358,7 +358,7 @@
         "Jadhav"
       ],
       "price": 1454.9,
-      "chg_pct": -1.32,
+      "chg_pct": -1.74,
       "vol_today": 41662,
       "vol_avg_3m": 180303,
       "vol_ratio": 0.23,
@@ -383,7 +383,7 @@
         "Jadhav"
       ],
       "price": 1429.0,
-      "chg_pct": 0.13,
+      "chg_pct": 2.98,
       "vol_today": 13034,
       "vol_avg_3m": 285848,
       "vol_ratio": 0.05,
@@ -432,7 +432,7 @@
         "VCP"
       ],
       "price": 1042.7,
-      "chg_pct": -1.25,
+      "chg_pct": 1.53,
       "vol_today": 19012,
       "vol_avg_3m": 595201,
       "vol_ratio": 0.03,
@@ -480,7 +480,7 @@
         "VCP"
       ],
       "price": 881.2,
-      "chg_pct": -0.01,
+      "chg_pct": -0.38,
       "vol_today": 20197,
       "vol_avg_3m": 1178529,
       "vol_ratio": 0.02,
@@ -504,7 +504,7 @@
         "VCP"
       ],
       "price": 775.15,
-      "chg_pct": -1.79,
+      "chg_pct": 0.77,
       "vol_today": 32452,
       "vol_avg_3m": 475484,
       "vol_ratio": 0.07,
@@ -528,7 +528,7 @@
         "VCP"
       ],
       "price": 736.5,
-      "chg_pct": 2.42,
+      "chg_pct": 4.03,
       "vol_today": 17973,
       "vol_avg_3m": 712476,
       "vol_ratio": 0.03,
@@ -600,7 +600,7 @@
         "VCP"
       ],
       "price": 236.76,
-      "chg_pct": -3.45,
+      "chg_pct": -2.88,
       "vol_today": 268913,
       "vol_avg_3m": 911004,
       "vol_ratio": 0.3,
@@ -648,7 +648,7 @@
         "VCP"
       ],
       "price": 171.25,
-      "chg_pct": -1.93,
+      "chg_pct": -2.31,
       "vol_today": 69869,
       "vol_avg_3m": 1876952,
       "vol_ratio": 0.04,
@@ -672,7 +672,7 @@
         "VCP"
       ],
       "price": 68.51,
-      "chg_pct": -0.32,
+      "chg_pct": -0.28,
       "vol_today": 265095,
       "vol_avg_3m": 13501798,
       "vol_ratio": 0.02,
@@ -696,7 +696,7 @@
         "Mark"
       ],
       "price": 699.1,
-      "chg_pct": 2.64,
+      "chg_pct": 3.22,
       "vol_today": 598673,
       "vol_avg_3m": 589678,
       "vol_ratio": 1.02,
@@ -864,7 +864,7 @@
         "VCP"
       ],
       "price": 8604.0,
-      "chg_pct": 0.64,
+      "chg_pct": 1.87,
       "vol_today": 187147,
       "vol_avg_3m": 515292,
       "vol_ratio": 0.36,
@@ -888,7 +888,7 @@
         "VCP"
       ],
       "price": 4304.4,
-      "chg_pct": -3.73,
+      "chg_pct": -2.86,
       "vol_today": 13391,
       "vol_avg_3m": 22425,
       "vol_ratio": 0.6,
@@ -912,7 +912,7 @@
         "VCP"
       ],
       "price": 4443.2,
-      "chg_pct": -2.54,
+      "chg_pct": 0.67,
       "vol_today": 7114,
       "vol_avg_3m": 12794,
       "vol_ratio": 0.56,
@@ -937,7 +937,7 @@
         "Mark"
       ],
       "price": 4212.8,
-      "chg_pct": -0.29,
+      "chg_pct": 1.97,
       "vol_today": 765608,
       "vol_avg_3m": 311760,
       "vol_ratio": 2.46,
@@ -987,7 +987,7 @@
         "Jadhav"
       ],
       "price": 2677.2,
-      "chg_pct": 0.23,
+      "chg_pct": 3.37,
       "vol_today": 1960179,
       "vol_avg_3m": 571268,
       "vol_ratio": 3.43,
@@ -1012,7 +1012,7 @@
         "Jadhav"
       ],
       "price": 2028.7,
-      "chg_pct": 0.61,
+      "chg_pct": 2.98,
       "vol_today": 167583,
       "vol_avg_3m": 273854,
       "vol_ratio": 0.61,
@@ -1037,7 +1037,7 @@
         "Jadhav"
       ],
       "price": 1890.4,
-      "chg_pct": -1.52,
+      "chg_pct": 6.15,
       "vol_today": 38344,
       "vol_avg_3m": 113357,
       "vol_ratio": 0.34,
@@ -1110,7 +1110,7 @@
         "VCP"
       ],
       "price": 922.35,
-      "chg_pct": -1.66,
+      "chg_pct": 1.44,
       "vol_today": 104763,
       "vol_avg_3m": 317063,
       "vol_ratio": 0.33,
@@ -1160,7 +1160,7 @@
         "Jadhav"
       ],
       "price": 486.0,
-      "chg_pct": 0.4,
+      "chg_pct": 4.2,
       "vol_today": 194334,
       "vol_avg_3m": 1954965,
       "vol_ratio": 0.1,
@@ -1184,7 +1184,7 @@
         "VCP"
       ],
       "price": 429.95,
-      "chg_pct": -0.41,
+      "chg_pct": 2.1,
       "vol_today": 85654,
       "vol_avg_3m": 413582,
       "vol_ratio": 0.21,
@@ -1208,7 +1208,7 @@
         "VCP"
       ],
       "price": 430.9,
-      "chg_pct": 2.71,
+      "chg_pct": 2.52,
       "vol_today": 172323,
       "vol_avg_3m": 1176641,
       "vol_ratio": 0.15,
@@ -1232,7 +1232,7 @@
         "VCP"
       ],
       "price": 370.55,
-      "chg_pct": 1.63,
+      "chg_pct": 1.31,
       "vol_today": 1794271,
       "vol_avg_3m": 6504752,
       "vol_ratio": 0.28,
@@ -1376,7 +1376,7 @@
         "Mark"
       ],
       "price": 1165.45,
-      "chg_pct": -0.1,
+      "chg_pct": -0.19,
       "vol_today": 355323,
       "vol_avg_3m": 332775,
       "vol_ratio": 1.07,
@@ -1400,7 +1400,7 @@
         "Mark"
       ],
       "price": 998.35,
-      "chg_pct": 2.47,
+      "chg_pct": 0.4,
       "vol_today": 862925,
       "vol_avg_3m": 166160,
       "vol_ratio": 5.19,
@@ -1496,7 +1496,7 @@
         "Jadhav"
       ],
       "price": 305.7,
-      "chg_pct": -0.11,
+      "chg_pct": 0.69,
       "vol_today": 5852,
       "vol_avg_3m": 42396,
       "vol_ratio": 0.14,
@@ -1570,7 +1570,7 @@
         "VCP"
       ],
       "price": 7746.0,
-      "chg_pct": -1.43,
+      "chg_pct": 1.21,
       "vol_today": 56574,
       "vol_avg_3m": 69850,
       "vol_ratio": 0.81,
@@ -1667,7 +1667,7 @@
         "VCP"
       ],
       "price": 2171.0,
-      "chg_pct": 1.12,
+      "chg_pct": 0.75,
       "vol_today": 271688,
       "vol_avg_3m": 436130,
       "vol_ratio": 0.62,
@@ -1763,7 +1763,7 @@
         "VCP"
       ],
       "price": 1523.1,
-      "chg_pct": 0.61,
+      "chg_pct": 4.37,
       "vol_today": 3146,
       "vol_avg_3m": 10882,
       "vol_ratio": 0.29,
@@ -1812,7 +1812,7 @@
         "Mark"
       ],
       "price": 1318.0,
-      "chg_pct": 0.8,
+      "chg_pct": -0.4,
       "vol_today": 754633,
       "vol_avg_3m": 385307,
       "vol_ratio": 1.96,
@@ -1837,7 +1837,7 @@
         "Mark"
       ],
       "price": 1332.3,
-      "chg_pct": 0.89,
+      "chg_pct": 2.44,
       "vol_today": 1140925,
       "vol_avg_3m": 524651,
       "vol_ratio": 2.17,
@@ -1909,7 +1909,7 @@
         "VCP"
       ],
       "price": 714.8,
-      "chg_pct": 1.45,
+      "chg_pct": 0.3,
       "vol_today": 334440,
       "vol_avg_3m": 442433,
       "vol_ratio": 0.76,
@@ -1933,7 +1933,7 @@
         "VCP"
       ],
       "price": 653.9,
-      "chg_pct": -0.96,
+      "chg_pct": -5.55,
       "vol_today": 270002,
       "vol_avg_3m": 617981,
       "vol_ratio": 0.44,
@@ -1958,7 +1958,7 @@
         "Jadhav"
       ],
       "price": 685.65,
-      "chg_pct": 0.26,
+      "chg_pct": 0.59,
       "vol_today": 28084,
       "vol_avg_3m": 195037,
       "vol_ratio": 0.14,
@@ -2055,7 +2055,7 @@
         "VCP"
       ],
       "price": 550.9,
-      "chg_pct": 0.02,
+      "chg_pct": 1.87,
       "vol_today": 233661,
       "vol_avg_3m": 473997,
       "vol_ratio": 0.49,
@@ -2105,7 +2105,7 @@
         "Jadhav"
       ],
       "price": 396.0,
-      "chg_pct": -1.41,
+      "chg_pct": -0.7,
       "vol_today": 1893601,
       "vol_avg_3m": 3141508,
       "vol_ratio": 0.6,
@@ -2130,7 +2130,7 @@
         "Jadhav"
       ],
       "price": 430.95,
-      "chg_pct": 3.12,
+      "chg_pct": 10.29,
       "vol_today": 2039015,
       "vol_avg_3m": 1306832,
       "vol_ratio": 1.56,
@@ -2301,7 +2301,7 @@
         "Mark"
       ],
       "price": 12816.0,
-      "chg_pct": -0.94,
+      "chg_pct": -0.05,
       "vol_today": 34387,
       "vol_avg_3m": 23302,
       "vol_ratio": 1.48,
@@ -2421,7 +2421,7 @@
         "Mark"
       ],
       "price": 2294.9,
-      "chg_pct": -2.98,
+      "chg_pct": -0.18,
       "vol_today": 71726,
       "vol_avg_3m": 62975,
       "vol_ratio": 1.14,
@@ -2445,7 +2445,7 @@
         "Mark"
       ],
       "price": 2004.5,
-      "chg_pct": -5.22,
+      "chg_pct": 5.48,
       "vol_today": 1175481,
       "vol_avg_3m": 295035,
       "vol_ratio": 3.98,
@@ -2493,7 +2493,7 @@
         "Mark"
       ],
       "price": 1429.4,
-      "chg_pct": 3.5,
+      "chg_pct": 3.33,
       "vol_today": 402140,
       "vol_avg_3m": 298060,
       "vol_ratio": 1.35,
@@ -2517,7 +2517,7 @@
         "Mark"
       ],
       "price": 1354.4,
-      "chg_pct": -1.17,
+      "chg_pct": -1.2,
       "vol_today": 137012,
       "vol_avg_3m": 215665,
       "vol_ratio": 0.64,
@@ -2541,7 +2541,7 @@
         "Mark"
       ],
       "price": 1391.8,
-      "chg_pct": 3.59,
+      "chg_pct": 3.96,
       "vol_today": 317715,
       "vol_avg_3m": 176769,
       "vol_ratio": 1.8,
@@ -2565,7 +2565,7 @@
         "Mark"
       ],
       "price": 1248.3,
-      "chg_pct": 7.26,
+      "chg_pct": 7.11,
       "vol_today": 47588,
       "vol_avg_3m": 39204,
       "vol_ratio": 1.21,
@@ -2613,7 +2613,7 @@
         "Mark"
       ],
       "price": 1088.05,
-      "chg_pct": 3.05,
+      "chg_pct": 5.18,
       "vol_today": 266211,
       "vol_avg_3m": 165259,
       "vol_ratio": 1.61,
@@ -2637,7 +2637,7 @@
         "Mark"
       ],
       "price": 897.35,
-      "chg_pct": -3.65,
+      "chg_pct": -7.8,
       "vol_today": 14672,
       "vol_avg_3m": 6360,
       "vol_ratio": 2.31,
@@ -2661,7 +2661,7 @@
         "Mark"
       ],
       "price": 934.15,
-      "chg_pct": 0.03,
+      "chg_pct": -0.87,
       "vol_today": 1157588,
       "vol_avg_3m": 1144150,
       "vol_ratio": 1.01,
@@ -2709,7 +2709,7 @@
         "Mark"
       ],
       "price": 720.4,
-      "chg_pct": 0.8,
+      "chg_pct": 1.36,
       "vol_today": 600399,
       "vol_avg_3m": 428554,
       "vol_ratio": 1.4,
@@ -2757,7 +2757,7 @@
         "Mark"
       ],
       "price": 377.4,
-      "chg_pct": 1.55,
+      "chg_pct": 1.82,
       "vol_today": 1475327,
       "vol_avg_3m": 1072200,
       "vol_ratio": 1.38,
@@ -2877,7 +2877,7 @@
         "Mark"
       ],
       "price": 141.15,
-      "chg_pct": -0.47,
+      "chg_pct": -0.22,
       "vol_today": 2349648,
       "vol_avg_3m": 1112208,
       "vol_ratio": 2.11,
@@ -2901,7 +2901,7 @@
         "Mark"
       ],
       "price": 137.42,
-      "chg_pct": 2.88,
+      "chg_pct": 0.35,
       "vol_today": 2000341,
       "vol_avg_3m": 2491282,
       "vol_ratio": 0.8,
@@ -3046,7 +3046,7 @@
         "VCP"
       ],
       "price": 8604.0,
-      "chg_pct": 0.64,
+      "chg_pct": 1.87,
       "vol_today": 51641,
       "vol_avg_3m": 515478,
       "vol_ratio": 0.1,
@@ -3143,7 +3143,7 @@
         "VCP"
       ],
       "price": 4212.8,
-      "chg_pct": -0.29,
+      "chg_pct": 1.97,
       "vol_today": 22526,
       "vol_avg_3m": 328081,
       "vol_ratio": 0.07,
@@ -3264,7 +3264,7 @@
         "VCP"
       ],
       "price": 2677.2,
-      "chg_pct": 0.23,
+      "chg_pct": 3.37,
       "vol_today": 255239,
       "vol_avg_3m": 655032,
       "vol_ratio": 0.39,
@@ -3312,7 +3312,7 @@
         "VCP"
       ],
       "price": 2294.9,
-      "chg_pct": -2.98,
+      "chg_pct": -0.18,
       "vol_today": 6809,
       "vol_avg_3m": 61924,
       "vol_ratio": 0.11,
@@ -3360,7 +3360,7 @@
         "VCP"
       ],
       "price": 2171.0,
-      "chg_pct": 1.12,
+      "chg_pct": 0.75,
       "vol_today": 15617,
       "vol_avg_3m": 433629,
       "vol_ratio": 0.04,
@@ -3385,7 +3385,7 @@
         "Jadhav"
       ],
       "price": 2028.7,
-      "chg_pct": 0.61,
+      "chg_pct": 2.98,
       "vol_today": 20402,
       "vol_avg_3m": 282953,
       "vol_ratio": 0.07,
@@ -3434,7 +3434,7 @@
         "Jadhav"
       ],
       "price": 1890.4,
-      "chg_pct": -1.52,
+      "chg_pct": 6.15,
       "vol_today": 3760,
       "vol_avg_3m": 113222,
       "vol_ratio": 0.03,
@@ -3555,7 +3555,7 @@
         "Jadhav"
       ],
       "price": 1429.0,
-      "chg_pct": 0.13,
+      "chg_pct": 2.98,
       "vol_today": 11155,
       "vol_avg_3m": 282539,
       "vol_ratio": 0.04,
@@ -3580,7 +3580,7 @@
         "Jadhav"
       ],
       "price": 1391.8,
-      "chg_pct": 3.59,
+      "chg_pct": 3.96,
       "vol_today": 101342,
       "vol_avg_3m": 177398,
       "vol_ratio": 0.57,
@@ -3652,7 +3652,7 @@
         "VCP"
       ],
       "price": 1149.0,
-      "chg_pct": -0.5,
+      "chg_pct": -1.32,
       "vol_today": 16707,
       "vol_avg_3m": 251092,
       "vol_ratio": 0.07,
@@ -3676,7 +3676,7 @@
         "VCP"
       ],
       "price": 1165.45,
-      "chg_pct": -0.1,
+      "chg_pct": -0.19,
       "vol_today": 20468,
       "vol_avg_3m": 338723,
       "vol_ratio": 0.06,
@@ -3700,7 +3700,7 @@
         "VCP"
       ],
       "price": 1042.7,
-      "chg_pct": -1.25,
+      "chg_pct": 1.53,
       "vol_today": 68962,
       "vol_avg_3m": 581065,
       "vol_ratio": 0.12,
@@ -3797,7 +3797,7 @@
         "VCP"
       ],
       "price": 881.2,
-      "chg_pct": -0.01,
+      "chg_pct": -0.38,
       "vol_today": 34614,
       "vol_avg_3m": 1175798,
       "vol_ratio": 0.03,
@@ -3845,7 +3845,7 @@
         "VCP"
       ],
       "price": 775.15,
-      "chg_pct": -1.79,
+      "chg_pct": 0.77,
       "vol_today": 53965,
       "vol_avg_3m": 473023,
       "vol_ratio": 0.11,
@@ -3893,7 +3893,7 @@
         "VCP"
       ],
       "price": 736.5,
-      "chg_pct": 2.42,
+      "chg_pct": 4.03,
       "vol_today": 13761,
       "vol_avg_3m": 702945,
       "vol_ratio": 0.02,
@@ -3917,7 +3917,7 @@
         "VCP"
       ],
       "price": 714.8,
-      "chg_pct": 1.45,
+      "chg_pct": 0.3,
       "vol_today": 16323,
       "vol_avg_3m": 436261,
       "vol_ratio": 0.04,
@@ -3941,7 +3941,7 @@
         "VCP"
       ],
       "price": 700.45,
-      "chg_pct": -0.45,
+      "chg_pct": 0.5,
       "vol_today": 10206,
       "vol_avg_3m": 404279,
       "vol_ratio": 0.03,
@@ -3966,7 +3966,7 @@
         "Jadhav"
       ],
       "price": 685.65,
-      "chg_pct": 0.26,
+      "chg_pct": 0.59,
       "vol_today": 5273,
       "vol_avg_3m": 189768,
       "vol_ratio": 0.03,
@@ -3991,7 +3991,7 @@
         "Jadhav"
       ],
       "price": 655.2,
-      "chg_pct": -0.08,
+      "chg_pct": 2.88,
       "vol_today": 1247,
       "vol_avg_3m": 86595,
       "vol_ratio": 0.01,
@@ -4040,7 +4040,7 @@
         "Jadhav"
       ],
       "price": 648.3,
-      "chg_pct": 5.68,
+      "chg_pct": 5.43,
       "vol_today": 18161,
       "vol_avg_3m": 300666,
       "vol_ratio": 0.06,
@@ -4064,7 +4064,7 @@
         "VCP"
       ],
       "price": 588.4,
-      "chg_pct": 7.09,
+      "chg_pct": 6.19,
       "vol_today": 5251,
       "vol_avg_3m": 139032,
       "vol_ratio": 0.04,
@@ -4113,7 +4113,7 @@
         "Jadhav"
       ],
       "price": 510.65,
-      "chg_pct": 0.59,
+      "chg_pct": -1.01,
       "vol_today": 453,
       "vol_avg_3m": 135447,
       "vol_ratio": 0.0,
@@ -4161,7 +4161,7 @@
         "VCP"
       ],
       "price": 486.0,
-      "chg_pct": 0.4,
+      "chg_pct": 4.2,
       "vol_today": 1637299,
       "vol_avg_3m": 1989617,
       "vol_ratio": 0.82,
@@ -4209,7 +4209,7 @@
         "VCP"
       ],
       "price": 467.35,
-      "chg_pct": -1.48,
+      "chg_pct": 8.6,
       "vol_today": 2123,
       "vol_avg_3m": 107311,
       "vol_ratio": 0.02,
@@ -4258,7 +4258,7 @@
         "Jadhav"
       ],
       "price": 377.4,
-      "chg_pct": 1.55,
+      "chg_pct": 1.82,
       "vol_today": 91839,
       "vol_avg_3m": 1064269,
       "vol_ratio": 0.09,
@@ -4282,7 +4282,7 @@
         "VCP"
       ],
       "price": 317.7,
-      "chg_pct": -0.33,
+      "chg_pct": 2.67,
       "vol_today": 77125,
       "vol_avg_3m": 2478822,
       "vol_ratio": 0.03,
@@ -4355,7 +4355,7 @@
         "VCP"
       ],
       "price": 208.49,
-      "chg_pct": 2.73,
+      "chg_pct": 13.75,
       "vol_today": 3516058,
       "vol_avg_3m": 3655135,
       "vol_ratio": 0.96,
@@ -4403,7 +4403,7 @@
         "VCP"
       ],
       "price": 171.25,
-      "chg_pct": -1.93,
+      "chg_pct": -2.31,
       "vol_today": 19534,
       "vol_avg_3m": 1863702,
       "vol_ratio": 0.01,
@@ -4452,7 +4452,7 @@
         "Jadhav"
       ],
       "price": 74.48,
-      "chg_pct": 0.51,
+      "chg_pct": -1.43,
       "vol_today": 108396,
       "vol_avg_3m": 2940313,
       "vol_ratio": 0.04,
@@ -4476,7 +4476,7 @@
         "VCP"
       ],
       "price": 68.51,
-      "chg_pct": -0.32,
+      "chg_pct": -0.28,
       "vol_today": 1097801,
       "vol_avg_3m": 13596108,
       "vol_ratio": 0.08,
@@ -4572,7 +4572,7 @@
         "Jadhav"
       ],
       "price": 106.03,
-      "chg_pct": 0.54,
+      "chg_pct": 3.92,
       "vol_today": 19142,
       "vol_avg_3m": 1854780,
       "vol_ratio": 0.01,
@@ -4596,7 +4596,7 @@
         "VCP"
       ],
       "price": 17732.0,
-      "chg_pct": 1.49,
+      "chg_pct": 4.08,
       "vol_today": 1392,
       "vol_avg_3m": 6748,
       "vol_ratio": 0.21,
@@ -4620,7 +4620,7 @@
         "VCP"
       ],
       "price": 6129.0,
-      "chg_pct": 2.02,
+      "chg_pct": 3.03,
       "vol_today": 496,
       "vol_avg_3m": 5015,
       "vol_ratio": 0.1,
@@ -4668,7 +4668,7 @@
         "VCP"
       ],
       "price": 4761.0,
-      "chg_pct": -0.4,
+      "chg_pct": 0.23,
       "vol_today": 98364,
       "vol_avg_3m": 330607,
       "vol_ratio": 0.3,
@@ -4692,7 +4692,7 @@
         "VCP"
       ],
       "price": 4443.2,
-      "chg_pct": -2.54,
+      "chg_pct": 0.67,
       "vol_today": 3098,
       "vol_avg_3m": 13363,
       "vol_ratio": 0.23,
@@ -4716,7 +4716,7 @@
         "VCP"
       ],
       "price": 4304.4,
-      "chg_pct": -3.73,
+      "chg_pct": -2.86,
       "vol_today": 8112,
       "vol_avg_3m": 22665,
       "vol_ratio": 0.36,
@@ -4812,7 +4812,7 @@
         "VCP"
       ],
       "price": 1949.1,
-      "chg_pct": -0.64,
+      "chg_pct": 1.56,
       "vol_today": 32846,
       "vol_avg_3m": 35343,
       "vol_ratio": 0.93,
@@ -4836,7 +4836,7 @@
         "VCP"
       ],
       "price": 1523.1,
-      "chg_pct": 0.61,
+      "chg_pct": 4.37,
       "vol_today": 564,
       "vol_avg_3m": 10875,
       "vol_ratio": 0.05,
@@ -4932,7 +4932,7 @@
         "VCP"
       ],
       "price": 769.85,
-      "chg_pct": 0.52,
+      "chg_pct": 4.75,
       "vol_today": 349731,
       "vol_avg_3m": 320640,
       "vol_ratio": 1.09,
@@ -4980,7 +4980,7 @@
         "VCP"
       ],
       "price": 576.15,
-      "chg_pct": -1.06,
+      "chg_pct": 1.3,
       "vol_today": 41947,
       "vol_avg_3m": 254306,
       "vol_ratio": 0.16,
@@ -5004,7 +5004,7 @@
         "VCP"
       ],
       "price": 430.95,
-      "chg_pct": 3.12,
+      "chg_pct": 10.29,
       "vol_today": 486057,
       "vol_avg_3m": 1330489,
       "vol_ratio": 0.37,
@@ -5028,7 +5028,7 @@
         "VCP"
       ],
       "price": 396.0,
-      "chg_pct": -1.41,
+      "chg_pct": -0.7,
       "vol_today": 644083,
       "vol_avg_3m": 3138424,
       "vol_ratio": 0.21,
@@ -5052,7 +5052,7 @@
         "VCP"
       ],
       "price": 382.1,
-      "chg_pct": 1.92,
+      "chg_pct": 5.82,
       "vol_today": 7931,
       "vol_avg_3m": 151524,
       "vol_ratio": 0.05,
@@ -5148,7 +5148,7 @@
         "VCP"
       ],
       "price": 159.03,
-      "chg_pct": -2.16,
+      "chg_pct": 1.86,
       "vol_today": 153476,
       "vol_avg_3m": 683264,
       "vol_ratio": 0.22,
@@ -5244,7 +5244,7 @@
         "Mark"
       ],
       "price": 2520.3,
-      "chg_pct": 0.71,
+      "chg_pct": 5.78,
       "vol_today": 149616,
       "vol_avg_3m": 179553,
       "vol_ratio": 0.83,
@@ -5316,7 +5316,7 @@
         "Mark"
       ],
       "price": 656.3,
-      "chg_pct": 0.24,
+      "chg_pct": 6.85,
       "vol_today": 200117,
       "vol_avg_3m": 338035,
       "vol_ratio": 0.59,
@@ -5364,7 +5364,7 @@
         "Mark"
       ],
       "price": 355.6,
-      "chg_pct": -0.15,
+      "chg_pct": 1.08,
       "vol_today": 158722,
       "vol_avg_3m": 61277,
       "vol_ratio": 2.59,
@@ -5461,7 +5461,7 @@
         "Jadhav"
       ],
       "price": 5334.5,
-      "chg_pct": 0.39,
+      "chg_pct": 5.1,
       "vol_today": 16912,
       "vol_avg_3m": 30060,
       "vol_ratio": 0.56,
@@ -5512,7 +5512,7 @@
         "Jadhav"
       ],
       "price": 4297.5,
-      "chg_pct": 2.39,
+      "chg_pct": 7.99,
       "vol_today": 23014,
       "vol_avg_3m": 36586,
       "vol_ratio": 0.63,
@@ -5537,7 +5537,7 @@
         "Jadhav"
       ],
       "price": 2833.1,
-      "chg_pct": -0.68,
+      "chg_pct": 2.75,
       "vol_today": 3835,
       "vol_avg_3m": 20083,
       "vol_ratio": 0.19,
@@ -5562,7 +5562,7 @@
         "Mark"
       ],
       "price": 2727.7,
-      "chg_pct": 0.65,
+      "chg_pct": 8.04,
       "vol_today": 783410,
       "vol_avg_3m": 109405,
       "vol_ratio": 7.16,
@@ -5662,7 +5662,7 @@
         "Jadhav"
       ],
       "price": 1075.7,
-      "chg_pct": 4.57,
+      "chg_pct": 10.27,
       "vol_today": 160551,
       "vol_avg_3m": 164098,
       "vol_ratio": 0.98,
@@ -5710,7 +5710,7 @@
         "VCP"
       ],
       "price": 650.65,
-      "chg_pct": 2.28,
+      "chg_pct": 9.78,
       "vol_today": 146683,
       "vol_avg_3m": 1741223,
       "vol_ratio": 0.08,
@@ -5735,7 +5735,7 @@
         "Jadhav"
       ],
       "price": 638.7,
-      "chg_pct": 3.07,
+      "chg_pct": 9.8,
       "vol_today": 23421,
       "vol_avg_3m": 37132,
       "vol_ratio": 0.63,
@@ -5834,7 +5834,7 @@
         "Mark"
       ],
       "price": 352.25,
-      "chg_pct": 1.89,
+      "chg_pct": 10.04,
       "vol_today": 1397235,
       "vol_avg_3m": 509226,
       "vol_ratio": 2.74,
@@ -5906,7 +5906,7 @@
         "Mark"
       ],
       "price": 7746.0,
-      "chg_pct": -1.43,
+      "chg_pct": 1.21,
       "vol_today": 99178,
       "vol_avg_3m": 68709,
       "vol_ratio": 1.44,
@@ -5930,7 +5930,7 @@
         "Mark"
       ],
       "price": 2934.3,
-      "chg_pct": -0.02,
+      "chg_pct": 3.6,
       "vol_today": 11148,
       "vol_avg_3m": 12279,
       "vol_ratio": 0.91,
@@ -5954,7 +5954,7 @@
         "Mark"
       ],
       "price": 2004.5,
-      "chg_pct": -5.22,
+      "chg_pct": 5.48,
       "vol_today": 764669,
       "vol_avg_3m": 291645,
       "vol_ratio": 2.62,
@@ -6002,7 +6002,7 @@
         "Mark"
       ],
       "price": 1454.9,
-      "chg_pct": -1.32,
+      "chg_pct": -1.74,
       "vol_today": 811339,
       "vol_avg_3m": 200467,
       "vol_ratio": 4.05,
@@ -6050,7 +6050,7 @@
         "Mark"
       ],
       "price": 1167.4,
-      "chg_pct": 4.33,
+      "chg_pct": 9.0,
       "vol_today": 11630,
       "vol_avg_3m": 16380,
       "vol_ratio": 0.71,
@@ -6074,7 +6074,7 @@
         "Mark"
       ],
       "price": 897.35,
-      "chg_pct": -3.65,
+      "chg_pct": -7.8,
       "vol_today": 18312,
       "vol_avg_3m": 6609,
       "vol_ratio": 2.77,
@@ -6146,7 +6146,7 @@
         "Mark"
       ],
       "price": 554.15,
-      "chg_pct": 3.14,
+      "chg_pct": 7.32,
       "vol_today": 268311,
       "vol_avg_3m": 1116655,
       "vol_ratio": 0.24,
@@ -6170,7 +6170,7 @@
         "Mark"
       ],
       "price": 387.75,
-      "chg_pct": -2.11,
+      "chg_pct": 7.42,
       "vol_today": 355236,
       "vol_avg_3m": 206746,
       "vol_ratio": 1.72,
@@ -6218,7 +6218,7 @@
         "Mark"
       ],
       "price": 244.34,
-      "chg_pct": -0.36,
+      "chg_pct": 1.93,
       "vol_today": 9428151,
       "vol_avg_3m": 5954998,
       "vol_ratio": 1.58,
@@ -6314,7 +6314,7 @@
         "Jadhav"
       ],
       "price": 211.91,
-      "chg_pct": -0.25,
+      "chg_pct": 1.25,
       "vol_today": 62966,
       "vol_avg_3m": 285418,
       "vol_ratio": 0.22,
@@ -6387,7 +6387,7 @@
         "Jadhav"
       ],
       "price": 17732.0,
-      "chg_pct": 1.49,
+      "chg_pct": 4.08,
       "vol_today": 4589,
       "vol_avg_3m": 6777,
       "vol_ratio": 0.68,
@@ -6460,7 +6460,7 @@
         "VCP"
       ],
       "price": 8604.0,
-      "chg_pct": 0.64,
+      "chg_pct": 1.87,
       "vol_today": 499285,
       "vol_avg_3m": 514701,
       "vol_ratio": 0.97,
@@ -6484,7 +6484,7 @@
         "VCP"
       ],
       "price": 6129.0,
-      "chg_pct": 2.02,
+      "chg_pct": 3.03,
       "vol_today": 3347,
       "vol_avg_3m": 4708,
       "vol_ratio": 0.71,
@@ -6510,7 +6510,7 @@
         "Jadhav"
       ],
       "price": 5334.5,
-      "chg_pct": 0.39,
+      "chg_pct": 5.1,
       "vol_today": 20163,
       "vol_avg_3m": 26684,
       "vol_ratio": 0.76,
@@ -6585,7 +6585,7 @@
         "Mark"
       ],
       "price": 4761.0,
-      "chg_pct": -0.4,
+      "chg_pct": 0.23,
       "vol_today": 403353,
       "vol_avg_3m": 330103,
       "vol_ratio": 1.22,
@@ -6684,7 +6684,7 @@
         "VCP"
       ],
       "price": 4304.4,
-      "chg_pct": -3.73,
+      "chg_pct": -2.86,
       "vol_today": 10788,
       "vol_avg_3m": 21893,
       "vol_ratio": 0.49,
@@ -6708,7 +6708,7 @@
         "VCP"
       ],
       "price": 4212.8,
-      "chg_pct": -0.29,
+      "chg_pct": 1.97,
       "vol_today": 213092,
       "vol_avg_3m": 327835,
       "vol_ratio": 0.65,
@@ -6734,7 +6734,7 @@
         "Jadhav"
       ],
       "price": 4297.5,
-      "chg_pct": 2.39,
+      "chg_pct": 7.99,
       "vol_today": 23962,
       "vol_avg_3m": 36508,
       "vol_ratio": 0.66,
@@ -6810,7 +6810,7 @@
         "Jadhav"
       ],
       "price": 2833.1,
-      "chg_pct": -0.68,
+      "chg_pct": 2.75,
       "vol_today": 4044,
       "vol_avg_3m": 20057,
       "vol_ratio": 0.2,
@@ -6835,7 +6835,7 @@
         "Jadhav"
       ],
       "price": 2727.7,
-      "chg_pct": 0.65,
+      "chg_pct": 8.04,
       "vol_today": 800448,
       "vol_avg_3m": 110661,
       "vol_ratio": 7.23,
@@ -6860,7 +6860,7 @@
         "Mark"
       ],
       "price": 2677.2,
-      "chg_pct": 0.23,
+      "chg_pct": 3.37,
       "vol_today": 1798925,
       "vol_avg_3m": 661204,
       "vol_ratio": 2.72,
@@ -6959,7 +6959,7 @@
         "Mark"
       ],
       "price": 2294.9,
-      "chg_pct": -2.98,
+      "chg_pct": -0.18,
       "vol_today": 70085,
       "vol_avg_3m": 62055,
       "vol_ratio": 1.13,
@@ -6983,7 +6983,7 @@
         "VCP"
       ],
       "price": 2171.0,
-      "chg_pct": 1.12,
+      "chg_pct": 0.75,
       "vol_today": 257362,
       "vol_avg_3m": 436490,
       "vol_ratio": 0.59,
@@ -7009,7 +7009,7 @@
         "Jadhav"
       ],
       "price": 2028.7,
-      "chg_pct": 0.61,
+      "chg_pct": 2.98,
       "vol_today": 340155,
       "vol_avg_3m": 284358,
       "vol_ratio": 1.2,
@@ -7059,7 +7059,7 @@
         "Mark"
       ],
       "price": 1949.1,
-      "chg_pct": -0.64,
+      "chg_pct": 1.56,
       "vol_today": 58147,
       "vol_avg_3m": 35747,
       "vol_ratio": 1.63,
@@ -7110,7 +7110,7 @@
         "Jadhav"
       ],
       "price": 1890.4,
-      "chg_pct": -1.52,
+      "chg_pct": 6.15,
       "vol_today": 303023,
       "vol_avg_3m": 114427,
       "vol_ratio": 2.65,
@@ -7281,7 +7281,7 @@
         "VCP"
       ],
       "price": 1523.1,
-      "chg_pct": 0.61,
+      "chg_pct": 4.37,
       "vol_today": 3711,
       "vol_avg_3m": 10896,
       "vol_ratio": 0.34,
@@ -7331,7 +7331,7 @@
         "Jadhav"
       ],
       "price": 1429.0,
-      "chg_pct": 0.13,
+      "chg_pct": 2.98,
       "vol_today": 232833,
       "vol_avg_3m": 283513,
       "vol_ratio": 0.82,
@@ -7381,7 +7381,7 @@
         "Jadhav"
       ],
       "price": 1391.8,
-      "chg_pct": 3.59,
+      "chg_pct": 3.96,
       "vol_today": 504548,
       "vol_avg_3m": 176753,
       "vol_ratio": 2.85,
@@ -7430,7 +7430,7 @@
         "VCP"
       ],
       "price": 1165.45,
-      "chg_pct": -0.1,
+      "chg_pct": -0.19,
       "vol_today": 155303,
       "vol_avg_3m": 339881,
       "vol_ratio": 0.46,
@@ -7454,7 +7454,7 @@
         "VCP"
       ],
       "price": 1042.7,
-      "chg_pct": -1.25,
+      "chg_pct": 1.53,
       "vol_today": 221978,
       "vol_avg_3m": 573019,
       "vol_ratio": 0.39,
@@ -7578,7 +7578,7 @@
         "Jadhav"
       ],
       "price": 769.85,
-      "chg_pct": 0.52,
+      "chg_pct": 4.75,
       "vol_today": 655972,
       "vol_avg_3m": 306856,
       "vol_ratio": 2.14,
@@ -7626,7 +7626,7 @@
         "VCP"
       ],
       "price": 736.5,
-      "chg_pct": 2.42,
+      "chg_pct": 4.03,
       "vol_today": 245574,
       "vol_avg_3m": 711515,
       "vol_ratio": 0.35,
@@ -7650,7 +7650,7 @@
         "VCP"
       ],
       "price": 700.45,
-      "chg_pct": -0.45,
+      "chg_pct": 0.5,
       "vol_today": 104480,
       "vol_avg_3m": 405041,
       "vol_ratio": 0.26,
@@ -7675,7 +7675,7 @@
         "Jadhav"
       ],
       "price": 685.65,
-      "chg_pct": 0.26,
+      "chg_pct": 0.59,
       "vol_today": 102859,
       "vol_avg_3m": 190422,
       "vol_ratio": 0.54,
@@ -7747,7 +7747,7 @@
         "VCP"
       ],
       "price": 650.65,
-      "chg_pct": 2.28,
+      "chg_pct": 9.78,
       "vol_today": 169870,
       "vol_avg_3m": 1743968,
       "vol_ratio": 0.1,
@@ -7772,7 +7772,7 @@
         "Jadhav"
       ],
       "price": 638.7,
-      "chg_pct": 3.07,
+      "chg_pct": 9.8,
       "vol_today": 31086,
       "vol_avg_3m": 37364,
       "vol_ratio": 0.83,
@@ -7797,7 +7797,7 @@
         "Jadhav"
       ],
       "price": 576.15,
-      "chg_pct": -1.06,
+      "chg_pct": 1.3,
       "vol_today": 156433,
       "vol_avg_3m": 255180,
       "vol_ratio": 0.61,
@@ -7920,7 +7920,7 @@
         "Mark"
       ],
       "price": 486.0,
-      "chg_pct": 0.4,
+      "chg_pct": 4.2,
       "vol_today": 6465417,
       "vol_avg_3m": 2008797,
       "vol_ratio": 3.22,
@@ -7994,7 +7994,7 @@
         "Jadhav"
       ],
       "price": 396.0,
-      "chg_pct": -1.41,
+      "chg_pct": -0.7,
       "vol_today": 1688856,
       "vol_avg_3m": 3122440,
       "vol_ratio": 0.54,
@@ -8019,7 +8019,7 @@
         "Mark"
       ],
       "price": 382.1,
-      "chg_pct": 1.92,
+      "chg_pct": 5.82,
       "vol_today": 98412,
       "vol_avg_3m": 152481,
       "vol_ratio": 0.65,
@@ -8044,7 +8044,7 @@
         "Jadhav"
       ],
       "price": 377.4,
-      "chg_pct": 1.55,
+      "chg_pct": 1.82,
       "vol_today": 556151,
       "vol_avg_3m": 1063353,
       "vol_ratio": 0.52,
@@ -8093,7 +8093,7 @@
         "Mark"
       ],
       "price": 352.25,
-      "chg_pct": 1.89,
+      "chg_pct": 10.04,
       "vol_today": 1476856,
       "vol_avg_3m": 508877,
       "vol_ratio": 2.9,
@@ -8190,7 +8190,7 @@
         "VCP"
       ],
       "price": 317.7,
-      "chg_pct": -0.33,
+      "chg_pct": 2.67,
       "vol_today": 644957,
       "vol_avg_3m": 2506574,
       "vol_ratio": 0.26,
@@ -8435,7 +8435,7 @@
         "Mark"
       ],
       "price": 7746.0,
-      "chg_pct": -1.43,
+      "chg_pct": 1.21,
       "vol_today": 101844,
       "vol_avg_3m": 69084,
       "vol_ratio": 1.47,
@@ -8459,7 +8459,7 @@
         "Mark"
       ],
       "price": 6963.0,
-      "chg_pct": 0.69,
+      "chg_pct": 2.79,
       "vol_today": 422964,
       "vol_avg_3m": 223105,
       "vol_ratio": 1.9,
@@ -8483,7 +8483,7 @@
         "Mark"
       ],
       "price": 2934.3,
-      "chg_pct": -0.02,
+      "chg_pct": 3.6,
       "vol_today": 11358,
       "vol_avg_3m": 12401,
       "vol_ratio": 0.92,
@@ -8507,7 +8507,7 @@
         "Mark"
       ],
       "price": 2841.2,
-      "chg_pct": 0.72,
+      "chg_pct": 5.96,
       "vol_today": 34869,
       "vol_avg_3m": 52259,
       "vol_ratio": 0.67,
@@ -8531,7 +8531,7 @@
         "Mark"
       ],
       "price": 2520.3,
-      "chg_pct": 0.71,
+      "chg_pct": 5.78,
       "vol_today": 220331,
       "vol_avg_3m": 180980,
       "vol_ratio": 1.22,
@@ -8579,7 +8579,7 @@
         "Mark"
       ],
       "price": 2004.5,
-      "chg_pct": -5.22,
+      "chg_pct": 5.48,
       "vol_today": 809248,
       "vol_avg_3m": 286276,
       "vol_ratio": 2.83,
@@ -8699,7 +8699,7 @@
         "Mark"
       ],
       "price": 1454.9,
-      "chg_pct": -1.32,
+      "chg_pct": -1.74,
       "vol_today": 824397,
       "vol_avg_3m": 200660,
       "vol_ratio": 4.11,
@@ -8723,7 +8723,7 @@
         "Mark"
       ],
       "price": 1373.0,
-      "chg_pct": 1.42,
+      "chg_pct": 3.54,
       "vol_today": 1500842,
       "vol_avg_3m": 759243,
       "vol_ratio": 1.98,
@@ -8771,7 +8771,7 @@
         "Mark"
       ],
       "price": 1248.3,
-      "chg_pct": 7.26,
+      "chg_pct": 7.11,
       "vol_today": 28282,
       "vol_avg_3m": 37460,
       "vol_ratio": 0.75,
@@ -8795,7 +8795,7 @@
         "Mark"
       ],
       "price": 1167.4,
-      "chg_pct": 4.33,
+      "chg_pct": 9.0,
       "vol_today": 19882,
       "vol_avg_3m": 16599,
       "vol_ratio": 1.2,
@@ -8819,7 +8819,7 @@
         "Mark"
       ],
       "price": 1092.0,
-      "chg_pct": 2.16,
+      "chg_pct": 6.94,
       "vol_today": 83704,
       "vol_avg_3m": 103773,
       "vol_ratio": 0.81,
@@ -8843,7 +8843,7 @@
         "Mark"
       ],
       "price": 1075.7,
-      "chg_pct": 4.57,
+      "chg_pct": 10.27,
       "vol_today": 166071,
       "vol_avg_3m": 162020,
       "vol_ratio": 1.03,
@@ -8867,7 +8867,7 @@
         "Mark"
       ],
       "price": 897.35,
-      "chg_pct": -3.65,
+      "chg_pct": -7.8,
       "vol_today": 19349,
       "vol_avg_3m": 6686,
       "vol_ratio": 2.89,
@@ -8915,7 +8915,7 @@
         "Mark"
       ],
       "price": 727.95,
-      "chg_pct": 2.0,
+      "chg_pct": 6.11,
       "vol_today": 13181,
       "vol_avg_3m": 13769,
       "vol_ratio": 0.96,
@@ -8939,7 +8939,7 @@
         "Mark"
       ],
       "price": 656.3,
-      "chg_pct": 0.24,
+      "chg_pct": 6.85,
       "vol_today": 309292,
       "vol_avg_3m": 337530,
       "vol_ratio": 0.92,
@@ -9035,7 +9035,7 @@
         "Mark"
       ],
       "price": 554.15,
-      "chg_pct": 3.14,
+      "chg_pct": 7.32,
       "vol_today": 276758,
       "vol_avg_3m": 1131626,
       "vol_ratio": 0.24,
@@ -9059,7 +9059,7 @@
         "Mark"
       ],
       "price": 467.35,
-      "chg_pct": -1.48,
+      "chg_pct": 8.6,
       "vol_today": 761217,
       "vol_avg_3m": 107068,
       "vol_ratio": 7.11,
@@ -9107,7 +9107,7 @@
         "Mark"
       ],
       "price": 387.75,
-      "chg_pct": -2.11,
+      "chg_pct": 7.42,
       "vol_today": 381955,
       "vol_avg_3m": 209857,
       "vol_ratio": 1.82,
@@ -9203,7 +9203,7 @@
         "Mark"
       ],
       "price": 244.34,
-      "chg_pct": -0.36,
+      "chg_pct": 1.93,
       "vol_today": 9561846,
       "vol_avg_3m": 6012730,
       "vol_ratio": 1.59,
@@ -9227,7 +9227,7 @@
         "Mark"
       ],
       "price": 208.49,
-      "chg_pct": 2.73,
+      "chg_pct": 13.75,
       "vol_today": 28149015,
       "vol_avg_3m": 3642300,
       "vol_ratio": 7.73,
@@ -9347,7 +9347,7 @@
         "Mark"
       ],
       "price": 68.51,
-      "chg_pct": -0.32,
+      "chg_pct": -0.28,
       "vol_today": 13410540,
       "vol_avg_3m": 13663452,
       "vol_ratio": 0.98,
@@ -9395,7 +9395,7 @@
         "Jadhav"
       ],
       "price": 211.91,
-      "chg_pct": -0.25,
+      "chg_pct": 1.25,
       "vol_today": 67632,
       "vol_avg_3m": 283848,
       "vol_ratio": 0.24,
@@ -9419,7 +9419,7 @@
         "Jadhav"
       ],
       "price": 106.03,
-      "chg_pct": 0.54,
+      "chg_pct": 3.92,
       "vol_today": 132349,
       "vol_avg_3m": 1882742,
       "vol_ratio": 0.07,
@@ -9516,7 +9516,7 @@
         "Jadhav"
       ],
       "price": 17732.0,
-      "chg_pct": 1.49,
+      "chg_pct": 4.08,
       "vol_today": 297,
       "vol_avg_3m": 6753,
       "vol_ratio": 0.04,
@@ -9540,7 +9540,7 @@
         "VCP"
       ],
       "price": 12816.0,
-      "chg_pct": -0.94,
+      "chg_pct": -0.05,
       "vol_today": 1683,
       "vol_avg_3m": 22210,
       "vol_ratio": 0.08,
@@ -9636,7 +9636,7 @@
         "VCP"
       ],
       "price": 7746.0,
-      "chg_pct": -1.43,
+      "chg_pct": 1.21,
       "vol_today": 3252,
       "vol_avg_3m": 70015,
       "vol_ratio": 0.05,
@@ -9660,7 +9660,7 @@
         "VCP"
       ],
       "price": 6129.0,
-      "chg_pct": 2.02,
+      "chg_pct": 3.03,
       "vol_today": 363,
       "vol_avg_3m": 4600,
       "vol_ratio": 0.08,
@@ -9685,7 +9685,7 @@
         "Jadhav"
       ],
       "price": 5334.5,
-      "chg_pct": 0.39,
+      "chg_pct": 5.1,
       "vol_today": 1189,
       "vol_avg_3m": 25207,
       "vol_ratio": 0.05,
@@ -9758,7 +9758,7 @@
         "VCP"
       ],
       "price": 4443.2,
-      "chg_pct": -2.54,
+      "chg_pct": 0.67,
       "vol_today": 245,
       "vol_avg_3m": 13535,
       "vol_ratio": 0.02,
@@ -9854,7 +9854,7 @@
         "VCP"
       ],
       "price": 4212.8,
-      "chg_pct": -0.29,
+      "chg_pct": 1.97,
       "vol_today": 35912,
       "vol_avg_3m": 326598,
       "vol_ratio": 0.11,
@@ -9879,7 +9879,7 @@
         "Jadhav"
       ],
       "price": 4297.5,
-      "chg_pct": 2.39,
+      "chg_pct": 7.99,
       "vol_today": 5744,
       "vol_avg_3m": 36431,
       "vol_ratio": 0.16,
@@ -10074,7 +10074,7 @@
         "Jadhav"
       ],
       "price": 2727.7,
-      "chg_pct": 0.65,
+      "chg_pct": 8.04,
       "vol_today": 17847,
       "vol_avg_3m": 122923,
       "vol_ratio": 0.15,
@@ -10122,7 +10122,7 @@
         "VCP"
       ],
       "price": 2677.2,
-      "chg_pct": 0.23,
+      "chg_pct": 3.37,
       "vol_today": 56571,
       "vol_avg_3m": 683444,
       "vol_ratio": 0.08,
@@ -10170,7 +10170,7 @@
         "VCP"
       ],
       "price": 2294.9,
-      "chg_pct": -2.98,
+      "chg_pct": -0.18,
       "vol_today": 3570,
       "vol_avg_3m": 62843,
       "vol_ratio": 0.06,
@@ -10194,7 +10194,7 @@
         "VCP"
       ],
       "price": 2385.0,
-      "chg_pct": 0.63,
+      "chg_pct": 0.48,
       "vol_today": 16645,
       "vol_avg_3m": 356611,
       "vol_ratio": 0.05,
@@ -10218,7 +10218,7 @@
         "VCP"
       ],
       "price": 2232.4,
-      "chg_pct": 0.73,
+      "chg_pct": 0.89,
       "vol_today": 30803,
       "vol_avg_3m": 187395,
       "vol_ratio": 0.16,
@@ -10266,7 +10266,7 @@
         "VCP"
       ],
       "price": 2171.0,
-      "chg_pct": 1.12,
+      "chg_pct": 0.75,
       "vol_today": 64315,
       "vol_avg_3m": 431684,
       "vol_ratio": 0.15,
@@ -10387,7 +10387,7 @@
         "Jadhav"
       ],
       "price": 2028.7,
-      "chg_pct": 0.61,
+      "chg_pct": 2.98,
       "vol_today": 33317,
       "vol_avg_3m": 284169,
       "vol_ratio": 0.12,
@@ -10485,7 +10485,7 @@
         "Jadhav"
       ],
       "price": 1890.4,
-      "chg_pct": -1.52,
+      "chg_pct": 6.15,
       "vol_today": 27180,
       "vol_avg_3m": 118820,
       "vol_ratio": 0.23,
@@ -10654,7 +10654,7 @@
         "VCP"
       ],
       "price": 1786.5,
-      "chg_pct": 2.83,
+      "chg_pct": 0.58,
       "vol_today": 2277,
       "vol_avg_3m": 109771,
       "vol_ratio": 0.02,
@@ -10702,7 +10702,7 @@
         "VCP"
       ],
       "price": 1635.9,
-      "chg_pct": 2.88,
+      "chg_pct": 4.74,
       "vol_today": 10254,
       "vol_avg_3m": 343040,
       "vol_ratio": 0.03,
@@ -10774,7 +10774,7 @@
         "VCP"
       ],
       "price": 1454.9,
-      "chg_pct": -1.32,
+      "chg_pct": -1.74,
       "vol_today": 78790,
       "vol_avg_3m": 213030,
       "vol_ratio": 0.37,
@@ -10799,7 +10799,7 @@
         "Jadhav"
       ],
       "price": 1491.0,
-      "chg_pct": 3.96,
+      "chg_pct": 9.35,
       "vol_today": 30324,
       "vol_avg_3m": 340970,
       "vol_ratio": 0.09,
@@ -10848,7 +10848,7 @@
         "Jadhav"
       ],
       "price": 1391.8,
-      "chg_pct": 3.59,
+      "chg_pct": 3.96,
       "vol_today": 20874,
       "vol_avg_3m": 181728,
       "vol_ratio": 0.11,
@@ -10872,7 +10872,7 @@
         "VCP"
       ],
       "price": 1318.0,
-      "chg_pct": 0.8,
+      "chg_pct": -0.4,
       "vol_today": 10591,
       "vol_avg_3m": 374264,
       "vol_ratio": 0.03,
@@ -10896,7 +10896,7 @@
         "VCP"
       ],
       "price": 1165.45,
-      "chg_pct": -0.1,
+      "chg_pct": -0.19,
       "vol_today": 20296,
       "vol_avg_3m": 337375,
       "vol_ratio": 0.06,
@@ -10944,7 +10944,7 @@
         "VCP"
       ],
       "price": 1149.0,
-      "chg_pct": -0.5,
+      "chg_pct": -1.32,
       "vol_today": 23043,
       "vol_avg_3m": 233885,
       "vol_ratio": 0.1,
@@ -10968,7 +10968,7 @@
         "VCP"
       ],
       "price": 1078.8,
-      "chg_pct": 1.31,
+      "chg_pct": -0.82,
       "vol_today": 980235,
       "vol_avg_3m": 7121964,
       "vol_ratio": 0.14,
@@ -10993,7 +10993,7 @@
         "Jadhav"
       ],
       "price": 1075.7,
-      "chg_pct": 4.57,
+      "chg_pct": 10.27,
       "vol_today": 16908,
       "vol_avg_3m": 163495,
       "vol_ratio": 0.1,
@@ -11092,7 +11092,7 @@
         "Jadhav"
       ],
       "price": 922.35,
-      "chg_pct": -1.66,
+      "chg_pct": 1.44,
       "vol_today": 12314,
       "vol_avg_3m": 315984,
       "vol_ratio": 0.04,
@@ -11212,7 +11212,7 @@
         "VCP"
       ],
       "price": 881.2,
-      "chg_pct": -0.01,
+      "chg_pct": -0.38,
       "vol_today": 12610,
       "vol_avg_3m": 1124909,
       "vol_ratio": 0.01,
@@ -11237,7 +11237,7 @@
         "Jadhav"
       ],
       "price": 769.85,
-      "chg_pct": 0.52,
+      "chg_pct": 4.75,
       "vol_today": 29306,
       "vol_avg_3m": 311793,
       "vol_ratio": 0.09,
@@ -11262,7 +11262,7 @@
         "Jadhav"
       ],
       "price": 749.65,
-      "chg_pct": 1.87,
+      "chg_pct": 0.31,
       "vol_today": 8531,
       "vol_avg_3m": 231072,
       "vol_ratio": 0.04,
@@ -11286,7 +11286,7 @@
         "VCP"
       ],
       "price": 734.2,
-      "chg_pct": -1.62,
+      "chg_pct": -1.49,
       "vol_today": 5551,
       "vol_avg_3m": 105818,
       "vol_ratio": 0.05,
@@ -11360,7 +11360,7 @@
         "Jadhav"
       ],
       "price": 720.4,
-      "chg_pct": 0.8,
+      "chg_pct": 1.36,
       "vol_today": 40251,
       "vol_avg_3m": 410872,
       "vol_ratio": 0.1,
@@ -11384,7 +11384,7 @@
         "VCP"
       ],
       "price": 736.5,
-      "chg_pct": 2.42,
+      "chg_pct": 4.03,
       "vol_today": 60219,
       "vol_avg_3m": 707937,
       "vol_ratio": 0.09,
@@ -11408,7 +11408,7 @@
         "VCP"
       ],
       "price": 700.45,
-      "chg_pct": -0.45,
+      "chg_pct": 0.5,
       "vol_today": 29971,
       "vol_avg_3m": 401307,
       "vol_ratio": 0.07,
@@ -11432,7 +11432,7 @@
         "VCP"
       ],
       "price": 714.8,
-      "chg_pct": 1.45,
+      "chg_pct": 0.3,
       "vol_today": 14875,
       "vol_avg_3m": 431884,
       "vol_ratio": 0.03,
@@ -11481,7 +11481,7 @@
         "Jadhav"
       ],
       "price": 655.2,
-      "chg_pct": -0.08,
+      "chg_pct": 2.88,
       "vol_today": 8810,
       "vol_avg_3m": 76349,
       "vol_ratio": 0.12,
@@ -11505,7 +11505,7 @@
         "VCP"
       ],
       "price": 664.7,
-      "chg_pct": 1.68,
+      "chg_pct": 1.4,
       "vol_today": 11434,
       "vol_avg_3m": 206197,
       "vol_ratio": 0.06,
@@ -11529,7 +11529,7 @@
         "VCP"
       ],
       "price": 650.65,
-      "chg_pct": 2.28,
+      "chg_pct": 9.78,
       "vol_today": 16701,
       "vol_avg_3m": 1667651,
       "vol_ratio": 0.01,
@@ -11578,7 +11578,7 @@
         "Jadhav"
       ],
       "price": 648.3,
-      "chg_pct": 5.68,
+      "chg_pct": 5.43,
       "vol_today": 17521,
       "vol_avg_3m": 299827,
       "vol_ratio": 0.06,
@@ -11627,7 +11627,7 @@
         "VCP"
       ],
       "price": 588.4,
-      "chg_pct": 7.09,
+      "chg_pct": 6.19,
       "vol_today": 13613,
       "vol_avg_3m": 136481,
       "vol_ratio": 0.1,
@@ -11676,7 +11676,7 @@
         "Jadhav"
       ],
       "price": 550.9,
-      "chg_pct": 0.02,
+      "chg_pct": 1.87,
       "vol_today": 11860,
       "vol_avg_3m": 477599,
       "vol_ratio": 0.02,
@@ -11724,7 +11724,7 @@
         "VCP"
       ],
       "price": 542.8,
-      "chg_pct": 7.57,
+      "chg_pct": 10.81,
       "vol_today": 133193,
       "vol_avg_3m": 1191560,
       "vol_ratio": 0.11,
@@ -11749,7 +11749,7 @@
         "Jadhav"
       ],
       "price": 510.65,
-      "chg_pct": 0.59,
+      "chg_pct": -1.01,
       "vol_today": 4917,
       "vol_avg_3m": 135886,
       "vol_ratio": 0.04,
@@ -11797,7 +11797,7 @@
         "VCP"
       ],
       "price": 467.35,
-      "chg_pct": -1.48,
+      "chg_pct": 8.6,
       "vol_today": 106392,
       "vol_avg_3m": 117888,
       "vol_ratio": 0.9,
@@ -11822,7 +11822,7 @@
         "Jadhav"
       ],
       "price": 458.05,
-      "chg_pct": 1.37,
+      "chg_pct": 0.2,
       "vol_today": 2650,
       "vol_avg_3m": 149676,
       "vol_ratio": 0.02,
@@ -11846,7 +11846,7 @@
         "VCP"
       ],
       "price": 429.95,
-      "chg_pct": -0.41,
+      "chg_pct": 2.1,
       "vol_today": 39441,
       "vol_avg_3m": 412679,
       "vol_ratio": 0.1,
@@ -11919,7 +11919,7 @@
         "VCP"
       ],
       "price": 430.9,
-      "chg_pct": 2.71,
+      "chg_pct": 2.52,
       "vol_today": 19374,
       "vol_avg_3m": 1174177,
       "vol_ratio": 0.02,
@@ -11943,7 +11943,7 @@
         "VCP"
       ],
       "price": 415.45,
-      "chg_pct": 2.55,
+      "chg_pct": 1.81,
       "vol_today": 37887,
       "vol_avg_3m": 862667,
       "vol_ratio": 0.04,
@@ -11992,7 +11992,7 @@
         "Jadhav"
       ],
       "price": 396.0,
-      "chg_pct": -1.41,
+      "chg_pct": -0.7,
       "vol_today": 192355,
       "vol_avg_3m": 3111416,
       "vol_ratio": 0.06,
@@ -12042,7 +12042,7 @@
         "Jadhav"
       ],
       "price": 377.4,
-      "chg_pct": 1.55,
+      "chg_pct": 1.82,
       "vol_today": 175440,
       "vol_avg_3m": 1050045,
       "vol_ratio": 0.17,
@@ -12066,7 +12066,7 @@
         "VCP"
       ],
       "price": 382.1,
-      "chg_pct": 1.92,
+      "chg_pct": 5.82,
       "vol_today": 4181,
       "vol_avg_3m": 152220,
       "vol_ratio": 0.03,
@@ -12114,7 +12114,7 @@
         "VCP"
       ],
       "price": 370.55,
-      "chg_pct": 1.63,
+      "chg_pct": 1.31,
       "vol_today": 129017,
       "vol_avg_3m": 6526553,
       "vol_ratio": 0.02,
@@ -12258,7 +12258,7 @@
         "VCP"
       ],
       "price": 345.85,
-      "chg_pct": 1.95,
+      "chg_pct": 2.23,
       "vol_today": 72397,
       "vol_avg_3m": 3063476,
       "vol_ratio": 0.02,
@@ -12282,7 +12282,7 @@
         "VCP"
       ],
       "price": 317.7,
-      "chg_pct": -0.33,
+      "chg_pct": 2.67,
       "vol_today": 296198,
       "vol_avg_3m": 2503491,
       "vol_ratio": 0.12,
@@ -12306,7 +12306,7 @@
         "VCP"
       ],
       "price": 314.5,
-      "chg_pct": -0.32,
+      "chg_pct": 2.61,
       "vol_today": 48574,
       "vol_avg_3m": 367345,
       "vol_ratio": 0.13,
@@ -12403,7 +12403,7 @@
         "VCP"
       ],
       "price": 266.05,
-      "chg_pct": 2.3,
+      "chg_pct": 1.35,
       "vol_today": 18119,
       "vol_avg_3m": 498759,
       "vol_ratio": 0.04,
@@ -12525,7 +12525,7 @@
         "Jadhav"
       ],
       "price": 208.66,
-      "chg_pct": 0.45,
+      "chg_pct": 3.72,
       "vol_today": 306579,
       "vol_avg_3m": 2484728,
       "vol_ratio": 0.12,
@@ -12549,7 +12549,7 @@
         "VCP"
       ],
       "price": 171.25,
-      "chg_pct": -1.93,
+      "chg_pct": -2.31,
       "vol_today": 76010,
       "vol_avg_3m": 1893291,
       "vol_ratio": 0.04,
@@ -12573,7 +12573,7 @@
         "VCP"
       ],
       "price": 167.07,
-      "chg_pct": 1.95,
+      "chg_pct": 2.25,
       "vol_today": 573532,
       "vol_avg_3m": 3962896,
       "vol_ratio": 0.14,
@@ -12597,7 +12597,7 @@
         "VCP"
       ],
       "price": 159.03,
-      "chg_pct": -2.16,
+      "chg_pct": 1.86,
       "vol_today": 112861,
       "vol_avg_3m": 679214,
       "vol_ratio": 0.17,
@@ -12646,7 +12646,7 @@
         "VCP"
       ],
       "price": 141.15,
-      "chg_pct": -0.47,
+      "chg_pct": -0.22,
       "vol_today": 79416,
       "vol_avg_3m": 1096144,
       "vol_ratio": 0.07,
@@ -12670,7 +12670,7 @@
         "VCP"
       ],
       "price": 137.42,
-      "chg_pct": 2.88,
+      "chg_pct": 0.35,
       "vol_today": 152464,
       "vol_avg_3m": 2276952,
       "vol_ratio": 0.07,
@@ -12719,7 +12719,7 @@
         "VCP"
       ],
       "price": 68.51,
-      "chg_pct": -0.32,
+      "chg_pct": -0.28,
       "vol_today": 388192,
       "vol_avg_3m": 13160423,
       "vol_ratio": 0.03,
@@ -12792,7 +12792,7 @@
         "Jadhav"
       ],
       "price": 43.43,
-      "chg_pct": 2.36,
+      "chg_pct": 3.31,
       "vol_today": 88039,
       "vol_avg_3m": 637613,
       "vol_ratio": 0.14,
@@ -12816,7 +12816,7 @@
         "Jadhav"
       ],
       "price": 1248.3,
-      "chg_pct": 7.26,
+      "chg_pct": 7.11,
       "vol_today": 9491,
       "vol_avg_3m": 37468,
       "vol_ratio": 0.25,
@@ -12864,7 +12864,7 @@
         "Jadhav"
       ],
       "price": 211.91,
-      "chg_pct": -0.25,
+      "chg_pct": 1.25,
       "vol_today": 16413,
       "vol_avg_3m": 274387,
       "vol_ratio": 0.06,
@@ -12888,7 +12888,7 @@
         "Jadhav"
       ],
       "price": 106.03,
-      "chg_pct": 0.54,
+      "chg_pct": 3.92,
       "vol_today": 20130,
       "vol_avg_3m": 1881535,
       "vol_ratio": 0.01,
@@ -12962,7 +12962,7 @@
         "Jadhav"
       ],
       "price": 6296.5,
-      "chg_pct": 1.97,
+      "chg_pct": 5.67,
       "vol_today": 20048,
       "vol_avg_3m": 21387,
       "vol_ratio": 0.94,
@@ -12986,7 +12986,7 @@
         "VCP"
       ],
       "price": 4304.4,
-      "chg_pct": -3.73,
+      "chg_pct": -2.86,
       "vol_today": 3054,
       "vol_avg_3m": 14044,
       "vol_ratio": 0.22,
@@ -13011,7 +13011,7 @@
         "Jadhav"
       ],
       "price": 2833.1,
-      "chg_pct": -0.68,
+      "chg_pct": 2.75,
       "vol_today": 808,
       "vol_avg_3m": 19488,
       "vol_ratio": 0.04,
@@ -13035,7 +13035,7 @@
         "VCP"
       ],
       "price": 1811.0,
-      "chg_pct": 0.22,
+      "chg_pct": 1.43,
       "vol_today": 100465,
       "vol_avg_3m": 369619,
       "vol_ratio": 0.27,
@@ -13059,7 +13059,7 @@
         "VCP"
       ],
       "price": 1332.3,
-      "chg_pct": 0.89,
+      "chg_pct": 2.44,
       "vol_today": 233706,
       "vol_avg_3m": 532402,
       "vol_ratio": 0.44,
@@ -13108,7 +13108,7 @@
         "VCP"
       ],
       "price": 823.05,
-      "chg_pct": 2.13,
+      "chg_pct": 3.81,
       "vol_today": 100480,
       "vol_avg_3m": 278265,
       "vol_ratio": 0.36,
@@ -13132,7 +13132,7 @@
         "VCP"
       ],
       "price": 644.2,
-      "chg_pct": 2.12,
+      "chg_pct": 2.15,
       "vol_today": 51812,
       "vol_avg_3m": 407699,
       "vol_ratio": 0.13,
@@ -13157,7 +13157,7 @@
         "Jadhav"
       ],
       "price": 638.7,
-      "chg_pct": 3.07,
+      "chg_pct": 9.8,
       "vol_today": 13334,
       "vol_avg_3m": 37428,
       "vol_ratio": 0.36,
@@ -13181,7 +13181,7 @@
         "VCP"
       ],
       "price": 535.75,
-      "chg_pct": -1.44,
+      "chg_pct": -3.26,
       "vol_today": 506500,
       "vol_avg_3m": 613790,
       "vol_ratio": 0.83,
@@ -13206,7 +13206,7 @@
         "Jadhav"
       ],
       "price": 477.25,
-      "chg_pct": 3.41,
+      "chg_pct": -0.05,
       "vol_today": 84340,
       "vol_avg_3m": 561661,
       "vol_ratio": 0.15,
@@ -13304,7 +13304,7 @@
         "Jadhav"
       ],
       "price": 375.75,
-      "chg_pct": 1.23,
+      "chg_pct": 3.73,
       "vol_today": 28264,
       "vol_avg_3m": 317311,
       "vol_ratio": 0.09,
@@ -13328,7 +13328,7 @@
         "VCP"
       ],
       "price": 352.25,
-      "chg_pct": 1.89,
+      "chg_pct": 10.04,
       "vol_today": 209283,
       "vol_avg_3m": 526133,
       "vol_ratio": 0.4,
@@ -13376,7 +13376,7 @@
         "VCP"
       ],
       "price": 208.49,
-      "chg_pct": 2.73,
+      "chg_pct": 13.75,
       "vol_today": 2595986,
       "vol_avg_3m": 4078112,
       "vol_ratio": 0.64,
@@ -13449,7 +13449,7 @@
         "Jadhav"
       ],
       "price": 158.76,
-      "chg_pct": 1.12,
+      "chg_pct": 1.57,
       "vol_today": 227415,
       "vol_avg_3m": 977944,
       "vol_ratio": 0.23,
@@ -13570,7 +13570,7 @@
         "Mark"
       ],
       "price": 1167.4,
-      "chg_pct": 4.33,
+      "chg_pct": 9.0,
       "vol_today": 17704,
       "vol_avg_3m": 16890,
       "vol_ratio": 1.05,
@@ -13594,7 +13594,7 @@
         "Mark"
       ],
       "price": 1096.5,
-      "chg_pct": -0.51,
+      "chg_pct": 3.89,
       "vol_today": 18731,
       "vol_avg_3m": 25407,
       "vol_ratio": 0.74,
@@ -13738,7 +13738,7 @@
         "Mark"
       ],
       "price": 171.75,
-      "chg_pct": 1.45,
+      "chg_pct": 2.92,
       "vol_today": 51443,
       "vol_avg_3m": 74302,
       "vol_ratio": 0.69,
@@ -13835,7 +13835,7 @@
         "Mark"
       ],
       "price": 2075.2,
-      "chg_pct": 6.12,
+      "chg_pct": 8.41,
       "vol_today": 23274,
       "vol_avg_3m": 7671,
       "vol_ratio": 3.03,
@@ -13884,7 +13884,7 @@
         "Jadhav"
       ],
       "price": 1429.0,
-      "chg_pct": 0.13,
+      "chg_pct": 2.98,
       "vol_today": 212479,
       "vol_avg_3m": 283339,
       "vol_ratio": 0.75,
@@ -13909,7 +13909,7 @@
         "Jadhav"
       ],
       "price": 1429.4,
-      "chg_pct": 3.5,
+      "chg_pct": 3.33,
       "vol_today": 90436,
       "vol_avg_3m": 300143,
       "vol_ratio": 0.3,
@@ -13934,7 +13934,7 @@
         "Mark"
       ],
       "price": 873.05,
-      "chg_pct": 4.46,
+      "chg_pct": 5.52,
       "vol_today": 275376,
       "vol_avg_3m": 174843,
       "vol_ratio": 1.57,
@@ -14033,7 +14033,7 @@
         "Jadhav"
       ],
       "price": 685.65,
-      "chg_pct": 0.26,
+      "chg_pct": 0.59,
       "vol_today": 153141,
       "vol_avg_3m": 190708,
       "vol_ratio": 0.8,
@@ -14081,7 +14081,7 @@
         "VCP"
       ],
       "price": 486.0,
-      "chg_pct": 0.4,
+      "chg_pct": 4.2,
       "vol_today": 1243932,
       "vol_avg_3m": 2100107,
       "vol_ratio": 0.59,
@@ -14229,7 +14229,7 @@
         "Mark"
       ],
       "price": 2841.2,
-      "chg_pct": 0.72,
+      "chg_pct": 5.96,
       "vol_today": 32468,
       "vol_avg_3m": 52511,
       "vol_ratio": 0.62,
@@ -14301,7 +14301,7 @@
         "Mark"
       ],
       "price": 2198.0,
-      "chg_pct": 0.77,
+      "chg_pct": 0.58,
       "vol_today": 727497,
       "vol_avg_3m": 638676,
       "vol_ratio": 1.14,
@@ -14349,7 +14349,7 @@
         "Mark"
       ],
       "price": 1949.1,
-      "chg_pct": -0.64,
+      "chg_pct": 1.56,
       "vol_today": 105593,
       "vol_avg_3m": 36236,
       "vol_ratio": 2.91,
@@ -14421,7 +14421,7 @@
         "Mark"
       ],
       "price": 1523.1,
-      "chg_pct": 0.61,
+      "chg_pct": 4.37,
       "vol_today": 10605,
       "vol_avg_3m": 10863,
       "vol_ratio": 0.98,
@@ -14445,7 +14445,7 @@
         "Mark"
       ],
       "price": 1488.6,
-      "chg_pct": 1.83,
+      "chg_pct": 3.06,
       "vol_today": 31515,
       "vol_avg_3m": 65270,
       "vol_ratio": 0.48,
@@ -14517,7 +14517,7 @@
         "Mark"
       ],
       "price": 1373.0,
-      "chg_pct": 1.42,
+      "chg_pct": 3.54,
       "vol_today": 2047774,
       "vol_avg_3m": 775590,
       "vol_ratio": 2.64,
@@ -14589,7 +14589,7 @@
         "Mark"
       ],
       "price": 1164.1,
-      "chg_pct": 10.47,
+      "chg_pct": 9.14,
       "vol_today": 588194,
       "vol_avg_3m": 376657,
       "vol_ratio": 1.56,
@@ -14613,7 +14613,7 @@
         "Mark"
       ],
       "price": 1088.05,
-      "chg_pct": 3.05,
+      "chg_pct": 5.18,
       "vol_today": 297520,
       "vol_avg_3m": 171540,
       "vol_ratio": 1.73,
@@ -14637,7 +14637,7 @@
         "Mark"
       ],
       "price": 941.6,
-      "chg_pct": 4.36,
+      "chg_pct": 3.1,
       "vol_today": 210518,
       "vol_avg_3m": 135718,
       "vol_ratio": 1.55,
@@ -14661,7 +14661,7 @@
         "Mark"
       ],
       "price": 920.85,
-      "chg_pct": 5.63,
+      "chg_pct": 7.41,
       "vol_today": 78487,
       "vol_avg_3m": 63867,
       "vol_ratio": 1.23,
@@ -14685,7 +14685,7 @@
         "Mark"
       ],
       "price": 897.35,
-      "chg_pct": -3.65,
+      "chg_pct": -7.8,
       "vol_today": 41414,
       "vol_avg_3m": 6951,
       "vol_ratio": 5.96,
@@ -14709,7 +14709,7 @@
         "Mark"
       ],
       "price": 798.5,
-      "chg_pct": 8.08,
+      "chg_pct": 12.33,
       "vol_today": 943970,
       "vol_avg_3m": 1174892,
       "vol_ratio": 0.8,
@@ -14757,7 +14757,7 @@
         "Mark"
       ],
       "price": 668.45,
-      "chg_pct": 3.15,
+      "chg_pct": 5.48,
       "vol_today": 792009,
       "vol_avg_3m": 598032,
       "vol_ratio": 1.32,
@@ -14805,7 +14805,7 @@
         "Mark"
       ],
       "price": 648.9,
-      "chg_pct": -2.23,
+      "chg_pct": -0.6,
       "vol_today": 694594,
       "vol_avg_3m": 663122,
       "vol_ratio": 1.05,
@@ -14829,7 +14829,7 @@
         "Mark"
       ],
       "price": 554.15,
-      "chg_pct": 3.14,
+      "chg_pct": 7.32,
       "vol_today": 461423,
       "vol_avg_3m": 333967,
       "vol_ratio": 1.38,
@@ -14853,7 +14853,7 @@
         "Mark"
       ],
       "price": 462.9,
-      "chg_pct": 5.12,
+      "chg_pct": 8.32,
       "vol_today": 100741,
       "vol_avg_3m": 104074,
       "vol_ratio": 0.97,
@@ -14949,7 +14949,7 @@
         "Mark"
       ],
       "price": 329.8,
-      "chg_pct": 2.92,
+      "chg_pct": 4.04,
       "vol_today": 5643020,
       "vol_avg_3m": 2280617,
       "vol_ratio": 2.47,
@@ -14997,7 +14997,7 @@
         "Mark"
       ],
       "price": 299.75,
-      "chg_pct": 1.51,
+      "chg_pct": 1.64,
       "vol_today": 87348,
       "vol_avg_3m": 100397,
       "vol_ratio": 0.87,
@@ -15021,7 +15021,7 @@
         "Mark"
       ],
       "price": 297.65,
-      "chg_pct": 2.51,
+      "chg_pct": 2.23,
       "vol_today": 84322,
       "vol_avg_3m": 121662,
       "vol_ratio": 0.69,
@@ -15045,7 +15045,7 @@
         "Mark"
       ],
       "price": 266.19,
-      "chg_pct": 4.34,
+      "chg_pct": 7.99,
       "vol_today": 939379,
       "vol_avg_3m": 1165084,
       "vol_ratio": 0.81,
@@ -15093,7 +15093,7 @@
         "Mark"
       ],
       "price": 244.34,
-      "chg_pct": -0.36,
+      "chg_pct": 1.93,
       "vol_today": 8285174,
       "vol_avg_3m": 6128892,
       "vol_ratio": 1.35,
@@ -15117,7 +15117,7 @@
         "Mark"
       ],
       "price": 236.76,
-      "chg_pct": -3.45,
+      "chg_pct": -2.88,
       "vol_today": 1264140,
       "vol_avg_3m": 936102,
       "vol_ratio": 1.35,
@@ -15141,7 +15141,7 @@
         "Mark"
       ],
       "price": 228.06,
-      "chg_pct": 0.83,
+      "chg_pct": 1.63,
       "vol_today": 612988,
       "vol_avg_3m": 468647,
       "vol_ratio": 1.31,
@@ -15261,7 +15261,7 @@
         "Mark"
       ],
       "price": 124.96,
-      "chg_pct": 1.75,
+      "chg_pct": 2.38,
       "vol_today": 844489,
       "vol_avg_3m": 494574,
       "vol_ratio": 1.71,
@@ -15285,7 +15285,7 @@
         "Mark"
       ],
       "price": 95.82,
-      "chg_pct": -4.31,
+      "chg_pct": -3.84,
       "vol_today": 3807902,
       "vol_avg_3m": 768527,
       "vol_ratio": 4.95,
@@ -15351,5 +15351,5 @@
     "signal_emoji": "🟢",
     "updated": "2026-11-11 15:20"
   },
-  "price_updated_at": "2026-11-11 15:47 IST"
+  "price_updated_at": "2026-11-12 08:50 IST"
 }
