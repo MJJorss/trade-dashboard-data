@@ -1,40 +1,40 @@
 {
-  "updated": "2026-11-11T15:11:27.507953+05:30",
-  "sample_size": 1958,
+  "updated": "2026-11-12T15:32:17.810956+05:30",
+  "sample_size": 1988,
   "slices": {
     "h5": {
       "overall": {
-        "n": 985,
-        "win_rate_pct": 46.2,
+        "n": 1015,
+        "win_rate_pct": 45.9,
         "mean_excess_return_pct": -0.17,
-        "median_excess_return_pct": -0.43
+        "median_excess_return_pct": -0.46
       },
       "by_score_band": {
         "80-100": {
-          "n": 40,
-          "win_rate_pct": 47.5,
-          "mean_excess_return_pct": -1.24,
-          "median_excess_return_pct": -0.92
+          "n": 41,
+          "win_rate_pct": 48.8,
+          "mean_excess_return_pct": -0.91,
+          "median_excess_return_pct": -0.63
         },
         "65-79": {
-          "n": 147,
-          "win_rate_pct": 46.9,
-          "mean_excess_return_pct": 0.02,
-          "median_excess_return_pct": -0.53
+          "n": 160,
+          "win_rate_pct": 46.2,
+          "mean_excess_return_pct": -0.07,
+          "median_excess_return_pct": -0.74
         },
         "40-64": {
-          "n": 798,
-          "win_rate_pct": 46.0,
+          "n": 814,
+          "win_rate_pct": 45.7,
           "mean_excess_return_pct": -0.15,
-          "median_excess_return_pct": -0.42
+          "median_excess_return_pct": -0.44
         }
       },
       "by_materiality_source": {
         "PDF": {
-          "n": 321,
-          "win_rate_pct": 40.8,
-          "mean_excess_return_pct": -0.82,
-          "median_excess_return_pct": -1.23
+          "n": 343,
+          "win_rate_pct": 40.2,
+          "mean_excess_return_pct": -0.83,
+          "median_excess_return_pct": -1.29
         },
         "HEADLINE-ONLY": {
           "n": 19,
@@ -45,30 +45,30 @@
       },
       "by_super_signal": {
         "super_signal": {
-          "n": 33,
-          "win_rate_pct": 36.4,
-          "mean_excess_return_pct": -2.82,
-          "median_excess_return_pct": -2.49
+          "n": 36,
+          "win_rate_pct": 38.9,
+          "mean_excess_return_pct": -2.24,
+          "median_excess_return_pct": -2.32
         },
         "not_super_signal": {
-          "n": 952,
-          "win_rate_pct": 46.5,
-          "mean_excess_return_pct": -0.08,
-          "median_excess_return_pct": -0.38
+          "n": 979,
+          "win_rate_pct": 46.2,
+          "mean_excess_return_pct": -0.09,
+          "median_excess_return_pct": -0.43
         }
       },
       "by_materiality_label": {
         "UNKNOWN": {
-          "n": 638,
+          "n": 646,
           "win_rate_pct": 48.9,
-          "mean_excess_return_pct": 0.17,
+          "mean_excess_return_pct": 0.19,
           "median_excess_return_pct": -0.12
         },
         "SIGNIFICANT": {
-          "n": 54,
-          "win_rate_pct": 31.5,
-          "mean_excess_return_pct": -1.24,
-          "median_excess_return_pct": -2.01
+          "n": 59,
+          "win_rate_pct": 32.2,
+          "mean_excess_return_pct": -1.08,
+          "median_excess_return_pct": -2.07
         },
         "IMMATERIAL": {
           "n": 53,
@@ -77,22 +77,22 @@
           "median_excess_return_pct": 0.05
         },
         "TRANSFORMATIVE": {
-          "n": 75,
-          "win_rate_pct": 41.3,
-          "mean_excess_return_pct": -0.67,
-          "median_excess_return_pct": -1.23
+          "n": 80,
+          "win_rate_pct": 38.8,
+          "mean_excess_return_pct": -0.93,
+          "median_excess_return_pct": -1.5
         },
         "MODERATE": {
-          "n": 89,
-          "win_rate_pct": 46.1,
-          "mean_excess_return_pct": -0.52,
-          "median_excess_return_pct": -1.01
+          "n": 96,
+          "win_rate_pct": 45.8,
+          "mean_excess_return_pct": -0.6,
+          "median_excess_return_pct": -1.02
         },
         "MAJOR": {
-          "n": 69,
-          "win_rate_pct": 36.2,
-          "mean_excess_return_pct": -1.9,
-          "median_excess_return_pct": -1.72
+          "n": 74,
+          "win_rate_pct": 36.5,
+          "mean_excess_return_pct": -1.6,
+          "median_excess_return_pct": -1.69
         },
         "UNVERIFIED": {
           "n": 1,
