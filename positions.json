@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 68.54,
-      "unrealised_pct": 6.07
+      "current_price": 68.39,
+      "unrealised_pct": 5.83
     },
     {
       "symbol": "KARURVYSYA",
@@ -37,7 +37,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 328.89,
       "stop_unlocked": false,
-      "high_since_entry": 386.2,
+      "high_since_entry": 387.3,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "LOW",
       "rs_composite": 10.6,
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 383.0,
-      "unrealised_pct": 8.3
+      "current_price": 385.75,
+      "unrealised_pct": 9.08
     },
     {
       "symbol": "NYKAA",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 353.8,
-      "unrealised_pct": 3.56
+      "current_price": 353.85,
+      "unrealised_pct": 3.57
     },
     {
       "symbol": "CUPID",
@@ -94,8 +94,8 @@
       "entry_time": "09:27",
       "entry_date": "2026-10-30",
       "stop_price": 302.44,
-      "stop_unlocked": false,
-      "high_since_entry": 352.85,
+      "stop_unlocked": true,
+      "high_since_entry": 389.0,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 26.64,
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 0.5,
       "price_source": "live",
-      "current_price": 350.6,
-      "unrealised_pct": 7.81
+      "current_price": 388.2,
+      "unrealised_pct": 19.37
     },
     {
       "symbol": "THELEELA",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 652.85,
-      "unrealised_pct": -5.66
+      "current_price": 661.55,
+      "unrealised_pct": -4.4
     },
     {
       "symbol": "TBZ",
@@ -153,7 +153,7 @@
       "entry_date": "2026-11-09",
       "stop_price": 590.55,
       "stop_unlocked": false,
-      "high_since_entry": 663.0,
+      "high_since_entry": 665.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 98.06,
@@ -171,51 +171,41 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 654.4,
-      "unrealised_pct": 3.06
+      "current_price": 653.0,
+      "unrealised_pct": 2.83
     },
     {
-      "symbol": "TFCILTD",
+      "symbol": "SSWL",
       "scanner": "VCP Breakout",
-      "entry_price": 149.38,
-      "entry_time": "11:25",
-      "entry_date": "2026-10-09",
-      "stop_price": 138.92,
-      "stop_unlocked": true,
-      "high_since_entry": 172.0,
+      "entry_price": 559.4,
+      "entry_time": "09:27",
+      "entry_date": "2026-11-12",
+      "stop_price": 520.24,
+      "stop_unlocked": false,
+      "high_since_entry": 566.3,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
-      "rs_composite": 59.11,
+      "rs_composite": 54.95,
       "rs_benchmark": "Nifty 50",
       "rs_stale": false,
       "rs_stale_days": 0,
       "universe_rs_tier": "HIGH",
-      "status": "closed",
-      "capital_allocated": 145971,
-      "qty": 977,
-      "risk_inr": 10218,
+      "status": "open",
+      "capital_allocated": 138229,
+      "qty": 247,
+      "risk_inr": 9676,
       "risk_pct_applied": 0.75,
       "stop_pct": 7.0,
-      "capital_base_at_entry": 1362349,
+      "capital_base_at_entry": 1290196,
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 168.4,
-      "unrealised_pct": 12.73,
-      "exit_price": 166.62,
-      "exit_reason": "SI Crossover \ud83d\udd35",
-      "exit_time": "15:02",
-      "exit_date": "2026-11-11",
-      "pnl_pct": 11.54,
-      "pnl_inr": 16845,
-      "hold_days": 33,
-      "capital_per_slot": 145971
+      "current_price": 562.85,
+      "unrealised_pct": 0.62
     }
   ],
-  "last_updated": "2026-11-11 15:02 IST",
+  "last_updated": "2026-11-12 09:27 IST",
   "closed_today_map": {
-    "2026-11-11": [
-      "TFCILTD"
-    ]
+    "2026-11-12": []
   }
 }
