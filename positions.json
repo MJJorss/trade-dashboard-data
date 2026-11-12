@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 69.96,
-      "unrealised_pct": 8.26
+      "current_price": 69.82,
+      "unrealised_pct": 8.05
     },
     {
       "symbol": "KARURVYSYA",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 379.3,
-      "unrealised_pct": 7.25
+      "current_price": 381.8,
+      "unrealised_pct": 7.96
     },
     {
       "symbol": "NYKAA",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 361.15,
-      "unrealised_pct": 5.71
+      "current_price": 358.45,
+      "unrealised_pct": 4.92
     },
     {
       "symbol": "CUPID",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 0.5,
       "price_source": "live",
-      "current_price": 385.5,
-      "unrealised_pct": 18.54
+      "current_price": 379.6,
+      "unrealised_pct": 16.73
     },
     {
       "symbol": "THELEELA",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 664.9,
-      "unrealised_pct": -3.92
+      "current_price": 667.65,
+      "unrealised_pct": -3.52
     },
     {
       "symbol": "TBZ",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 647.0,
-      "unrealised_pct": 1.89
+      "current_price": 648.0,
+      "unrealised_pct": 2.05
     },
     {
       "symbol": "SSWL",
@@ -182,7 +182,7 @@
       "entry_date": "2026-11-12",
       "stop_price": 520.24,
       "stop_unlocked": false,
-      "high_since_entry": 567.45,
+      "high_since_entry": 571.15,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 54.95,
@@ -200,11 +200,11 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 561.3,
-      "unrealised_pct": 0.34
+      "current_price": 568.6,
+      "unrealised_pct": 1.64
     }
   ],
-  "last_updated": "2026-11-12 11:25 IST",
+  "last_updated": "2026-11-12 13:16 IST",
   "closed_today_map": {
     "2026-11-12": []
   }
