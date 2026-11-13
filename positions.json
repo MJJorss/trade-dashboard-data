@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 69.64,
-      "unrealised_pct": 7.77
+      "current_price": 69.39,
+      "unrealised_pct": 7.38
     },
     {
       "symbol": "KARURVYSYA",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 379.0,
-      "unrealised_pct": 7.17
+      "current_price": 376.7,
+      "unrealised_pct": 6.52
     },
     {
       "symbol": "NYKAA",
@@ -84,37 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 358.6,
-      "unrealised_pct": 4.96
-    },
-    {
-      "symbol": "CUPID",
-      "scanner": "VCP Breakout",
-      "entry_price": 325.2,
-      "entry_time": "09:27",
-      "entry_date": "2026-10-30",
-      "stop_price": 302.44,
-      "stop_unlocked": true,
-      "high_since_entry": 389.0,
-      "conviction": "\ud83d\ude80 STRONG",
-      "rs_tier": "HIGH",
-      "rs_composite": 26.64,
-      "rs_benchmark": "Nifty 50",
-      "rs_stale": false,
-      "rs_stale_days": 0,
-      "universe_rs_tier": "HIGH",
-      "status": "open",
-      "capital_allocated": 89757,
-      "qty": 276,
-      "risk_inr": 6283,
-      "risk_pct_applied": 0.5,
-      "stop_pct": 7.0,
-      "capital_base_at_entry": 1256519,
-      "equity_curve_mult": 0.5,
-      "drawdown_mult": 0.5,
-      "price_source": "live",
-      "current_price": 384.4,
-      "unrealised_pct": 18.2
+      "current_price": 359.6,
+      "unrealised_pct": 5.25
     },
     {
       "symbol": "THELEELA",
@@ -142,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 666.7,
-      "unrealised_pct": -3.66
+      "current_price": 670.6,
+      "unrealised_pct": -3.09
     },
     {
       "symbol": "TBZ",
@@ -171,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 637.0,
-      "unrealised_pct": 0.31
+      "current_price": 630.0,
+      "unrealised_pct": -0.79
     },
     {
       "symbol": "SSWL",
@@ -182,7 +153,7 @@
       "entry_date": "2026-11-12",
       "stop_price": 520.24,
       "stop_unlocked": false,
-      "high_since_entry": 572.25,
+      "high_since_entry": 575.55,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 54.95,
@@ -200,12 +171,51 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 570.45,
-      "unrealised_pct": 1.98
+      "current_price": 567.25,
+      "unrealised_pct": 1.4
+    },
+    {
+      "symbol": "CUPID",
+      "scanner": "VCP Breakout",
+      "entry_price": 325.2,
+      "entry_time": "09:27",
+      "entry_date": "2026-10-30",
+      "stop_price": 302.44,
+      "stop_unlocked": true,
+      "high_since_entry": 393.0,
+      "conviction": "\ud83d\ude80 STRONG",
+      "rs_tier": "HIGH",
+      "rs_composite": 26.64,
+      "rs_benchmark": "Nifty 50",
+      "rs_stale": false,
+      "rs_stale_days": 0,
+      "universe_rs_tier": "HIGH",
+      "status": "closed",
+      "capital_allocated": 89757,
+      "qty": 276,
+      "risk_inr": 6283,
+      "risk_pct_applied": 0.5,
+      "stop_pct": 7.0,
+      "capital_base_at_entry": 1256519,
+      "equity_curve_mult": 0.5,
+      "drawdown_mult": 0.5,
+      "price_source": "live",
+      "current_price": 384.4,
+      "unrealised_pct": 18.2,
+      "exit_price": 369.45,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "exit_time": "09:27",
+      "exit_date": "2026-11-13",
+      "pnl_pct": 13.61,
+      "pnl_inr": 12216,
+      "hold_days": 14,
+      "capital_per_slot": 89757
     }
   ],
-  "last_updated": "2026-11-12 15:02 IST",
+  "last_updated": "2026-11-13 09:27 IST",
   "closed_today_map": {
-    "2026-11-12": []
+    "2026-11-13": [
+      "CUPID"
+    ]
   }
 }
