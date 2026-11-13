@@ -8,7 +8,7 @@
       "entry_date": "2026-10-15",
       "stop_price": 60.1,
       "stop_unlocked": false,
-      "high_since_entry": 70.37,
+      "high_since_entry": 70.79,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 49.7,
@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 70.2,
-      "unrealised_pct": 8.64
+      "current_price": 70.49,
+      "unrealised_pct": 9.08
     },
     {
       "symbol": "KARURVYSYA",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 380.5,
-      "unrealised_pct": 7.59
+      "current_price": 381.4,
+      "unrealised_pct": 7.85
     },
     {
       "symbol": "NYKAA",
@@ -66,7 +66,7 @@
       "entry_date": "2026-10-28",
       "stop_price": 317.73,
       "stop_unlocked": false,
-      "high_since_entry": 366.2,
+      "high_since_entry": 366.7,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "LOW",
       "rs_composite": 8.05,
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 364.95,
-      "unrealised_pct": 6.82
+      "current_price": 363.7,
+      "unrealised_pct": 6.45
     },
     {
       "symbol": "THELEELA",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 665.6,
-      "unrealised_pct": -3.82
+      "current_price": 661.3,
+      "unrealised_pct": -4.44
     },
     {
       "symbol": "TBZ",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 634.0,
-      "unrealised_pct": -0.16
+      "current_price": 628.0,
+      "unrealised_pct": -1.1
     },
     {
       "symbol": "SSWL",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 568.3,
-      "unrealised_pct": 1.59
+      "current_price": 565.0,
+      "unrealised_pct": 1.0
     },
     {
       "symbol": "WHEELS",
@@ -182,7 +182,7 @@
       "entry_date": "2026-11-13",
       "stop_price": 2300.82,
       "stop_unlocked": false,
-      "high_since_entry": 2485.1,
+      "high_since_entry": 2505.0,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 39.2,
@@ -200,11 +200,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 2474.1,
-      "unrealised_pct": 0.0
+      "current_price": 2482.7,
+      "unrealised_pct": 0.35
     }
   ],
-  "last_updated": "2026-11-13 11:25 IST",
+  "last_updated": "2026-11-13 13:15 IST",
   "closed_today_map": {
     "2026-11-13": [
       "CUPID"
