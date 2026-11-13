@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T00:10:15.894023",
+  "generated_at": "2026-11-13T23:51:06.527588",
   "scan_window_days": 365,
   "universe_source": "NSE",
   "note": "Screen only: these rules failed the 2021-26 backtest (526 trades, 20-session median 2.7% behind Nifty 500). Telegram alerts are off.",
