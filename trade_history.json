@@ -1472,6 +1472,22 @@
       "capital_per_slot": 89757,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-11"
+    },
+    {
+      "symbol": "WHEELS",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 2474.0,
+      "exit_price": 2300.82,
+      "entry_date": "2026-11-13",
+      "exit_date": "2026-11-16",
+      "hold_days": 3,
+      "pnl_pct": -7.0,
+      "pnl_inr": -13024,
+      "capital_per_slot": 186057,
+      "exit_reason": "Stop Loss -7% \ud83d\udd34",
+      "month": "2026-11"
     }
   ]
 }
