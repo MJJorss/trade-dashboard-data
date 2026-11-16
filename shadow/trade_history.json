@@ -2,6 +2,25 @@
   "capital": 1350000,
   "trades": [
     {
+      "symbol": "WHEELS",
+      "scanner": "VCP Breakout",
+      "rs_tier": "HIGH",
+      "sector": "Auto",
+      "entry_price": 2213.61,
+      "exit_price": 2292.9,
+      "entry_date": "2026-11-03",
+      "exit_date": "2026-11-16",
+      "hold_days": 13,
+      "shares": 62,
+      "pnl_pct": 3.58,
+      "pnl_inr": 4587.98,
+      "costs_inr": 328.21,
+      "r_multiple": 0.24,
+      "exit_reason": "Close < EMA13",
+      "month": "2026-11",
+      "book": "stock"
+    },
+    {
       "symbol": "GOLDBEES",
       "scanner": "Defensive Sleeve",
       "book": "sleeve",

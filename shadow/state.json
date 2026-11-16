@@ -3,18 +3,19 @@
   "config_cell": "SLEEVED",
   "config_hash": "b5f18574be9045ab",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-11-13 14:41",
-  "as_of": "2026-11-13",
+  "last_run_ist": "2026-11-16 14:40",
+  "as_of": "2026-11-16",
   "test_run": false,
-  "frames_fetched": 354,
+  "frames_fetched": 361,
   "frames_failed": {},
-  "signals_unlabelled": 293,
+  "signals_unlabelled": 340,
   "decay": {
-    "n_closed": 0,
+    "n_closed": 1,
     "window": 60,
     "rolling_R": null,
+    "mean_R_all": 0.24,
     "state": "NORMAL",
-    "note": "0/60 closed trades"
+    "note": "1/60 closed trades \u2014 not enough yet"
   },
   "restated": [
     "Rule change from 2026-09-15: Idle cash earns LIQUIDBEES' actual daily change instead of a flat 5.5% a year (both books)",
@@ -28,15 +29,15 @@
     "shadow_ma": "ABOVE",
     "live_si": "BEARISH",
     "live_ma": null,
-    "live_run_at": "2026-11-13T07:45:32Z",
+    "live_run_at": "2026-11-16T07:45:32Z",
     "error": null,
     "compared": "SI",
     "match": true,
-    "date": "2026-11-13"
+    "date": "2026-11-16"
   },
-  "runtime_s": 152.2,
+  "runtime_s": 156.6,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "update",
+  "mode": "decide",
   "decided_at_ist": "14:43",
   "late_run": false,
   "config_changes": [
