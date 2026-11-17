@@ -1,6 +1,6 @@
 {
-  "generated_at_ist": "2026-11-16 14:40",
-  "as_of": "2026-11-16",
+  "generated_at_ist": "2026-11-17 14:40",
+  "as_of": "2026-11-17",
   "start_date": "2026-09-15",
   "late_run": false,
   "labels": {
@@ -14,11 +14,11 @@
     }
   },
   "status": {
-    "date": "2026-11-16",
-    "gate_entries_allowed": false,
+    "date": "2026-11-17",
+    "gate_entries_allowed": true,
     "gate_above_21_day_average": true,
-    "gate_super_indicator_bullish": false,
-    "gate_distance_pct": 3.84,
+    "gate_super_indicator_bullish": true,
+    "gate_distance_pct": 4.36,
     "size_level_tier": 0,
     "size_level": "full size (the book's equity is above its 20-day average)",
     "five_day_breaker_active": false,
@@ -26,7 +26,7 @@
     "gate_mode_today": "close",
     "gate_last_decision": null,
     "gate_settled_last_run": [],
-    "run_started_ist": "2026-11-16 14:40",
+    "run_started_ist": "2026-11-17 14:40",
     "decided_at_ist": "14:43",
     "late_run": false,
     "signal_snapshot": "saved"
@@ -51,7 +51,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-16",
@@ -72,7 +74,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-17",
@@ -93,7 +97,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-18",
@@ -114,7 +120,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-21",
@@ -135,7 +143,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-22",
@@ -156,7 +166,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-23",
@@ -177,7 +189,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-24",
@@ -198,7 +212,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-25",
@@ -219,7 +235,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-28",
@@ -240,7 +258,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-29",
@@ -261,7 +281,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-09-30",
@@ -282,7 +304,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-01",
@@ -303,7 +327,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-05",
@@ -324,7 +350,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-06",
@@ -345,7 +373,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-07",
@@ -366,7 +396,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-08",
@@ -387,7 +419,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-09",
@@ -408,7 +442,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-12",
@@ -429,7 +465,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-13",
@@ -450,7 +488,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-14",
@@ -471,7 +511,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-15",
@@ -492,7 +534,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-16",
@@ -513,7 +557,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-19",
@@ -534,7 +580,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-21",
@@ -555,7 +603,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-22",
@@ -576,7 +626,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-23",
@@ -597,7 +649,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-26",
@@ -618,7 +672,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-27",
@@ -639,7 +695,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-28",
@@ -660,7 +718,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-29",
@@ -681,7 +741,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-10-30",
@@ -702,7 +764,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-11-02",
@@ -723,7 +787,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-11-03",
@@ -744,7 +810,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-11-04",
@@ -765,7 +833,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-11-05",
@@ -786,7 +856,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-11-06",
@@ -807,7 +879,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-11-08",
@@ -828,7 +902,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-11-09",
@@ -849,7 +925,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": null,
+      "t10_swing": null
     },
     {
       "date": "2026-11-11",
@@ -870,7 +948,9 @@
       "ss_mix_50_50": null,
       "ss_mix_70_30": null,
       "ss_basket": null,
-      "ss_swing": null
+      "ss_swing": null,
+      "t10_book": 1348767.32,
+      "t10_swing": 1350598.1
     },
     {
       "date": "2026-11-12",
@@ -891,7 +971,9 @@
       "ss_mix_50_50": 1350000.0,
       "ss_mix_70_30": 1350000.0,
       "ss_basket": 1350000.0,
-      "ss_swing": 1350000.0
+      "ss_swing": 1350000.0,
+      "t10_book": 1365526.77,
+      "t10_swing": 1364059.68
     },
     {
       "date": "2026-11-13",
@@ -912,7 +994,9 @@
       "ss_mix_50_50": 1343042.49,
       "ss_mix_70_30": 1344750.17,
       "ss_basket": 1338773.29,
-      "ss_swing": 1347311.69
+      "ss_swing": 1347311.69,
+      "t10_book": 1375425.78,
+      "t10_swing": 1361343.37
     },
     {
       "date": "2026-11-16",
@@ -925,51 +1009,76 @@
       "book_c_etf_part": 980776.25,
       "book_d": 1401108.93,
       "buy_hold": 1360722.15,
-      "live_pct": -5.96,
+      "live_pct": -6.23,
       "gate_above_21_day_average": true,
       "gate_super_indicator_bullish": false,
       "gate_entries_allowed": false,
       "late_run": false,
-      "ss_mix_50_50": 1325905.26,
-      "ss_mix_70_30": 1326148.97,
-      "ss_basket": 1325295.98,
-      "ss_swing": 1326514.53
+      "ss_mix_50_50": 1326930.27,
+      "ss_mix_70_30": 1326763.97,
+      "ss_basket": 1327346.0,
+      "ss_swing": 1326514.53,
+      "t10_book": 1361968.8,
+      "t10_swing": 1340329.62
+    },
+    {
+      "date": "2026-11-17",
+      "book_a": 1357651.28,
+      "book_b": 1381810.19,
+      "book_b_v3_half": 678825.64,
+      "book_b_etf_half": 702984.55,
+      "book_c": 1391473.76,
+      "book_c_v3_part": 407295.38,
+      "book_c_etf_part": 984178.37,
+      "book_d": 1405969.1,
+      "buy_hold": 1365442.22,
+      "live_pct": -6.3,
+      "gate_above_21_day_average": true,
+      "gate_super_indicator_bullish": true,
+      "gate_entries_allowed": true,
+      "late_run": false,
+      "ss_mix_50_50": 1332380.86,
+      "ss_mix_70_30": 1328174.72,
+      "ss_basket": 1342896.22,
+      "ss_swing": 1321865.5,
+      "t10_book": 1365027.18,
+      "t10_swing": 1335632.18
     }
   ],
   "summary": {
     "book_a": {
-      "return_pct": 0.92,
-      "max_drawdown_pct": -1.74,
-      "current_drawdown_pct": -1.74,
-      "invested_pct": 82.3
+      "return_pct": 0.57,
+      "max_drawdown_pct": -2.08,
+      "current_drawdown_pct": -2.08,
+      "invested_pct": 98.0
     },
     "book_b": {
-      "return_pct": 2.35,
+      "return_pct": 2.36,
       "max_drawdown_pct": -1.31,
-      "current_drawdown_pct": -1.28,
-      "invested_pct": 91.3
+      "current_drawdown_pct": -1.27,
+      "invested_pct": 99.0
     },
     "live": {
-      "return_pct": -5.96,
+      "return_pct": -6.3,
       "max_drawdown_pct": -10.36,
-      "current_drawdown_pct": -5.96
+      "current_drawdown_pct": -6.3
     },
     "book_c": {
-      "return_pct": 2.93,
+      "return_pct": 3.07,
       "max_drawdown_pct": -1.32,
-      "current_drawdown_pct": -1.1,
-      "invested_pct": 94.8
+      "current_drawdown_pct": -0.95,
+      "invested_pct": 99.4
     },
     "book_d": {
-      "return_pct": 3.79,
+      "return_pct": 4.15,
       "max_drawdown_pct": -1.37,
-      "current_drawdown_pct": -0.82,
+      "current_drawdown_pct": -0.48,
       "invested_pct": 100.0
     },
     "buy_hold": {
-      "return_pct": 0.79,
+      "return_pct": 1.14,
       "max_drawdown_pct": -9.53,
-      "current_drawdown_pct": -1.62,
+      "current_drawdown_pct": -1.28,
       "invested_pct": 100.0
     }
   },
@@ -987,7 +1096,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 2.03,
+        "return_pct": 1.67,
         "partial": true
       }
     ],
@@ -1004,7 +1113,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 3.45,
+        "return_pct": 3.46,
         "partial": true
       }
     ],
@@ -1021,7 +1130,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 4.03,
+        "return_pct": 4.17,
         "partial": true
       }
     ],
@@ -1038,7 +1147,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 4.88,
+        "return_pct": 5.24,
         "partial": true
       }
     ],
@@ -1055,7 +1164,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 3.06,
+        "return_pct": 2.68,
         "partial": true
       }
     ],
@@ -1072,7 +1181,35 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 6.75,
+        "return_pct": 7.12,
+        "partial": true
+      }
+    ],
+    "t10_book": [
+      {
+        "month": "2026-11",
+        "return_pct": 1.21,
+        "partial": true
+      }
+    ],
+    "ss_mix_50_50": [
+      {
+        "month": "2026-11",
+        "return_pct": -1.31,
+        "partial": true
+      }
+    ],
+    "ss_mix_70_30": [
+      {
+        "month": "2026-11",
+        "return_pct": -1.62,
+        "partial": true
+      }
+    ],
+    "ss_basket": [
+      {
+        "month": "2026-11",
+        "return_pct": -0.53,
         "partial": true
       }
     ]
@@ -1103,22 +1240,22 @@
     }
   },
   "book_b_breakdown": {
-    "v3_half": 681213.09,
+    "v3_half": 678825.64,
     "v3_scale_of_book_a": 0.5,
-    "etf_half": 700554.47,
+    "etf_half": 702984.55,
     "etf_half_holding": "MID150BEES",
     "etf_half_holdings_at_6_75_lakh_scale": {
       "ETF": {
         "units": 2999.1706,
-        "value": 700336.33
+        "value": 702765.65
       }
     },
     "rebalance_rule": "both halves back to 50/50 on the first trading day of each January"
   },
   "book_cd_breakdown": {
     "book_c": {
-      "v3_part": 408727.85,
-      "etf_part": 980776.25,
+      "v3_part": 407295.38,
+      "etf_part": 984178.37,
       "v3_scale_of_book_a": 0.3,
       "target_weights": {
         "swing": 0.3,
@@ -1127,7 +1264,7 @@
       "rebalance_rule": "back to 30% Swing and 70% fund on the first trading day of each January"
     },
     "book_d": {
-      "etf_part": 1401108.93,
+      "etf_part": 1405969.1,
       "target_weights": {
         "swing": 0.0,
         "fund": 1.0
@@ -1138,293 +1275,574 @@
     "source": "computed from Swing and the fund half, the same series as Blend \u2014 no extra engine run"
   },
   "decisions": {
-    "date": "2026-11-16",
-    "signals": 63,
-    "buys": [],
-    "sells": [
+    "date": "2026-11-17",
+    "signals": 104,
+    "buys": [
       {
-        "symbol": "WHEELS",
-        "shares": 62,
-        "price": 2292.9,
-        "reason": "it closed below its 13-day average after having risen 10%",
-        "pnl_inr": 4587.98,
-        "pnl_pct": 3.58
+        "symbol": "GCSL",
+        "shares": 458,
+        "price": 828.03,
+        "stop": 786.63,
+        "risk_inr": 18961.82,
+        "rank": 1
       }
     ],
-    "sleeve": [],
+    "sells": [],
+    "sleeve": [
+      {
+        "symbol": "GILT5YBEES",
+        "side": "sell",
+        "units": 1595.7684,
+        "price": 66.1838
+      },
+      {
+        "symbol": "MON100",
+        "side": "sell",
+        "units": 196.4521,
+        "price": 298.8109
+      }
+    ],
     "book_b_fund_half": null,
     "skipped": [
       {
-        "symbol": "ABDL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "AGARWALEYE",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "ANANDRATHI",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "APLLTD",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "ARTEMISMED",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "ASAHIINDIA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "ATHERENERG",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "BELRISE",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "BOROLTD",
-        "reason": "Market gate off"
-      },
-      {
         "symbol": "COSMOFIRST",
-        "reason": "Market gate off"
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
-        "symbol": "CRAFTSMAN",
-        "reason": "Market gate off"
+        "symbol": "DOLPHIN",
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
-        "symbol": "CUB",
-        "reason": "Market gate off"
+        "symbol": "FINEORG",
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
-        "symbol": "DIXON",
-        "reason": "Market gate off"
+        "symbol": "JASH",
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
-        "symbol": "ETERNAL",
-        "reason": "Market gate off"
+        "symbol": "KOLTEPATIL",
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
-        "symbol": "FEDERALBNK",
-        "reason": "Market gate off"
+        "symbol": "KOVAI",
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
-        "symbol": "FILATEX",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "GLAND",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "GRAPHITE",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "HONASA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "ITDC",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "KARURVYSYA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "KOTAKBANK",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "KPRMILL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "KTKBANK",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "LUMAXTECH",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "MAHASTEEL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "METROPOLIS",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "NAZARA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "NEULANDLAB",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "NILKAMAL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "NITINSPIN",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "NUVAMA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "ONEPOINT",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "PDSL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "PNBHOUSING",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "PPLPHARMA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "QPOWER",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "RADICO",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "RAYMOND",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "RPEL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SANATHAN",
-        "reason": "Market gate off"
+        "symbol": "LUMAXIND",
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
         "symbol": "SANGAMIND",
-        "reason": "Market gate off"
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
-        "symbol": "SANSERA",
-        "reason": "Market gate off"
+        "symbol": "SPAL",
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
-        "symbol": "SAREGAMA",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SBC",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SGFIN",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SGMART",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SHREEJISPG",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SHYAMMETL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SMARTWORKS",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SPECTRUM",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SPORTKING",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "SSWL",
-        "reason": "Market gate off"
-      },
-      {
-        "symbol": "TALBROAUTO",
-        "reason": "Market gate off"
+        "symbol": "TCPLPACK",
+        "reason": "Not liquid enough",
+        "rank": null
       },
       {
         "symbol": "TFCILTD",
-        "reason": "Market gate off"
+        "reason": "Already held",
+        "rank": null
+      },
+      {
+        "symbol": "VSSL",
+        "reason": "Not liquid enough",
+        "rank": null
+      },
+      {
+        "symbol": "SAMBHV",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "AARTIDRUGS",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "SHYAMMETL",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "ACUTAAS",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "QPOWER",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "CUPID",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "INDHOTEL",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "GRWRHITECH",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "KOTAKBANK",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "SKYGOLD",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "PGIL",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "NILKAMAL",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "MAHABANK",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
       },
       {
         "symbol": "THELEELA",
-        "reason": "Market gate off"
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
       },
       {
-        "symbol": "TIIL",
-        "reason": "Market gate off"
+        "symbol": "HONASA",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
       },
       {
-        "symbol": "TITAN",
-        "reason": "Market gate off"
+        "symbol": "PAYTM",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
       },
       {
-        "symbol": "TVSSRICHAK",
-        "reason": "Market gate off"
+        "symbol": "KTKBANK",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
       },
       {
-        "symbol": "UFLEX",
-        "reason": "Market gate off"
+        "symbol": "PHOENIXLTD",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
       },
       {
-        "symbol": "VIJAYA",
-        "reason": "Market gate off"
+        "symbol": "GOODLUCK",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
       },
       {
-        "symbol": "WEWORK",
-        "reason": "Market gate off"
+        "symbol": "ETERNAL",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "ICICIBANK",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "GNA",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "SATIN",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "KARURVYSYA",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "DLF",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "BEML",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "DYNAMATECH",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "ASKAUTOLTD",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "ADANIPORTS",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "AUROPHARMA",
+        "reason": "Middle-ranked relative strength (skipped by rule)",
+        "rank": null
+      },
+      {
+        "symbol": "ENTERO",
+        "reason": "Position too small to size",
+        "rank": 2
+      },
+      {
+        "symbol": "IGIL",
+        "reason": "Position too small to size",
+        "rank": 3
+      },
+      {
+        "symbol": "HEGAM",
+        "reason": "Position too small to size",
+        "rank": 4
+      },
+      {
+        "symbol": "OPTIEMUS",
+        "reason": "Position too small to size",
+        "rank": 5
+      },
+      {
+        "symbol": "SAREGAMA",
+        "reason": "Position too small to size",
+        "rank": 6
+      },
+      {
+        "symbol": "PVRINOX",
+        "reason": "Position too small to size",
+        "rank": 7
+      },
+      {
+        "symbol": "ICIL",
+        "reason": "Position too small to size",
+        "rank": 8
+      },
+      {
+        "symbol": "ORIENTHOT",
+        "reason": "Position too small to size",
+        "rank": 9
+      },
+      {
+        "symbol": "TANLA",
+        "reason": "Position too small to size",
+        "rank": 10
+      },
+      {
+        "symbol": "ENGINERSIN",
+        "reason": "Position too small to size",
+        "rank": 11
       },
       {
         "symbol": "YATHARTH",
-        "reason": "Market gate off"
+        "reason": "Position too small to size",
+        "rank": 12
+      },
+      {
+        "symbol": "WELSPUNLIV",
+        "reason": "Position too small to size",
+        "rank": 13
+      },
+      {
+        "symbol": "FILATEX",
+        "reason": "Position too small to size",
+        "rank": 14
+      },
+      {
+        "symbol": "LOTUSDEV",
+        "reason": "Position too small to size",
+        "rank": 15
+      },
+      {
+        "symbol": "SIGMAADV",
+        "reason": "Position too small to size",
+        "rank": 16
+      },
+      {
+        "symbol": "ABDL",
+        "reason": "Position too small to size",
+        "rank": 17
+      },
+      {
+        "symbol": "CENTUM",
+        "reason": "Position too small to size",
+        "rank": 18
+      },
+      {
+        "symbol": "AARTIPHARM",
+        "reason": "Position too small to size",
+        "rank": 19
+      },
+      {
+        "symbol": "LUMAXTECH",
+        "reason": "Position too small to size",
+        "rank": 20
+      },
+      {
+        "symbol": "KRISHANA",
+        "reason": "Position too small to size",
+        "rank": 21
+      },
+      {
+        "symbol": "EMCURE",
+        "reason": "Position too small to size",
+        "rank": 22
+      },
+      {
+        "symbol": "DIVISLAB",
+        "reason": "Position too small to size",
+        "rank": 23
+      },
+      {
+        "symbol": "MBAPL",
+        "reason": "Position too small to size",
+        "rank": 24
+      },
+      {
+        "symbol": "UNIMECH",
+        "reason": "Position too small to size",
+        "rank": 25
+      },
+      {
+        "symbol": "RPEL",
+        "reason": "Position too small to size",
+        "rank": 26
+      },
+      {
+        "symbol": "TIPSMUSIC",
+        "reason": "Position too small to size",
+        "rank": 27
+      },
+      {
+        "symbol": "KDDL",
+        "reason": "Position too small to size",
+        "rank": 28
+      },
+      {
+        "symbol": "NEOGEN",
+        "reason": "Position too small to size",
+        "rank": 29
+      },
+      {
+        "symbol": "MOTILALOFS",
+        "reason": "Position too small to size",
+        "rank": 30
+      },
+      {
+        "symbol": "SAKAR",
+        "reason": "Position too small to size",
+        "rank": 31
+      },
+      {
+        "symbol": "ASAHIINDIA",
+        "reason": "Position too small to size",
+        "rank": 32
+      },
+      {
+        "symbol": "TMB",
+        "reason": "Position too small to size",
+        "rank": 33
+      },
+      {
+        "symbol": "VARROC",
+        "reason": "Position too small to size",
+        "rank": 34
+      },
+      {
+        "symbol": "GAIL",
+        "reason": "Position too small to size",
+        "rank": 35
+      },
+      {
+        "symbol": "CEMPRO",
+        "reason": "Position too small to size",
+        "rank": 36
+      },
+      {
+        "symbol": "NUVAMA",
+        "reason": "Position too small to size",
+        "rank": 37
+      },
+      {
+        "symbol": "KPRMILL",
+        "reason": "Position too small to size",
+        "rank": 38
+      },
+      {
+        "symbol": "MINDACORP",
+        "reason": "Position too small to size",
+        "rank": 39
+      },
+      {
+        "symbol": "ZYDUSLIFE",
+        "reason": "Position too small to size",
+        "rank": 40
+      },
+      {
+        "symbol": "MEDANTA",
+        "reason": "Position too small to size",
+        "rank": 41
+      },
+      {
+        "symbol": "BAJFINANCE",
+        "reason": "Position too small to size",
+        "rank": 42
+      },
+      {
+        "symbol": "MUFIN",
+        "reason": "Position too small to size",
+        "rank": 43
+      },
+      {
+        "symbol": "COFORGE",
+        "reason": "Position too small to size",
+        "rank": 44
+      },
+      {
+        "symbol": "TALBROAUTO",
+        "reason": "Position too small to size",
+        "rank": 45
+      },
+      {
+        "symbol": "LODHA",
+        "reason": "Position too small to size",
+        "rank": 46
+      },
+      {
+        "symbol": "AEGISVOPAK",
+        "reason": "Position too small to size",
+        "rank": 47
+      },
+      {
+        "symbol": "TVSMOTOR",
+        "reason": "Position too small to size",
+        "rank": 48
+      },
+      {
+        "symbol": "ABCAPITAL",
+        "reason": "Position too small to size",
+        "rank": 49
+      },
+      {
+        "symbol": "AETHER",
+        "reason": "Position too small to size",
+        "rank": 50
+      },
+      {
+        "symbol": "UFLEX",
+        "reason": "Position too small to size",
+        "rank": 51
+      },
+      {
+        "symbol": "FEDERALBNK",
+        "reason": "Position too small to size",
+        "rank": 52
+      },
+      {
+        "symbol": "CRAFTSMAN",
+        "reason": "Position too small to size",
+        "rank": 53
+      },
+      {
+        "symbol": "BHEL",
+        "reason": "Position too small to size",
+        "rank": 54
+      },
+      {
+        "symbol": "RUBICON",
+        "reason": "Position too small to size",
+        "rank": 55
+      },
+      {
+        "symbol": "SPORTKING",
+        "reason": "Position too small to size",
+        "rank": 56
+      },
+      {
+        "symbol": "EPL",
+        "reason": "Position too small to size",
+        "rank": 57
+      },
+      {
+        "symbol": "MOTHERSON",
+        "reason": "Position too small to size",
+        "rank": 58
+      },
+      {
+        "symbol": "GLAXO",
+        "reason": "Position too small to size",
+        "rank": 59
+      },
+      {
+        "symbol": "BAJAJ-AUTO",
+        "reason": "Position too small to size",
+        "rank": 60
+      },
+      {
+        "symbol": "DIXON",
+        "reason": "Position too small to size",
+        "rank": 61
+      },
+      {
+        "symbol": "LMW",
+        "reason": "Position too small to size",
+        "rank": 62
       }
     ]
   },
   "live_vs_shadow": {
     "both": [
-      "SBC",
       "SSWL"
     ],
     "live_only": [
       {
+        "symbol": "CUPID",
+        "live_entry": "2026-11-17",
+        "live_entry_time": "11:25",
+        "reason": "Shadow skipped it: middle-ranked relative strength (skipped by rule)"
+      },
+      {
         "symbol": "KARURVYSYA",
         "live_entry": "2026-10-28",
         "live_entry_time": "11:25",
-        "reason": "Live has no 21-day market gate; the shadow's gate was off that day"
+        "reason": "Live has no 21-day gate; the shadow's hold gate was off that day (Midcap 150 below its 21-day average)"
       },
       {
         "symbol": "NYKAA",
         "live_entry": "2026-10-28",
         "live_entry_time": "11:25",
-        "reason": "Live has no 21-day market gate; the shadow's gate was off that day"
+        "reason": "Live has no 21-day gate; the shadow's hold gate was off that day (Midcap 150 below its 21-day average)"
       },
       {
         "symbol": "TBZ",
@@ -1437,15 +1855,19 @@
         "live_entry": "2026-11-06",
         "live_entry_time": "13:15",
         "reason": "Shadow skipped it: position too small to size"
-      },
-      {
-        "symbol": "WHEELS",
-        "live_entry": "2026-11-13",
-        "live_entry_time": "11:25",
-        "reason": "Shadow's market gate (Super Indicator) was off that day"
       }
     ],
     "shadow_only": [
+      {
+        "symbol": "GCSL",
+        "shadow_entry": "2026-11-17",
+        "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
+      },
+      {
+        "symbol": "SBC",
+        "shadow_entry": "2026-11-03",
+        "reason": "Live bought it on 15 Oct and sold it on 17 Nov (si crossover \ud83d\udd35); the shadow bought on 3 Nov"
+      },
       {
         "symbol": "SMSPHARMA",
         "shadow_entry": "2026-11-03",
@@ -1454,7 +1876,7 @@
       {
         "symbol": "TFCILTD",
         "shadow_entry": "2026-11-03",
-        "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
+        "reason": "Live bought it on 9 Oct and sold it on 11 Nov (si crossover \ud83d\udd35); the shadow bought on 3 Nov"
       }
     ]
   },
@@ -1485,59 +1907,148 @@
     "t10": {
       "name": "Swing, sector strength first (test)",
       "go_live": "2026-11-11",
-      "as_of": "2026-11-16",
-      "value": 1361968.8,
-      "return_pct": 0.89,
+      "as_of": "2026-11-17",
+      "value": 1365027.18,
+      "return_pct": 1.11,
       "worst_fall_pct": -0.98,
-      "swing_rebased_value": 1340329.62,
-      "swing_return_pct": -0.72,
-      "swing_worst_fall_pct": -1.74,
+      "swing_rebased_value": 1335056.18,
+      "swing_return_pct": -1.11,
+      "swing_worst_fall_pct": -2.13,
       "open_positions": 5,
       "closed_trades": 0,
-      "note": "Paper test, no real orders. No verdict until the judging point (10,000 gate-open signals with a sector-strength value)."
+      "note": "Paper test, no real orders. No verdict until the judging point (10,000 gate-open signals with a sector-strength value).",
+      "holdings": [
+        {
+          "symbol": "MCX",
+          "sector": "Market Infra",
+          "entry_date": "2026-11-11",
+          "entry_price": 3624.62,
+          "price_now": 3723.3,
+          "gain_pct": 2.72,
+          "value": 260631.0,
+          "days_held": 6
+        },
+        {
+          "symbol": "MOTILALOFS",
+          "sector": "Market Infra",
+          "entry_date": "2026-11-11",
+          "entry_price": 1168.27,
+          "price_now": 1240.9,
+          "gain_pct": 6.22,
+          "value": 232048.3,
+          "days_held": 6
+        },
+        {
+          "symbol": "NAZARA",
+          "sector": "Media",
+          "entry_date": "2026-11-11",
+          "entry_price": 416.12,
+          "price_now": 423.25,
+          "gain_pct": 1.71,
+          "value": 303470.25,
+          "days_held": 6
+        },
+        {
+          "symbol": "PCJEWELLER",
+          "sector": "Jewellery",
+          "entry_date": "2026-11-11",
+          "entry_price": 15.88,
+          "price_now": 15.0,
+          "gain_pct": -5.54,
+          "value": 150075.0,
+          "days_held": 6
+        },
+        {
+          "symbol": "SKYGOLD",
+          "sector": "Jewellery",
+          "entry_date": "2026-11-11",
+          "entry_price": 979.98,
+          "price_now": 974.95,
+          "gain_pct": -0.51,
+          "value": 134543.1,
+          "days_held": 6
+        }
+      ],
+      "differences": [
+        {
+          "date": "2026-11-11",
+          "symbol": "MCX",
+          "sector": "Market Infra",
+          "bought_by": "sector-strength book only",
+          "other_book": "unsized: below_min_size"
+        },
+        {
+          "date": "2026-11-11",
+          "symbol": "MOTILALOFS",
+          "sector": "Market Infra",
+          "bought_by": "sector-strength book only",
+          "other_book": "unsized: below_min_size"
+        },
+        {
+          "date": "2026-11-11",
+          "symbol": "NAZARA",
+          "sector": "Media",
+          "bought_by": "sector-strength book only",
+          "other_book": "unsized: below_min_size"
+        },
+        {
+          "date": "2026-11-11",
+          "symbol": "PCJEWELLER",
+          "sector": "Jewellery",
+          "bought_by": "sector-strength book only",
+          "other_book": "unsized: below_min_size"
+        },
+        {
+          "date": "2026-11-11",
+          "symbol": "SKYGOLD",
+          "sector": "Jewellery",
+          "bought_by": "sector-strength book only",
+          "other_book": "unsized: below_min_size"
+        }
+      ]
     },
     "small_strong": {
       "name": "Swing + Small-strong",
       "go_live": "2026-11-12",
-      "as_of": "2026-11-16",
+      "as_of": "2026-11-17",
       "research_note": "On past data this mix made about 20-25% a year with a worst fall of about 10-15% (Dec 2020 to Sep 2026). Past data, already seen; not a promise. The basket alone can fall much further.",
       "note": "Paper book, no real orders. Reported before tax, like the other shadow books. No verdict before the first judging point (24 months, or 3 month-end gate-off spells, whichever is later).",
       "basket": {
-        "value": 662647.99,
-        "return_pct": -1.83,
-        "worst_fall_pct": -1.83,
-        "fall_from_peak_pct": -1.83,
-        "month_pct": -1.83,
+        "value": 671448.11,
+        "return_pct": -0.53,
+        "worst_fall_pct": -1.68,
+        "fall_from_peak_pct": -0.53,
+        "month_pct": -0.53,
         "pct_invested": 100.0,
         "names": 25,
         "cash": 0.0
       },
       "mix_50_50": {
-        "value": 1325905.26,
-        "return_pct": -1.78,
-        "worst_fall_pct": -1.78,
-        "fall_from_peak_pct": -1.78,
-        "month_pct": -1.78,
-        "basket_half_share_pct": 50.0,
+        "value": 1332380.86,
+        "return_pct": -1.31,
+        "worst_fall_pct": -1.71,
+        "fall_from_peak_pct": -1.31,
+        "month_pct": -1.31,
+        "basket_half_share_pct": 50.4,
         "basket_half_invested_pct": 100.0,
-        "day_change_inr": -17137.23
+        "day_change_inr": 5450.6
       },
       "mix_70_30": {
-        "value": 1326148.97,
-        "return_pct": -1.77,
-        "worst_fall_pct": -1.77,
-        "fall_from_peak_pct": -1.77,
-        "month_pct": -1.77,
-        "basket_half_share_pct": 30.0,
+        "value": 1328174.72,
+        "return_pct": -1.62,
+        "worst_fall_pct": -1.72,
+        "fall_from_peak_pct": -1.62,
+        "month_pct": -1.62,
+        "basket_half_share_pct": 30.3,
         "basket_half_invested_pct": 100.0,
-        "day_change_inr": -18601.2
+        "day_change_inr": 1410.75
       },
       "swing_rebased": {
-        "value": 1326514.53,
-        "return_pct": -1.74,
-        "worst_fall_pct": -1.74,
-        "fall_from_peak_pct": -1.74,
-        "month_pct": -1.74
+        "value": 1321865.5,
+        "return_pct": -2.08,
+        "worst_fall_pct": -2.08,
+        "fall_from_peak_pct": -2.08,
+        "month_pct": -2.08
       },
       "holdings": [
         {
@@ -1545,275 +2056,275 @@
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 509.2,
-          "price_now": 504.05,
-          "gain_pct": -1.01,
-          "value": 26668.55,
-          "pct_of_half": 4.02,
-          "days_held": 3
+          "price_now": 502.65,
+          "gain_pct": -1.29,
+          "value": 26594.48,
+          "pct_of_half": 3.96,
+          "days_held": 4
         },
         {
           "symbol": "ALGOQUANT",
           "sector": "Market Infra",
           "entry_date": "2026-11-13",
           "entry_price": 84,
-          "price_now": 83.82,
-          "gain_pct": -0.21,
-          "value": 26856.47,
-          "pct_of_half": 4.05,
-          "days_held": 3
+          "price_now": 86.22,
+          "gain_pct": 2.64,
+          "value": 27625.45,
+          "pct_of_half": 4.11,
+          "days_held": 4
         },
         {
           "symbol": "DELTACORP",
           "sector": "Hospitality",
           "entry_date": "2026-11-13",
           "entry_price": 83.7,
-          "price_now": 82.45,
-          "gain_pct": -1.49,
-          "value": 26538.69,
-          "pct_of_half": 4.0,
-          "days_held": 3
+          "price_now": 84.3,
+          "gain_pct": 0.72,
+          "value": 27134.16,
+          "pct_of_half": 4.04,
+          "days_held": 4
         },
         {
           "symbol": "FILATEX",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 101.35,
-          "price_now": 102.75,
-          "gain_pct": 1.38,
-          "value": 27285.92,
-          "pct_of_half": 4.12,
-          "days_held": 3
+          "price_now": 109.16,
+          "gain_pct": 7.71,
+          "value": 28988.14,
+          "pct_of_half": 4.32,
+          "days_held": 4
         },
         {
           "symbol": "GUFICBIO",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 487,
-          "price_now": 440.6,
-          "gain_pct": -9.53,
-          "value": 24349.84,
-          "pct_of_half": 3.67,
-          "days_held": 3
+          "price_now": 443.25,
+          "gain_pct": -8.98,
+          "value": 24496.29,
+          "pct_of_half": 3.65,
+          "days_held": 4
         },
         {
           "symbol": "IOLCP",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 206.31,
-          "price_now": 195.71,
-          "gain_pct": -5.14,
-          "value": 25556.83,
-          "pct_of_half": 3.86,
-          "days_held": 3
+          "price_now": 191.32,
+          "gain_pct": -7.27,
+          "value": 24983.56,
+          "pct_of_half": 3.72,
+          "days_held": 4
         },
         {
           "symbol": "KDDL",
           "sector": "Jewellery",
           "entry_date": "2026-11-13",
           "entry_price": 4282,
-          "price_now": 3906.6,
-          "gain_pct": -8.77,
-          "value": 24554.6,
-          "pct_of_half": 3.71,
-          "days_held": 3
+          "price_now": 4527.5,
+          "gain_pct": 5.73,
+          "value": 28457.21,
+          "pct_of_half": 4.24,
+          "days_held": 4
         },
         {
           "symbol": "KMEW",
           "sector": "Logistics",
           "entry_date": "2026-11-13",
           "entry_price": 714.9,
-          "price_now": 711.5,
-          "gain_pct": -0.48,
-          "value": 26812.9,
-          "pct_of_half": 4.05,
-          "days_held": 3
+          "price_now": 746.0,
+          "gain_pct": 4.35,
+          "value": 28113.04,
+          "pct_of_half": 4.19,
+          "days_held": 4
         },
         {
           "symbol": "KPL",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 3960,
-          "price_now": 3990.9,
-          "gain_pct": 0.78,
-          "value": 27124.16,
+          "price_now": 4041.9,
+          "gain_pct": 2.07,
+          "value": 27470.78,
           "pct_of_half": 4.09,
-          "days_held": 3
+          "days_held": 4
         },
         {
           "symbol": "MONARCH",
           "sector": "Market Infra",
           "entry_date": "2026-11-13",
           "entry_price": 349.9,
-          "price_now": 344.65,
-          "gain_pct": -1.5,
-          "value": 26470.69,
-          "pct_of_half": 3.99,
-          "days_held": 3
+          "price_now": 345.45,
+          "gain_pct": -1.27,
+          "value": 26532.13,
+          "pct_of_half": 3.95,
+          "days_held": 4
         },
         {
           "symbol": "NITINSPIN",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 676,
-          "price_now": 689.0,
-          "gain_pct": 1.92,
-          "value": 27431.72,
-          "pct_of_half": 4.14,
-          "days_held": 3
+          "price_now": 680.0,
+          "gain_pct": 0.59,
+          "value": 27073.4,
+          "pct_of_half": 4.03,
+          "days_held": 4
         },
         {
           "symbol": "ORIENTHOT",
           "sector": "Hospitality",
           "entry_date": "2026-11-13",
           "entry_price": 173.9,
-          "price_now": 174.61,
-          "gain_pct": 0.41,
-          "value": 27024.03,
-          "pct_of_half": 4.08,
-          "days_held": 3
+          "price_now": 180.06,
+          "gain_pct": 3.54,
+          "value": 27867.51,
+          "pct_of_half": 4.15,
+          "days_held": 4
         },
         {
           "symbol": "PARAGMILK",
           "sector": "FMCG",
           "entry_date": "2026-11-13",
           "entry_price": 326.4,
-          "price_now": 344.5,
-          "gain_pct": 5.55,
-          "value": 28435.0,
-          "pct_of_half": 4.29,
-          "days_held": 3
+          "price_now": 334.21,
+          "gain_pct": 2.39,
+          "value": 27585.67,
+          "pct_of_half": 4.11,
+          "days_held": 4
         },
         {
           "symbol": "PDSL",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 416.9,
-          "price_now": 414.85,
-          "gain_pct": -0.49,
-          "value": 26808.56,
-          "pct_of_half": 4.05,
-          "days_held": 3
+          "price_now": 410.55,
+          "gain_pct": -1.52,
+          "value": 26530.68,
+          "pct_of_half": 3.95,
+          "days_held": 4
         },
         {
           "symbol": "SANGAMIND",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 640.3,
-          "price_now": 639.9,
-          "gain_pct": -0.06,
-          "value": 26857.12,
-          "pct_of_half": 4.05,
-          "days_held": 3
+          "price_now": 644.95,
+          "gain_pct": 0.73,
+          "value": 27069.08,
+          "pct_of_half": 4.03,
+          "days_held": 4
         },
         {
           "symbol": "SBC",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 69.66,
-          "price_now": 70.81,
-          "gain_pct": 1.65,
-          "value": 27385.79,
-          "pct_of_half": 4.13,
-          "days_held": 3
+          "price_now": 69.51,
+          "gain_pct": -0.22,
+          "value": 26883.02,
+          "pct_of_half": 4.0,
+          "days_held": 4
         },
         {
           "symbol": "SHRINGARMS",
           "sector": "Jewellery",
           "entry_date": "2026-11-13",
           "entry_price": 313.9,
-          "price_now": 299.5,
-          "gain_pct": -4.59,
-          "value": 25705.13,
-          "pct_of_half": 3.88,
-          "days_held": 3
+          "price_now": 286.65,
+          "gain_pct": -8.68,
+          "value": 24602.25,
+          "pct_of_half": 3.66,
+          "days_held": 4
         },
         {
           "symbol": "SMSPHARMA",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 525.05,
-          "price_now": 485.3,
-          "gain_pct": -7.57,
-          "value": 24901.4,
-          "pct_of_half": 3.76,
-          "days_held": 3
+          "price_now": 487.75,
+          "gain_pct": -7.1,
+          "value": 25027.12,
+          "pct_of_half": 3.73,
+          "days_held": 4
         },
         {
           "symbol": "SOLARA",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 676.2,
-          "price_now": 633.7,
-          "gain_pct": -6.29,
-          "value": 25247.75,
-          "pct_of_half": 3.81,
-          "days_held": 3
+          "price_now": 666.9,
+          "gain_pct": -1.38,
+          "value": 26570.5,
+          "pct_of_half": 3.96,
+          "days_held": 4
         },
         {
           "symbol": "SPORTKING",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 208.95,
-          "price_now": 210.14,
-          "gain_pct": 0.57,
-          "value": 27067.42,
-          "pct_of_half": 4.08,
-          "days_held": 3
+          "price_now": 219.56,
+          "gain_pct": 5.08,
+          "value": 28280.78,
+          "pct_of_half": 4.21,
+          "days_held": 4
         },
         {
           "symbol": "TASTYBITE",
           "sector": "FMCG",
           "entry_date": "2026-11-13",
           "entry_price": 10801,
-          "price_now": 11250.0,
-          "gain_pct": 4.16,
-          "value": 28032.97,
-          "pct_of_half": 4.23,
-          "days_held": 3
+          "price_now": 11478.0,
+          "gain_pct": 6.27,
+          "value": 28601.11,
+          "pct_of_half": 4.26,
+          "days_held": 4
         },
         {
           "symbol": "TIMEX",
           "sector": "Jewellery",
           "entry_date": "2026-11-13",
           "entry_price": 743,
-          "price_now": 746.85,
-          "gain_pct": 0.52,
-          "value": 27080.63,
-          "pct_of_half": 4.09,
-          "days_held": 3
+          "price_now": 741.95,
+          "gain_pct": -0.14,
+          "value": 26902.96,
+          "pct_of_half": 4.01,
+          "days_held": 4
         },
         {
           "symbol": "VENKEYS",
           "sector": "FMCG",
           "entry_date": "2026-11-13",
           "entry_price": 1605,
-          "price_now": 1507.8,
-          "gain_pct": -6.06,
-          "value": 25284.2,
-          "pct_of_half": 3.82,
-          "days_held": 3
+          "price_now": 1485.4,
+          "gain_pct": -7.45,
+          "value": 24908.58,
+          "pct_of_half": 3.71,
+          "days_held": 4
         },
         {
           "symbol": "VINCOFE",
           "sector": "FMCG",
           "entry_date": "2026-11-13",
           "entry_price": 163.5,
-          "price_now": 155.59,
-          "gain_pct": -4.84,
-          "value": 25612.06,
-          "pct_of_half": 3.87,
-          "days_held": 3
+          "price_now": 154.99,
+          "gain_pct": -5.2,
+          "value": 25513.29,
+          "pct_of_half": 3.8,
+          "days_held": 4
         },
         {
           "symbol": "VRLLOG",
           "sector": "Logistics",
           "entry_date": "2026-11-13",
           "entry_price": 331,
-          "price_now": 338.55,
-          "gain_pct": 2.28,
-          "value": 27555.55,
-          "pct_of_half": 4.16,
-          "days_held": 3
+          "price_now": 339.55,
+          "gain_pct": 2.58,
+          "value": 27636.94,
+          "pct_of_half": 4.12,
+          "days_held": 4
         }
       ],
       "last_month_end": {
@@ -1855,318 +2366,28 @@
       },
       "next_rebuild": "2026-11-30",
       "pending_orders": false,
-      "watch_lines": []
+      "pending_list": {
+        "buy": [],
+        "sell": [],
+        "trim": []
+      },
+      "watch_lines": [],
+      "watch_lines_detail": []
     }
   },
   "marks_basis": {
-    "decided_on": "2026-11-16",
+    "decided_on": "2026-11-17",
     "v3_scale": 0.5000000000000001,
-    "etf_half_actual": 700554.4671279978,
-    "etf_sim_value": 700336.3254481253,
+    "etf_half_actual": 702984.5519996248,
+    "etf_sim_value": 702765.653629415,
     "etf_sim_cash": 0.0,
     "etf_holdings_units": {
       "ETF": 2999.1705941849395
     },
-    "book_c_v3_scale": 0.30000000000000004,
-    "book_c_etf_actual": 980776.2539791964,
-    "book_d_etf_actual": 1401108.9342559956,
+    "book_c_v3_scale": 0.3,
+    "book_c_etf_actual": 984178.3727994745,
+    "book_d_etf_actual": 1405969.1039992496,
     "buy_hold_base_price": 231.67,
-    "swing_cash": 241596.85
-  },
-  "morning": {
-    "marked_at_ist": "2026-11-17 10:40",
-    "decisions_from": "2026-11-16",
-    "swing": 1360589.65,
-    "swing_return_pct": 0.78,
-    "blend": 1387059.51,
-    "blend_return_pct": 2.75,
-    "book_c": 1397647.45,
-    "book_c_return_pct": 3.53,
-    "book_d": 1413529.37,
-    "book_d_return_pct": 4.71,
-    "buy_hold": 1372784.56,
-    "buy_hold_return_pct": 1.69,
-    "live_return_pct": -5.99,
-    "positions": [
-      {
-        "symbol": "SBC",
-        "shares": 4450,
-        "entry_price": 67.29,
-        "price_now": 69.82,
-        "price_is_today": true,
-        "unrealised_pct": 3.76
-      },
-      {
-        "symbol": "SMSPHARMA",
-        "shares": 387,
-        "entry_price": 516.82,
-        "price_now": 486.4,
-        "price_is_today": true,
-        "unrealised_pct": -5.89
-      },
-      {
-        "symbol": "SSWL",
-        "shares": 292,
-        "entry_price": 522.67,
-        "price_now": 566.2,
-        "price_is_today": true,
-        "unrealised_pct": 8.33
-      },
-      {
-        "symbol": "TFCILTD",
-        "shares": 1582,
-        "entry_price": 160.48,
-        "price_now": 166.75,
-        "price_is_today": true,
-        "unrealised_pct": 3.91
-      }
-    ],
-    "gate_confirmation": null,
-    "note": "Marked at the morning price; no decision is made at this run."
-  },
-  "signal_drift": {
-    "days": 21,
-    "first_day": "2026-10-15",
-    "last_day": "2026-11-16",
-    "decide_signals": 1153,
-    "kept": 1028,
-    "dropped_by_close": 125,
-    "added_by_close": 204,
-    "dropped_pct_of_decide": 10.8,
-    "added_pct_of_close": 16.6,
-    "bought": 5,
-    "bought_but_dropped_by_close": {
-      "buys": 0,
-      "completed_20d": 0,
-      "average_20d_return_pct": null,
-      "average_return_to_date_pct": null,
-      "symbols": []
-    },
-    "bought_and_kept": {
-      "buys": 5,
-      "completed_20d": 0,
-      "average_20d_return_pct": null,
-      "average_return_to_date_pct": 3.22,
-      "symbols": [
-        "SBC (2026-11-03)",
-        "SMSPHARMA (2026-11-03)",
-        "SSWL (2026-11-03)",
-        "TFCILTD (2026-11-03)",
-        "WHEELS (2026-11-03)"
-      ]
-    },
-    "per_day": [
-      {
-        "date": "2026-10-15",
-        "decide": 29,
-        "close": 28,
-        "kept": 22,
-        "dropped": 7,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-16",
-        "decide": 78,
-        "close": 78,
-        "kept": 69,
-        "dropped": 9,
-        "added": 9,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-19",
-        "decide": 32,
-        "close": 28,
-        "kept": 25,
-        "dropped": 7,
-        "added": 3,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-21",
-        "decide": 5,
-        "close": 7,
-        "kept": 4,
-        "dropped": 1,
-        "added": 3,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-22",
-        "decide": 16,
-        "close": 19,
-        "kept": 15,
-        "dropped": 1,
-        "added": 4,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-23",
-        "decide": 7,
-        "close": 8,
-        "kept": 7,
-        "dropped": 0,
-        "added": 1,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-26",
-        "decide": 27,
-        "close": 29,
-        "kept": 23,
-        "dropped": 4,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-27",
-        "decide": 54,
-        "close": 62,
-        "kept": 50,
-        "dropped": 4,
-        "added": 12,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-28",
-        "decide": 47,
-        "close": 51,
-        "kept": 41,
-        "dropped": 6,
-        "added": 10,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-29",
-        "decide": 50,
-        "close": 46,
-        "kept": 40,
-        "dropped": 10,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-30",
-        "decide": 21,
-        "close": 26,
-        "kept": 18,
-        "dropped": 3,
-        "added": 8,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-02",
-        "decide": 59,
-        "close": 61,
-        "kept": 52,
-        "dropped": 7,
-        "added": 9,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-03",
-        "decide": 62,
-        "close": 67,
-        "kept": 56,
-        "dropped": 6,
-        "added": 11,
-        "bought": 5,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-04",
-        "decide": 101,
-        "close": 113,
-        "kept": 99,
-        "dropped": 2,
-        "added": 14,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-05",
-        "decide": 68,
-        "close": 68,
-        "kept": 56,
-        "dropped": 12,
-        "added": 12,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-06",
-        "decide": 50,
-        "close": 58,
-        "kept": 45,
-        "dropped": 5,
-        "added": 13,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-09",
-        "decide": 78,
-        "close": 82,
-        "kept": 68,
-        "dropped": 10,
-        "added": 14,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-11",
-        "decide": 115,
-        "close": 116,
-        "kept": 106,
-        "dropped": 9,
-        "added": 10,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-12",
-        "decide": 110,
-        "close": 120,
-        "kept": 104,
-        "dropped": 6,
-        "added": 16,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-13",
-        "decide": 81,
-        "close": 93,
-        "kept": 74,
-        "dropped": 7,
-        "added": 19,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-16",
-        "decide": 63,
-        "close": 72,
-        "kept": 54,
-        "dropped": 9,
-        "added": 18,
-        "bought": 0,
-        "bought_dropped": 0
-      }
-    ],
-    "note": "Close list = the live VCP clause re-run at the next 10:40 update on the decide day's settled bars. Market cap and quarterly profit in the clause are read as of the re-run. Records only \u2014 the close list changes no decision."
+    "swing_cash": 26647.3
   }
 }

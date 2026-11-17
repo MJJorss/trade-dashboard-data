@@ -95,6 +95,44 @@
       "r_multiple": null,
       "exit_reason": "Below 200-DMA",
       "month": "2026-11"
+    },
+    {
+      "symbol": "GILT5YBEES",
+      "scanner": "Defensive Sleeve",
+      "book": "sleeve",
+      "rs_tier": null,
+      "sector": null,
+      "entry_price": 65.79,
+      "exit_price": 66.18,
+      "entry_date": "2026-09-15",
+      "exit_date": "2026-11-17",
+      "hold_days": 63,
+      "shares": 1595.7684,
+      "pnl_pct": 0.57,
+      "pnl_inr": 593.69,
+      "costs_inr": 21.93,
+      "r_multiple": null,
+      "exit_reason": "Sleeve rebalance trim",
+      "month": "2026-11"
+    },
+    {
+      "symbol": "MON100",
+      "scanner": "Defensive Sleeve",
+      "book": "sleeve",
+      "rs_tier": null,
+      "sector": null,
+      "entry_price": 302.39,
+      "exit_price": 298.81,
+      "entry_date": "2026-11-08",
+      "exit_date": "2026-11-17",
+      "hold_days": 9,
+      "shares": 196.4521,
+      "pnl_pct": -1.24,
+      "pnl_inr": -734.83,
+      "costs_inr": 20.23,
+      "r_multiple": null,
+      "exit_reason": "Sleeve rebalance trim",
+      "month": "2026-11"
     }
   ]
 }
