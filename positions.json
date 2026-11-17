@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 395.55,
-      "unrealised_pct": 11.85
+      "current_price": 395.15,
+      "unrealised_pct": 11.73
     },
     {
       "symbol": "NYKAA",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 358.2,
-      "unrealised_pct": 4.84
+      "current_price": 358.7,
+      "unrealised_pct": 4.99
     },
     {
       "symbol": "THELEELA",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 674.65,
-      "unrealised_pct": -2.51
+      "current_price": 676.9,
+      "unrealised_pct": -2.18
     },
     {
       "symbol": "TBZ",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 616.0,
-      "unrealised_pct": -2.99
+      "current_price": 605.0,
+      "unrealised_pct": -4.72
     },
     {
       "symbol": "SSWL",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 566.5,
-      "unrealised_pct": 1.27
+      "current_price": 563.0,
+      "unrealised_pct": 0.64
     },
     {
       "symbol": "CUPID",
@@ -171,11 +171,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 367.0,
-      "unrealised_pct": -0.24
+      "current_price": 366.45,
+      "unrealised_pct": -0.39
     }
   ],
-  "last_updated": "2026-11-17 13:16 IST",
+  "last_updated": "2026-11-17 15:02 IST",
   "closed_today_map": {
     "2026-11-17": [
       "SBC"
