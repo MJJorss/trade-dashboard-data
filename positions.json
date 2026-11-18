@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 358.1,
-      "unrealised_pct": 4.81
+      "current_price": 354.95,
+      "unrealised_pct": 3.89
     },
     {
       "symbol": "THELEELA",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 682.8,
-      "unrealised_pct": -1.33
+      "current_price": 687.6,
+      "unrealised_pct": -0.64
     },
     {
       "symbol": "SSWL",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 550.7,
-      "unrealised_pct": -1.56
+      "current_price": 550.5,
+      "unrealised_pct": -1.59
     },
     {
       "symbol": "CUPID",
@@ -113,11 +113,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 362.25,
-      "unrealised_pct": -1.54
+      "current_price": 360.9,
+      "unrealised_pct": -1.9
     }
   ],
-  "last_updated": "2026-11-18 11:25 IST",
+  "last_updated": "2026-11-18 13:15 IST",
   "closed_today_map": {
     "2026-11-18": [
       "KARURVYSYA",
