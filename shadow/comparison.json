@@ -1882,26 +1882,42 @@
   },
   "trueup": {
     "latest": {
-      "date": "2026-11-16",
-      "trued_up_at_ist": "2026-11-17 15:46",
+      "date": "2026-11-17",
+      "trued_up_at_ist": "2026-11-18 10:40",
       "decided_at_ist": "14:43",
       "rows": [
         {
-          "side": "sell",
-          "symbol": "WHEELS",
-          "run_price": 2292.9,
-          "official_close": 2321.6,
-          "gap_pct": 1.252,
-          "quantity": 62
+          "side": "buy",
+          "symbol": "GCSL",
+          "run_price": 828.03,
+          "official_close": 829.2,
+          "gap_pct": 0.141,
+          "quantity": 458
+        },
+        {
+          "side": "sleeve sell",
+          "symbol": "GILT5YBEES",
+          "run_price": 66.1838,
+          "official_close": 66.2,
+          "gap_pct": 0.024,
+          "quantity": 1595.7684
+        },
+        {
+          "side": "sleeve sell",
+          "symbol": "MON100",
+          "run_price": 298.8109,
+          "official_close": 299.6,
+          "gap_pct": 0.264,
+          "quantity": 196.4521
         }
       ],
-      "average_gap_pct": 1.252,
-      "average_absolute_gap_pct": 1.252,
+      "average_gap_pct": 0.143,
+      "average_absolute_gap_pct": 0.143,
       "note": "Records only \u2014 the official close changes no decision."
     },
-    "days": 21,
-    "average_gap_pct_all": 0.016,
-    "average_absolute_gap_pct_all": 0.728
+    "days": 22,
+    "average_gap_pct_all": 0.042,
+    "average_absolute_gap_pct_all": 0.611
   },
   "test_books": {
     "t10": {
@@ -2391,75 +2407,75 @@
     "swing_cash": 26647.3
   },
   "morning": {
-    "marked_at_ist": "2026-11-17 15:46",
+    "marked_at_ist": "2026-11-18 10:40",
     "decisions_from": "2026-11-17",
-    "swing": 1352127.04,
-    "swing_return_pct": 0.16,
-    "blend": 1377878.03,
-    "blend_return_pct": 2.07,
-    "book_c": 1388178.43,
-    "book_c_return_pct": 2.83,
-    "book_d": 1403629.02,
-    "book_d_return_pct": 3.97,
-    "buy_hold": 1363169.59,
-    "buy_hold_return_pct": 0.98,
-    "live_return_pct": -6.51,
+    "swing": 1352271.04,
+    "swing_return_pct": 0.17,
+    "blend": 1374049.89,
+    "blend_return_pct": 1.78,
+    "book_c": 1382761.44,
+    "book_c_return_pct": 2.43,
+    "book_d": 1395828.75,
+    "book_d_return_pct": 3.39,
+    "buy_hold": 1355594.16,
+    "buy_hold_return_pct": 0.41,
+    "live_return_pct": -7.26,
     "positions": [
       {
         "symbol": "GCSL",
         "shares": 458,
         "entry_price": 828.03,
-        "price_now": 825.85,
+        "price_now": 837.55,
         "price_is_today": true,
-        "unrealised_pct": -0.26
+        "unrealised_pct": 1.15
       },
       {
         "symbol": "SBC",
         "shares": 4450,
         "entry_price": 67.29,
-        "price_now": 69.05,
+        "price_now": 68.51,
         "price_is_today": true,
-        "unrealised_pct": 2.62
+        "unrealised_pct": 1.81
       },
       {
         "symbol": "SMSPHARMA",
         "shares": 387,
         "entry_price": 516.82,
-        "price_now": 486.5,
+        "price_now": 480.8,
         "price_is_today": true,
-        "unrealised_pct": -5.87
+        "unrealised_pct": -6.97
       },
       {
         "symbol": "SSWL",
         "shares": 292,
         "entry_price": 522.67,
-        "price_now": 555.2,
+        "price_now": 548.15,
         "price_is_today": true,
-        "unrealised_pct": 6.22
+        "unrealised_pct": 4.87
       },
       {
         "symbol": "TFCILTD",
         "shares": 1582,
         "entry_price": 160.48,
-        "price_now": 166.3,
+        "price_now": 167.2,
         "price_is_today": true,
-        "unrealised_pct": 3.63
+        "unrealised_pct": 4.19
       }
     ],
     "gate_confirmation": null,
     "note": "Marked at the morning price; no decision is made at this run."
   },
   "signal_drift": {
-    "days": 21,
+    "days": 22,
     "first_day": "2026-10-15",
-    "last_day": "2026-11-16",
-    "decide_signals": 1153,
-    "kept": 1028,
-    "dropped_by_close": 125,
-    "added_by_close": 204,
-    "dropped_pct_of_decide": 10.8,
-    "added_pct_of_close": 16.6,
-    "bought": 5,
+    "last_day": "2026-11-17",
+    "decide_signals": 1257,
+    "kept": 1114,
+    "dropped_by_close": 143,
+    "added_by_close": 211,
+    "dropped_pct_of_decide": 11.4,
+    "added_pct_of_close": 15.9,
+    "bought": 6,
     "bought_but_dropped_by_close": {
       "buys": 0,
       "completed_20d": 0,
@@ -2468,16 +2484,17 @@
       "symbols": []
     },
     "bought_and_kept": {
-      "buys": 5,
+      "buys": 6,
       "completed_20d": 0,
       "average_20d_return_pct": null,
-      "average_return_to_date_pct": 3.22,
+      "average_return_to_date_pct": 2.46,
       "symbols": [
         "SBC (2026-11-03)",
         "SMSPHARMA (2026-11-03)",
         "SSWL (2026-11-03)",
         "TFCILTD (2026-11-03)",
-        "WHEELS (2026-11-03)"
+        "WHEELS (2026-11-03)",
+        "GCSL (2026-11-17)"
       ]
     },
     "per_day": [
@@ -2689,6 +2706,16 @@
         "dropped": 9,
         "added": 18,
         "bought": 0,
+        "bought_dropped": 0
+      },
+      {
+        "date": "2026-11-17",
+        "decide": 104,
+        "close": 93,
+        "kept": 86,
+        "dropped": 18,
+        "added": 7,
+        "bought": 1,
         "bought_dropped": 0
       }
     ],
