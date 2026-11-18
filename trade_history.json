@@ -1504,6 +1504,38 @@
       "capital_per_slot": 142132,
       "exit_reason": "SI Crossover \ud83d\udd35",
       "month": "2026-11"
+    },
+    {
+      "symbol": "KARURVYSYA",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "LOW",
+      "entry_price": 353.65,
+      "exit_price": 390.35,
+      "entry_date": "2026-10-28",
+      "exit_date": "2026-11-18",
+      "hold_days": 21,
+      "pnl_pct": 10.38,
+      "pnl_inr": 9363,
+      "capital_per_slot": 90200,
+      "exit_reason": "SI Crossover \ud83d\udd35",
+      "month": "2026-11"
+    },
+    {
+      "symbol": "TBZ",
+      "scanner": "VCP Breakout",
+      "conviction": "\ud83d\udcca STANDARD",
+      "rs_tier": "HIGH",
+      "entry_price": 635.0,
+      "exit_price": 587.1,
+      "entry_date": "2026-11-09",
+      "exit_date": "2026-11-18",
+      "hold_days": 9,
+      "pnl_pct": -7.54,
+      "pnl_inr": -10287,
+      "capital_per_slot": 136429,
+      "exit_reason": "Stop Loss (gap down) \ud83d\udd34",
+      "month": "2026-11"
     }
   ]
 }
