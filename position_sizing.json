@@ -5,8 +5,8 @@
   "equity_curve_tier": 0,
   "drawdown_multiplier": 1.0,
   "fast_trigger_breached": false,
-  "fast_trigger_5day_pct": -1.23,
-  "last_updated": "2026-11-19 09:27 IST",
+  "fast_trigger_5day_pct": -2.88,
+  "last_updated": "2026-11-19 11:25 IST",
   "positions": [
     {
       "symbol": "NYKAA",
@@ -21,9 +21,9 @@
       "recommended_qty": 539,
       "actual_capital_deployed": 90200,
       "actual_qty": 264,
-      "current_ltp": 355.05,
-      "unrealized_pnl": 3538,
-      "unrealized_pnl_pct": 3.92,
+      "current_ltp": 357.65,
+      "unrealized_pnl": 4224,
+      "unrealized_pnl_pct": 4.68,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -40,9 +40,9 @@
       "recommended_qty": 266,
       "actual_capital_deployed": 135529,
       "actual_qty": 195,
-      "current_ltp": 689.4,
-      "unrealized_pnl": -507,
-      "unrealized_pnl_pct": -0.38,
+      "current_ltp": 689.95,
+      "unrealized_pnl": -400,
+      "unrealized_pnl_pct": -0.3,
       "price_source": "live",
       "status": "OPEN"
     },
@@ -59,9 +59,9 @@
       "recommended_qty": 501,
       "actual_capital_deployed": 184200,
       "actual_qty": 500,
-      "current_ltp": 357.7,
-      "unrealized_pnl": -5100,
-      "unrealized_pnl_pct": -2.77,
+      "current_ltp": 366.4,
+      "unrealized_pnl": -750,
+      "unrealized_pnl_pct": -0.41,
       "price_source": "live",
       "status": "OPEN"
     }
