@@ -1,6 +1,6 @@
 {
   "as_of": "2026-11-19",
-  "last_updated": "2026-11-19 15:30 IST",
+  "last_updated": "2026-11-19 15:46 IST (morning mark \u2014 decisions from 2026-11-19)",
   "capital_base": 1318657.95,
   "total_equity": 1353402.44,
   "starting_capital": 1350000,
@@ -43,11 +43,11 @@
       "high_since_entry": 844.0,
       "risk_inr": 18961.82,
       "risk_pct_of_nav": 1.438,
-      "current_ltp": 843.35,
-      "unrealized_pnl": 7017.84,
-      "unrealized_pnl_pct": 1.85,
+      "current_ltp": 842.0,
+      "unrealized_pnl": 6398.26,
+      "unrealized_pnl_pct": 1.69,
       "days_held": 2,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     },
     {
@@ -68,11 +68,11 @@
       "high_since_entry": 71.29,
       "risk_inr": 18899.59,
       "risk_pct_of_nav": 1.433,
-      "current_ltp": 68.52,
-      "unrealized_pnl": 5485.87,
-      "unrealized_pnl_pct": 1.83,
+      "current_ltp": 68.4,
+      "unrealized_pnl": 4939.5,
+      "unrealized_pnl_pct": 1.65,
       "days_held": 16,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     },
     {
@@ -93,11 +93,11 @@
       "high_since_entry": 588.8,
       "risk_inr": 18896.68,
       "risk_pct_of_nav": 1.433,
-      "current_ltp": 546.15,
-      "unrealized_pnl": 6855.53,
-      "unrealized_pnl_pct": 4.49,
+      "current_ltp": 555.0,
+      "unrealized_pnl": 9440.36,
+      "unrealized_pnl_pct": 6.19,
       "days_held": 16,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     },
     {
@@ -118,11 +118,11 @@
       "high_since_entry": 172.0,
       "risk_inr": 18894.4,
       "risk_pct_of_nav": 1.433,
-      "current_ltp": 170.25,
-      "unrealized_pnl": 15455.63,
-      "unrealized_pnl_pct": 6.09,
+      "current_ltp": 170.23,
+      "unrealized_pnl": 15424.5,
+      "unrealized_pnl_pct": 6.08,
       "days_held": 16,
-      "price_source": "kite",
+      "price_source": "kite (morning mark)",
       "status": "OPEN"
     }
   ]
