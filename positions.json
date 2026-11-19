@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 357.65,
-      "unrealised_pct": 4.68
+      "current_price": 354.65,
+      "unrealised_pct": 3.81
     },
     {
       "symbol": "THELEELA",
@@ -84,11 +84,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 366.4,
-      "unrealised_pct": -0.41
+      "current_price": 367.0,
+      "unrealised_pct": -0.24
     }
   ],
-  "last_updated": "2026-11-19 11:25 IST",
+  "last_updated": "2026-11-19 13:15 IST",
   "closed_today_map": {
     "2026-11-19": [
       "SSWL"
