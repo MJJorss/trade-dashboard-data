@@ -21,6 +21,25 @@
       "book": "stock"
     },
     {
+      "symbol": "SMSPHARMA",
+      "scanner": "VCP Breakout",
+      "rs_tier": "HIGH",
+      "sector": "Pharma",
+      "entry_price": 516.82,
+      "exit_price": 467.58,
+      "entry_date": "2026-11-03",
+      "exit_date": "2026-11-19",
+      "hold_days": 16,
+      "shares": 387,
+      "pnl_pct": -9.53,
+      "pnl_inr": -19496.56,
+      "costs_inr": 442.87,
+      "r_multiple": -1.03,
+      "exit_reason": "Stop Loss -7%",
+      "month": "2026-11",
+      "book": "stock"
+    },
+    {
       "symbol": "GOLDBEES",
       "scanner": "Defensive Sleeve",
       "book": "sleeve",
