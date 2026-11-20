@@ -3,19 +3,19 @@
   "config_cell": "SLEEVED",
   "config_hash": "b5f18574be9045ab",
   "run_start_date": "2026-09-15",
-  "last_run_ist": "2026-11-19 14:40",
-  "as_of": "2026-11-19",
+  "last_run_ist": "2026-11-20 14:40",
+  "as_of": "2026-11-20",
   "test_run": false,
-  "frames_fetched": 379,
+  "frames_fetched": 382,
   "frames_failed": {},
-  "signals_unlabelled": 392,
+  "signals_unlabelled": 408,
   "decay": {
-    "n_closed": 2,
+    "n_closed": 3,
     "window": 60,
     "rolling_R": null,
-    "mean_R_all": -0.395,
+    "mean_R_all": -0.243,
     "state": "NORMAL",
-    "note": "2/60 closed trades \u2014 not enough yet"
+    "note": "3/60 closed trades \u2014 not enough yet"
   },
   "restated": [
     "Rule change from 2026-09-15: Idle cash earns LIQUIDBEES' actual daily change instead of a flat 5.5% a year (both books)",
@@ -25,19 +25,19 @@
     "Rule change from 2026-09-15: Minimum position size: an entry is skipped when the 7% heat cap leaves less than half of its full 1.40% risk, instead of buying a 1-2 share position (changed 3 Nov 2026)"
   ],
   "equivalence": {
-    "shadow_si": "BEARISH",
+    "shadow_si": "BULLISH",
     "shadow_ma": "ABOVE",
-    "live_si": "BEARISH",
+    "live_si": "BULLISH",
     "live_ma": null,
-    "live_run_at": "2026-11-19T07:45:32Z",
+    "live_run_at": "2026-11-20T07:45:32Z",
     "error": null,
     "compared": "SI",
     "match": true,
-    "date": "2026-11-19"
+    "date": "2026-11-20"
   },
-  "runtime_s": 171.0,
+  "runtime_s": 173.3,
   "research_config_hash": "5dd2cfcc8b0459b1",
-  "mode": "update",
+  "mode": "decide",
   "decided_at_ist": "14:43",
   "late_run": false,
   "config_changes": [
