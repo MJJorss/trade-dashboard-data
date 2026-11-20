@@ -603,5 +603,27 @@
     "days_held": 7,
     "exit_reason": "Below 21 EMA — technical exit",
     "exit_date": "2026-11-13"
+  },
+  {
+    "symbol": "KROSS",
+    "entry_price": 291.45,
+    "exit_price": 278.9,
+    "capital_deployed": 92724.0,
+    "pnl_pct": -4.31,
+    "pnl_inr": -3996.0,
+    "days_held": 14,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-11-20"
+  },
+  {
+    "symbol": "DIACABS",
+    "entry_price": 378.0,
+    "exit_price": 364.05,
+    "capital_deployed": 89276.0,
+    "pnl_pct": -3.69,
+    "pnl_inr": -3294.0,
+    "days_held": 7,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-11-20"
   }
 ]
