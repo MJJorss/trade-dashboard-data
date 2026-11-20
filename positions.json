@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 357.45,
-      "unrealised_pct": 4.62
+      "current_price": 363.45,
+      "unrealised_pct": 6.38
     },
     {
       "symbol": "THELEELA",
@@ -37,7 +37,7 @@
       "entry_date": "2026-11-06",
       "stop_price": 643.56,
       "stop_unlocked": false,
-      "high_since_entry": 698.0,
+      "high_since_entry": 705.2,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 23.2,
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 695.8,
-      "unrealised_pct": 0.55
+      "current_price": 701.0,
+      "unrealised_pct": 1.3
     },
     {
       "symbol": "CUPID",
@@ -84,11 +84,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 368.35,
-      "unrealised_pct": 0.12
+      "current_price": 366.6,
+      "unrealised_pct": -0.35
     }
   ],
-  "last_updated": "2026-11-20 09:27 IST",
+  "last_updated": "2026-11-20 11:25 IST",
   "closed_today_map": {
     "2026-11-20": []
   }
