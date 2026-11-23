@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 364.9,
-      "unrealised_pct": 6.81
+      "current_price": 364.0,
+      "unrealised_pct": 6.54
     },
     {
       "symbol": "THELEELA",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 699.7,
-      "unrealised_pct": 1.11
+      "current_price": 687.7,
+      "unrealised_pct": -0.62
     },
     {
       "symbol": "CUPID",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 365.8,
-      "unrealised_pct": -0.57
+      "current_price": 363.8,
+      "unrealised_pct": -1.11
     },
     {
       "symbol": "NELCAST",
@@ -95,7 +95,7 @@
       "entry_date": "2026-11-20",
       "stop_price": 134.31,
       "stop_unlocked": false,
-      "high_since_entry": 147.75,
+      "high_since_entry": 149.6,
       "conviction": "\ud83d\ude80 STRONG",
       "rs_tier": "HIGH",
       "rs_composite": 11.75,
@@ -113,8 +113,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 146.51,
-      "unrealised_pct": 1.45
+      "current_price": 148.97,
+      "unrealised_pct": 3.15
     },
     {
       "symbol": "GCSL",
@@ -124,7 +124,7 @@
       "entry_date": "2026-11-20",
       "stop_price": 786.13,
       "stop_unlocked": false,
-      "high_since_entry": 849.0,
+      "high_since_entry": 857.4,
       "conviction": "\ud83d\udcca STANDARD",
       "rs_tier": "HIGH",
       "rs_composite": 42.08,
@@ -142,8 +142,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 848.7,
-      "unrealised_pct": 0.4
+      "current_price": 849.8,
+      "unrealised_pct": 0.53
     },
     {
       "symbol": "SBC",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 68.66,
-      "unrealised_pct": 0.01
+      "current_price": 68.76,
+      "unrealised_pct": 0.16
     },
     {
       "symbol": "ATHERENERG",
@@ -200,12 +200,12 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1927.0,
-      "unrealised_pct": -1.3
+      "current_price": 1950.9,
+      "unrealised_pct": -0.07
     }
   ],
-  "last_updated": "2026-11-20 15:02 IST",
+  "last_updated": "2026-11-23 09:27 IST",
   "closed_today_map": {
-    "2026-11-20": []
+    "2026-11-23": []
   }
 }
