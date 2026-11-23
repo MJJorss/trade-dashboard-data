@@ -1,6 +1,6 @@
 {
-  "generated_at_ist": "2026-11-20 14:40",
-  "as_of": "2026-11-20",
+  "generated_at_ist": "2026-11-23 14:40",
+  "as_of": "2026-11-23",
   "start_date": "2026-09-15",
   "late_run": false,
   "labels": {
@@ -14,11 +14,11 @@
     }
   },
   "status": {
-    "date": "2026-11-20",
-    "gate_entries_allowed": true,
+    "date": "2026-11-23",
+    "gate_entries_allowed": false,
     "gate_above_21_day_average": true,
-    "gate_super_indicator_bullish": true,
-    "gate_distance_pct": 3.6,
+    "gate_super_indicator_bullish": false,
+    "gate_distance_pct": 2.8,
     "size_level_tier": 1,
     "size_level": "three-quarter size (the book's equity is up to 3% below its 20-day average)",
     "five_day_breaker_active": false,
@@ -26,7 +26,7 @@
     "gate_mode_today": "close",
     "gate_last_decision": null,
     "gate_settled_last_run": [],
-    "run_started_ist": "2026-11-20 14:40",
+    "run_started_ist": "2026-11-23 14:40",
     "decided_at_ist": "14:43",
     "late_run": false,
     "signal_snapshot": "saved"
@@ -1101,53 +1101,76 @@
       "book_c_etf_part": 986614.46,
       "book_d": 1409449.23,
       "buy_hold": 1368822.03,
-      "live_pct": -7.22,
+      "live_pct": -7.15,
       "gate_above_21_day_average": true,
       "gate_super_indicator_bullish": true,
       "gate_entries_allowed": true,
       "late_run": false,
-      "ss_mix_50_50": 1314349.04,
-      "ss_mix_70_30": 1315359.65,
-      "ss_basket": 1311822.52,
+      "ss_mix_50_50": 1312328.53,
+      "ss_mix_70_30": 1314147.35,
+      "ss_basket": 1307781.5,
       "ss_swing": 1316875.57,
       "t10_book": 1315533.98,
       "t10_swing": 1330590.28
+    },
+    {
+      "date": "2026-11-23",
+      "book_a": 1348824.71,
+      "book_b": 1377126.9,
+      "book_b_v3_half": 674412.35,
+      "book_b_etf_half": 702714.54,
+      "book_c": 1388447.77,
+      "book_c_v3_part": 404647.41,
+      "book_c_etf_part": 983800.36,
+      "book_d": 1405429.09,
+      "buy_hold": 1364917.77,
+      "live_pct": -7.41,
+      "gate_above_21_day_average": true,
+      "gate_super_indicator_bullish": false,
+      "gate_entries_allowed": false,
+      "late_run": false,
+      "ss_mix_50_50": 1307792.42,
+      "ss_mix_70_30": 1309984.09,
+      "ss_basket": 1302313.25,
+      "ss_swing": 1313271.59,
+      "t10_book": 1315340.47,
+      "t10_swing": 1326948.76
     }
   ],
   "summary": {
     "book_a": {
-      "return_pct": 0.19,
-      "max_drawdown_pct": -2.54,
-      "current_drawdown_pct": -2.45,
-      "invested_pct": 98.7
+      "return_pct": -0.09,
+      "max_drawdown_pct": -2.72,
+      "current_drawdown_pct": -2.72,
+      "invested_pct": 98.1
     },
     "book_b": {
-      "return_pct": 2.3,
+      "return_pct": 2.01,
       "max_drawdown_pct": -2.01,
-      "current_drawdown_pct": -1.33,
-      "invested_pct": 99.4
+      "current_drawdown_pct": -1.61,
+      "invested_pct": 99.1
     },
     "live": {
-      "return_pct": -7.22,
+      "return_pct": -7.41,
       "max_drawdown_pct": -10.36,
-      "current_drawdown_pct": -7.22
+      "current_drawdown_pct": -7.41
     },
     "book_c": {
-      "return_pct": 3.14,
+      "return_pct": 2.85,
       "max_drawdown_pct": -1.8,
-      "current_drawdown_pct": -0.89,
-      "invested_pct": 99.6
+      "current_drawdown_pct": -1.17,
+      "invested_pct": 99.4
     },
     "book_d": {
-      "return_pct": 4.4,
+      "return_pct": 4.11,
       "max_drawdown_pct": -1.49,
-      "current_drawdown_pct": -0.23,
+      "current_drawdown_pct": -0.52,
       "invested_pct": 100.0
     },
     "buy_hold": {
-      "return_pct": 1.39,
+      "return_pct": 1.11,
       "max_drawdown_pct": -9.53,
-      "current_drawdown_pct": -1.04,
+      "current_drawdown_pct": -1.32,
       "invested_pct": 100.0
     }
   },
@@ -1165,7 +1188,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 1.29,
+        "return_pct": 1.01,
         "partial": true
       }
     ],
@@ -1182,7 +1205,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 3.4,
+        "return_pct": 3.11,
         "partial": true
       }
     ],
@@ -1199,7 +1222,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 4.24,
+        "return_pct": 3.95,
         "partial": true
       }
     ],
@@ -1216,7 +1239,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 5.5,
+        "return_pct": 5.2,
         "partial": true
       }
     ],
@@ -1233,7 +1256,7 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 1.67,
+        "return_pct": 1.47,
         "partial": true
       }
     ],
@@ -1250,35 +1273,35 @@
       },
       {
         "month": "2026-11",
-        "return_pct": 7.39,
+        "return_pct": 7.08,
         "partial": true
       }
     ],
     "t10_book": [
       {
         "month": "2026-11",
-        "return_pct": -2.46,
+        "return_pct": -2.48,
         "partial": true
       }
     ],
     "ss_mix_50_50": [
       {
         "month": "2026-11",
-        "return_pct": -2.64,
+        "return_pct": -3.13,
         "partial": true
       }
     ],
     "ss_mix_70_30": [
       {
         "month": "2026-11",
-        "return_pct": -2.57,
+        "return_pct": -2.96,
         "partial": true
       }
     ],
     "ss_basket": [
       {
         "month": "2026-11",
-        "return_pct": -2.83,
+        "return_pct": -3.53,
         "partial": true
       }
     ]
@@ -1309,22 +1332,22 @@
     }
   },
   "book_b_breakdown": {
-    "v3_half": 676263.13,
+    "v3_half": 674412.35,
     "v3_scale_of_book_a": 0.5,
-    "etf_half": 704724.61,
+    "etf_half": 702714.54,
     "etf_half_holding": "MID150BEES",
     "etf_half_holdings_at_6_75_lakh_scale": {
       "ETF": {
         "units": 2999.1706,
-        "value": 704505.17
+        "value": 702495.73
       }
     },
     "rebalance_rule": "both halves back to 50/50 on the first trading day of each January"
   },
   "book_cd_breakdown": {
     "book_c": {
-      "v3_part": 405757.88,
-      "etf_part": 986614.46,
+      "v3_part": 404647.41,
+      "etf_part": 983800.36,
       "v3_scale_of_book_a": 0.3,
       "target_weights": {
         "swing": 0.3,
@@ -1333,7 +1356,7 @@
       "rebalance_rule": "back to 30% Swing and 70% fund on the first trading day of each January"
     },
     "book_d": {
-      "etf_part": 1409449.23,
+      "etf_part": 1405429.09,
       "target_weights": {
         "swing": 0.0,
         "fund": 1.0
@@ -1344,414 +1367,283 @@
     "source": "computed from Swing and the fund half, the same series as Blend \u2014 no extra engine run"
   },
   "decisions": {
-    "date": "2026-11-20",
-    "signals": 74,
-    "buys": [
-      {
-        "symbol": "HINDOILEXP",
-        "shares": 353,
-        "price": 218.8,
-        "stop": 193.7,
-        "risk_inr": 8859.06,
-        "rank": 3
-      },
-      {
-        "symbol": "ICIL",
-        "shares": 223,
-        "price": 584.48,
-        "stop": 521.76,
-        "risk_inr": 13986.52,
-        "rank": 1
-      },
-      {
-        "symbol": "NEOGEN",
-        "shares": 49,
-        "price": 2935.63,
-        "stop": 2651.32,
-        "risk_inr": 13931.32,
-        "rank": 2
-      }
-    ],
-    "sells": [
-      {
-        "symbol": "SSWL",
-        "shares": 292,
-        "price": 528.02,
-        "reason": "it closed below its 13-day average after having risen 10%",
-        "pnl_inr": 1203.08,
-        "pnl_pct": 1.02
-      }
-    ],
+    "date": "2026-11-23",
+    "signals": 66,
+    "buys": [],
+    "sells": [],
     "sleeve": [
-      {
-        "symbol": "GILT5YBEES",
-        "side": "sell",
-        "units": 750.9837,
-        "price": 66.1438
-      },
       {
         "symbol": "MON100",
         "side": "sell",
-        "units": 163.723,
-        "price": 297.8718
+        "units": 29.3524,
+        "price": 294.4053
       }
     ],
     "book_b_fund_half": null,
     "skipped": [
       {
-        "symbol": "ARTEMISMED",
-        "reason": "Not liquid enough",
-        "rank": null
+        "symbol": "AARTIPHARM",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "GCSL",
-        "reason": "Already held",
-        "rank": null
+        "symbol": "ABDL",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "HESTERBIO",
-        "reason": "Not liquid enough",
-        "rank": null
+        "symbol": "ACE",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "KOVAI",
-        "reason": "Not liquid enough",
-        "rank": null
+        "symbol": "ADANIPORTS",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "LMW",
-        "reason": "Not liquid enough",
-        "rank": null
-      },
-      {
-        "symbol": "MAXESTATES",
-        "reason": "Not liquid enough",
-        "rank": null
-      },
-      {
-        "symbol": "NITINSPIN",
-        "reason": "Not liquid enough",
-        "rank": null
-      },
-      {
-        "symbol": "SBC",
-        "reason": "Already held",
-        "rank": null
-      },
-      {
-        "symbol": "SIMPLEXINF",
-        "reason": "Not liquid enough",
-        "rank": null
-      },
-      {
-        "symbol": "TFCILTD",
-        "reason": "Already held",
-        "rank": null
-      },
-      {
-        "symbol": "THEJO",
-        "reason": "Not liquid enough",
-        "rank": null
-      },
-      {
-        "symbol": "TIIL",
-        "reason": "Not liquid enough",
-        "rank": null
-      },
-      {
-        "symbol": "VIJAYA",
-        "reason": "Moved more than 7% in 3 days",
-        "rank": null
-      },
-      {
-        "symbol": "VSSL",
-        "reason": "Not liquid enough",
-        "rank": null
-      },
-      {
-        "symbol": "LICHSGFIN",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "INDHOTEL",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "PHOENIXLTD",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "GLAND",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "DLF",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "KRBL",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "GLENMARK",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "ICICIBANK",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "POONAWALLA",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "BEML",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "MANKIND",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "FINEORG",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "MEDANTA",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "AGARWALEYE",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
+        "symbol": "AJAXENGG",
+        "reason": "Market gate off"
       },
       {
         "symbol": "ANTHEM",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "CUB",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "NYKAA",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "METROPOLIS",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "COFORGE",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "KPRMILL",
-        "reason": "Middle-ranked relative strength (skipped by rule)",
-        "rank": null
-      },
-      {
-        "symbol": "FILATEX",
-        "reason": "Sector limit reached (2 already held)",
-        "rank": 4
-      },
-      {
-        "symbol": "RATNAVEER",
-        "reason": "Position too small to size",
-        "rank": 5
-      },
-      {
-        "symbol": "ATHERENERG",
-        "reason": "Position too small to size",
-        "rank": 6
-      },
-      {
-        "symbol": "WELSPUNLIV",
-        "reason": "Sector limit reached (2 already held)",
-        "rank": 7
-      },
-      {
-        "symbol": "SGFIN",
-        "reason": "Position too small to size",
-        "rank": 8
-      },
-      {
-        "symbol": "ORIENTHOT",
-        "reason": "Position too small to size",
-        "rank": 9
-      },
-      {
-        "symbol": "KRISHANA",
-        "reason": "Position too small to size",
-        "rank": 10
-      },
-      {
-        "symbol": "LOTUSDEV",
-        "reason": "Position too small to size",
-        "rank": 11
-      },
-      {
-        "symbol": "SAILIFE",
-        "reason": "Position too small to size",
-        "rank": 12
-      },
-      {
-        "symbol": "CUPID",
-        "reason": "Position too small to size",
-        "rank": 13
-      },
-      {
-        "symbol": "YATHARTH",
-        "reason": "Position too small to size",
-        "rank": 14
-      },
-      {
-        "symbol": "MAHABANK",
-        "reason": "Position too small to size",
-        "rank": 15
-      },
-      {
-        "symbol": "SHYAMMETL",
-        "reason": "Position too small to size",
-        "rank": 16
-      },
-      {
-        "symbol": "MBAPL",
-        "reason": "Position too small to size",
-        "rank": 17
-      },
-      {
-        "symbol": "THELEELA",
-        "reason": "Position too small to size",
-        "rank": 18
-      },
-      {
-        "symbol": "KOTAKBANK",
-        "reason": "Position too small to size",
-        "rank": 19
-      },
-      {
-        "symbol": "SANSERA",
-        "reason": "Position too small to size",
-        "rank": 20
-      },
-      {
-        "symbol": "INDGN",
-        "reason": "Position too small to size",
-        "rank": 21
-      },
-      {
-        "symbol": "BAJFINANCE",
-        "reason": "Position too small to size",
-        "rank": 22
-      },
-      {
-        "symbol": "ABCAPITAL",
-        "reason": "Position too small to size",
-        "rank": 23
+        "reason": "Market gate off"
       },
       {
         "symbol": "ARVIND",
-        "reason": "Sector limit reached (2 already held)",
-        "rank": 24
+        "reason": "Market gate off"
       },
       {
-        "symbol": "SUDARSCHEM",
-        "reason": "Position too small to size",
-        "rank": 25
+        "symbol": "ASAHIINDIA",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "RUBICON",
-        "reason": "Position too small to size",
-        "rank": 26
+        "symbol": "ATHERENERG",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "FEDERALBNK",
-        "reason": "Position too small to size",
-        "rank": 27
+        "symbol": "AUROPHARMA",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "RBLBANK",
-        "reason": "Position too small to size",
-        "rank": 28
+        "symbol": "COFORGE",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "LODHA",
-        "reason": "Position too small to size",
-        "rank": 29
+        "symbol": "CRAFTSMAN",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "LALPATHLAB",
-        "reason": "Position too small to size",
-        "rank": 30
+        "symbol": "DCBBANK",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "LGEINDIA",
-        "reason": "Position too small to size",
-        "rank": 31
+        "symbol": "DIVISLAB",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "PNBHOUSING",
-        "reason": "Position too small to size",
-        "rank": 32
+        "symbol": "DLF",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "SMARTWORKS",
-        "reason": "Position too small to size",
-        "rank": 33
+        "symbol": "ETERNAL",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "SPORTKING",
-        "reason": "Position too small to size",
-        "rank": 34
+        "symbol": "FINEORG",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GCSL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GLENMARK",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GRAPHITE",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "GRWRHITECH",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "HINDOILEXP",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "HONASA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ICIL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "IGIL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ITDC",
+        "reason": "Market gate off"
       },
       {
         "symbol": "JSWINFRA",
-        "reason": "Position too small to size",
-        "rank": 35
+        "reason": "Market gate off"
       },
       {
-        "symbol": "BAJAJHLDNG",
-        "reason": "Position too small to size",
-        "rank": 36
+        "symbol": "KAJARIACER",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "MOTHERSON",
-        "reason": "Position too small to size",
-        "rank": 37
+        "symbol": "KALYANKJIL",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "TVSSRICHAK",
-        "reason": "Position too small to size",
-        "rank": 38
+        "symbol": "KARURVYSYA",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "ORCHPHARMA",
-        "reason": "Position too small to size",
-        "rank": 39
+        "symbol": "KDDL",
+        "reason": "Market gate off"
       },
       {
-        "symbol": "GLAXO",
-        "reason": "Position too small to size",
-        "rank": 40
+        "symbol": "KOVAI",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "KPRMILL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "LALPATHLAB",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "LAURUSLABS",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "LGEINDIA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "LODHA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "LTTS",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "LUMAXTECH",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "MEDANTA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "MOTILALOFS",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "NAVINFLUOR",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ORIENTHOT",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PARAGMILK",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PDSL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PGIL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PHOENIXLTD",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PTCIL",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "PVRINOX",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "RAYMOND",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "RKFORGE",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "ROSSTECH",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SAILIFE",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SAMBHV",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SANGAMIND",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SHARDAMOTR",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SIGMAADV",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "SPORTKING",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TANLA",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TECHM",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TFCILTD",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "THEJO",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TI",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "TORNTPHARM",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "WELSPUNLIV",
+        "reason": "Market gate off"
+      },
+      {
+        "symbol": "WEWORK",
+        "reason": "Market gate off"
       }
     ]
   },
@@ -1796,17 +1688,17 @@
       {
         "symbol": "HINDOILEXP",
         "shadow_entry": "2026-11-20",
-        "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
+        "reason": "Live's run log did not list it (live's ranking for that day is not on record)"
       },
       {
         "symbol": "ICIL",
         "shadow_entry": "2026-11-20",
-        "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
+        "reason": "Live's run log did not list it (live's ranking for that day is not on record)"
       },
       {
         "symbol": "NEOGEN",
         "shadow_entry": "2026-11-20",
-        "reason": "Live drops middle-ranked relative-strength stocks (not in live's ranked list)"
+        "reason": "Live's run log did not list it (live's ranking for that day is not on record)"
       },
       {
         "symbol": "TFCILTD",
@@ -1882,13 +1774,13 @@
     "t10": {
       "name": "Swing, sector strength first (test)",
       "go_live": "2026-11-11",
-      "as_of": "2026-11-20",
-      "value": 1315533.98,
-      "return_pct": -2.55,
-      "worst_fall_pct": -4.35,
-      "swing_rebased_value": 1330108.83,
-      "swing_return_pct": -1.47,
-      "swing_worst_fall_pct": -2.54,
+      "as_of": "2026-11-23",
+      "value": 1315340.47,
+      "return_pct": -2.57,
+      "worst_fall_pct": -4.37,
+      "swing_rebased_value": 1326922.14,
+      "swing_return_pct": -1.71,
+      "swing_worst_fall_pct": -2.72,
       "open_positions": 7,
       "closed_trades": 2,
       "note": "Paper test, no real orders. No verdict until the judging point (10,000 gate-open signals with a sector-strength value).",
@@ -1898,70 +1790,70 @@
           "sector": "Banking",
           "entry_date": "2026-11-20",
           "entry_price": 372.92,
-          "price_now": 372.55,
-          "gain_pct": -0.1,
-          "value": 184784.8,
-          "days_held": 0
+          "price_now": 364.6,
+          "gain_pct": -2.23,
+          "value": 180841.6,
+          "days_held": 3
         },
         {
           "symbol": "KOTAKBANK",
           "sector": "Banking",
           "entry_date": "2026-11-20",
           "entry_price": 513.21,
-          "price_now": 512.7,
-          "gain_pct": -0.1,
-          "value": 167652.9,
-          "days_held": 0
+          "price_now": 503.6,
+          "gain_pct": -1.87,
+          "value": 164677.2,
+          "days_held": 3
         },
         {
           "symbol": "MCX",
           "sector": "Market Infra",
           "entry_date": "2026-11-11",
           "entry_price": 3624.62,
-          "price_now": 3521.4,
-          "gain_pct": -2.85,
-          "value": 246498.0,
-          "days_held": 9
+          "price_now": 3563.7,
+          "gain_pct": -1.68,
+          "value": 249459.0,
+          "days_held": 12
         },
         {
           "symbol": "MOTILALOFS",
           "sector": "Market Infra",
           "entry_date": "2026-11-11",
           "entry_price": 1168.27,
-          "price_now": 1200.0,
-          "gain_pct": 2.72,
-          "value": 224400.0,
-          "days_held": 9
+          "price_now": 1242.0,
+          "gain_pct": 6.31,
+          "value": 232254.0,
+          "days_held": 12
         },
         {
           "symbol": "NAZARA",
           "sector": "Media",
           "entry_date": "2026-11-11",
           "entry_price": 416.12,
-          "price_now": 414.85,
-          "gain_pct": -0.31,
-          "value": 297447.45,
-          "days_held": 9
+          "price_now": 411.6,
+          "gain_pct": -1.09,
+          "value": 295117.2,
+          "days_held": 12
         },
         {
           "symbol": "ORIENTHOT",
           "sector": "Hospitality",
           "entry_date": "2026-11-20",
           "entry_price": 179.36,
-          "price_now": 179.18,
-          "gain_pct": -0.1,
-          "value": 157320.04,
-          "days_held": 0
+          "price_now": 180.33,
+          "gain_pct": 0.54,
+          "value": 158329.74,
+          "days_held": 3
         },
         {
           "symbol": "THELEELA",
           "sector": "Hospitality",
           "entry_date": "2026-11-20",
           "entry_price": 700.35,
-          "price_now": 699.65,
-          "gain_pct": -0.1,
-          "value": 134332.8,
-          "days_held": 0
+          "price_now": 684.65,
+          "gain_pct": -2.24,
+          "value": 131452.8,
+          "days_held": 3
         }
       ],
       "differences": [
@@ -2006,59 +1898,108 @@
           "sector": "Financials",
           "bought_by": "Swing only",
           "other_book": "unsized: below_min_size"
+        },
+        {
+          "date": "2026-11-20",
+          "symbol": "FEDERALBNK",
+          "sector": "Banking",
+          "bought_by": "sector-strength book only",
+          "other_book": "unsized: below_min_size"
+        },
+        {
+          "date": "2026-11-20",
+          "symbol": "HINDOILEXP",
+          "sector": NaN,
+          "bought_by": "Swing only",
+          "other_book": "no free slot"
+        },
+        {
+          "date": "2026-11-20",
+          "symbol": "ICIL",
+          "sector": "Textiles",
+          "bought_by": "Swing only",
+          "other_book": "no free slot"
+        },
+        {
+          "date": "2026-11-20",
+          "symbol": "KOTAKBANK",
+          "sector": "Banking",
+          "bought_by": "sector-strength book only",
+          "other_book": "unsized: below_min_size"
+        },
+        {
+          "date": "2026-11-20",
+          "symbol": "NEOGEN",
+          "sector": "Chemicals",
+          "bought_by": "Swing only",
+          "other_book": "no free slot"
+        },
+        {
+          "date": "2026-11-20",
+          "symbol": "ORIENTHOT",
+          "sector": "Hospitality",
+          "bought_by": "sector-strength book only",
+          "other_book": "unsized: below_min_size"
+        },
+        {
+          "date": "2026-11-20",
+          "symbol": "THELEELA",
+          "sector": "Hospitality",
+          "bought_by": "sector-strength book only",
+          "other_book": "unsized: below_min_size"
         }
       ]
     },
     "small_strong": {
       "name": "Swing + Small-strong",
       "go_live": "2026-11-12",
-      "as_of": "2026-11-20",
+      "as_of": "2026-11-23",
       "research_note": "On past data this mix made about 20-25% a year with a worst fall of about 10-15% (Dec 2020 to Sep 2026). Past data, already seen; not a promise. The basket alone can fall much further.",
       "note": "Paper book, no real orders. Reported before tax, like the other shadow books. No verdict before the first judging point (24 months, or 3 month-end gate-off spells, whichever is later).",
       "basket": {
-        "value": 655911.26,
-        "return_pct": -2.83,
-        "worst_fall_pct": -2.83,
-        "fall_from_peak_pct": -2.83,
-        "month_pct": -2.83,
+        "value": 651156.62,
+        "return_pct": -3.53,
+        "worst_fall_pct": -3.53,
+        "fall_from_peak_pct": -3.53,
+        "month_pct": -3.53,
         "pct_invested": 100.0,
         "names": 25,
         "cash": 0.0
       },
       "mix_50_50": {
-        "value": 1314349.04,
-        "return_pct": -2.64,
-        "worst_fall_pct": -2.64,
-        "fall_from_peak_pct": -2.64,
-        "month_pct": -2.64,
-        "basket_half_share_pct": 49.9,
+        "value": 1307792.42,
+        "return_pct": -3.13,
+        "worst_fall_pct": -3.13,
+        "fall_from_peak_pct": -3.13,
+        "month_pct": -3.13,
+        "basket_half_share_pct": 49.8,
         "basket_half_invested_pct": 100.0,
-        "day_change_inr": -9368.23,
-        "basket_half_inr": 655911.26,
-        "swing_half_inr": 658437.79,
-        "swing_half_scale": 0.4868207069,
-        "scale_date": "2026-11-20"
+        "day_change_inr": -4536.12,
+        "basket_half_inr": 651156.62,
+        "swing_half_inr": 656635.79,
+        "swing_half_scale": 0.4868207004,
+        "scale_date": "2026-11-23"
       },
       "mix_70_30": {
-        "value": 1315359.65,
-        "return_pct": -2.57,
-        "worst_fall_pct": -2.57,
-        "fall_from_peak_pct": -2.57,
-        "month_pct": -2.57,
-        "basket_half_share_pct": 29.9,
+        "value": 1309984.09,
+        "return_pct": -2.96,
+        "worst_fall_pct": -2.96,
+        "fall_from_peak_pct": -2.96,
+        "month_pct": -2.96,
+        "basket_half_share_pct": 29.8,
         "basket_half_invested_pct": 100.0,
-        "day_change_inr": -6009.98,
-        "basket_half_inr": 393546.75,
-        "swing_half_inr": 921812.9,
-        "swing_half_scale": 0.6815489852,
-        "scale_date": "2026-11-20"
+        "day_change_inr": -4163.26,
+        "basket_half_inr": 390693.97,
+        "swing_half_inr": 919290.11,
+        "swing_half_scale": 0.6815489835,
+        "scale_date": "2026-11-23"
       },
       "swing_rebased": {
-        "value": 1316875.57,
-        "return_pct": -2.45,
-        "worst_fall_pct": -2.54,
-        "fall_from_peak_pct": -2.45,
-        "month_pct": -2.45
+        "value": 1313271.59,
+        "return_pct": -2.72,
+        "worst_fall_pct": -2.72,
+        "fall_from_peak_pct": -2.72,
+        "month_pct": -2.72
       },
       "holdings": [
         {
@@ -2066,384 +2007,384 @@
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 509.2,
-          "price_now": 483.3,
-          "gain_pct": -5.09,
-          "value": 25570.7,
-          "pct_of_half": 3.9,
-          "days_held": 7,
+          "price_now": 483.15,
+          "gain_pct": -5.12,
+          "value": 25562.76,
+          "pct_of_half": 3.93,
+          "days_held": 10,
           "shares": 52.9085,
           "cost_inr": 27000.0,
-          "pnl_inr": -1370.33,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -1378.27,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "ALGOQUANT",
           "sector": "Market Infra",
           "entry_date": "2026-11-13",
           "entry_price": 84,
-          "price_now": 84.24,
-          "gain_pct": 0.29,
-          "value": 26991.04,
+          "price_now": 83.79,
+          "gain_pct": -0.25,
+          "value": 26846.86,
           "pct_of_half": 4.12,
-          "days_held": 7,
+          "days_held": 10,
           "shares": 320.4065,
           "cost_inr": 27000.0,
-          "pnl_inr": 76.9,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -67.29,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "DELTACORP",
           "sector": "Hospitality",
           "entry_date": "2026-11-13",
           "entry_price": 83.7,
-          "price_now": 76.77,
-          "gain_pct": -8.28,
-          "value": 24710.43,
-          "pct_of_half": 3.77,
-          "days_held": 7,
+          "price_now": 74.28,
+          "gain_pct": -11.25,
+          "value": 23908.96,
+          "pct_of_half": 3.67,
+          "days_held": 10,
           "shares": 321.8761,
           "cost_inr": 27000.0,
-          "pnl_inr": -2230.6,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -3032.07,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "FILATEX",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 101.35,
-          "price_now": 110.59,
-          "gain_pct": 9.12,
-          "value": 29367.88,
-          "pct_of_half": 4.48,
-          "days_held": 7,
+          "price_now": 107.41,
+          "gain_pct": 5.98,
+          "value": 28523.42,
+          "pct_of_half": 4.38,
+          "days_held": 10,
           "shares": 265.5564,
           "cost_inr": 27000.0,
-          "pnl_inr": 2453.74,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": 1609.27,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "GUFICBIO",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 487,
-          "price_now": 418.35,
-          "gain_pct": -14.1,
-          "value": 23120.19,
-          "pct_of_half": 3.52,
-          "days_held": 7,
+          "price_now": 416.95,
+          "gain_pct": -14.38,
+          "value": 23042.82,
+          "pct_of_half": 3.54,
+          "days_held": 10,
           "shares": 55.2652,
           "cost_inr": 27000.0,
-          "pnl_inr": -3793.95,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -3871.33,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "IOLCP",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 206.31,
-          "price_now": 184.9,
-          "gain_pct": -10.38,
-          "value": 24145.2,
-          "pct_of_half": 3.68,
-          "days_held": 7,
+          "price_now": 178.69,
+          "gain_pct": -13.39,
+          "value": 23334.27,
+          "pct_of_half": 3.58,
+          "days_held": 10,
           "shares": 130.5852,
           "cost_inr": 27000.0,
-          "pnl_inr": -2795.83,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -3606.76,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "KDDL",
           "sector": "Jewellery",
           "entry_date": "2026-11-13",
           "entry_price": 4282,
-          "price_now": 4638.5,
-          "gain_pct": 8.33,
-          "value": 29154.89,
+          "price_now": 4600.0,
+          "gain_pct": 7.43,
+          "value": 28912.91,
           "pct_of_half": 4.44,
-          "days_held": 7,
+          "days_held": 10,
           "shares": 6.2854,
           "cost_inr": 27000.0,
-          "pnl_inr": 2240.75,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": 1998.76,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "KMEW",
           "sector": "Logistics",
           "entry_date": "2026-11-13",
           "entry_price": 714.9,
-          "price_now": 707.2,
-          "gain_pct": -1.08,
-          "value": 26650.86,
-          "pct_of_half": 4.06,
-          "days_held": 7,
+          "price_now": 708.0,
+          "gain_pct": -0.97,
+          "value": 26681.0,
+          "pct_of_half": 4.1,
+          "days_held": 10,
           "shares": 37.685,
           "cost_inr": 27000.0,
-          "pnl_inr": -290.17,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -260.03,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "KPL",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 3960,
-          "price_now": 4140.0,
-          "gain_pct": 4.55,
-          "value": 28137.51,
-          "pct_of_half": 4.29,
-          "days_held": 7,
+          "price_now": 4166.7,
+          "gain_pct": 5.22,
+          "value": 28318.98,
+          "pct_of_half": 4.35,
+          "days_held": 10,
           "shares": 6.7965,
           "cost_inr": 27000.0,
-          "pnl_inr": 1223.37,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": 1404.84,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "MONARCH",
           "sector": "Market Infra",
           "entry_date": "2026-11-13",
           "entry_price": 349.9,
-          "price_now": 340.1,
-          "gain_pct": -2.8,
-          "value": 26121.23,
-          "pct_of_half": 3.98,
-          "days_held": 7,
+          "price_now": 336.45,
+          "gain_pct": -3.84,
+          "value": 25840.89,
+          "pct_of_half": 3.97,
+          "days_held": 10,
           "shares": 76.8046,
           "cost_inr": 27000.0,
-          "pnl_inr": -752.68,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -1033.02,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "NITINSPIN",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 676,
-          "price_now": 716.4,
-          "gain_pct": 5.98,
-          "value": 28522.62,
-          "pct_of_half": 4.35,
-          "days_held": 7,
+          "price_now": 697.8,
+          "gain_pct": 3.22,
+          "value": 27782.08,
+          "pct_of_half": 4.27,
+          "days_held": 10,
           "shares": 39.8138,
           "cost_inr": 27000.0,
-          "pnl_inr": 1608.48,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": 867.94,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "ORIENTHOT",
           "sector": "Hospitality",
           "entry_date": "2026-11-13",
           "entry_price": 173.9,
-          "price_now": 179.18,
-          "gain_pct": 3.04,
-          "value": 27731.32,
-          "pct_of_half": 4.23,
-          "days_held": 7,
+          "price_now": 180.33,
+          "gain_pct": 3.7,
+          "value": 27909.3,
+          "pct_of_half": 4.29,
+          "days_held": 10,
           "shares": 154.7679,
           "cost_inr": 27000.0,
-          "pnl_inr": 817.17,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": 995.16,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "PARAGMILK",
           "sector": "FMCG",
           "entry_date": "2026-11-13",
           "entry_price": 326.4,
-          "price_now": 337.49,
-          "gain_pct": 3.4,
-          "value": 27856.4,
-          "pct_of_half": 4.25,
-          "days_held": 7,
+          "price_now": 341.0,
+          "gain_pct": 4.47,
+          "value": 28146.11,
+          "pct_of_half": 4.32,
+          "days_held": 10,
           "shares": 82.5399,
           "cost_inr": 27000.0,
-          "pnl_inr": 915.37,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": 1205.08,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "PDSL",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 416.9,
-          "price_now": 405.25,
-          "gain_pct": -2.79,
-          "value": 26188.18,
-          "pct_of_half": 3.99,
-          "days_held": 7,
+          "price_now": 416.15,
+          "gain_pct": -0.18,
+          "value": 26892.56,
+          "pct_of_half": 4.13,
+          "days_held": 10,
           "shares": 64.6223,
           "cost_inr": 27000.0,
-          "pnl_inr": -752.85,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -48.47,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "SANGAMIND",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 640.3,
-          "price_now": 674.7,
-          "gain_pct": 5.37,
-          "value": 28317.71,
-          "pct_of_half": 4.32,
-          "days_held": 7,
+          "price_now": 699.1,
+          "gain_pct": 9.18,
+          "value": 29341.8,
+          "pct_of_half": 4.51,
+          "days_held": 10,
           "shares": 41.9708,
           "cost_inr": 27000.0,
-          "pnl_inr": 1443.8,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": 2467.88,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "SBC",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 69.66,
-          "price_now": 68.9,
-          "gain_pct": -1.09,
-          "value": 26647.1,
-          "pct_of_half": 4.06,
-          "days_held": 7,
+          "price_now": 68.0,
+          "gain_pct": -2.38,
+          "value": 26299.03,
+          "pct_of_half": 4.04,
+          "days_held": 10,
           "shares": 386.7504,
           "cost_inr": 27000.0,
-          "pnl_inr": -293.93,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -642.01,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "SHRINGARMS",
           "sector": "Jewellery",
           "entry_date": "2026-11-13",
           "entry_price": 313.9,
-          "price_now": 237.5,
-          "gain_pct": -24.34,
-          "value": 20383.86,
-          "pct_of_half": 3.11,
-          "days_held": 7,
+          "price_now": 233.15,
+          "gain_pct": -25.72,
+          "value": 20010.52,
+          "pct_of_half": 3.07,
+          "days_held": 10,
           "shares": 85.8268,
           "cost_inr": 27000.0,
-          "pnl_inr": -6557.17,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -6930.51,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "SMSPHARMA",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 525.05,
-          "price_now": 474.65,
-          "gain_pct": -9.6,
-          "value": 24354.94,
-          "pct_of_half": 3.71,
-          "days_held": 7,
+          "price_now": 465.35,
+          "gain_pct": -11.37,
+          "value": 23877.74,
+          "pct_of_half": 3.67,
+          "days_held": 10,
           "shares": 51.3114,
           "cost_inr": 27000.0,
-          "pnl_inr": -2586.09,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -3063.29,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "SOLARA",
           "sector": "Pharma",
           "entry_date": "2026-11-13",
           "entry_price": 676.2,
-          "price_now": 626.35,
-          "gain_pct": -7.37,
-          "value": 24954.92,
-          "pct_of_half": 3.8,
-          "days_held": 7,
+          "price_now": 608.95,
+          "gain_pct": -9.95,
+          "value": 24261.67,
+          "pct_of_half": 3.73,
+          "days_held": 10,
           "shares": 39.8418,
           "cost_inr": 27000.0,
-          "pnl_inr": -1986.11,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -2679.36,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "SPORTKING",
           "sector": "Textiles",
           "entry_date": "2026-11-13",
           "entry_price": 208.95,
-          "price_now": 225.0,
-          "gain_pct": 7.68,
-          "value": 28981.49,
-          "pct_of_half": 4.42,
-          "days_held": 7,
+          "price_now": 234.87,
+          "gain_pct": 12.4,
+          "value": 30252.81,
+          "pct_of_half": 4.65,
+          "days_held": 10,
           "shares": 128.8066,
           "cost_inr": 27000.0,
-          "pnl_inr": 2067.35,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": 3338.67,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "TASTYBITE",
           "sector": "FMCG",
           "entry_date": "2026-11-13",
           "entry_price": 10801,
-          "price_now": 10408.0,
-          "gain_pct": -3.64,
-          "value": 25934.86,
-          "pct_of_half": 3.95,
-          "days_held": 7,
+          "price_now": 10005.0,
+          "gain_pct": -7.37,
+          "value": 24930.66,
+          "pct_of_half": 3.83,
+          "days_held": 10,
           "shares": 2.4918,
           "cost_inr": 27000.0,
-          "pnl_inr": -979.29,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -1983.49,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "TIMEX",
           "sector": "Jewellery",
           "entry_date": "2026-11-13",
           "entry_price": 743,
-          "price_now": 695.85,
-          "gain_pct": -6.35,
-          "value": 25231.38,
-          "pct_of_half": 3.85,
-          "days_held": 7,
+          "price_now": 708.05,
+          "gain_pct": -4.7,
+          "value": 25673.75,
+          "pct_of_half": 3.94,
+          "days_held": 10,
           "shares": 36.2598,
           "cost_inr": 27000.0,
-          "pnl_inr": -1709.65,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -1267.28,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "VENKEYS",
           "sector": "FMCG",
           "entry_date": "2026-11-13",
           "entry_price": 1605,
-          "price_now": 1451.0,
-          "gain_pct": -9.6,
-          "value": 24331.73,
-          "pct_of_half": 3.71,
-          "days_held": 7,
+          "price_now": 1378.5,
+          "gain_pct": -14.11,
+          "value": 23115.98,
+          "pct_of_half": 3.55,
+          "days_held": 10,
           "shares": 16.7689,
           "cost_inr": 27000.0,
-          "pnl_inr": -2582.42,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -3798.16,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "VINCOFE",
           "sector": "FMCG",
           "entry_date": "2026-11-13",
           "entry_price": 163.5,
-          "price_now": 150.55,
-          "gain_pct": -7.92,
-          "value": 24782.41,
-          "pct_of_half": 3.78,
-          "days_held": 7,
+          "price_now": 147.7,
+          "gain_pct": -9.66,
+          "value": 24313.27,
+          "pct_of_half": 3.73,
+          "days_held": 10,
           "shares": 164.6125,
           "cost_inr": 27000.0,
-          "pnl_inr": -2131.73,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": -2600.88,
+          "price_time_ist": "2026-11-23 14:43"
         },
         {
           "symbol": "VRLLOG",
           "sector": "Logistics",
           "entry_date": "2026-11-13",
           "entry_price": 331,
-          "price_now": 340.6,
-          "gain_pct": 2.9,
-          "value": 27722.4,
-          "pct_of_half": 4.23,
-          "days_held": 7,
+          "price_now": 336.35,
+          "gain_pct": 1.62,
+          "value": 27376.48,
+          "pct_of_half": 4.2,
+          "days_held": 10,
           "shares": 81.3928,
           "cost_inr": 27000.0,
-          "pnl_inr": 781.37,
-          "price_time_ist": "2026-11-20 14:43"
+          "pnl_inr": 435.45,
+          "price_time_ist": "2026-11-23 14:43"
         }
       ],
       "basket_totals": {
         "invested_at_cost_inr": 675000.0,
         "invested_at_entry_price_inr": 673095.39,
-        "value_inr": 655911.25,
-        "unrealised_inr": -19088.75,
-        "unrealised_pct": -2.83,
-        "price_gain_inr": -17184.5,
+        "value_inr": 651156.63,
+        "unrealised_inr": -23843.37,
+        "unrealised_pct": -3.53,
+        "price_gain_inr": -21939.17,
         "realised_inr": 0.0,
         "charges_paid_inr": 800.7,
         "cash_inr": 0.0
@@ -2485,12 +2426,12 @@
           "kept": [],
           "sold": [],
           "trimmed": [],
-          "basket_return_pct": -2.83,
+          "basket_return_pct": -3.53,
           "return_to": "latest run"
         }
       ],
       "closed_trades": [],
-      "marked_at_ist": "2026-11-20 14:43",
+      "marked_at_ist": "2026-11-23 14:43",
       "marking_note": "The basket is priced at the 2:40 pm run only (Kite quotes). The 3:46 pm run re-marks Swing's positions but not the basket: that would need 25 more Kite calls (inbox 034). The 2:40 pm values are the book's daily marks.",
       "last_month_end": {
         "date": "2026-11-12",
@@ -2539,11 +2480,11 @@
       "watch_lines": [],
       "watch_lines_detail": [],
       "swing_half": {
-        "date": "2026-11-20",
-        "priced_at_ist": "2026-11-20 14:43",
-        "scale": 0.4868207069,
-        "swing_value_inr": 1352526.26,
-        "half_value_inr": 658437.79,
+        "date": "2026-11-23",
+        "priced_at_ist": "2026-11-23 14:43",
+        "scale": 0.4868207004,
+        "swing_value_inr": 1348824.71,
+        "half_value_inr": 656635.79,
         "holdings": [
           {
             "symbol": "GCSL",
@@ -2552,26 +2493,26 @@
             "shares_in_half": 222.9639,
             "entry_date": "2026-11-17",
             "entry_price": 828.03,
-            "price_now": 847.25,
-            "pnl_inr": 4285.37,
-            "gain_pct": 2.32,
-            "value_inr": 188906.15,
-            "pct_of_mix": 14.37,
+            "price_now": 848.8,
+            "pnl_inr": 4630.96,
+            "gain_pct": 2.51,
+            "value_inr": 189251.74,
+            "pct_of_mix": 14.47,
             "phase": 1,
             "exit_rule": "stop Rs 786.63 (5.0% below entry)"
           },
           {
             "symbol": "HINDOILEXP",
-            "sector": "",
+            "sector": "Oil & Gas",
             "shares_in_swing": 353,
             "shares_in_half": 171.8477,
             "entry_date": "2026-11-20",
             "entry_price": 218.8,
-            "price_now": 218.58,
-            "pnl_inr": -37.81,
-            "gain_pct": -0.1,
-            "value_inr": 37562.47,
-            "pct_of_mix": 2.86,
+            "price_now": 221.62,
+            "pnl_inr": 484.61,
+            "gain_pct": 1.29,
+            "value_inr": 38084.89,
+            "pct_of_mix": 2.91,
             "phase": 1,
             "exit_rule": "stop Rs 193.70 (11.5% below entry)"
           },
@@ -2582,11 +2523,11 @@
             "shares_in_half": 108.561,
             "entry_date": "2026-11-20",
             "entry_price": 584.48,
-            "price_now": 583.9,
-            "pnl_inr": -62.97,
-            "gain_pct": -0.1,
-            "value_inr": 63388.78,
-            "pct_of_mix": 4.82,
+            "price_now": 593.2,
+            "pnl_inr": 946.65,
+            "gain_pct": 1.49,
+            "value_inr": 64398.39,
+            "pct_of_mix": 4.92,
             "phase": 1,
             "exit_rule": "stop Rs 521.76 (10.7% below entry)"
           },
@@ -2597,11 +2538,11 @@
             "shares_in_half": 23.8542,
             "entry_date": "2026-11-20",
             "entry_price": 2935.63,
-            "price_now": 2932.7,
-            "pnl_inr": -69.89,
-            "gain_pct": -0.1,
-            "value_inr": 69957.26,
-            "pct_of_mix": 5.32,
+            "price_now": 2823.5,
+            "pnl_inr": -2674.77,
+            "gain_pct": -3.82,
+            "value_inr": 67352.37,
+            "pct_of_mix": 5.15,
             "phase": 1,
             "exit_rule": "stop Rs 2,651.32 (9.7% below entry)"
           },
@@ -2612,11 +2553,11 @@
             "shares_in_half": 2166.3521,
             "entry_date": "2026-11-03",
             "entry_price": 67.29,
-            "price_now": 68.88,
-            "pnl_inr": 3444.5,
-            "gain_pct": 2.36,
-            "value_inr": 149218.34,
-            "pct_of_mix": 11.35,
+            "price_now": 67.89,
+            "pnl_inr": 1299.81,
+            "gain_pct": 0.89,
+            "value_inr": 147073.65,
+            "pct_of_mix": 11.25,
             "phase": 1,
             "exit_rule": "stop Rs 63.04 (6.3% below entry)"
           },
@@ -2624,14 +2565,14 @@
             "symbol": "TFCILTD",
             "sector": "NBFC",
             "shares_in_swing": 1582,
-            "shares_in_half": 770.1504,
+            "shares_in_half": 770.1503,
             "entry_date": "2026-11-03",
             "entry_price": 160.48,
-            "price_now": 171.52,
-            "pnl_inr": 8502.46,
-            "gain_pct": 6.88,
-            "value_inr": 132096.19,
-            "pct_of_mix": 10.05,
+            "price_now": 173.24,
+            "pnl_inr": 9827.12,
+            "gain_pct": 7.95,
+            "value_inr": 133420.85,
+            "pct_of_mix": 10.2,
             "phase": 1,
             "exit_rule": "stop Rs 148.54 (7.4% below entry)"
           }
@@ -2640,398 +2581,34 @@
           {
             "symbol": "GILT5YBEES",
             "units_in_half": 64.344,
-            "price": 66.21,
-            "value_inr": 4260.22,
-            "pnl_inr": 9.57,
-            "pct_of_mix": 0.32
-          },
-          {
-            "symbol": "MON100",
-            "units_in_half": 14.2894,
-            "price": 298.17,
-            "value_inr": 4260.66,
-            "pnl_inr": -61.28,
-            "pct_of_mix": 0.32
+            "price": 66.31,
+            "value_inr": 4266.65,
+            "pnl_inr": 16.0,
+            "pct_of_mix": 0.33
           }
         ],
-        "cash_inr": 8549.49,
-        "stocks_inr": 641129.19,
-        "sleeve_inr": 8520.88,
-        "rows_total_inr": 658199.56,
-        "gap_inr": 238.23,
+        "cash_inr": 12774.07,
+        "stocks_inr": 639581.89,
+        "sleeve_inr": 4266.65,
+        "rows_total_inr": 656622.61,
+        "gap_inr": 13.18,
         "note": "The paper mix holds Swing scaled to its half (fractional shares, as in the research engine). Stocks are at the 2:40 pm run's prices; the sleeve and cash are as that run leaves them, after its sleeve rebalance, so the rows can differ from the half's value by that rebalance's costs. Swing's results before 12 Nov are not part of this mix; it starts from Swing's value on 12 Nov."
       }
     }
   },
   "marks_basis": {
-    "decided_on": "2026-11-20",
+    "decided_on": "2026-11-23",
     "v3_scale": 0.5,
-    "etf_half_actual": 704724.6127719012,
-    "etf_sim_value": 704505.1725740423,
+    "etf_half_actual": 702714.5425694439,
+    "etf_sim_value": 702495.7282759383,
     "etf_sim_cash": 0.0,
     "etf_holdings_units": {
       "ETF": 2999.1705941849395
     },
     "book_c_v3_scale": 0.3,
-    "book_c_etf_actual": 986614.4578806615,
-    "book_d_etf_actual": 1409449.2255438024,
+    "book_c_etf_actual": 983800.3595972214,
+    "book_d_etf_actual": 1405429.0851388879,
     "buy_hold_base_price": 231.67,
-    "swing_cash": 17561.88
-  },
-  "morning": {
-    "marked_at_ist": "2026-11-23 10:41",
-    "decisions_from": "2026-11-20",
-    "swing": 1352293.33,
-    "swing_return_pct": 0.17,
-    "blend": 1378201.18,
-    "blend_return_pct": 2.09,
-    "book_c": 1388564.33,
-    "book_c_return_pct": 2.86,
-    "book_d": 1404109.04,
-    "book_d_return_pct": 4.01,
-    "buy_hold": 1363635.78,
-    "buy_hold_return_pct": 1.01,
-    "live_return_pct": -6.98,
-    "positions": [
-      {
-        "symbol": "GCSL",
-        "shares": 458,
-        "entry_price": 828.03,
-        "price_now": 847.7,
-        "price_is_today": true,
-        "unrealised_pct": 2.38
-      },
-      {
-        "symbol": "HINDOILEXP",
-        "shares": 353,
-        "entry_price": 218.8,
-        "price_now": 221.44,
-        "price_is_today": true,
-        "unrealised_pct": 1.21
-      },
-      {
-        "symbol": "ICIL",
-        "shares": 223,
-        "entry_price": 584.48,
-        "price_now": 586.35,
-        "price_is_today": true,
-        "unrealised_pct": 0.32
-      },
-      {
-        "symbol": "NEOGEN",
-        "shares": 49,
-        "entry_price": 2935.63,
-        "price_now": 2870.9,
-        "price_is_today": true,
-        "unrealised_pct": -2.2
-      },
-      {
-        "symbol": "SBC",
-        "shares": 4450,
-        "entry_price": 67.29,
-        "price_now": 68.75,
-        "price_is_today": true,
-        "unrealised_pct": 2.17
-      },
-      {
-        "symbol": "TFCILTD",
-        "shares": 1582,
-        "entry_price": 160.48,
-        "price_now": 172.9,
-        "price_is_today": true,
-        "unrealised_pct": 7.74
-      }
-    ],
-    "gate_confirmation": null,
-    "note": "Marked at the morning price; no decision is made at this run."
-  },
-  "signal_drift": {
-    "days": 25,
-    "first_day": "2026-10-15",
-    "last_day": "2026-11-20",
-    "decide_signals": 1505,
-    "kept": 1331,
-    "dropped_by_close": 174,
-    "added_by_close": 242,
-    "dropped_pct_of_decide": 11.6,
-    "added_pct_of_close": 15.4,
-    "bought": 9,
-    "bought_but_dropped_by_close": {
-      "buys": 0,
-      "completed_20d": 0,
-      "average_20d_return_pct": null,
-      "average_return_to_date_pct": null,
-      "symbols": []
-    },
-    "bought_and_kept": {
-      "buys": 9,
-      "completed_20d": 0,
-      "average_20d_return_pct": null,
-      "average_return_to_date_pct": 0.18,
-      "symbols": [
-        "SBC (2026-11-03)",
-        "SMSPHARMA (2026-11-03)",
-        "SSWL (2026-11-03)",
-        "TFCILTD (2026-11-03)",
-        "WHEELS (2026-11-03)",
-        "GCSL (2026-11-17)",
-        "HINDOILEXP (2026-11-20)",
-        "ICIL (2026-11-20)",
-        "NEOGEN (2026-11-20)"
-      ]
-    },
-    "per_day": [
-      {
-        "date": "2026-10-15",
-        "decide": 29,
-        "close": 28,
-        "kept": 22,
-        "dropped": 7,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-16",
-        "decide": 78,
-        "close": 78,
-        "kept": 69,
-        "dropped": 9,
-        "added": 9,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-19",
-        "decide": 32,
-        "close": 28,
-        "kept": 25,
-        "dropped": 7,
-        "added": 3,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-21",
-        "decide": 5,
-        "close": 7,
-        "kept": 4,
-        "dropped": 1,
-        "added": 3,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-22",
-        "decide": 16,
-        "close": 19,
-        "kept": 15,
-        "dropped": 1,
-        "added": 4,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-23",
-        "decide": 7,
-        "close": 8,
-        "kept": 7,
-        "dropped": 0,
-        "added": 1,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-26",
-        "decide": 27,
-        "close": 29,
-        "kept": 23,
-        "dropped": 4,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-27",
-        "decide": 54,
-        "close": 62,
-        "kept": 50,
-        "dropped": 4,
-        "added": 12,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-28",
-        "decide": 47,
-        "close": 51,
-        "kept": 41,
-        "dropped": 6,
-        "added": 10,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-29",
-        "decide": 50,
-        "close": 46,
-        "kept": 40,
-        "dropped": 10,
-        "added": 6,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-10-30",
-        "decide": 21,
-        "close": 26,
-        "kept": 18,
-        "dropped": 3,
-        "added": 8,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-02",
-        "decide": 59,
-        "close": 61,
-        "kept": 52,
-        "dropped": 7,
-        "added": 9,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-03",
-        "decide": 62,
-        "close": 67,
-        "kept": 56,
-        "dropped": 6,
-        "added": 11,
-        "bought": 5,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-04",
-        "decide": 101,
-        "close": 113,
-        "kept": 99,
-        "dropped": 2,
-        "added": 14,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-05",
-        "decide": 68,
-        "close": 68,
-        "kept": 56,
-        "dropped": 12,
-        "added": 12,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-06",
-        "decide": 50,
-        "close": 58,
-        "kept": 45,
-        "dropped": 5,
-        "added": 13,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-09",
-        "decide": 78,
-        "close": 82,
-        "kept": 68,
-        "dropped": 10,
-        "added": 14,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-11",
-        "decide": 115,
-        "close": 116,
-        "kept": 106,
-        "dropped": 9,
-        "added": 10,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-12",
-        "decide": 110,
-        "close": 120,
-        "kept": 104,
-        "dropped": 6,
-        "added": 16,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-13",
-        "decide": 81,
-        "close": 93,
-        "kept": 74,
-        "dropped": 7,
-        "added": 19,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-16",
-        "decide": 63,
-        "close": 72,
-        "kept": 54,
-        "dropped": 9,
-        "added": 18,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-17",
-        "decide": 104,
-        "close": 93,
-        "kept": 86,
-        "dropped": 18,
-        "added": 7,
-        "bought": 1,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-18",
-        "decide": 60,
-        "close": 60,
-        "kept": 52,
-        "dropped": 8,
-        "added": 8,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-19",
-        "decide": 114,
-        "close": 113,
-        "kept": 100,
-        "dropped": 14,
-        "added": 13,
-        "bought": 0,
-        "bought_dropped": 0
-      },
-      {
-        "date": "2026-11-20",
-        "decide": 74,
-        "close": 75,
-        "kept": 65,
-        "dropped": 9,
-        "added": 10,
-        "bought": 3,
-        "bought_dropped": 0
-      }
-    ],
-    "note": "Close list = the live VCP clause re-run at the next 10:40 update on the decide day's settled bars. Market cap and quarterly profit in the clause are read as of the re-run. Records only \u2014 the close list changes no decision."
+    "swing_cash": 26239.79
   }
 }

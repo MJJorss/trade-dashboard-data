@@ -228,6 +228,25 @@
       "r_multiple": null,
       "exit_reason": "Sleeve rebalance trim",
       "month": "2026-11"
+    },
+    {
+      "symbol": "MON100",
+      "scanner": "Defensive Sleeve",
+      "book": "sleeve",
+      "rs_tier": null,
+      "sector": null,
+      "entry_price": 302.4,
+      "exit_price": 294.41,
+      "entry_date": "2026-11-19",
+      "exit_date": "2026-11-23",
+      "hold_days": 4,
+      "shares": 29.3524,
+      "pnl_pct": -2.87,
+      "pnl_inr": -254.8,
+      "costs_inr": 18.41,
+      "r_multiple": null,
+      "exit_reason": "Below 200-DMA",
+      "month": "2026-11"
     }
   ]
 }
