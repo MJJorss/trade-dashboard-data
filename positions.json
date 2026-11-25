@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 356.4,
-      "unrealised_pct": 4.32
+      "current_price": 359.45,
+      "unrealised_pct": 5.21
     },
     {
       "symbol": "THELEELA",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 688.1,
-      "unrealised_pct": -0.56
+      "current_price": 686.65,
+      "unrealised_pct": -0.77
     },
     {
       "symbol": "CUPID",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 365.75,
-      "unrealised_pct": -0.58
+      "current_price": 367.7,
+      "unrealised_pct": -0.05
     },
     {
       "symbol": "NELCAST",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 149.87,
-      "unrealised_pct": 3.77
+      "current_price": 146.3,
+      "unrealised_pct": 1.3
     },
     {
       "symbol": "GCSL",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 855.15,
-      "unrealised_pct": 1.17
+      "current_price": 852.3,
+      "unrealised_pct": 0.83
     },
     {
       "symbol": "SBC",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 68.34,
-      "unrealised_pct": -0.45
+      "current_price": 68.2,
+      "unrealised_pct": -0.66
     },
     {
       "symbol": "ATHERENERG",
@@ -200,11 +200,11 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1931.0,
-      "unrealised_pct": -1.09
+      "current_price": 1910.5,
+      "unrealised_pct": -2.14
     }
   ],
-  "last_updated": "2026-11-25 09:27 IST",
+  "last_updated": "2026-11-25 11:25 IST",
   "closed_today_map": {
     "2026-11-25": []
   }
