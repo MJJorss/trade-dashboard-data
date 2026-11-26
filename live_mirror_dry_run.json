@@ -766,5 +766,394 @@
     "symbol": "ZYDUSLIFE"
    }
   ]
+ },
+ "2026-11-26": {
+  "buys": [],
+  "gate_liquidates": false,
+  "live_open_before": [
+   "ATHERENERG",
+   "CUPID",
+   "GCSL",
+   "NELCAST",
+   "NYKAA",
+   "SBC",
+   "THELEELA"
+  ],
+  "mode": "dry_locked_v3",
+  "pending": false,
+  "scale": 0.955614921116893,
+  "sells": [],
+  "skips": [
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "AARTIDRUGS"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ABDL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ACE"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ACUTAAS"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "AETHER"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "AGARWALEYE"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ANANDRATHI"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ANTHEM"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ATHERENERG"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "BAJAJHLDNG"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "BALUFORGE"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "CEMPRO"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "CPPLUS"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "CUPID"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "DLF"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "DYNAMATECH"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "EMCURE"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ETHOSLTD"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "FINEORG"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "GABRIEL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "GAIL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "GCSL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "GLAND"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "GLAXO"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "GLENMARK"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "HEGAM"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ICIL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "INDOCO"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "INOXINDIA"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ISGEC"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "JSWINFRA"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "JYOTICNC"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "KAJARIACER"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "KDDL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "KPRMILL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "LALPATHLAB"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "LAURUSLABS"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "LICHSGFIN"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "LODHA"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "LTTS"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "MAXESTATES"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "MCX"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "METROPOLIS"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "NAVINFLUOR"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "NEOGEN"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "NEULANDLAB"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "NPST"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "NUVAMA"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "ORCHPHARMA"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "PETRONET"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "PHOENIXLTD"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "PTCIL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "RAYMONDREL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "RBLBANK"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "RKFORGE"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "RPEL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "RUBICON"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "SAILIFE"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "SAMBHV"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "SBC"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "SHAILY"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "SHREEJISPG"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "SHYAMMETL"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "SMARTWORKS"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "SMSPHARMA"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "STYLAMIND"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "TECHM"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "TFCILTD"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "THELEELA"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "TORNTPHARM"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "TVSSRICHAK"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "UNOMINDA"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "WOCKPHARMA"
+   },
+   {
+    "reason": "Market gate off",
+    "source": "shadow",
+    "symbol": "YATHARTH"
+   }
+  ]
  }
 }
