@@ -625,5 +625,27 @@
     "days_held": 7,
     "exit_reason": "Below 21 EMA — technical exit",
     "exit_date": "2026-11-20"
+  },
+  {
+    "symbol": "SSWL",
+    "entry_price": 496.9,
+    "exit_price": 484.45,
+    "capital_deployed": 93760.0,
+    "pnl_pct": -2.51,
+    "pnl_inr": -2353.0,
+    "days_held": 25,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-11-27"
+  },
+  {
+    "symbol": "NAZARA",
+    "entry_price": 401.4,
+    "exit_price": 377.8,
+    "capital_deployed": 93760.0,
+    "pnl_pct": -5.88,
+    "pnl_inr": -5513.0,
+    "days_held": 25,
+    "exit_reason": "Below 21 EMA — technical exit",
+    "exit_date": "2026-11-27"
   }
 ]
