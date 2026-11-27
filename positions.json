@@ -26,8 +26,8 @@
       "equity_curve_mult": 0.5,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 352.35,
-      "unrealised_pct": 3.13
+      "current_price": 354.5,
+      "unrealised_pct": 3.76
     },
     {
       "symbol": "THELEELA",
@@ -55,8 +55,8 @@
       "equity_curve_mult": 0.75,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 685.15,
-      "unrealised_pct": -0.99
+      "current_price": 688.5,
+      "unrealised_pct": -0.51
     },
     {
       "symbol": "CUPID",
@@ -84,8 +84,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 371.75,
-      "unrealised_pct": 1.05
+      "current_price": 373.8,
+      "unrealised_pct": 1.6
     },
     {
       "symbol": "NELCAST",
@@ -113,8 +113,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 144.0,
-      "unrealised_pct": -0.29
+      "current_price": 145.92,
+      "unrealised_pct": 1.04
     },
     {
       "symbol": "GCSL",
@@ -142,8 +142,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 847.15,
-      "unrealised_pct": 0.22
+      "current_price": 854.7,
+      "unrealised_pct": 1.11
     },
     {
       "symbol": "SBC",
@@ -171,8 +171,8 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 68.35,
-      "unrealised_pct": -0.44
+      "current_price": 68.18,
+      "unrealised_pct": -0.68
     },
     {
       "symbol": "ATHERENERG",
@@ -200,12 +200,12 @@
       "equity_curve_mult": 1.0,
       "drawdown_mult": 1.0,
       "price_source": "live",
-      "current_price": 1897.7,
-      "unrealised_pct": -2.8
+      "current_price": 1883.1,
+      "unrealised_pct": -3.54
     }
   ],
-  "last_updated": "2026-11-26 15:02 IST",
+  "last_updated": "2026-11-27 09:27 IST",
   "closed_today_map": {
-    "2026-11-26": []
+    "2026-11-27": []
   }
 }
